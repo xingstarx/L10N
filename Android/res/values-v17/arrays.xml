@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="pref_entries_audio_source">
+        <item>Mute</item>
+        <item>MIC</item>
+        <item>Internal</item>
+    </string-array>
+    <string-array name="pref_entries_video_source_engine">
+        <item>Null</item>
+        <item>Phantom</item>
+        <item>Memory</item>
+    </string-array>
+
+</resources>

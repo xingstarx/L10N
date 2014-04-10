@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="drawer_list">
+        <item>Daemon</item>
+        <item>Mirroring</item>
+        <item>Screencasts</item>
+        <item>Screenshots</item>
+        <item>Settings</item>
+        <item>Broadcast</item>
+    </string-array>
+    <string-array name="pref_entries_video_source_engine">
+        <item>Null</item>
+        <item>Memory</item>
+    </string-array>
+    <string-array name="pref_entries_video_encoding_engine">
+        <item>Hardware</item>
+        <item>Software</item>
+    </string-array>
+    <string-array name="pref_entries_video_orientation">
+        <item>Auto</item>
+        <item>Landscape</item>
+        <item>Portrait</item>
+    </string-array>
+    <string-array name="pref_entries_video_resolution">
+        <item>240P</item>
+        <item>320P</item>
+        <item>480P</item>
+        <item>640P</item>
+        <item>720P</item>
+        <item>1080P</item>
+    </string-array>
+    <string-array name="pref_entries_video_frame_rate">
+        <item>12 FPS</item>
+        <item>30 FPS</item>
+    </string-array>
+    <string-array name="pref_entries_video_bitrate">
+        <item>256 Kbps</item>
+        <item>512 Kbps</item>
+        <item>1 Mbps</item>
+        <item>2 Mbps</item>
+        <item>4 Mbps</item>
+        <item>8 Mbps</item>
+        <item>10 Mbps</item>
+        <item>16 Mbps</item>
+    </string-array>
+    <string-array name="pref_entries_audio_source">
+        <item>Mute</item>
+        <item>Mic</item>
+    </string-array>
+    <string-array name="pref_entries_audio_channels">
+        <item>Mono</item>
+        <item>Stereo</item>
+    </string-array>
+    <string-array name="pref_entries_audio_sample_rate">
+        <item>44100 Hz</item>
+        <item>48000 Hz</item>
+    </string-array>
+    <string-array name="pref_entries_audio_bitrate">
+        <item>24 Kbps</item>
+        <item>64 Kbps</item>
+        <item>128 Kbps</item>
+        <item>192 Kbps</item>
+    </string-array>
+
+</resources>
