@@ -30,10 +30,6 @@
         <item>720P</item>
         <item>1080P</item>
     </string-array>
-    <string-array name="pref_entries_video_frame_rate">
-        <item>12 FPS</item>
-        <item>30 FPS</item>
-    </string-array>
     <string-array name="pref_entries_video_bitrate">
         <item>256 Kbps</item>
         <item>512 Kbps</item>
@@ -47,20 +43,6 @@
     <string-array name="pref_entries_audio_source">
         <item>Mute</item>
         <item>Mic</item>
-    </string-array>
-    <string-array name="pref_entries_audio_channels">
-        <item>Mono</item>
-        <item>Stereo</item>
-    </string-array>
-    <string-array name="pref_entries_audio_sample_rate">
-        <item>44100 Hz</item>
-        <item>48000 Hz</item>
-    </string-array>
-    <string-array name="pref_entries_audio_bitrate">
-        <item>24 Kbps</item>
-        <item>64 Kbps</item>
-        <item>128 Kbps</item>
-        <item>192 Kbps</item>
     </string-array>
 
 </resources>

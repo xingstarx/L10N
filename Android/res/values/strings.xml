@@ -76,7 +76,7 @@
     <string name="pref_title_category_video">Video</string>
     <string name="pref_summary_category_video">Video resolution, bitrate, etc.</string>
     <string name="pref_title_category_audio">Audio</string>
-    <string name="pref_summary_category_audio">Audio sample rate, bitrate, etc.</string>
+    <string name="pref_summary_category_audio">Audio source, driver, etc.</string>
     <string name="pref_title_category_screenshot">Screenshot</string>
     <string name="pref_summary_category_screenshot">Standalone screenshot feature.</string>
     <string name="pref_title_category_misc">Misc</string>
@@ -85,16 +85,12 @@
     <string name="pref_title_video_encoding_engine">Encoding engine</string>
     <string name="pref_title_video_orientation">Orientation</string>
     <string name="pref_title_video_resolution">Resolution</string>
-    <string name="pref_title_video_frame_rate">Frame rate</string>
     <string name="pref_title_video_bitrate">Bitrate</string>
     <string name="pref_title_video_show_touches">Show touches</string>
     <string name="pref_summary_video_show_touches">Show visual feedback for touches</string>
     <string name="pref_title_video_swap_uv">Swap UV</string>
     <string name="pref_summary_video_swap_uv">Fix HW encoding inverted color</string>
     <string name="pref_title_audio_source">Audio source</string>
-    <string name="pref_title_audio_channels">Channels</string>
-    <string name="pref_title_audio_sample_rate">Sample rate</string>
-    <string name="pref_title_audio_bitrate">Bitrate</string>
     <string name="pref_title_audio_patch_driver">Patch audio driver</string>
     <string name="pref_summary_audio_patch_driver">DANGER! Patch if internal audio recording not work.</string>
     <string name="pref_title_audio_restore_driver">Restore audio driver</string>
