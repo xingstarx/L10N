@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="pref_entries_audio_source">
+        <item>静音</item>
+        <item>话筒</item>
+        <item>内部</item>
+    </string-array>
+    <string-array name="pref_entries_video_source_engine">
+        <item>空</item>
+        <item>幻像</item>
+        <item>内存</item>
+    </string-array>
+
+</resources>
