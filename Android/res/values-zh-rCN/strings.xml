@@ -6,10 +6,10 @@
     <string name="description_notification_record">开始或者停止录制</string>
     <string name="description_notification_quit">退出</string>
     <string name="description_toast_icon">Icon</string>
-    <string name="description_activity_screen_native_daemon_button">进程姬按钮</string>
+    <string name="description_activity_screen_native_daemon_button">进程按钮</string>
     <string name="description_activity_screen_mirroring_no_wifi">没有wifi图标</string>
     <string name="description_activity_screen_live_broadcast_button">直播按钮</string>
-    <string name="description_drawer_item_icon">菜单栏目图标/string>
+    <string name="description_drawer_item_icon">菜单栏目图标</string>
     <string name="description_drawer_toggle_open">打开菜单</string>
     <string name="description_drawer_toggle_close">关闭菜单</string>
     <string name="description_device_item_icon">设备图标</string>
@@ -19,11 +19,11 @@
     <string name="description_live">直播</string>
     <string name="description_video_offline">视频离线</string>
     <string name="menu_refresh">刷新</string>
-    <string name="activity_shou_http_loading">加载姬正在加载中&#8230;</string>
-    <string name="activity_screen_native_daemon_checking">正在检查进程姬&#8230;</string>
-    <string name="activity_screen_native_daemon_stopped">Native daemon not started yet.进程姬还未开始工作</string>
-    <string name="activity_screen_native_daemon_starting">Starting the native daemon&#8230;进程姬开始工作中</string>
-    <string name="activity_screen_native_daemon_started">Check status bar to record screen.下滑状态栏开始录制屏幕</string>
+    <string name="activity_shou_http_loading">正在加载中&#8230;</string>
+    <string name="activity_screen_native_daemon_checking">正在检查进程&#8230;</string>
+    <string name="activity_screen_native_daemon_stopped">进程还未开始工作</string>
+    <string name="activity_screen_native_daemon_starting">进程开始工作中&#8230;</string>
+    <string name="activity_screen_native_daemon_started">下滑状态栏开始录制屏幕</string>
     <string name="activity_screen_info_email">hello@shou.tv</string>
     <string name="activity_screen_info_http">https://shou.tv</string>
     <string name="activity_screen_info_copyright">A 0XA7 PRODUCT</string>
@@ -44,15 +44,15 @@
     <string name="progress_dialog_connecting_to_browser">连接到wifi网络&#8230;</string>
     <string name="toast_browser_screen_mirror_not_supported">找不到可用的wifi网络</string>
     <string name="progress_dialog_connecting_to_upnp">连接到 DLNA/UPnP 设备: %s</string>
-    <string name="toast_upnp_screen_mirror_not_supported">不能连接到DLNA/UPnP service, 或者该设备不支持屏幕镜像</string>
+    <string name="toast_upnp_screen_mirror_not_supported">不能连接到 DLNA/UPnP, 或者该设备不支持屏幕镜像</string>
     <string name="toast_worker_start_failed">无法开始录制!</string>
     <string name="toast_worker_stop_failed">无法停止录制!</string>
     <string name="toast_worker_error_occurred">内部报！错!</string>
     <string name="toast_screencast_saved">录制视频已保存 : %s</string>
     <string name="toast_screenshot_saved">截图已保存 saved: %s</string>
-    <string name="toast_screenshot_failed">泪奔...截图失败...</string>
-    <string name="toast_native_daemon_started">进程姬成功工作中！</string>
-    <string name="toast_native_daemon_failed">泪奔......进程姬不干活了... 戳它起床！</string>
+    <string name="toast_screenshot_failed">泪奔&#8230;截图失败&#8230;</string>
+    <string name="toast_native_daemon_started">进程成功工作中！</string>
+    <string name="toast_native_daemon_failed">泪奔......进程不干活了... 戳它起床！</string>
     <string name="toast_settings_reset">Now you have the default settings!</string>
     <string name="toast_settings_audio_source_internal_not_supported">您的设备不支持此功能.</string>
     <string name="toast_audio_driver_warning">此操作危险，后果自负！如果您的录制内部音频已支持则无需修复驱动补丁</string>
@@ -108,11 +108,12 @@
     <string name="pref_title_screenshot_sound">声音</string>
     <string name="pref_summary_screenshot_sound">播放录制声音</string>
     <string name="pref_title_misc_reset">重置</string>
-    <string name="pref_summary_misc_reset">重置为默认设置/string>
+    <string name="pref_summary_misc_reset">重置为默认设置</string>
     <string name="pref_title_misc_about">关于</string>
     <string name="pref_summary_misc_about">版本: %s</string>
     <string name="pref_title_misc_twitter">Twitter</string>
     <string name="pref_summary_misc_twitter">\@0XA7</string>
     <string name="pref_title_misc_google_plus">Google+</string>
     <string name="pref_summary_misc_google_plus">+ShouBe</string>
+
 </resources>
