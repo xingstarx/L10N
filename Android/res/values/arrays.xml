@@ -9,6 +9,14 @@
         <item>Settings</item>
         <item>Broadcast</item>
     </string-array>
+    <string-array name="pref_entries_video_output_format">
+        <item>MKV</item>
+        <item>MP4</item>
+        <item>MOV</item>
+        <item>MPEG-TS</item>
+        <item>FLV</item>
+        <item>AVI</item>
+    </string-array>
     <string-array name="pref_entries_video_source_engine">
         <item>Null</item>
         <item>Memory</item>
