@@ -30,7 +30,7 @@
     <string name="activity_screen_streaming_checking">Connexion au serveur de diffusion&#8230;</string>
     <string name="activity_screen_streaming_ready">Appuyer sur le bouton pour diffuser !</string>
     <string name="activity_screen_streaming_now">View at https://shou.tv/%s</string>
-    <string name="activity_screen_mirroring_no_wifi">Activer le Wifi pour la duplication\'écran</string>
+    <string name="activity_screen_mirroring_no_wifi">Activer le Wifi pour la duplication d\'écran</string>
     <string name="activity_screen_device_browser_name">Dupliquer vers navigateur</string>
     <string name="activity_video_player">Video</string>
     <string name="video_text">0:00</string>
