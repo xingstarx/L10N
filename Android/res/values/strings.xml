@@ -50,8 +50,6 @@
     <string name="toast_worker_stop_failed">The recorder cannot stop!</string>
     <string name="toast_worker_error_occurred">Internal error occurred!</string>
     <string name="toast_screencast_saved">Screencast saved: %s</string>
-    <string name="toast_screenshot_saved">Screenshot saved: %s</string>
-    <string name="toast_screenshot_failed">Oooops......Screenshot failed...</string>
     <string name="toast_native_daemon_started">The daemon started successfully!</string>
     <string name="toast_native_daemon_failed">Ooooops......The daemon failed to start! You may try again.</string>
     <string name="toast_settings_reset">Now you have the default settings!</string>
@@ -84,8 +82,6 @@
     <string name="pref_summary_category_video">Video resolution, bitrate, etc.</string>
     <string name="pref_title_category_audio">Audio</string>
     <string name="pref_summary_category_audio">Audio source, driver, etc.</string>
-    <string name="pref_title_category_screenshot">Screenshot</string>
-    <string name="pref_summary_category_screenshot">Standalone screenshot feature.</string>
     <string name="pref_title_category_misc">Misc</string>
     <string name="pref_summary_category_misc">About, reset, etc.</string>
     <string name="pref_title_video_output_format">Video format</string>
@@ -103,12 +99,6 @@
     <string name="pref_summary_audio_patch_driver">DANGER! Patch if internal audio recording not work.</string>
     <string name="pref_title_audio_restore_driver">Restore audio driver</string>
     <string name="pref_summary_audio_restore_driver">Restore the audio driver to stock.</string>
-    <string name="pref_title_screenshot_enable">Enable</string>
-    <string name="pref_summary_screenshot_enable">Shake to take screenshot</string>
-    <string name="pref_title_screenshot_vibrate">Vibrate</string>
-    <string name="pref_summary_screenshot_vibrate">Your device should have vibrator</string>
-    <string name="pref_title_screenshot_sound">Sound</string>
-    <string name="pref_summary_screenshot_sound">Play a capture sound</string>
     <string name="pref_title_misc_reset">Reset</string>
     <string name="pref_summary_misc_reset">Reset default settings</string>
     <string name="pref_title_misc_about">About</string>
