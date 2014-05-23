@@ -8,6 +8,7 @@
     <string name="description_toast_icon">Icon</string>
     <string name="description_activity_landing_logo">Shou.TV logo</string>
     <string name="description_activity_landing_background">Shou.TV background</string>
+    <string name="description_activity_account_field_glyph_bio">Biography glyph</string>
     <string name="description_activity_screen_native_daemon_button">Native daemon button</string>
     <string name="description_activity_screen_mirroring_no_wifi">No WiFi icon</string>
     <string name="description_activity_screen_live_broadcast_button">Broadcast button</string>
@@ -30,6 +31,7 @@
     <string name="activity_landing_brand_name">Shou your game screen\nTHE HOLY SPIRIT OF THE GAME</string>
     <string name="activity_landing_btn_sign_up">Sign Up</string>
     <string name="activity_landing_btn_sign_in">Sign In</string>
+    <string name="activity_account_title_edit_profile">Edit profile</string>
     <string name="activity_account_hint_email">email</string>
     <string name="activity_account_hint_username">username</string>
     <string name="activity_account_hint_password">password</string>
@@ -40,8 +42,11 @@
     <string name="activity_account_choose_avatar_failed">Failed to choose avatar</string>
     <string name="activity_account_btn_yes">Use</string>
     <string name="activity_account_btn_no">Cancel</string>
+    <string name="activity_account_btn_save_profile">Save</string>
     <string name="activity_account_text_profile">profile</string>
     <string name="activity_account_toast_invalid_email_or_password">Invalid email or password</string>
+    <string name="activity_account_toast_profile_update_success">Update profile successfully!</string>
+    <string name="activity_account_toast_profile_update_failed">Failed to update your profile</string>
     <string name="activity_account_toast_sign_up_failed">Failed to sign up with provided information</string>
     <string name="activity_account_toast_sign_in_required">Sign in to continue</string>
     <string name="activity_screen_native_daemon_stopped">Native daemon not started yet.</string>
