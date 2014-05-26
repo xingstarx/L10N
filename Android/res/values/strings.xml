@@ -51,6 +51,8 @@
     <string name="activity_account_toast_failed_to_sign_in_with_google_plus">Failed to sign in with Google Plus :(</string>
     <string name="activity_account_toast_sign_up_failed">Failed to sign up with provided information</string>
     <string name="activity_account_toast_sign_in_required">Sign in to continue</string>
+    <string name="activity_account_btn_loading">Loading</string>
+    <string name="activity_account_btn_success">Success</string>
     <string name="activity_screen_toast_update_required">You need to update the Shou app</string>
     <string name="activity_screen_native_daemon_stopped">Native daemon not started yet.</string>
     <string name="activity_screen_native_daemon_starting">Starting the native daemon&#8230;</string>
