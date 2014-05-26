@@ -31,6 +31,7 @@
     <string name="activity_landing_brand_name">Shou your game screen\nTHE HOLY SPIRIT OF THE GAME</string>
     <string name="activity_landing_btn_sign_up">Sign Up</string>
     <string name="activity_landing_btn_sign_in">Sign In</string>
+    <string name="activity_landing_google_plus_sign_in_progress">Sign in with Google Plus</string>
     <string name="activity_account_title_edit_profile">Edit profile</string>
     <string name="activity_account_hint_email">email</string>
     <string name="activity_account_hint_username">username</string>
@@ -47,6 +48,7 @@
     <string name="activity_account_toast_invalid_email_or_password">Invalid email or password</string>
     <string name="activity_account_toast_profile_update_success">Update profile successfully!</string>
     <string name="activity_account_toast_profile_update_failed">Failed to update your profile</string>
+    <string name="activity_account_toast_failed_to_sign_in_with_google_plus">Failed to sign in with Google Plus :(</string>
     <string name="activity_account_toast_sign_up_failed">Failed to sign up with provided information</string>
     <string name="activity_account_toast_sign_in_required">Sign in to continue</string>
     <string name="activity_screen_native_daemon_stopped">Native daemon not started yet.</string>
