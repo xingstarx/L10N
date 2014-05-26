@@ -51,6 +51,7 @@
     <string name="activity_account_toast_failed_to_sign_in_with_google_plus">Failed to sign in with Google Plus :(</string>
     <string name="activity_account_toast_sign_up_failed">Failed to sign up with provided information</string>
     <string name="activity_account_toast_sign_in_required">Sign in to continue</string>
+    <string name="activity_screen_toast_update_required">You need to update the Shou app</string>
     <string name="activity_screen_native_daemon_stopped">Native daemon not started yet.</string>
     <string name="activity_screen_native_daemon_starting">Starting the native daemon&#8230;</string>
     <string name="activity_screen_native_daemon_started">Check status bar to record screen.</string>
@@ -75,6 +76,9 @@
     <string name="progress_dialog_connecting_to_browser">Connecting to WiFi network&#8230;</string>
     <string name="toast_browser_screen_mirror_not_supported">Cannot find valid WiFi network</string>
     <string name="progress_dialog_connecting_to_upnp">Connecting to DLNA/UPnP device: %s</string>
+    <string name="toast_api_error_no_connection">No network connection</string>
+    <string name="toast_api_error_connection_timeout">Network connection timeout</string>
+    <string name="toast_api_error_server_5xx">Shou.TV server encounters errors</string>
     <string name="toast_upnp_screen_mirror_not_supported">Cannot connect to this DLNA/UPnP service, or the service does not support screen mirror.</string>
     <string name="toast_worker_start_failed">The recorder cannot start!</string>
     <string name="toast_worker_stop_failed">The recorder cannot stop!</string>
