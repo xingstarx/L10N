@@ -9,6 +9,7 @@
     <string name="description_activity_landing_logo">Shou.TV logo</string>
     <string name="description_activity_landing_background">Shou.TV background</string>
     <string name="description_activity_account_field_glyph_bio">Biography glyph</string>
+    <string name="description_activity_account_video_thumbnail">Video thumbnail</string>
     <string name="description_activity_screen_native_daemon_button">Native daemon button</string>
     <string name="description_activity_screen_mirroring_no_wifi">No WiFi icon</string>
     <string name="description_activity_screen_live_broadcast_button">Broadcast button</string>
@@ -25,6 +26,7 @@
     <string name="description_live">Live</string>
     <string name="description_video_offline">Video offline</string>
     <string name="menu_refresh">Refresh</string>
+    <string name="menu_edit">Edit</string>
     <string name="profile_text_videos">videos</string>
     <string name="profile_text_views">views</string>
     <string name="profile_text_followers">followers</string>
@@ -48,7 +50,10 @@
     <string name="activity_account_btn_save_profile">Save</string>
     <string name="activity_account_btn_saving_profile">Saving</string>
     <string name="activity_account_btn_saved_profile">Saved</string>
+    <string name="activity_account_btn_follow">+ FOLLOW</string>
+    <string name="activity_account_btn_following">FOLLOWING</string>
     <string name="activity_account_text_profile">profile</string>
+    <string name="activity_account_toast_follow_failed">Error when following</string>
     <string name="activity_account_toast_invalid_email_or_password">Invalid email or password</string>
     <string name="activity_account_toast_profile_update_success">Update profile successfully!</string>
     <string name="activity_account_toast_profile_update_failed">Failed to update your profile</string>
