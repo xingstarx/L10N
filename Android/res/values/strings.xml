@@ -27,9 +27,12 @@
     <string name="description_video_offline">Video offline</string>
     <string name="menu_refresh">Refresh</string>
     <string name="menu_edit">Edit</string>
+    <string name="menu_search">Search</string>
+    <string name="search_hint">Search people</string>
     <string name="profile_text_videos">videos</string>
     <string name="profile_text_views">views</string>
     <string name="profile_text_followers">followers</string>
+    <string name="profile_text_following">following</string>
     <string name="activity_landing_brand_name">Shou your game screen\nTHE HOLY SPIRIT OF THE GAME</string>
     <string name="activity_landing_btn_sign_up">Sign Up</string>
     <string name="activity_landing_btn_sign_in">Sign In</string>
