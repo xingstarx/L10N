@@ -53,7 +53,7 @@
     <string name="activity_account_btn_save_profile">Save</string>
     <string name="activity_account_btn_saving_profile">Saving</string>
     <string name="activity_account_btn_saved_profile">Saved</string>
-    <string name="activity_account_btn_follow">+ FOLLOW</string>
+    <string name="activity_account_btn_follow">FOLLOW</string>
     <string name="activity_account_btn_following">FOLLOWING</string>
     <string name="activity_account_text_profile">profile</string>
     <string name="activity_account_toast_follow_failed">Error when following</string>
