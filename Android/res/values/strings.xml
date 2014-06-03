@@ -148,6 +148,8 @@
     <string name="pref_summary_audio_patch_driver">DANGER! Patch if internal audio recording not work.</string>
     <string name="pref_title_audio_restore_driver">Restore audio driver</string>
     <string name="pref_summary_audio_restore_driver">Restore the audio driver to stock.</string>
+    <string name="pref_title_misc_auto_restart">Auto restart</string>
+    <string name="pref_summary_misc_auto_restart">Whether to restart broadcast or mirroring automatically after error occurred</string>
     <string name="pref_title_misc_reset">Reset</string>
     <string name="pref_summary_misc_reset">Reset default settings</string>
     <string name="pref_title_misc_about">About</string>
