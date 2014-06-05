@@ -108,6 +108,7 @@
     <string name="toast_audio_driver_patch_fail">Failed to patch audio driver!</string>
     <string name="toast_audio_driver_restore_success">Restored successfully!</string>
     <string name="toast_audio_driver_restore_fail">Failed to restore audio driver!</string>
+    <string name="toast_network_only_wifi">Failed to broadcast, only when on Wi-Fi now, change it on Settings.</string>
     <string name="ticker_recording_started">Screen recording started&#8230;</string>
     <string name="ticker_recording_stopped">Screen recording stopped&#8230;</string>
     <string name="ticker_airplay_started">Screen mirroring started&#8230;</string>
@@ -149,6 +150,7 @@
     <string name="pref_title_audio_restore_driver">Restore audio driver</string>
     <string name="pref_summary_audio_restore_driver">Restore the audio driver to stock.</string>
     <string name="pref_title_misc_auto_restart">Auto restart</string>
+    <string name="pref_title_misc_network_type">Broadcast network</string>
     <string name="pref_summary_misc_auto_restart">Whether to restart broadcast or mirroring automatically after error occurred</string>
     <string name="pref_title_misc_reset">Reset</string>
     <string name="pref_summary_misc_reset">Reset default settings</string>

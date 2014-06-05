@@ -50,5 +50,13 @@
         <item>Mute</item>
         <item>Mic</item>
     </string-array>
+    <string-array name="pref_entries_network_type">
+        <item>Only when on Wi-Fi</item>
+        <item>On any network</item>
+    </string-array>
+    <string-array name="pref_values_network_type">
+        <item>Wi-Fi</item>
+        <item>Any</item>
+    </string-array>
 
 </resources>
