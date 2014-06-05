@@ -132,6 +132,8 @@
     <string name="pref_summary_category_video">Video resolution, bitrate, etc.</string>
     <string name="pref_title_category_audio">Audio</string>
     <string name="pref_summary_category_audio">Audio source, driver, etc.</string>
+    <string name="pref_title_category_broadcast">Broadcast</string>
+    <string name="pref_summary_category_broadcast">Live streaming or mirroring</string>
     <string name="pref_title_category_misc">Misc</string>
     <string name="pref_summary_category_misc">About, reset, etc.</string>
     <string name="pref_title_video_output_format">Video format</string>
