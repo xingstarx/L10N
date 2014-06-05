@@ -11,7 +11,7 @@
     <string name="description_activity_account_field_glyph_bio">Biography glyph</string>
     <string name="description_activity_account_video_thumbnail">Video thumbnail</string>
     <string name="description_activity_screen_native_daemon_button">Native daemon button</string>
-    <string name="description_activity_screen_mirroring_no_wifi">No WiFi icon</string>
+    <string name="description_activity_screen_mirroring_no_wifi">No Wi-Fi icon</string>
     <string name="description_activity_screen_live_broadcast_button">Broadcast button</string>
     <string name="description_drawer_item_icon">Drawer item icon</string>
     <string name="description_drawer_toggle_open">Open drawer menus</string>
@@ -75,7 +75,7 @@
     <string name="activity_screen_streaming_checking">Connecting to streaming server&#8230;</string>
     <string name="activity_screen_streaming_ready">Press the button to broadcast !</string>
     <string name="activity_screen_streaming_now">View at https://shou.tv/%s</string>
-    <string name="activity_screen_mirroring_no_wifi">Enable WiFi to mirror screen</string>
+    <string name="activity_screen_mirroring_no_wifi">Enable Wi-Fi to mirror screen</string>
     <string name="activity_screen_device_browser_name">Mirror to browser</string>
     <string name="activity_screen_choose_email">Feedback with email</string>
     <string name="activity_video_player">Video</string>
@@ -88,8 +88,8 @@
     <string name="alert_dialog_audio_patch">Patch</string>
     <string name="progress_dialog_connecting_to_airplay">Connecting to AirPlay device: %s</string>
     <string name="toast_airplay_screen_mirror_not_supported">Cannot connect to this AirPlay service, or the service does not support screen mirror.</string>
-    <string name="progress_dialog_connecting_to_browser">Connecting to WiFi network&#8230;</string>
-    <string name="toast_browser_screen_mirror_not_supported">Cannot find valid WiFi network</string>
+    <string name="progress_dialog_connecting_to_browser">Connecting to Wi-Fi network&#8230;</string>
+    <string name="toast_browser_screen_mirror_not_supported">Cannot find valid Wi-Fi network</string>
     <string name="progress_dialog_connecting_to_upnp">Connecting to DLNA/UPnP device: %s</string>
     <string name="toast_api_error_no_connection">No network connection</string>
     <string name="toast_api_error_connection_timeout">Network connection timeout</string>
@@ -108,7 +108,7 @@
     <string name="toast_audio_driver_patch_fail">Failed to patch audio driver!</string>
     <string name="toast_audio_driver_restore_success">Restored successfully!</string>
     <string name="toast_audio_driver_restore_fail">Failed to restore audio driver!</string>
-    <string name="toast_network_only_wifi">Failed to broadcast, only when on Wi-Fi now, change it on Settings.</string>
+    <string name="toast_network_only_wifi">You have configured to broadcast over Wi-Fi only</string>
     <string name="ticker_recording_started">Screen recording started&#8230;</string>
     <string name="ticker_recording_stopped">Screen recording stopped&#8230;</string>
     <string name="ticker_airplay_started">Screen mirroring started&#8230;</string>
@@ -150,7 +150,7 @@
     <string name="pref_title_audio_restore_driver">Restore audio driver</string>
     <string name="pref_summary_audio_restore_driver">Restore the audio driver to stock.</string>
     <string name="pref_title_misc_auto_restart">Auto restart</string>
-    <string name="pref_title_misc_network_type">Broadcast network</string>
+    <string name="pref_title_misc_network_type">Broadcast over</string>
     <string name="pref_summary_misc_auto_restart">Whether to restart broadcast or mirroring automatically after error occurred</string>
     <string name="pref_title_misc_reset">Reset</string>
     <string name="pref_summary_misc_reset">Reset default settings</string>
