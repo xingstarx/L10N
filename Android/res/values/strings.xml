@@ -162,5 +162,24 @@
     <string name="pref_summary_misc_twitter">\@0XA7</string>
     <string name="pref_title_misc_google_plus">Google+</string>
     <string name="pref_summary_misc_google_plus">+ShouBe</string>
+    <string name="msg_description_send">Send</string>
+    <string name="msg_description_loading">Loading</string>
+    <string name="msg_hint_send_msg">Send a message</string>
+    <string name="msg_hint_send_disable">No login sending disabled</string>
+    <string name="msg_description_emoji">Emoji</string>
+    <string name="emoji_no_recent">No recent used emoji</string>
+    <string name="emoji_description_back_space">Back space</string>
+    <string name="emoji_description_cell">Cell</string>
+    <string name="time_ago_seconds">just now</string>
+    <string name="time_ago_minute">1 min</string>
+    <string name="time_ago_minutes">%d mins</string>
+    <string name="time_ago_hour">1 hour</string>
+    <string name="time_ago_hours">%d hours</string>
+    <string name="time_ago_day">1 day</string>
+    <string name="time_ago_days">%d days</string>
+    <string name="time_ago_month">1 month</string>
+    <string name="time_ago_months">%d months</string>
+    <string name="time_ago_year">1 year</string>
+    <string name="time_ago_years">%d years</string>
 
 </resources>
