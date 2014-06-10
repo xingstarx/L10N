@@ -33,6 +33,7 @@
     <string name="profile_text_views">views</string>
     <string name="profile_text_followers">followers</string>
     <string name="profile_text_following">following</string>
+    <string name="profile_text_live">Live</string>
     <string name="activity_landing_brand_name">Shou your game screen\nTHE HOLY SPIRIT OF THE GAME</string>
     <string name="activity_landing_btn_sign_up">Sign Up</string>
     <string name="activity_landing_btn_sign_in">Sign In</string>
@@ -80,7 +81,6 @@
     <string name="activity_screen_choose_email">Feedback with email</string>
     <string name="activity_video_player">Video</string>
     <string name="activity_no_videos">No videos to show</string>
-    <string name="activity_living">Live</string>
     <string name="video_text">0:00</string>
     <string name="alert_dialog_button_open">Open</string>
     <string name="alert_dialog_button_delete">Delete</string>
