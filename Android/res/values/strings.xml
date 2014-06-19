@@ -167,6 +167,8 @@
     <string name="pref_summary_misc_twitter">\@0XA7</string>
     <string name="pref_title_misc_google_plus">Google+</string>
     <string name="pref_summary_misc_google_plus">+ShouBe</string>
+    <string name="pref_title_misc_facebook">Facebook</string>
+    <string name="pref_summary_misc_facebook">Shou.TV</string>
     <string name="msg_description_send">Send</string>
     <string name="msg_description_loading">Loading</string>
     <string name="msg_hint_send_msg">Send a message</string>
