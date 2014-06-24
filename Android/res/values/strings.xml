@@ -171,6 +171,10 @@
     <string name="pref_summary_misc_google_plus">+ShouBe</string>
     <string name="pref_title_misc_facebook">Facebook</string>
     <string name="pref_summary_misc_facebook">Shou.TV</string>
+    <string name="pref_title_misc_open_source">Open source licenses</string>
+    <string name="pref_summary_misc_open_source">Legal information about licenses</string>
+    <string name="pref_title_misc_privacy_policy">Privacy policy</string>
+    <string name="pref_title_misc_terms_of_service">Terms of service</string>
     <string name="msg_description_send">Send</string>
     <string name="msg_description_loading">Loading</string>
     <string name="msg_hint_send_msg">Send a message</string>
