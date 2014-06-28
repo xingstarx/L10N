@@ -40,6 +40,7 @@
     <string name="activity_landing_btn_sign_up">Sign Up</string>
     <string name="activity_landing_btn_sign_in">Sign In</string>
     <string name="activity_landing_google_plus_sign_in_progress">Sign in with Google Plus</string>
+    <string name="activity_landing_facebook_sign_in_progress">Sign in with Facebook</string>
     <string name="activity_account_title_edit_profile">Edit profile</string>
     <string name="activity_account_hint_email">email</string>
     <string name="activity_account_hint_username">username</string>
@@ -64,6 +65,7 @@
     <string name="activity_account_toast_profile_update_success">Update profile successfully!</string>
     <string name="activity_account_toast_profile_update_failed">Failed to update your profile</string>
     <string name="activity_account_toast_failed_to_sign_in_with_google_plus">Failed to sign in with Google Plus :(</string>
+    <string name="activity_account_toast_failed_to_sign_in_with_facebook">Failed to sign in with Facebook :(</string>
     <string name="activity_account_toast_sign_up_failed">Failed to sign up with provided information</string>
     <string name="activity_account_toast_sign_in_required">Sign in to continue</string>
     <string name="activity_image_cropper_btn_use">Use</string>
@@ -194,5 +196,6 @@
     <string name="time_ago_months">%d months</string>
     <string name="time_ago_year">1 year</string>
     <string name="time_ago_years">%d years</string>
+    <string name="app_id">717336281662484</string>
 
 </resources>
