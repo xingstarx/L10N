@@ -8,6 +8,7 @@
     <string name="description_toast_icon">Icon</string>
     <string name="description_activity_landing_logo">Shou.TV logo</string>
     <string name="description_activity_landing_background">Shou.TV background</string>
+    <string name="description_activity_landing_brand">Shou.TV brand</string>
     <string name="description_activity_account_field_glyph_bio">Biography glyph</string>
     <string name="description_activity_account_video_thumbnail">Video thumbnail</string>
     <string name="description_activity_screen_native_daemon_button">Native daemon button</string>
