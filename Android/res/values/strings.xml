@@ -95,7 +95,9 @@
     <string name="progress_dialog_connecting_to_airplay">Connecting to AirPlay device: %s</string>
     <string name="toast_airplay_screen_mirror_not_supported">Cannot connect to this AirPlay service, or the service does not support screen mirror.</string>
     <string name="progress_dialog_connecting_to_browser">Connecting to Wi-Fi network&#8230;</string>
+    <string name="toast_broadcast_not_start">Cannot broadcast and mirroring at the same time.</string>
     <string name="toast_browser_screen_mirror_not_supported">Cannot find valid Wi-Fi network</string>
+    <string name="toast_browser_screen_mirror_not_start">Cannot mirroring and broadcast at the same time.</string>
     <string name="progress_dialog_connecting_to_upnp">Connecting to DLNA/UPnP device: %s</string>
     <string name="toast_api_error_no_connection">No network connection</string>
     <string name="toast_api_error_connection_timeout">Network connection timeout</string>
