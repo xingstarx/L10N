@@ -11,7 +11,6 @@
     <string name="description_activity_landing_brand">Shou.TV brand</string>
     <string name="description_activity_account_field_glyph_bio">Biography glyph</string>
     <string name="description_activity_account_video_thumbnail">Video thumbnail</string>
-    <string name="description_activity_screen_native_daemon_button">Native daemon button</string>
     <string name="description_activity_screen_mirroring_no_wifi">No Wi-Fi icon</string>
     <string name="description_activity_screen_live_broadcast_button">Broadcast button</string>
     <string name="description_drawer_item_icon">Drawer item icon</string>
@@ -72,9 +71,6 @@
     <string name="activity_image_cropper_btn_use">Use</string>
     <string name="activity_image_cropper_btn_cancel">Cancel</string>
     <string name="activity_screen_toast_update_required">You need to update the Shou app</string>
-    <string name="activity_screen_native_daemon_stopped">Native daemon not started yet.</string>
-    <string name="activity_screen_native_daemon_starting">Starting the native daemon&#8230;</string>
-    <string name="activity_screen_native_daemon_started">Check status bar to record screen.</string>
     <string name="activity_screen_info_email">hello@shou.tv</string>
     <string name="activity_screen_info_http">https://shou.tv</string>
     <string name="activity_screen_info_copyright">A 0XA7 PRODUCT</string>
@@ -109,8 +105,6 @@
     <string name="toast_worker_stop_failed">The recorder cannot stop!</string>
     <string name="toast_worker_error_occurred">Internal error occurred!</string>
     <string name="toast_screencast_saved">Screencast saved: %s</string>
-    <string name="toast_native_daemon_started">The daemon started successfully!</string>
-    <string name="toast_native_daemon_failed">Ooooops......The daemon failed to start! You may try again.</string>
     <string name="toast_settings_reset">Now you have the default settings!</string>
     <string name="toast_settings_audio_source_internal_not_supported">Your device seems NOT support this feature.</string>
     <string name="toast_audio_driver_warning">This operation is dangerous, USE AT YOUR OWN RISK! And no need to patch the driver if internal audio recording already supported.</string>
