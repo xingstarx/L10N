@@ -3,10 +3,9 @@
 
     <string-array name="drawer_list">
         <item>Profile</item>
-        <item>Daemon</item>
+        <item>Broadcast</item>
         <item>Mirroring</item>
         <item>Screencasts</item>
-        <item>Broadcast</item>
         <item>SETTINGS</item>
         <item>HELP</item>
         <item>FEEDBACK</item>
