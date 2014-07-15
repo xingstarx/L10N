@@ -71,9 +71,6 @@
     <string name="activity_image_cropper_btn_use">Use</string>
     <string name="activity_image_cropper_btn_cancel">Cancel</string>
     <string name="activity_screen_toast_update_required">You need to update the Shou app</string>
-    <string name="activity_screen_info_email">hello@shou.tv</string>
-    <string name="activity_screen_info_http">https://shou.tv</string>
-    <string name="activity_screen_info_copyright">A 0XA7 PRODUCT</string>
     <string name="activity_screen_streaming_checking">Connecting to streaming server&#8230;</string>
     <string name="activity_screen_streaming_ready">Press the button to broadcast !</string>
     <string name="activity_screen_streaming_now">View at https://shou.tv/%s</string>
@@ -81,6 +78,7 @@
     <string name="activity_screen_device_browser_name">Mirror to browser</string>
     <string name="activity_screen_choose_email">Feedback with email</string>
     <string name="activity_screen_live_loading">Loading</string>
+    <string name="activity_screen_live_title_hint">Broadcast title</string>
     <string name="activity_video_player">Video</string>
     <string name="activity_no_medias">No videos to show, \n check status bar to record screen.</string>
     <string name="activity_no_videos">No videos to show</string>
