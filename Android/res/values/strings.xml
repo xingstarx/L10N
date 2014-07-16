@@ -71,14 +71,14 @@
     <string name="activity_image_cropper_btn_cancel">Cancel</string>
     <string name="activity_screen_toast_update_required">You need to update the Shou app</string>
     <string name="activity_screen_streaming_checking">Connecting to streaming server&#8230;</string>
-    <string name="activity_screen_streaming_ready">Press the button to broadcast !</string>
-    <string name="activit_screen_streaming_live">Live now</string>
+    <string name="activity_screen_streaming_ready">Start broadcasting</string>
+    <string name="activit_screen_streaming_live">You are broadcasting</string>
     <string name="activity_screen_streaming_now">View at https://shou.tv/%s</string>
     <string name="activity_screen_mirroring_no_wifi">Enable Wi-Fi to mirror screen</string>
     <string name="activity_screen_device_browser_name">Mirror to browser</string>
     <string name="activity_screen_choose_email">Feedback with email</string>
     <string name="activity_screen_live_loading">Loading</string>
-    <string name="activity_screen_live_title_hint">Broadcast title</string>
+    <string name="activity_screen_live_title_hint">Title (optional)</string>
     <string name="activity_video_player">Video</string>
     <string name="activity_no_medias">No videos to show, \n check status bar to record screen.</string>
     <string name="activity_no_videos">No videos to show</string>
@@ -94,7 +94,7 @@
     <string name="progress_dialog_connecting_to_airplay">Connecting to AirPlay device: %s</string>
     <string name="toast_airplay_screen_mirror_not_supported">Cannot connect to this AirPlay service, or the service does not support screen mirror.</string>
     <string name="progress_dialog_connecting_to_browser">Connecting to Wi-Fi network&#8230;</string>
-    <string name="toast_broadcast_not_start">Cannot broadcast and mirroring at the same time.</string>
+    <string name="toast_broadcast_not_start">You are recording</string>
     <string name="toast_browser_screen_mirror_not_supported">Cannot find valid Wi-Fi network</string>
     <string name="toast_browser_screen_mirror_not_start">Cannot mirroring and broadcast at the same time.</string>
     <string name="progress_dialog_connecting_to_upnp">Connecting to DLNA/UPnP device: %s</string>
