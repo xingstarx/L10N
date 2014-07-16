@@ -12,7 +12,6 @@
     <string name="description_activity_account_field_glyph_bio">Biography glyph</string>
     <string name="description_activity_account_video_thumbnail">Video thumbnail</string>
     <string name="description_activity_screen_mirroring_no_wifi">No Wi-Fi icon</string>
-    <string name="description_activity_screen_live_broadcast_button">Broadcast button</string>
     <string name="description_drawer_item_icon">Drawer item icon</string>
     <string name="description_drawer_toggle_open">Open drawer menus</string>
     <string name="description_drawer_toggle_close">Close drawer menus</string>
@@ -73,6 +72,7 @@
     <string name="activity_screen_toast_update_required">You need to update the Shou app</string>
     <string name="activity_screen_streaming_checking">Connecting to streaming server&#8230;</string>
     <string name="activity_screen_streaming_ready">Press the button to broadcast !</string>
+    <string name="activit_screen_streaming_live">Live now</string>
     <string name="activity_screen_streaming_now">View at https://shou.tv/%s</string>
     <string name="activity_screen_mirroring_no_wifi">Enable Wi-Fi to mirror screen</string>
     <string name="activity_screen_device_browser_name">Mirror to browser</string>
