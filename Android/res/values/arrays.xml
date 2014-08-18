@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string-array name="drawer_list">
-        <item>Profile</item>
-        <item>Broadcast</item>
-        <item>Mirroring</item>
-        <item>Recordings</item>
-        <item>SETTINGS</item>
-        <item>HELP</item>
-        <item>FEEDBACK</item>
-    </string-array>
     <string-array name="pref_entries_video_output_format">
         <item>MKV</item>
         <item>MP4</item>
