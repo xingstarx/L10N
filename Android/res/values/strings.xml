@@ -9,6 +9,8 @@
     <string name="card_broadcast">Broadcast</string>
     <string name="card_record">Recordings</string>
     <string name="card_mirror">Mirroring</string>
+    <string name="card_record_subtitle">Record your screen</string>
+    <string name="card_mirror_subtitle">Mirror your screen to any display</string>
     <string name="description_notification_icon">Icon</string>
     <string name="description_notification_record">Start or stop recording</string>
     <string name="description_notification_quit">Quit</string>
@@ -32,6 +34,7 @@
     <string name="description_live">Live</string>
     <string name="description_video_offline">Video offline</string>
     <string name="description_indicate">indicate</string>
+    <string name="description_card_overflow">Overflow menu</string>
     <string name="menu_profile">Profile</string>
     <string name="menu_settings">Settings</string>
     <string name="menu_feedback">Feedback</string>
