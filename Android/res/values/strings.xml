@@ -43,6 +43,8 @@
     <string name="menu_edit">Edit</string>
     <string name="menu_sign_out">Sign out</string>
     <string name="menu_search">Search</string>
+    <string name="menu_view">Watch</string>
+    <string name="menu_share">Share</string>
     <string name="search_hint">Search people</string>
     <string name="profile_text_videos">videos</string>
     <string name="profile_text_views">views</string>
@@ -87,7 +89,9 @@
     <string name="activity_screen_streaming_checking">Connecting to streaming server&#8230;</string>
     <string name="activity_screen_streaming_ready">Start broadcasting</string>
     <string name="activity_screen_streaming_live">You are broadcasting</string>
+    <string name="activity_screen_streaming_stop">Stop broadcasting</string>
     <string name="activity_screen_record">Start record</string>
+    <string name="activity_screen_record_stop">Stop record</string>
     <string name="activity_screen_streaming_now">View at https://shou.tv/%s</string>
     <string name="activity_screen_mirroring_no_wifi">Enable Wi-Fi to mirror screen</string>
     <string name="activity_screen_device_browser_name">Mirror to browser</string>
