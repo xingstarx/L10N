@@ -179,6 +179,7 @@
     <string name="pref_summary_misc_auto_restart">Whether to restart broadcast or mirroring automatically after error occurred</string>
     <string name="pref_title_misc_reset">Reset</string>
     <string name="pref_summary_misc_reset">Reset default settings</string>
+    <string name="pref_title_misc_recording_dir">Recording directory</string>
     <string name="pref_title_misc_about">About</string>
     <string name="pref_summary_misc_about">Version: %s</string>
     <string name="pref_title_misc_twitter">Twitter</string>
@@ -210,5 +211,13 @@
     <string name="time_ago_months">%d months</string>
     <string name="time_ago_year">1 year</string>
     <string name="time_ago_years">%d years</string>
+    <string name="selected_folder_label">Selected folder:</string>
+    <string name="create_folder_label">Create folder</string>
+    <string name="create_folder_msg">Create new folder with name "%1$s"?</string>
+    <string name="create_folder_success">Created new folder</string>
+    <string name="create_folder_error_no_write_access">Cannot write to this folder</string>
+    <string name="create_folder_error_already_exists">Folder already exists</string>
+    <string name="create_folder_error">Could not create folder</string>
+    <string name="up_label">Up</string>
 
 </resources>
