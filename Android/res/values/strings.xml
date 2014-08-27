@@ -83,8 +83,6 @@
     <string name="activity_screen_streaming_ready">Start broadcasting</string>
     <string name="activity_screen_streaming_live">You are broadcasting</string>
     <string name="activity_screen_streaming_stop">Stop broadcasting</string>
-    <string name="activity_screen_record">Start record</string>
-    <string name="activity_screen_record_stop">Stop record</string>
     <string name="activity_screen_streaming_now">https://shou.tv/%s</string>
     <string name="activity_screen_mirroring_no_wifi">Enable Wi-Fi to mirror screen</string>
     <string name="activity_screen_device_browser_name">Mirror to browser</string>
