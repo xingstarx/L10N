@@ -212,8 +212,7 @@
     <string name="time_ago_year">1 year</string>
     <string name="time_ago_years">%d years</string>
     <string name="selected_folder_label">Selected folder:</string>
-    <string name="create_folder_label">Create folder</string>
-    <string name="create_folder_msg">Create new folder with name "%1$s"?</string>
+    <string name="create_folder_label">New folder name</string>
     <string name="create_folder_success">Created new folder</string>
     <string name="create_folder_error_no_write_access">Cannot write to this folder</string>
     <string name="create_folder_error_already_exists">Folder already exists</string>
