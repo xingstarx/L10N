@@ -84,6 +84,7 @@
     <string name="activity_screen_streaming_live">You are broadcasting</string>
     <string name="activity_screen_streaming_stop">Stop broadcasting</string>
     <string name="activity_screen_streaming_now">https://shou.tv/%s</string>
+    <string name="activity_screen_mirroring_now">View at http://%s</string>
     <string name="activity_screen_mirroring_no_wifi">Enable Wi-Fi to mirror screen</string>
     <string name="activity_screen_device_browser_name">Mirror to browser</string>
     <string name="activity_screen_choose_email">Feedback with email</string>
@@ -101,6 +102,7 @@
     <string name="streaming_mirroring">Mirroring</string>
     <string name="streaming_btn_watch">Watch</string>
     <string name="streaming_btn_share">Share</string>
+    <string name="streaming_btn_stop">Stop</string>
     <string name="video_text">0:00</string>
     <string name="alert_dialog_button_open">Open</string>
     <string name="alert_dialog_button_delete">Delete</string>
