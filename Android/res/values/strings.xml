@@ -218,5 +218,7 @@
     <string name="create_folder_error_already_exists">Folder already exists</string>
     <string name="create_folder_error">Could not create folder</string>
     <string name="up_label">Up</string>
+    <string name="pull_to_refresh_pull_label">Swipe down to refresh</string>
+    <string name="pull_to_refresh_refreshing_label">Refresh&#8230;</string>
 
 </resources>
