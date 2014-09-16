@@ -29,6 +29,8 @@
     <string name="description_video_offline">Video offline</string>
     <string name="description_indicate">indicate</string>
     <string name="description_card_overflow">Overflow menu</string>
+    <string name="description_menu_profile_icon">Profile icon</string>
+    <string name="menu_more">More</string>
     <string name="menu_profile">Profile</string>
     <string name="menu_recordings">Recordings</string>
     <string name="menu_settings">Settings</string>
