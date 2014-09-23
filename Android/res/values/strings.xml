@@ -84,6 +84,7 @@
     <string name="activity_screen_streaming_checking">Connecting &#8230;</string>
     <string name="activity_screen_streaming_ready">Broadcast</string>
     <string name="activity_screen_streaming_share">I\'m broadcasting my Android screen at %s</string>
+    <string name="activity_screen_streaming_retry">Reconnect</string>
     <string name="activity_screen_mirroring_no_wifi">Enable Wi-Fi to mirror screen</string>
     <string name="activity_screen_device_browser_name">Mirror to browser</string>
     <string name="activity_screen_choose_email">Feedback with email</string>
