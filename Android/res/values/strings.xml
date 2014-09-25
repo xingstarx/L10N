@@ -21,6 +21,8 @@
     <string name="menu_edit_profile">Edit profile</string>
     <string name="menu_sign_out">Sign out</string>
     <string name="menu_search">Search</string>
+    <string name="menu_like">Like</string>
+    <string name="menu_share">Share</string>
     <string name="search_hint">Search people</string>
     <string name="profile_text_videos">videos</string>
     <string name="profile_text_followers">followers</string>
