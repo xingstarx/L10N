@@ -14,6 +14,7 @@
     <string name="description_activity_account_field_glyph_bio">个人简介图标</string>
     <string name="description_activity_account_video_thumbnail">视频缩略图</string>
     <string name="description_menu_profile_icon">个人资料图标</string>
+    <string name="description_menu_fullscreen">全屏图标</string>
     <string name="menu_more">更多</string>
     <string name="menu_recordings">录制的视频</string>
     <string name="menu_settings">设置</string>
