@@ -2,10 +2,10 @@
 <resources>
 
     <string-array name="pref_entries_video_source_engine">
-        <item>空</item>
-        <item>幻想</item>
-        <item>内存</item>
-        <item>GPU</item>
+        <item>不录屏</item>
+        <item>幻影（极快，较稳定）</item>
+        <item>内存（较慢，很稳定）</item>
+        <item>GPU（较快，不稳定）</item>
     </string-array>
 
 </resources>

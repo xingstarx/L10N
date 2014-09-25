@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string-array name="drawer_list">
-        <item>Daemon</item>
-        <item>镜像</item>
-        <item>录屏</item>
-        <item>截图</item>
-        <item>设置</item>
-        <item>直播</item>
+    <string-array name="pref_entries_video_output_format">
+        <item>MKV</item>
+        <item>MP4（不推荐）</item>
+        <item>MOV（不推荐）</item>
+        <item>MPEG-TS</item>
+        <item>FLV</item>
+        <item>AVI（不推荐）</item>
     </string-array>
     <string-array name="pref_entries_video_source_engine">
-        <item>空</item>
-        <item>内存</item>
+        <item>不录屏</item>
+        <item>录屏</item>
     </string-array>
     <string-array name="pref_entries_video_encoding_engine">
-        <item>硬件编码</item>
-        <item>软件编码</item>
+        <item>硬编码（极快，较稳定）</item>
+        <item>软编码（较慢，很稳定）</item>
     </string-array>
     <string-array name="pref_entries_video_orientation">
         <item>自动</item>
@@ -42,7 +42,16 @@
     </string-array>
     <string-array name="pref_entries_audio_source">
         <item>静音</item>
-        <item>话筒</item>
+        <item>麦克风</item>
+    </string-array>
+    <string-array name="pref_entries_network_type">
+        <item>只在连接 Wi-Fi 时直播</item>
+        <item>在 Wi-Fi 和手机联网时都直播</item>
+    </string-array>
+    <string-array name="profile_tabs">
+        <item>视频</item>
+        <item>关注</item>
+        <item>粉丝</item>
     </string-array>
 
 </resources>
