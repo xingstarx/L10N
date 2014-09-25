@@ -14,6 +14,7 @@
     <string name="description_activity_account_field_glyph_bio">Biography glyph</string>
     <string name="description_activity_account_video_thumbnail">Video thumbnail</string>
     <string name="description_menu_profile_icon">Profile icon</string>
+    <string name="description_menu_fullscreen">Full screen</string>
     <string name="menu_more">More</string>
     <string name="menu_recordings">Recordings</string>
     <string name="menu_settings">Settings</string>
