@@ -22,6 +22,8 @@
     <string name="menu_edit_profile">编辑个人资料</string>
     <string name="menu_sign_out">退出帐号</string>
     <string name="menu_search">搜索</string>
+    <string name="menu_like">喜欢</string>
+    <string name="menu_share">分享</string>
     <string name="search_hint">搜索用户</string>
     <string name="profile_text_videos">视频</string>
     <string name="profile_text_followers">粉丝</string>
@@ -70,6 +72,7 @@
     <string name="activity_screen_choose_email">使用邮箱反馈问题</string>
     <string name="activity_screen_live_loading">加载中</string>
     <string name="activity_screen_live_title_hint">标题（可以不写）</string>
+    <string name="activity_video_player_share">%1$s ：%2$s</string>
     <string name="activity_no_medias">还没有录制视频</string>
     <string name="activity_no_videos">没有视频</string>
     <string name="activity_no_following">没关注别人</string>
