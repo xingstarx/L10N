@@ -192,5 +192,6 @@
     <string name="create_folder_error_already_exists">Folder already exists</string>
     <string name="create_folder_error">Could not create folder</string>
     <string name="directory_chooser_up_label">Up</string>
+    <string name="video_text">0:00</string>
 
 </resources>
