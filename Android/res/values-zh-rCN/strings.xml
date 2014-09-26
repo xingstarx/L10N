@@ -15,6 +15,11 @@
     <string name="description_activity_account_video_thumbnail">视频缩略图</string>
     <string name="description_menu_profile_icon">个人资料图标</string>
     <string name="description_menu_fullscreen">全屏图标</string>
+    <string name="description_device_item_icon">设备图标</string>
+    <string name="description_media_item_icon">文件图标</string>
+    <string name="description_video_cover">视频封面</string>
+    <string name="description_play_pause">开始停止</string>
+    <string name="description_live">直播</string>
     <string name="menu_more">更多</string>
     <string name="menu_recordings">录制的视频</string>
     <string name="menu_settings">设置</string>

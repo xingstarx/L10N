@@ -15,6 +15,11 @@
     <string name="description_activity_account_video_thumbnail">Video thumbnail</string>
     <string name="description_menu_profile_icon">Profile icon</string>
     <string name="description_menu_fullscreen">Full screen</string>
+    <string name="description_device_item_icon">Device icon</string>
+    <string name="description_media_item_icon">Media icon</string>
+    <string name="description_video_cover">Video cover</string>
+    <string name="description_play_pause">Play pause</string>
+    <string name="description_live">Live</string>
     <string name="menu_more">More</string>
     <string name="menu_recordings">Recordings</string>
     <string name="menu_settings">Settings</string>
