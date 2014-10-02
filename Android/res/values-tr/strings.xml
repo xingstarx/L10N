@@ -200,6 +200,6 @@
     <string name="create_folder_error_already_exists">Klasör mevcut</string>
     <string name="create_folder_error">Klasör oluşturulmadı</string>
     <string name="up_label">Yukarı</string>
-	<string name="video_duration_placement">0:00</string>
+    <string name="video_duration_placement">0:00</string>
 
 </resources>
