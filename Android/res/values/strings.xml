@@ -99,8 +99,6 @@
     <string name="toast_airplay_screen_mirror_not_supported">Cannot connect to this AirPlay service, or the service does not support screen mirror.</string>
     <string name="progress_dialog_connecting_to_browser">Checking Wi-Fi connection&#8230;</string>
     <string name="toast_browser_screen_mirror_not_supported">Cannot find valid Wi-Fi network</string>
-    <string name="progress_dialog_connecting_to_upnp">Connecting to DLNA/UPnP device: %s</string>
-    <string name="toast_upnp_screen_mirror_not_supported">Cannot connect to this DLNA/UPnP service, or the service does not support screen mirror.</string>
     <string name="toast_api_error_no_connection">No network connection</string>
     <string name="toast_api_error_connection_timeout">Network connection timeout</string>
     <string name="toast_api_error_server_5xx">Shou.TV server encounters errors</string>
@@ -127,9 +125,6 @@
     <string name="ticker_browser_started">View your screen in browser&#8230;</string>
     <string name="ticker_browser_stopped">Browser casting stopped&#8230;</string>
     <string name="ticker_browser_mirroring_to">%s</string>
-    <string name="ticker_upnp_started">Screen mirroring started&#8230;</string>
-    <string name="ticker_upnp_stopped">Screen mirroring stopped&#8230;</string>
-    <string name="ticker_upnp_mirroring_to">%s</string>
     <string name="permission_read_shou_composer_label">read Shou composer</string>
     <string name="permission_read_shou_composer_description">Allows the app to record your screen or take screenshot. All your operations could be monitored, e.g. your keyboard, password, etc.</string>
     <string name="permission_group_shou_label">Shou</string>

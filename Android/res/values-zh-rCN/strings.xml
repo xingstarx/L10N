@@ -99,8 +99,6 @@
     <string name="toast_airplay_screen_mirror_not_supported">无法连接到这个设备，或者这个设备不支持镜像。</string>
     <string name="progress_dialog_connecting_to_browser">检查 Wi-Fi 网络情况 &#8230;</string>
     <string name="toast_browser_screen_mirror_not_supported">没有发现合适的 Wi-Fi 网络</string>
-    <string name="progress_dialog_connecting_to_upnp">连接到 DLNA/UPnP 设备： %s</string>
-    <string name="toast_upnp_screen_mirror_not_supported">无法连接到这个设备，或者这个设备不支持镜像。</string>
     <string name="toast_api_error_no_connection">无网络连接</string>
     <string name="toast_api_error_connection_timeout">网络连接超时</string>
     <string name="toast_api_error_server_5xx">Shou.TV 服务器出错</string>
@@ -127,9 +125,6 @@
     <string name="ticker_browser_started">现在可以在浏览器里查看你的屏幕&#8230;</string>
     <string name="ticker_browser_stopped">浏览器镜像停止&#8230;</string>
     <string name="ticker_browser_mirroring_to">%s</string>
-    <string name="ticker_upnp_started">镜像开始&#8230;</string>
-    <string name="ticker_upnp_stopped">镜像停止&#8230;</string>
-    <string name="ticker_upnp_mirroring_to">%s</string>
     <string name="permission_read_shou_composer_label">读取 Shou 屏幕</string>
     <string name="permission_read_shou_composer_description">允许应用录制你的设备屏幕，屏幕上所有信息都将被读取。</string>
     <string name="permission_group_shou_label">Shou</string>
