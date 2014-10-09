@@ -100,7 +100,6 @@
     <string name="progress_dialog_connecting_to_browser">Kablosuz ağına bağlanılıyor&#8230;</string>
     <string name="toast_browser_screen_mirror_not_supported">Kablosuz ağ bulunamadı</string>
     <string name="toast_browser_screen_mirror_not_start">Ekran paylaşımı ve canlı  yayını aynı anda yapamazsınız.</string>
-    <string name="progress_dialog_connecting_to_upnp">DLNA/UPnP cihazına bağlanılıyor: %s</string>
     <string name="toast_api_error_no_connection">İnternet erişimi yok</string>
     <string name="toast_api_error_connection_timeout">Bağlantı zaman aşımına uğradı</string>
     <string name="toast_api_error_server_5xx">Shou.TV sunucusu hatalar ile karşılaştı</string>
@@ -127,9 +126,6 @@
     <string name="ticker_browser_started">Ekranını tarayıcıda göster&#8230;</string>
     <string name="ticker_browser_stopped">Tarayıcıya paylaşım durduruldu&#8230;</string>
     <string name="ticker_browser_mirroring_to">%s</string>
-    <string name="ticker_upnp_started">Ekran paylaşımı başladı&#8230;</string>
-    <string name="ticker_upnp_stopped">Ekran paylaşımı durduruldu&#8230;</string>
-    <string name="ticker_upnp_mirroring_to">%s</string>
     <string name="permission_read_shou_composer_label">read Shou composer</string>
     <string name="permission_read_shou_composer_description">Ekranınızı kaydetmeye ve ekran görüntüsü almaya izin verir. Bütün yaptıklarınız görünebilir, ÖR. klavyeniz, şifreniz, vb.</string>
     <string name="permission_group_shou_label">Shou</string>
