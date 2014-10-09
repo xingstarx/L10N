@@ -99,7 +99,6 @@
     <string name="toast_airplay_screen_mirror_not_supported">Bu AirPlay servisine bağlanılamıyor, ya da servis ekran paylaşımını desteklemiyor.</string>
     <string name="progress_dialog_connecting_to_browser">Kablosuz ağına bağlanılıyor&#8230;</string>
     <string name="toast_browser_screen_mirror_not_supported">Kablosuz ağ bulunamadı</string>
-    <string name="toast_browser_screen_mirror_not_start">Ekran paylaşımı ve canlı  yayını aynı anda yapamazsınız.</string>
     <string name="toast_api_error_no_connection">İnternet erişimi yok</string>
     <string name="toast_api_error_connection_timeout">Bağlantı zaman aşımına uğradı</string>
     <string name="toast_api_error_server_5xx">Shou.TV sunucusu hatalar ile karşılaştı</string>
