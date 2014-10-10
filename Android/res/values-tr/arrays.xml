@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="pref_entries_video_output_format">
+        <item>MKV</item>
+        <item>MP4</item>
+        <item>MOV</item>
+        <item>MPEG-TS</item>
+        <item>FLV</item>
+        <item>AVI</item>
+    </string-array>
+    <string-array name="pref_entries_video_source_engine">
+        <item>Boş</item>
+        <item>Hafıza</item>
+    </string-array>
+    <string-array name="pref_entries_video_encoding_engine">
+        <item>Donanım</item>
+        <item>Yazılım</item>
+    </string-array>
+    <string-array name="pref_entries_video_orientation">
+        <item>Otomatik</item>
+        <item>Yatay</item>
+        <item>Dikey</item>
+    </string-array>
+    <string-array name="pref_entries_video_resolution">
+        <item>240P</item>
+        <item>320P</item>
+        <item>480P</item>
+        <item>640P</item>
+        <item>720P</item>
+        <item>1080P</item>
+    </string-array>
+    <string-array name="pref_entries_video_bitrate">
+        <item>256 Kbps</item>
+        <item>512 Kbps</item>
+        <item>1 Mbps</item>
+        <item>2 Mbps</item>
+        <item>4 Mbps</item>
+        <item>8 Mbps</item>
+        <item>10 Mbps</item>
+        <item>16 Mbps</item>
+    </string-array>
+    <string-array name="pref_entries_audio_source">
+        <item>Sessiz</item>
+        <item>Mikrofon</item>
+    </string-array>
+	<string-array name="pref_entries_network_type">
+        <item>Sadece Wi-Fi</item>
+        <item>Herhangi bir ağ</item>
+    </string-array>
+	<string-array name="profile_tabs">
+        <item>video</item>
+        <item>takip edilenler</item>
+        <item>takipçiler</item>
+    </string-array>
+
+</resources>
