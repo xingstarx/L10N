@@ -25,7 +25,7 @@
     <string name="menu_settings">Ayarlar</string>
     <string name="menu_feedback">Geribildirim</string>
     <string name="menu_edit_profile">Profili düzenle</string>
-    <string name="menu_sign_out">Çıkış Yap</string> 
+    <string name="menu_sign_out">Çıkış Yap</string>
     <string name="menu_search">Ara</string>
     <string name="menu_like">Beğen</string>
     <string name="menu_share">Paylaş</string>
@@ -176,14 +176,14 @@
     <string name="msg_description_emoji">İfade</string>
     <string name="emoji_no_recent">Son kullanılan ifade yok</string>
     <string name="emoji_description_back_space">Sil</string>
-    <string name="emoji_description_cell">Hücre</string>  
-    <string name="time_ago_seconds">az önce</string> 
+    <string name="emoji_description_cell">Hücre</string>
+    <string name="time_ago_seconds">az önce</string>
     <string name="time_ago_minute">1 dk</string>
     <string name="time_ago_minutes">%d dk</string>
     <string name="time_ago_hour">1 saat</string>
     <string name="time_ago_hours">%d saat</string>
-    <string name="time_ago_day">1 gün</string> 
-    <string name="time_ago_days">%d gün</string> 
+    <string name="time_ago_day">1 gün</string>
+    <string name="time_ago_days">%d gün</string>
     <string name="time_ago_month">1 ay</string>
     <string name="time_ago_months">%d ay</string>
     <string name="time_ago_year">1 yıl</string>
