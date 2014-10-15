@@ -85,6 +85,7 @@
     <string name="activity_no_follower">没有人关注</string>
     <string name="activity_no_people">没有相关用户</string>
     <string name="activity_recordings">录制的视频</string>
+    <string name="activity_network_error">网络异常～</string>
     <string name="streaming_broadcasting">正在直播</string>
     <string name="streaming_recording">正在录屏</string>
     <string name="streaming_mirroring">正在镜像</string>

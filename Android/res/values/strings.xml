@@ -85,6 +85,7 @@
     <string name="activity_no_follower">No followers</string>
     <string name="activity_no_people">No peoples</string>
     <string name="activity_recordings">Recordings</string>
+    <string name="activity_network_error">Network error ~</string>
     <string name="streaming_broadcasting">BROADCASTING</string>
     <string name="streaming_recording">RECORDING</string>
     <string name="streaming_mirroring">MIRRORING</string>
