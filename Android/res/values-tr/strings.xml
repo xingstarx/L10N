@@ -20,6 +20,7 @@
     <string name="description_video_cover">Video kaplığı</string>
     <string name="description_play_pause">Oynat durdur</string>
     <string name="description_live">Canlı</string>
+    <string name="description_rotation">Döndürme</string>
     <string name="menu_more">Daha fazla</string>
     <string name="menu_recordings">Kayıtlar</string>
     <string name="menu_settings">Ayarlar</string>
