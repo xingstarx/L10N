@@ -23,7 +23,7 @@
     <string name="menu_more">Daha fazla</string>
     <string name="menu_recordings">Kayıtlar</string>
     <string name="menu_settings">Ayarlar</string>
-    <string name="menu_feedback">Geribildirim</string>
+    <string name="menu_feedback">Geri Bildirim</string>
     <string name="menu_edit_profile">Profili düzenle</string>
     <string name="menu_sign_out">Çıkış Yap</string> 
     <string name="menu_search">Ara</string>
@@ -39,12 +39,12 @@
     <string name="activity_landing_btn_sign_in">Giriş Yap</string>
     <string name="activity_landing_google_plus_sign_in_progress">Google Plus ile Giriş Yap</string>
     <string name="activity_landing_facebook_sign_in_progress">Facebook ile giriş yap</string>
-    <string name="activity_account_title_edit_profile">Profili düzenle</string>
+    <string name="activity_account_title_edit_profile">Profili Düzenle</string>
     <string name="activity_account_hint_email">email</string>
     <string name="activity_account_hint_username">kullanıcı adı</string>
     <string name="activity_account_hint_password">parola</string>
     <string name="activity_account_hint_name">ad</string>
-    <string name="activity_account_hint_biography">biyografi</string>
+    <string name="activity_account_hint_biography">hakkınızda</string>
     <string name="activity_account_text_optional">isteğe bağlı</string>
     <string name="activity_account_choose_avatar">Resim seç</string>
     <string name="activity_account_choose_avatar_failed">Resim seçilemedi</string>
@@ -71,8 +71,8 @@
     <string name="activity_screen_toast_update_required">Shou uygulamasını güncellemelisiniz</string>
     <string name="activity_screen_streaming_checking">Bağlanılıyor &#8230;</string>
     <string name="activity_screen_streaming_ready">Canlı yayını başlat</string>
-    <string name="activity_screen_streaming_share">I\'m broadcasting my Android screen at %s</string>
-    <string name="activity_screen_streaming_retry">Tekrar deniyor</string>
+    <string name="activity_screen_streaming_share">Android ekranımı %s adresinde paylaşıyorum</string>
+    <string name="activity_screen_streaming_retry">Tekrar deneniyor...</string>
     <string name="activity_screen_device_browser_name">Ekranı tarayıcıya paylaş</string>
     <string name="activity_screen_choose_email">E-postayla geri bildir</string>
     <string name="activity_screen_live_loading">Yükleniyor</string>
@@ -84,6 +84,7 @@
     <string name="activity_no_follower">Takipçi yok</string>
     <string name="activity_no_people">İnsan yok</string>
     <string name="activity_recordings">Kayıtlar</string>
+    <string name="activity_network_error">Ağ hatası ~</string>
     <string name="streaming_broadcasting">CANLI YAYIN</string>
     <string name="streaming_recording">KAYDEDİLİYOR</string>
     <string name="streaming_mirroring">EKRAN PAYLAŞILIYOR</string>
