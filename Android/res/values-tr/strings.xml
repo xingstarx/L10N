@@ -68,6 +68,7 @@
     <string name="activity_account_toast_sign_in_required">Devam etmek için giriş yapın</string>
     <string name="activity_image_cropper_btn_use">Kullan</string>
     <string name="activity_image_cropper_btn_cancel">İptal</string>
+    <string name="activity_image_cropper_toast_failed">Resim kırpılamadı :(</string>
     <string name="activity_screen_toast_update_required">Shou uygulamasını güncellemelisiniz</string>
     <string name="activity_screen_streaming_checking">Bağlanılıyor &#8230;</string>
     <string name="activity_screen_streaming_ready">Canlı yayını başlat</string>
