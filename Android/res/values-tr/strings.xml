@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Shou</string>
-    <string name="tab_feed">Ana Menü</string>
+    <string name="tab_feed">Son Eklenenler</string>
     <string name="tab_broadcast">Canlı Yayın</string>
     <string name="card_record">Kaydet</string>
     <string name="description_notification_icon">Ikon</string>
