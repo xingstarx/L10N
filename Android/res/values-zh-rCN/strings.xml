@@ -158,6 +158,8 @@
     <string name="pref_title_misc_auto_restart">自动重连</string>
     <string name="pref_summary_misc_auto_restart">在屏幕直播或镜像失败后自动重连</string>
     <string name="pref_title_misc_network_type">直播网络选择</string>
+    <string name="pref_title_misc_camera">启用前置摄像头功能</string>
+    <string name="pref_summary_misc_camera">在屏幕上显示你的头像</string>
     <string name="pref_title_misc_reset">重置</string>
     <string name="pref_summary_misc_reset">把所有设置重置为默认的</string>
     <string name="pref_title_misc_recording_dir">录制视频的文件夹</string>
