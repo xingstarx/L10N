@@ -152,12 +152,14 @@
     <string name="pref_summary_video_swap_uv">Donanım çözücüsündeki ters renkleri düzelt</string>
     <string name="pref_title_audio_source">Ses kaynağı</string>
     <string name="pref_title_audio_patch_driver">Ses sürücüsünü yamala</string>
-    <string name="pref_summary_audio_patch_driver">DİKKAT! Hoparlörden ses kaydı olmuyorsa yamalayın.</string>
+    <string name="pref_summary_audio_patch_driver">DİKKAT! Hoparlörden ses kaydı olmuyorsa yamalayın</string>
     <string name="pref_title_audio_restore_driver">Ses sürücüsünü geri yükle</string>
-    <string name="pref_summary_audio_restore_driver">Stok ses sürücüsünü geri yükleyin.</string>
+    <string name="pref_summary_audio_restore_driver">Stok ses sürücüsünü geri yükleyin</string>
     <string name="pref_title_misc_auto_restart">Otomatik yeniden başlatma</string>
     <string name="pref_title_misc_network_type">Canlı yayını şundan yap</string>
-    <string name="pref_summary_misc_auto_restart">Canlı yayında ya da ekran paylaşımında bir hata meydana geldiği zaman bu servisleri otomatik olarak yeniden başlatır. </string>
+    <string name="pref_summary_misc_auto_restart">Canlı yayında ya da ekran paylaşımında bir hata meydana geldiği zaman bu servisleri otomatik olarak yeniden başlatır</string>
+    <string name="pref_title_misc_camera">Yüz Kamerası</string>
+    <string name="pref_summary_misc_camera">Görüntünü video da göster</string>
     <string name="pref_title_misc_reset">Sıfırla</string>
     <string name="pref_summary_misc_reset">Varsayılan ayarlara dön</string>
     <string name="pref_title_misc_recording_dir">Kayıt klasörü</string>
