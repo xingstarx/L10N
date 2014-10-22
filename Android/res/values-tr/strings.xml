@@ -26,7 +26,7 @@
     <string name="menu_settings">Ayarlar</string>
     <string name="menu_feedback">Geri Bildirim</string>
     <string name="menu_edit_profile">Profili düzenle</string>
-    <string name="menu_sign_out">Çıkış Yap</string> 
+    <string name="menu_sign_out">Çıkış yap</string> 
     <string name="menu_search">Ara</string>
     <string name="menu_like">Beğen</string>
     <string name="menu_share">Paylaş</string>
@@ -158,8 +158,8 @@
     <string name="pref_title_misc_auto_restart">Otomatik yeniden başlatma</string>
     <string name="pref_title_misc_network_type">Canlı yayını şundan yap</string>
     <string name="pref_summary_misc_auto_restart">Canlı yayında ya da ekran paylaşımında bir hata meydana geldiği zaman bu servisleri otomatik olarak yeniden başlatır</string>
-    <string name="pref_title_misc_camera">Yüz Kamerası</string>
-    <string name="pref_summary_misc_camera">Görüntünü video da göster</string>
+    <string name="pref_title_misc_camera">Yüz Penceresi</string>
+    <string name="pref_summary_misc_camera">Yüzünü video da göster</string>
     <string name="pref_title_misc_reset">Sıfırla</string>
     <string name="pref_summary_misc_reset">Varsayılan ayarlara dön</string>
     <string name="pref_title_misc_recording_dir">Kayıt klasörü</string>
@@ -201,5 +201,7 @@
     <string name="create_folder_error">Klasör oluşturulmadı</string>
     <string name="directory_chooser_up_label">Önceki</string>
     <string name="video_duration_placement">0:00</string>
+    <string name="root_access_title">Root erişimi gereklidir</string>
+    <string name="root_access_link"><a href="http://www.androidpolice.com/2010/04/15/rooting-explained-top-5-benefits-of-rooting-your-android-phone/">Root (kök erişimi) nedir?</a></string>
 
 </resources>
