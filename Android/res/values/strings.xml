@@ -158,8 +158,8 @@
     <string name="pref_title_misc_auto_restart">Auto restart</string>
     <string name="pref_title_misc_network_type">Broadcast over</string>
     <string name="pref_summary_misc_auto_restart">Whether to restart broadcast or mirroring automatically after error occurred</string>
-    <string name="pref_title_misc_camera">Camera View</string>
-    <string name="pref_summary_misc_camera">Display your image on screen top</string>
+    <string name="pref_title_misc_bubble">Floating window</string>
+    <string name="pref_summary_misc_bubble">Display floating window on screen top</string>
     <string name="pref_title_misc_reset">Reset</string>
     <string name="pref_summary_misc_reset">Reset default settings</string>
     <string name="pref_title_misc_recording_dir">Recording directory</string>
