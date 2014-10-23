@@ -201,7 +201,7 @@
     <string name="create_folder_error">Could not create folder</string>
     <string name="directory_chooser_up_label">Up</string>
     <string name="video_duration_placement">0:00</string>
-    <string name="root_access_title">Root acess is requied</string>
+    <string name="root_access_title">Root access is required</string>
     <string name="root_access_link"><a href="http://www.androidpolice.com/2010/04/15/rooting-explained-top-5-benefits-of-rooting-your-android-phone/">What\'s rooting?</a></string>
 
 </resources>
