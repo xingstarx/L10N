@@ -20,6 +20,7 @@
     <string name="description_video_cover">视频封面</string>
     <string name="description_play_pause">开始停止</string>
     <string name="description_live">直播</string>
+    <string name="description_rotation">旋转</string>
     <string name="menu_more">更多</string>
     <string name="menu_recordings">录制的视频</string>
     <string name="menu_settings">设置</string>
@@ -68,6 +69,7 @@
     <string name="activity_account_toast_sign_in_required">请登录帐号</string>
     <string name="activity_image_cropper_btn_use">使用</string>
     <string name="activity_image_cropper_btn_cancel">取消</string>
+    <string name="activity_image_cropper_toast_failed">裁剪图片失败 :(</string>
     <string name="activity_screen_toast_update_required">你需要安装最新版本</string>
     <string name="activity_screen_streaming_checking">连接服务器 &#8230;</string>
     <string name="activity_screen_streaming_ready">直播屏幕</string>
@@ -84,6 +86,7 @@
     <string name="activity_no_follower">没有人关注</string>
     <string name="activity_no_people">没有相关用户</string>
     <string name="activity_recordings">录制的视频</string>
+    <string name="activity_network_error">网络异常～</string>
     <string name="streaming_broadcasting">正在直播</string>
     <string name="streaming_recording">正在录屏</string>
     <string name="streaming_mirroring">正在镜像</string>
@@ -99,8 +102,6 @@
     <string name="toast_airplay_screen_mirror_not_supported">无法连接到这个设备，或者这个设备不支持镜像。</string>
     <string name="progress_dialog_connecting_to_browser">检查 Wi-Fi 网络情况 &#8230;</string>
     <string name="toast_browser_screen_mirror_not_supported">没有发现合适的 Wi-Fi 网络</string>
-    <string name="progress_dialog_connecting_to_upnp">连接到 DLNA/UPnP 设备： %s</string>
-    <string name="toast_upnp_screen_mirror_not_supported">无法连接到这个设备，或者这个设备不支持镜像。</string>
     <string name="toast_api_error_no_connection">无网络连接</string>
     <string name="toast_api_error_connection_timeout">网络连接超时</string>
     <string name="toast_api_error_server_5xx">Shou.TV 服务器出错</string>
@@ -127,9 +128,6 @@
     <string name="ticker_browser_started">现在可以在浏览器里查看你的屏幕&#8230;</string>
     <string name="ticker_browser_stopped">浏览器镜像停止&#8230;</string>
     <string name="ticker_browser_mirroring_to">%s</string>
-    <string name="ticker_upnp_started">镜像开始&#8230;</string>
-    <string name="ticker_upnp_stopped">镜像停止&#8230;</string>
-    <string name="ticker_upnp_mirroring_to">%s</string>
     <string name="permission_read_shou_composer_label">读取 Shou 屏幕</string>
     <string name="permission_read_shou_composer_description">允许应用录制你的设备屏幕，屏幕上所有信息都将被读取。</string>
     <string name="permission_group_shou_label">Shou</string>
@@ -160,6 +158,8 @@
     <string name="pref_title_misc_auto_restart">自动重连</string>
     <string name="pref_summary_misc_auto_restart">在屏幕直播或镜像失败后自动重连</string>
     <string name="pref_title_misc_network_type">直播网络选择</string>
+    <string name="pref_title_misc_bubble">启用多功能浮动窗口</string>
+    <string name="pref_summary_misc_bubble">在直播或镜像时显示多功能浮动窗口</string>
     <string name="pref_title_misc_reset">重置</string>
     <string name="pref_summary_misc_reset">把所有设置重置为默认的</string>
     <string name="pref_title_misc_recording_dir">录制视频的文件夹</string>
@@ -201,5 +201,7 @@
     <string name="create_folder_error">无法创建文件夹</string>
     <string name="directory_chooser_up_label">返回</string>
     <string name="video_duration_placement">0:00</string>
+    <string name="root_access_title">需要 Root 访问权限</string>
+    <string name="root_access_link">什么是 Root 权限?</string>
 
 </resources>

@@ -4,7 +4,7 @@
     <string name="app_name">Shou</string>
     <string name="tab_feed">Son Eklenenler</string>
     <string name="tab_broadcast">Canlı Yayın</string>
-    <string name="card_record">Kaydet</string>
+    <string name="card_record">Ekranı kaydet</string>
     <string name="description_notification_icon">Ikon</string>
     <string name="description_notification_record">Kaydı başlat ya da durdur</string>
     <string name="description_notification_quit">Çık</string>
@@ -26,7 +26,7 @@
     <string name="menu_settings">Ayarlar</string>
     <string name="menu_feedback">Geri Bildirim</string>
     <string name="menu_edit_profile">Profili düzenle</string>
-    <string name="menu_sign_out">Çıkış yap</string> 
+    <string name="menu_sign_out">Çıkış yap</string>
     <string name="menu_search">Ara</string>
     <string name="menu_like">Beğen</string>
     <string name="menu_share">Paylaş</string>
@@ -38,9 +38,9 @@
     <string name="activity_landing_brand_name">Shou your game screen\nTHE HOLY SPIRIT OF THE GAME</string>
     <string name="activity_landing_btn_sign_up">Üye Ol</string>
     <string name="activity_landing_btn_sign_in">Giriş Yap</string>
-    <string name="activity_landing_google_plus_sign_in_progress">Google Plus ile Giriş Yap</string>
+    <string name="activity_landing_google_plus_sign_in_progress">Google Plus ile giriş yap</string>
     <string name="activity_landing_facebook_sign_in_progress">Facebook ile giriş yap</string>
-    <string name="activity_account_title_edit_profile">Profili Düzenle</string>
+    <string name="activity_account_title_edit_profile">Profili düzenle</string>
     <string name="activity_account_hint_email">email</string>
     <string name="activity_account_hint_username">kullanıcı adı</string>
     <string name="activity_account_hint_password">parola</string>
@@ -77,7 +77,7 @@
     <string name="activity_screen_streaming_retry">Tekrar deneniyor...</string>
     <string name="activity_screen_device_browser_name">Ekranı tarayıcıya paylaş</string>
     <string name="activity_screen_choose_email">E-postayla geri bildir</string>
-    <string name="activity_screen_live_loading">Yükleniyor</string>
+    <string name="activity_screen_live_loading">Yükleniyor...</string>
     <string name="activity_screen_live_title_hint">Başlık (isteğe bağlı)</string>
     <string name="activity_video_player_share">%1$s : %2$s</string>
     <string name="activity_no_medias">Gösterilecek video yok, \n kayıt için durum çubuğunu kontrol et.</string>
@@ -144,19 +144,19 @@
     <string name="pref_title_video_source_engine">Kaynak motoru</string>
     <string name="pref_title_video_encoding_engine">Çözücü motoru</string>
     <string name="pref_title_video_orientation">Çekim yönü</string>
-    <string name="pref_title_video_resolution">Çözünürlük</string>
+    <string name="pref_title_video_resolution">Çözünürlükn</string>
     <string name="pref_title_video_bitrate">Bit hızı</string>
     <string name="pref_title_video_show_touches">Dokunmaları göster</string>
     <string name="pref_summary_video_show_touches">Dokunmalar için görsel geri bildirim göster</string>
     <string name="pref_title_video_swap_uv">Renkleri tersine çevir</string>
-    <string name="pref_summary_video_swap_uv">Donanım çözücüsündeki ters renkleri düzelt</string>
+    <string name="pref_summary_video_swap_uv">Donanım çözücüsündeki ters renkleri düzeltr</string>
     <string name="pref_title_audio_source">Ses kaynağı</string>
     <string name="pref_title_audio_patch_driver">Ses sürücüsünü yamala</string>
-    <string name="pref_summary_audio_patch_driver">DİKKAT! Hoparlörden ses kaydı olmuyorsa yamalayın</string>
+    <string name="pref_summary_audio_patch_driver">DİKKAT! Hoparlörden ses kaydı olmuyorsa yamalayın.</string>
     <string name="pref_title_audio_restore_driver">Ses sürücüsünü geri yükle</string>
-    <string name="pref_summary_audio_restore_driver">Stok ses sürücüsünü geri yükleyin</string>
+    <string name="pref_summary_audio_restore_driver">Stok ses sürücüsünü geri yükleyin.</string>
     <string name="pref_title_misc_auto_restart">Otomatik yeniden başlatma</string>
-    <string name="pref_title_misc_network_type">Canlı yayını şundan yap</string>
+    <string name="pref_title_misc_network_type">Broadcast over</string>
     <string name="pref_summary_misc_auto_restart">Canlı yayında ya da ekran paylaşımında bir hata meydana geldiği zaman bu servisleri otomatik olarak yeniden başlatır</string>
     <string name="pref_title_misc_bubble">Kayan pencere</string>
     <string name="pref_summary_misc_bubble">Canlı yayın ya da ekran paylaşımı yaparken kayan pencereyi ekranda göster</string>
@@ -173,22 +173,22 @@
     <string name="pref_summary_misc_facebook">Shou.TV</string>
     <string name="pref_title_misc_open_source">Açık kaynak lisansları</string>
     <string name="pref_title_misc_privacy_policy">Gizlilik</string>
-    <string name="pref_title_misc_terms_of_service">Hizmet Şartları</string>
+    <string name="pref_title_misc_terms_of_service">Hizmet şartları</string>
     <string name="msg_description_send">Gönder</string>
     <string name="msg_description_loading">Yükleniyor</string>
-    <string name="msg_hint_send_msg">Bir mesaj gönder</string>
+    <string name="msg_hint_send_msg">Bir mesaj gönde</string>
     <string name="msg_hint_send_disable">Giriş yapılmamış mesaj gönderme devre dışı</string>
     <string name="msg_description_emoji">İfade</string>
     <string name="emoji_no_recent">Son kullanılan ifade yok</string>
     <string name="emoji_description_back_space">Sil</string>
-    <string name="emoji_description_cell">Hücre</string>  
-    <string name="time_ago_seconds">az önce</string> 
+    <string name="emoji_description_cell">Hücre</string>
+    <string name="time_ago_seconds">az önce</string>
     <string name="time_ago_minute">1 dk</string>
     <string name="time_ago_minutes">%d dk</string>
     <string name="time_ago_hour">1 saat</string>
     <string name="time_ago_hours">%d saat</string>
-    <string name="time_ago_day">1 gün</string> 
-    <string name="time_ago_days">%d gün</string> 
+    <string name="time_ago_day">1 gün</string>
+    <string name="time_ago_days">%d gün</string>
     <string name="time_ago_month">1 ay</string>
     <string name="time_ago_months">%d ay</string>
     <string name="time_ago_year">1 yıl</string>
@@ -196,12 +196,12 @@
     <string name="selected_folder_label">Seçilen klasör:</string>
     <string name="create_folder_label">Yeni klasör adı</string>
     <string name="create_folder_success">Yeni klasör oluşturuldu</string>
-    <string name="create_folder_error_no_write_access">Bu klasöre yazılamıyor</string>
+    <string name="create_folder_error_no_write_access">Bu klasöre veri yazılamıyor</string>
     <string name="create_folder_error_already_exists">Klasör mevcut</string>
     <string name="create_folder_error">Klasör oluşturulmadı</string>
     <string name="directory_chooser_up_label">Önceki</string>
     <string name="video_duration_placement">0:00</string>
     <string name="root_access_title">Root erişimi gereklidir</string>
-    <string name="root_access_link"><a href="http://www.androidpolice.com/2010/04/15/rooting-explained-top-5-benefits-of-rooting-your-android-phone/">Root (kök erişimi) nedir?</a></string>
+    <string name="root_access_link">Root nedir?</string>
 
 </resources>

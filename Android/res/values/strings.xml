@@ -20,6 +20,7 @@
     <string name="description_video_cover">Video cover</string>
     <string name="description_play_pause">Play pause</string>
     <string name="description_live">Live</string>
+    <string name="description_rotation">Rotation</string>
     <string name="menu_more">More</string>
     <string name="menu_recordings">Recordings</string>
     <string name="menu_settings">Settings</string>
@@ -68,6 +69,7 @@
     <string name="activity_account_toast_sign_in_required">Sign in to continue</string>
     <string name="activity_image_cropper_btn_use">Use</string>
     <string name="activity_image_cropper_btn_cancel">Cancel</string>
+    <string name="activity_image_cropper_toast_failed">Failed to crop image :(</string>
     <string name="activity_screen_toast_update_required">You need to update the Shou app</string>
     <string name="activity_screen_streaming_checking">Connecting &#8230;</string>
     <string name="activity_screen_streaming_ready">Broadcast</string>
@@ -84,6 +86,7 @@
     <string name="activity_no_follower">No followers</string>
     <string name="activity_no_people">No peoples</string>
     <string name="activity_recordings">Recordings</string>
+    <string name="activity_network_error">Network error ~</string>
     <string name="streaming_broadcasting">BROADCASTING</string>
     <string name="streaming_recording">RECORDING</string>
     <string name="streaming_mirroring">MIRRORING</string>
@@ -99,8 +102,6 @@
     <string name="toast_airplay_screen_mirror_not_supported">Cannot connect to this AirPlay service, or the service does not support screen mirror.</string>
     <string name="progress_dialog_connecting_to_browser">Checking Wi-Fi connection&#8230;</string>
     <string name="toast_browser_screen_mirror_not_supported">Cannot find valid Wi-Fi network</string>
-    <string name="progress_dialog_connecting_to_upnp">Connecting to DLNA/UPnP device: %s</string>
-    <string name="toast_upnp_screen_mirror_not_supported">Cannot connect to this DLNA/UPnP service, or the service does not support screen mirror.</string>
     <string name="toast_api_error_no_connection">No network connection</string>
     <string name="toast_api_error_connection_timeout">Network connection timeout</string>
     <string name="toast_api_error_server_5xx">Shou.TV server encounters errors</string>
@@ -127,9 +128,6 @@
     <string name="ticker_browser_started">View your screen in browser&#8230;</string>
     <string name="ticker_browser_stopped">Browser casting stopped&#8230;</string>
     <string name="ticker_browser_mirroring_to">%s</string>
-    <string name="ticker_upnp_started">Screen mirroring started&#8230;</string>
-    <string name="ticker_upnp_stopped">Screen mirroring stopped&#8230;</string>
-    <string name="ticker_upnp_mirroring_to">%s</string>
     <string name="permission_read_shou_composer_label">read Shou composer</string>
     <string name="permission_read_shou_composer_description">Allows the app to record your screen or take screenshot. All your operations could be monitored, e.g. your keyboard, password, etc.</string>
     <string name="permission_group_shou_label">Shou</string>
@@ -160,6 +158,8 @@
     <string name="pref_title_misc_auto_restart">Auto restart</string>
     <string name="pref_title_misc_network_type">Broadcast over</string>
     <string name="pref_summary_misc_auto_restart">Whether to restart broadcast or mirroring automatically after error occurred</string>
+    <string name="pref_title_misc_bubble">Floating window</string>
+    <string name="pref_summary_misc_bubble">Display floating window on screen top when broadcast or mirroring</string>
     <string name="pref_title_misc_reset">Reset</string>
     <string name="pref_summary_misc_reset">Reset default settings</string>
     <string name="pref_title_misc_recording_dir">Recording directory</string>
@@ -201,5 +201,7 @@
     <string name="create_folder_error">Could not create folder</string>
     <string name="directory_chooser_up_label">Up</string>
     <string name="video_duration_placement">0:00</string>
+    <string name="root_access_title">Root access is required</string>
+    <string name="root_access_link">What\'s rooting?</string>
 
 </resources>
