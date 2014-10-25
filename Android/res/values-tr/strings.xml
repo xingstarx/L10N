@@ -158,8 +158,8 @@
     <string name="pref_title_misc_auto_restart">Otomatik yeniden başlatma</string>
     <string name="pref_title_misc_network_type">Canlı yayını şundan yap</string>
     <string name="pref_summary_misc_auto_restart">Canlı yayında ya da ekran paylaşımında bir hata meydana geldiği zaman bu servisleri otomatik olarak yeniden başlatır</string>
-    <string name="pref_title_misc_camera">Yüz Penceresi</string>
-    <string name="pref_summary_misc_camera">Yüzünü video da göster</string>
+    <string name="pref_title_misc_bubble">Kayan pencere</string>
+    <string name="pref_summary_misc_bubble">Canlı yayın ya da ekran paylaşımı yaparken kayan pencereyi ekranda göster</string>
     <string name="pref_title_misc_reset">Sıfırla</string>
     <string name="pref_summary_misc_reset">Varsayılan ayarlara dön</string>
     <string name="pref_title_misc_recording_dir">Kayıt klasörü</string>
