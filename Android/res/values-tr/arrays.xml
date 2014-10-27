@@ -18,7 +18,7 @@
         <item>Yazılım</item>
     </string-array>
     <string-array name="pref_entries_video_orientation">
-        <item>Otomatik</item>
+        <item>Oto</item>
         <item>Yatay</item>
         <item>Dikey</item>
     </string-array>
@@ -50,8 +50,8 @@
     </string-array>
     <string-array name="profile_tabs">
         <item>video</item>
-        <item>takip edilenler</item>
-        <item>takipçiler</item>
+        <item>takip edilen</item>
+        <item>takipçi</item>
     </string-array>
 
 </resources>
