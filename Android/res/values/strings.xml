@@ -86,7 +86,7 @@
     <string name="activity_no_follower">No followers</string>
     <string name="activity_no_people">No peoples</string>
     <string name="activity_recordings">Recordings</string>
-    <string name="activity_network_error">Network error ~</string>
+    <string name="activity_network_error">Network connection error ~</string>
     <string name="streaming_broadcasting">BROADCASTING</string>
     <string name="streaming_recording">RECORDING</string>
     <string name="streaming_mirroring">MIRRORING</string>
@@ -108,6 +108,8 @@
     <string name="toast_worker_start_failed">The recorder cannot start!</string>
     <string name="toast_worker_stop_failed">The recorder cannot stop!</string>
     <string name="toast_worker_error_occurred">Internal error occurred!</string>
+    <string name="toast_worker_error_server_die">Server error occurred!</string>
+    <string name="toast_worker_error_network_error">Network connection error or no space left on device!</string>
     <string name="toast_screencast_saved">Screencast saved: %s</string>
     <string name="toast_settings_reset">Now you have the default settings!</string>
     <string name="toast_settings_audio_source_internal_not_supported">Your device seems NOT support this feature.</string>

@@ -108,6 +108,8 @@
     <string name="toast_worker_start_failed">Shou 无法启动！</string>
     <string name="toast_worker_stop_failed">Shou 无法正常停止！</string>
     <string name="toast_worker_error_occurred">出现异常！</string>
+    <string name="toast_worker_error_server_die">服务器异常！</string>
+    <string name="toast_worker_error_network_error">网络无法连接或内存空间不足！</string>
     <string name="toast_screencast_saved">录制的视频被保存在 %s</string>
     <string name="toast_settings_reset">所有设置已经被重置为默认</string>
     <string name="toast_settings_audio_source_internal_not_supported">你的设备似乎不支持这个特性。</string>
