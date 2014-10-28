@@ -134,6 +134,7 @@
     <string name="permission_read_shou_composer_description">允许应用录制你的设备屏幕，屏幕上所有信息都将被读取。</string>
     <string name="permission_group_shou_label">Shou</string>
     <string name="permission_group_shou_description">允许应用录制你的设备屏幕，屏幕上所有信息都将被读取。</string>
+    <string name="permission_accessibility_description">这是检测你当前屏幕的服务，启用这项服务后，将保护你输入的密码不被屏幕录制。</string>
     <string name="pref_title_category_video">视频</string>
     <string name="pref_summary_category_video">比如视频分辨率、码率等</string>
     <string name="pref_title_category_audio">音频</string>
@@ -162,6 +163,8 @@
     <string name="pref_title_misc_network_type">直播网络选择</string>
     <string name="pref_title_misc_bubble">启用多功能浮动窗口</string>
     <string name="pref_summary_misc_bubble">在直播或镜像时显示多功能浮动窗口</string>
+    <string name="pref_title_misc_accessibility">启用密码保护功能</string>
+    <string name="pref_summary_misc_accessibility">有效保护你在屏幕输入密码时, 屏幕不被录制</string>
     <string name="pref_title_misc_reset">重置</string>
     <string name="pref_summary_misc_reset">把所有设置重置为默认的</string>
     <string name="pref_title_misc_recording_dir">录制视频的文件夹</string>

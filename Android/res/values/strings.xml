@@ -134,6 +134,7 @@
     <string name="permission_read_shou_composer_description">Allows the app to record your screen or take screenshot. All your operations could be monitored, e.g. your keyboard, password, etc.</string>
     <string name="permission_group_shou_label">Shou</string>
     <string name="permission_group_shou_description">Allows the app to record your screen or take screenshot. All your operations could be monitored, e.g. your keyboard, password, etc.</string>
+    <string name="permission_accessibility_description">The service provides screen detect. Once it\'s enabled, protect your password not shown on screen record</string>
     <string name="pref_title_category_video">Video</string>
     <string name="pref_summary_category_video">Video resolution, bitrate, etc.</string>
     <string name="pref_title_category_audio">Audio</string>
@@ -162,6 +163,8 @@
     <string name="pref_summary_misc_auto_restart">Whether to restart broadcast or mirroring automatically after error occurred</string>
     <string name="pref_title_misc_bubble">Floating window</string>
     <string name="pref_summary_misc_bubble">Display floating window on screen top when broadcast or mirroring</string>
+    <string name="pref_title_misc_accessibility">Enable password protection</string>
+    <string name="pref_summary_misc_accessibility">Dont record your password screen</string>
     <string name="pref_title_misc_reset">Reset</string>
     <string name="pref_summary_misc_reset">Reset default settings</string>
     <string name="pref_title_misc_recording_dir">Recording directory</string>
