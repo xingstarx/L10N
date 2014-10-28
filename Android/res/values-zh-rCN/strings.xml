@@ -7,6 +7,7 @@
     <string name="card_record">录制屏幕到 SD 卡</string>
     <string name="description_notification_icon">Shou 图标</string>
     <string name="description_notification_record">开始或者停止录制</string>
+    <string name="description_notification_broadcast">开始或者停止直播</string>
     <string name="description_notification_quit">退出 Shou</string>
     <string name="description_toast_icon">Shou 图标</string>
     <string name="description_activity_landing_background">Shou.TV 背景</string>

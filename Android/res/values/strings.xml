@@ -7,6 +7,7 @@
     <string name="card_record">Record screen</string>
     <string name="description_notification_icon">Icon</string>
     <string name="description_notification_record">Start or stop recording</string>
+    <string name="description_notification_broadcast">Start or stop broadcasting</string>
     <string name="description_notification_quit">Quit</string>
     <string name="description_toast_icon">Icon</string>
     <string name="description_activity_landing_background">Shou.TV background</string>
