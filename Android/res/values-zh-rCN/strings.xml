@@ -166,6 +166,8 @@
     <string name="pref_summary_misc_bubble">在直播或镜像时显示多功能浮动窗口</string>
     <string name="pref_title_misc_accessibility">启用密码保护功能</string>
     <string name="pref_summary_misc_accessibility">有效保护你在屏幕输入密码时, 屏幕不被录制</string>
+    <string name="pref_title_misc_accessibility_blacklist">启用应用保护功能</string>
+    <string name="pref_summary_misc_accessibility_blacklist">有效保护你在使用选中的应用时, 屏幕不被录制</string>
     <string name="pref_title_misc_reset">重置</string>
     <string name="pref_summary_misc_reset">把所有设置重置为默认的</string>
     <string name="pref_title_misc_recording_dir">录制视频的文件夹</string>

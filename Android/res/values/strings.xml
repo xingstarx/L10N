@@ -166,6 +166,8 @@
     <string name="pref_summary_misc_bubble">Display floating window on screen top when broadcast or mirroring</string>
     <string name="pref_title_misc_accessibility">Enable password protection</string>
     <string name="pref_summary_misc_accessibility">Dont record your password screen</string>
+    <string name="pref_title_misc_accessibility_blacklist">Enable app protection</string>
+    <string name="pref_summary_misc_accessibility_blacklist">Dont record your app screen</string>
     <string name="pref_title_misc_reset">Reset</string>
     <string name="pref_summary_misc_reset">Reset default settings</string>
     <string name="pref_title_misc_recording_dir">Recording directory</string>
