@@ -27,7 +27,7 @@
     <string name="menu_settings">Ayarlar</string>
     <string name="menu_feedback">Geri Bildirim</string>
     <string name="menu_edit_profile">Profili düzenle</string>
-    <string name="menu_sign_out">Çıkış Yap</string>
+    <string name="menu_sign_out">Çıkış yap</string>
     <string name="menu_search">Ara</string>
     <string name="menu_like">Beğen</string>
     <string name="menu_share">Paylaş</string>
@@ -135,7 +135,7 @@
     <string name="permission_read_shou_composer_description">Ekranınızı kaydetmeye ve ekran görüntüsü almaya izin verir. Bütün yaptıklarınız görünebilir, ÖR. klavyeniz, şifreniz, vb.</string>
     <string name="permission_group_shou_label">Shou</string>
     <string name="permission_group_shou_description">Ekranınızı kaydetmeye ve ekran görüntüsü almaya izin verir. Bütün yaptıklarınız görünebilir, ÖR. klavyeniz, şifreniz, vb.</string>
-    <string name="permission_accessibility_description">Servis ekran tespiti sağlar. Bir kere etkinleştirildiğinde, ekran kaydında kilit ekranınız görüntülenmez</string>
+    <string name="permission_accessibility_description">Bu erişilebilirlik servisi kilit ekranı tespiti sağlar. Bir kere etkinleştirildiğinde, ekran kaydında kilit ekranınız kayıtta ya da canlı yayında görüntülenmez</string>
     <string name="pref_title_category_video">Video</string>
     <string name="pref_summary_category_video">Video çözünürlüğü, bit hızı, vb.</string>
     <string name="pref_title_category_audio">Ses</string>
