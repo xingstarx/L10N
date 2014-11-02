@@ -27,7 +27,7 @@
     <string name="menu_settings">Ayarlar</string>
     <string name="menu_feedback">Geri Bildirim</string>
     <string name="menu_edit_profile">Profili düzenle</string>
-    <string name="menu_sign_out">Çıkış Yap</string>
+    <string name="menu_sign_out">Çıkış yap</string>
     <string name="menu_search">Ara</string>
     <string name="menu_like">Beğen</string>
     <string name="menu_share">Paylaş</string>
@@ -75,7 +75,7 @@
     <string name="activity_screen_streaming_checking">Bağlanılıyor &#8230;</string>
     <string name="activity_screen_streaming_ready">Canlı yayını başlat</string>
     <string name="activity_screen_streaming_share">Android ekranımı %s adresinde paylaşıyorum</string>
-    <string name="activity_screen_streaming_retry">Tekrar deneniyor...</string>
+    <string name="activity_screen_streaming_retry">Tekrar dene</string>
     <string name="activity_screen_device_browser_name">Ekranı tarayıcıya paylaş</string>
     <string name="activity_screen_choose_email">E-postayla geri bildir</string>
     <string name="activity_screen_live_loading">Yükleniyor...</string>
@@ -128,14 +128,14 @@
     <string name="ticker_live_started">Canlı yayın başlatıldı&#8230;</string>
     <string name="ticker_live_stopped">Canlı yayın durduruldu&#8230;</string>
     <string name="ticker_live_casting_to">CANLI: %s</string>
-    <string name="ticker_browser_started">Ekranını tarayıcıda göster&#8230;</string>
+    <string name="ticker_browser_started">Tarayıcıya paylaşım başladı&#8230;</string>
     <string name="ticker_browser_stopped">Tarayıcıya paylaşım durduruldu&#8230;</string>
     <string name="ticker_browser_mirroring_to">%s</string>
     <string name="permission_read_shou_composer_label">read Shou composer</string>
     <string name="permission_read_shou_composer_description">Ekranınızı kaydetmeye ve ekran görüntüsü almaya izin verir. Bütün yaptıklarınız görünebilir, ÖR. klavyeniz, şifreniz, vb.</string>
     <string name="permission_group_shou_label">Shou</string>
     <string name="permission_group_shou_description">Ekranınızı kaydetmeye ve ekran görüntüsü almaya izin verir. Bütün yaptıklarınız görünebilir, ÖR. klavyeniz, şifreniz, vb.</string>
-    <string name="permission_accessibility_description">Servis ekran tespiti sağlar. Bir kere etkinleştirildiğinde, ekran kaydında kilit ekranınız görüntülenmez</string>
+    <string name="permission_accessibility_description">Bu erişilebilirlik servisi kilit ekranı tespiti sağlar. Bir kere etkinleştirildiğinde, ekran kaydında kilit ekranınız kayıtta ya da canlı yayında görüntülenmez</string>
     <string name="pref_title_category_video">Video</string>
     <string name="pref_summary_category_video">Video çözünürlüğü, bit hızı, vb.</string>
     <string name="pref_title_category_audio">Ses</string>
@@ -166,6 +166,8 @@
     <string name="pref_title_misc_accessibility">Kilit korumasını etkinleştir</string>
     <string name="pref_summary_misc_accessibility">Kilit ekranını kayda almamak için etkinleştirin</string>
     <string name="pref_summary_misc_bubble">Canlı yayın ya da ekran paylaşımı yaparken kayan pencereyi ekranda göster</string>
+    <string name="pref_title_misc_accessibility_blacklist">Uygulama korumasını etkinleştir</string>
+    <string name="pref_summary_misc_accessibility_blacklist">Uygulama ekranını kaydetme</string>
     <string name="pref_title_misc_reset">Sıfırla</string>
     <string name="pref_summary_misc_reset">Varsayılan ayarlara dön</string>
     <string name="pref_title_misc_recording_dir">Kayıt klasörü</string>
