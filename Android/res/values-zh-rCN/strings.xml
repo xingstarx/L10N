@@ -88,9 +88,9 @@
     <string name="activity_no_people">没有相关用户</string>
     <string name="activity_recordings">录制的视频</string>
     <string name="activity_network_error">网络异常～</string>
-    <string name="activity_accessibility_title">启用隐私保护功能</string>
-    <string name="activity_accessibility_disable_label">需要检测权限</string>
-    <string name="activity_accessibility_disable_setting">设置</string>
+    <string name="activity_accessibility_title">隐私保护功能</string>
+    <string name="activity_accessibility_disable_label">到设置里找到 Shou，点它，启用它，然后你的密码和一些隐私类的应用就不会被录制和直播了。</string>
+    <string name="activity_accessibility_disable_setting">前往设置</string>
     <string name="streaming_broadcasting">正在直播</string>
     <string name="streaming_recording">正在录屏</string>
     <string name="streaming_mirroring">正在镜像</string>

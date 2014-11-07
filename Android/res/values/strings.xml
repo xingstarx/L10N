@@ -88,9 +88,9 @@
     <string name="activity_no_people">No peoples</string>
     <string name="activity_recordings">Recordings</string>
     <string name="activity_network_error">Network connection error ~</string>
-    <string name="activity_accessibility_title">Enable privacy protection</string>
-    <string name="activity_accessibility_disable_label">Enable is required</string>
-    <string name="activity_accessibility_disable_setting">Enable</string>
+    <string name="activity_accessibility_title">Privacy protection</string>
+    <string name="activity_accessibility_disable_label">You need to find Shou from the settings, and tap it, then enable it. This will blur your password and privacy information when recording or broadcasting.</string>
+    <string name="activity_accessibility_disable_setting">Go to settings</string>
     <string name="streaming_broadcasting">BROADCASTING</string>
     <string name="streaming_recording">RECORDING</string>
     <string name="streaming_mirroring">MIRRORING</string>
@@ -138,7 +138,7 @@
     <string name="permission_read_shou_composer_description">Allows the app to record your screen or take screenshot. All your operations could be monitored, e.g. your keyboard, password, etc.</string>
     <string name="permission_group_shou_label">Shou</string>
     <string name="permission_group_shou_description">Allows the app to record your screen or take screenshot. All your operations could be monitored, e.g. your keyboard, password, etc.</string>
-    <string name="permission_accessibility_description">The service provides screen detect. Once it\'s enabled, protect your password not shown on screen record</string>
+    <string name="permission_accessibility_description">This service will protect you from leaking password or privacy information when recording or broadcasting from Shou.TV</string>
     <string name="pref_title_category_video">Video</string>
     <string name="pref_summary_category_video">Video resolution, bitrate, etc.</string>
     <string name="pref_title_category_audio">Audio</string>
