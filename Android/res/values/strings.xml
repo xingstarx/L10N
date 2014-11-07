@@ -88,6 +88,9 @@
     <string name="activity_no_people">No peoples</string>
     <string name="activity_recordings">Recordings</string>
     <string name="activity_network_error">Network connection error ~</string>
+    <string name="activity_accessibility_title">Enable privacy protection</string>
+    <string name="activity_accessibility_disable_label">Enable is required</string>
+    <string name="activity_accessibility_disable_setting">Enable</string>
     <string name="streaming_broadcasting">BROADCASTING</string>
     <string name="streaming_recording">RECORDING</string>
     <string name="streaming_mirroring">MIRRORING</string>
@@ -164,10 +167,6 @@
     <string name="pref_summary_misc_auto_restart">Whether to restart broadcast or mirroring automatically after error occurred</string>
     <string name="pref_title_misc_bubble">Floating window</string>
     <string name="pref_summary_misc_bubble">Display floating window on screen top when broadcast or mirroring</string>
-    <string name="pref_title_misc_accessibility">Enable password protection</string>
-    <string name="pref_summary_misc_accessibility">Dont record your password screen</string>
-    <string name="pref_title_misc_accessibility_blacklist">Enable app protection</string>
-    <string name="pref_summary_misc_accessibility_blacklist">Dont record your app screen</string>
     <string name="pref_title_misc_reset">Reset</string>
     <string name="pref_summary_misc_reset">Reset default settings</string>
     <string name="pref_title_misc_recording_dir">Recording directory</string>

@@ -88,6 +88,9 @@
     <string name="activity_no_people">没有相关用户</string>
     <string name="activity_recordings">录制的视频</string>
     <string name="activity_network_error">网络异常～</string>
+    <string name="activity_accessibility_title">启用隐私保护功能</string>
+    <string name="activity_accessibility_disable_label">需要检测权限</string>
+    <string name="activity_accessibility_disable_setting">设置</string>
     <string name="streaming_broadcasting">正在直播</string>
     <string name="streaming_recording">正在录屏</string>
     <string name="streaming_mirroring">正在镜像</string>
@@ -164,10 +167,6 @@
     <string name="pref_title_misc_network_type">直播网络选择</string>
     <string name="pref_title_misc_bubble">启用多功能浮动窗口</string>
     <string name="pref_summary_misc_bubble">在直播或镜像时显示多功能浮动窗口</string>
-    <string name="pref_title_misc_accessibility">启用密码保护功能</string>
-    <string name="pref_summary_misc_accessibility">有效保护你在屏幕输入密码时, 屏幕不被录制</string>
-    <string name="pref_title_misc_accessibility_blacklist">启用应用保护功能</string>
-    <string name="pref_summary_misc_accessibility_blacklist">有效保护你在使用选中的应用时, 屏幕不被录制</string>
     <string name="pref_title_misc_reset">重置</string>
     <string name="pref_summary_misc_reset">把所有设置重置为默认的</string>
     <string name="pref_title_misc_recording_dir">录制视频的文件夹</string>
