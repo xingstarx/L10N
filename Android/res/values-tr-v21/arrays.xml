@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="pref_entries_audio_source">
+        <item>Sessiz</item>
+        <item>Mikrofon</item>
+    </string-array>
+    <string-array name="pref_entries_video_source_engine">
+        <item>Boş</item>
+        <item>Hayalet</item>
+    </string-array>
+
+</resources>
