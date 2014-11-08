@@ -88,6 +88,9 @@
     <string name="activity_no_people">İnsan yok</string>
     <string name="activity_recordings">Kayıtlar</string>
     <string name="activity_network_error">Ağ hatası ~</string>
+    <string name="activity_accessibility_title">Gizlilik koruması</string>
+    <string name="activity_accessibility_disable_label">Ayarlardan Shou\'yu bulun, ve dokunun, sonra etkinleştirin. Bu kayıt veya canlı yayın yaparken parola ve gizlilik bilgilerinizi korur ve ekranı bulanıklaştırır.</string>
+    <string name="activity_accessibility_disable_setting">Ayarlara git</string>
     <string name="streaming_broadcasting">CANLI YAYIN</string>
     <string name="streaming_recording">KAYDEDİLİYOR</string>
     <string name="streaming_mirroring">EKRAN PAYLAŞILIYOR</string>
@@ -135,7 +138,7 @@
     <string name="permission_read_shou_composer_description">Ekranınızı kaydetmeye ve ekran görüntüsü almaya izin verir. Bütün yaptıklarınız görünebilir, ÖR. klavyeniz, şifreniz, vb.</string>
     <string name="permission_group_shou_label">Shou</string>
     <string name="permission_group_shou_description">Ekranınızı kaydetmeye ve ekran görüntüsü almaya izin verir. Bütün yaptıklarınız görünebilir, ÖR. klavyeniz, şifreniz, vb.</string>
-    <string name="permission_accessibility_description">Bu erişilebilirlik servisi kilit ekranı tespiti sağlar. Bir kere etkinleştirildiğinde, ekran kaydında kilit ekranınız kayıtta ya da canlı yayında görüntülenmez</string>
+    <string name="permission_accessibility_description">Bu erişilebilirlik servisi, kayıt yaparken ya da Shou.TV\'ye canlı yayın yaparken parola ve gizlilik bilgilerinizi korur.</string>
     <string name="pref_title_category_video">Video</string>
     <string name="pref_summary_category_video">Video çözünürlüğü, bit hızı, vb.</string>
     <string name="pref_title_category_audio">Ses</string>
