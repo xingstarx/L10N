@@ -91,6 +91,11 @@
     <string name="activity_accessibility_title">Privacy protection</string>
     <string name="activity_accessibility_disable_label">You need to find Shou from the settings, and tap it, then enable it. This will blur your password and privacy information when recording or broadcasting.</string>
     <string name="activity_accessibility_disable_setting">Go to settings</string>
+    <string name="action_open">Open</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_share">Share</string>
+    <string name="action_close">Close</string>
+    <string name="action_edit">Edit</string>
     <string name="streaming_broadcasting">BROADCASTING</string>
     <string name="streaming_recording">RECORDING</string>
     <string name="streaming_mirroring">MIRRORING</string>

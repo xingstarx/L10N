@@ -91,6 +91,11 @@
     <string name="activity_accessibility_title">隐私保护功能</string>
     <string name="activity_accessibility_disable_label">到设置里找到 Shou，点它，启用它，然后你的密码和一些隐私类的应用就不会被录制和直播了。</string>
     <string name="activity_accessibility_disable_setting">前往设置</string>
+    <string name="action_open">打开</string>
+    <string name="action_delete">删除</string>
+    <string name="action_share">分享</string>
+    <string name="action_close">关闭</string>
+    <string name="action_edit">编辑</string>
     <string name="streaming_broadcasting">正在直播</string>
     <string name="streaming_recording">正在录屏</string>
     <string name="streaming_mirroring">正在镜像</string>
