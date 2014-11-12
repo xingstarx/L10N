@@ -4,6 +4,7 @@
     <string name="app_name">Shou</string>
     <string name="tab_feed">在线视频</string>
     <string name="tab_broadcast">录屏和直播</string>
+    <string name="tab_games">游戏</string>
     <string name="card_record">录制屏幕到 SD 卡</string>
     <string name="description_notification_icon">Shou 图标</string>
     <string name="description_notification_record">开始或者停止录制</string>
@@ -83,6 +84,7 @@
     <string name="activity_video_player_share">%1$s ：%2$s</string>
     <string name="activity_no_medias">还没有录制视频</string>
     <string name="activity_no_videos">没有视频</string>
+    <string name="activity_no_games">没有游戏</string>
     <string name="activity_no_following">没关注别人</string>
     <string name="activity_no_follower">没有人关注</string>
     <string name="activity_no_people">没有相关用户</string>

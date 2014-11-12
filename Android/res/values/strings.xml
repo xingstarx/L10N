@@ -4,6 +4,7 @@
     <string name="app_name">Shou</string>
     <string name="tab_feed">Home</string>
     <string name="tab_broadcast">Broadcast</string>
+    <string name="tab_games">Games</string>
     <string name="card_record">Record screen</string>
     <string name="description_notification_icon">Icon</string>
     <string name="description_notification_record">Start or stop recording</string>
@@ -83,6 +84,7 @@
     <string name="activity_video_player_share">%1$s : %2$s</string>
     <string name="activity_no_medias">No videos to show, \n check status bar to record screen.</string>
     <string name="activity_no_videos">No videos to show</string>
+    <string name="activity_no_games">No games to show</string>
     <string name="activity_no_following">No following</string>
     <string name="activity_no_follower">No followers</string>
     <string name="activity_no_people">No peoples</string>
