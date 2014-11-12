@@ -94,7 +94,6 @@
     <string name="action_open">打开</string>
     <string name="action_delete">删除</string>
     <string name="action_share">分享</string>
-    <string name="action_close">关闭</string>
     <string name="action_edit">编辑</string>
     <string name="streaming_broadcasting">正在直播</string>
     <string name="streaming_recording">正在录屏</string>
