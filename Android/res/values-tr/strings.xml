@@ -91,6 +91,11 @@
     <string name="activity_accessibility_title">Gizlilik koruması</string>
     <string name="activity_accessibility_disable_label">Ayarlardan Shou\'yu bulun, ve dokunun, sonra etkinleştirin. Bu kayıt veya canlı yayın yaparken parola ve gizlilik bilgilerinizi korur ve ekranı bulanıklaştırır.</string>
     <string name="activity_accessibility_disable_setting">Ayarlara git</string>
+    <string name="action_open">Aç</string>
+    <string name="action_delete">Sil</string>
+    <string name="action_share">Paylaş</string>
+    <string name="action_close">Kapat</string>
+    <string name="action_edit">Düzenle</string>
     <string name="streaming_broadcasting">CANLI YAYIN</string>
     <string name="streaming_recording">KAYDEDİLİYOR</string>
     <string name="streaming_mirroring">EKRAN PAYLAŞILIYOR</string>
