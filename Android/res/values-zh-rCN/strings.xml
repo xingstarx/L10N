@@ -15,6 +15,7 @@
     <string name="description_activity_landing_brand">Shou.TV 图标</string>
     <string name="description_activity_account_field_glyph_bio">个人简介图标</string>
     <string name="description_activity_account_video_thumbnail">视频缩略图</string>
+    <string name="description_activity_game_thumbnail">游戏缩略图</string>
     <string name="description_menu_profile_icon">个人资料图标</string>
     <string name="description_menu_fullscreen">全屏图标</string>
     <string name="description_device_item_icon">设备图标</string>
@@ -217,5 +218,6 @@
     <string name="video_duration_placement">0:00</string>
     <string name="root_access_title">需要 Root 访问权限</string>
     <string name="root_access_link">什么是 Root 权限?</string>
+    <string name="notification_push_live_title">%s 正在直播</string>
 
 </resources>
