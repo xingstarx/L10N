@@ -61,6 +61,8 @@
     <string name="activity_account_btn_saved_profile">Saved</string>
     <string name="activity_account_btn_follow">FOLLOW</string>
     <string name="activity_account_btn_following">FOLLOWING</string>
+    <string name="activity_account_btn_install">INSTALL</string>
+    <string name="activity_account_btn_open">OPEN</string>
     <string name="activity_account_text_profile">profile</string>
     <string name="activity_account_toast_follow_failed">Error when following</string>
     <string name="activity_account_toast_invalid_email_or_password">Invalid email or password</string>
