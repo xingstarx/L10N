@@ -54,7 +54,7 @@
         <item>takipçi</item>
     </string-array>
     <string-array name="app_tabs">
-        <item>videos</item>
-        <item>people</item>
+        <item>video</item>
+        <item>insan</item>
     </string-array>
 </resources>
