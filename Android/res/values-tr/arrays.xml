@@ -53,5 +53,8 @@
         <item>takip edilen</item>
         <item>takipçi</item>
     </string-array>
-
+    <string-array name="app_tabs">
+        <item>videos</item>
+        <item>people</item>
+    </string-array>
 </resources>
