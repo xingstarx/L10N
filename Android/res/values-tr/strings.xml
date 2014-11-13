@@ -4,6 +4,7 @@
     <string name="app_name">Shou</string>
     <string name="tab_feed">Son Eklenenler</string>
     <string name="tab_broadcast">Canlı Yayın</string>
+    <string name="tab_games">Oyunlar</string>
     <string name="card_record">Ekranı kaydet</string>
     <string name="description_notification_icon">Ikon</string>
     <string name="description_notification_record">Kaydı başlat ya da durdur</string>
@@ -14,6 +15,7 @@
     <string name="description_activity_landing_brand">Shou.TV marka</string>
     <string name="description_activity_account_field_glyph_bio">Biyografi kabartma</string>
     <string name="description_activity_account_video_thumbnail">Video küçük resmi</string>
+    <string name="description_activity_game_thumbnail">Oyun küçük resmi</string>
     <string name="description_menu_profile_icon">Profil ikonu</string>
     <string name="description_menu_fullscreen">Tam ekran</string>
     <string name="description_device_item_icon">Cihaz ikonu</string>
@@ -59,6 +61,8 @@
     <string name="activity_account_btn_saved_profile">Kaydedildi</string>
     <string name="activity_account_btn_follow">TAKİP ET</string>
     <string name="activity_account_btn_following">TAKİP EDİLİYOR</string>
+    <string name="activity_account_btn_install">YÜKLE</string>
+    <string name="activity_account_btn_open">AÇ</string>
     <string name="activity_account_text_profile">profil</string>
     <string name="activity_account_toast_follow_failed">Takip etme başarısız</string>
     <string name="activity_account_toast_invalid_email_or_password">Geçersiz email ya da parola</string>
@@ -83,6 +87,7 @@
     <string name="activity_video_player_share">%1$s : %2$s</string>
     <string name="activity_no_medias">Gösterilecek video yok, \n kayıt için durum çubuğunu kontrol et.</string>
     <string name="activity_no_videos">Gösterilecek video yok</string>
+    <string name="activity_no_games">Gösterilecek oyun yok</string>
     <string name="activity_no_following">Takip edilen yok</string>
     <string name="activity_no_follower">Takipçi yok</string>
     <string name="activity_no_people">İnsan yok</string>
@@ -94,7 +99,6 @@
     <string name="action_open">Aç</string>
     <string name="action_delete">Sil</string>
     <string name="action_share">Paylaş</string>
-    <string name="action_close">Kapat</string>
     <string name="action_edit">Düzenle</string>
     <string name="streaming_broadcasting">CANLI YAYIN</string>
     <string name="streaming_recording">KAYDEDİLİYOR</string>
@@ -216,5 +220,6 @@
     <string name="video_duration_placement">0:00</string>
     <string name="root_access_title">Root erişimi gereklidir</string>
     <string name="root_access_link">Root nedir?</string>
+    <string name="notification_push_live_title">%s canlı yayın yapıyor</string>
 
 </resources>
