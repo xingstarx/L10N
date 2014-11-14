@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Shou</string>
-    <string name="tab_feed">在线视频</string>
+    <string name="tab_feed">热门视频</string>
     <string name="tab_broadcast">录屏和直播</string>
     <string name="tab_games">游戏</string>
     <string name="card_record">录制屏幕到 SD 卡</string>
