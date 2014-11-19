@@ -55,6 +55,6 @@
     </string-array>
     <string-array name="app_tabs">
         <item>video</item>
-        <item>insan</item>
+        <item>oyuncular</item>
     </string-array>
 </resources>
