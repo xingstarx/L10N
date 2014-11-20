@@ -84,6 +84,7 @@
     <string name="activity_screen_choose_email">使用邮箱反馈问题</string>
     <string name="activity_screen_live_loading">加载中</string>
     <string name="activity_screen_live_title_hint">标题（可以不写）</string>
+    <string name="activity_screen_live_game_hint">选择直播的游戏</string>
     <string name="activity_video_player_share">%1$s ：%2$s</string>
     <string name="activity_no_medias">还没有录制视频</string>
     <string name="activity_no_videos">没有视频</string>
@@ -176,6 +177,8 @@
     <string name="pref_title_misc_network_type">直播网络选择</string>
     <string name="pref_title_misc_bubble">启用多功能浮动窗口</string>
     <string name="pref_summary_misc_bubble">在直播或镜像时显示多功能浮动窗口</string>
+    <string name="pref_title_misc_server">直播服务器选择</string>
+    <string name="pref_summary_misc_server">自动</string>
     <string name="pref_title_misc_reset">重置</string>
     <string name="pref_summary_misc_reset">把所有设置重置为默认的</string>
     <string name="pref_title_misc_recording_dir">录制视频的文件夹</string>
@@ -221,5 +224,4 @@
     <string name="root_access_title">需要 Root 访问权限</string>
     <string name="root_access_link">什么是 Root 权限?</string>
     <string name="notification_push_live_title">%s 正在直播</string>
-
 </resources>
