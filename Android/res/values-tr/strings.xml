@@ -221,5 +221,6 @@
     <string name="root_access_title">Root erişimi gereklidir</string>
     <string name="root_access_link">Root nedir?</string>
     <string name="notification_push_live_title">%s canlı yayın yapıyor</string>
+    <string name="activity_account_btn_forgot_password"></string>
 
 </resources>

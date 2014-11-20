@@ -56,6 +56,7 @@
     <string name="activity_account_btn_signed_up">Signed Up</string>
     <string name="activity_account_btn_signing_in">Signing In</string>
     <string name="activity_account_btn_signed_in">Signed In</string>
+    <string name="activity_account_btn_forgot_password">Forgot your password?</string>
     <string name="activity_account_btn_save_profile">Save</string>
     <string name="activity_account_btn_saving_profile">Saving</string>
     <string name="activity_account_btn_saved_profile">Saved</string>
