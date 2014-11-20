@@ -33,7 +33,7 @@
     <string name="menu_search">Ara</string>
     <string name="menu_like">Beğen</string>
     <string name="menu_share">Paylaş</string>
-    <string name="search_hint">İnsanları ara</string>
+    <string name="search_hint">Kişileri ara</string>
     <string name="profile_text_videos">video</string>
     <string name="profile_text_followers">takipçi</string>
     <string name="profile_text_following">takip edilen</string>
@@ -90,7 +90,7 @@
     <string name="activity_no_games">Gösterilecek oyun yok</string>
     <string name="activity_no_following">Takip edilen yok</string>
     <string name="activity_no_follower">Takipçi yok</string>
-    <string name="activity_no_people">İnsan yok</string>
+    <string name="activity_no_people">Kişi yok</string>
     <string name="activity_recordings">Kayıtlar</string>
     <string name="activity_network_error">Ağ hatası ~</string>
     <string name="activity_accessibility_title">Gizlilik koruması</string>
