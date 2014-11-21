@@ -95,6 +95,8 @@
     <string name="activity_no_people">No people</string>
     <string name="activity_recordings">Recordings</string>
     <string name="activity_network_error">Network connection error ~</string>
+    <string name="activity_accessibility_enable">Enable privacy protection</string>
+    <string name="activity_accessibility_setting">Setting privacy protection</string>
     <string name="activity_accessibility_title">Privacy protection</string>
     <string name="activity_accessibility_disable_label">You need to find Shou from the settings, and tap it, then enable it. This will blur your password and privacy information when recording or broadcasting.</string>
     <string name="activity_accessibility_disable_setting">Go to settings</string>
