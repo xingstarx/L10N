@@ -63,6 +63,7 @@
     <string name="activity_account_btn_following">已关注</string>
     <string name="activity_account_btn_install">安装</string>
     <string name="activity_account_btn_open">打开</string>
+    <string name="activity_account_text_user_views">%s 次观看</string>
     <string name="activity_account_text_profile">profile</string>
     <string name="activity_account_toast_follow_failed">关注失败了</string>
     <string name="activity_account_toast_invalid_email_or_password">无效的邮箱或者密码</string>
@@ -196,7 +197,7 @@
     <string name="pref_title_misc_privacy_policy">隐私政策</string>
     <string name="pref_title_misc_terms_of_service">服务条款</string>
     <string name="pref_title_misc_push">推送</string>
-    <string name="pref_summary_misc_push">接收消息推送</string>
+    <string name="pref_summary_misc_push">是否接收消息推送</string>
     <string name="msg_send_faild">发送失败</string>
     <string name="msg_description_send">发送</string>
     <string name="msg_description_loading">加载中</string>

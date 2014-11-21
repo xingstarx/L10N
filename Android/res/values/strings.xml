@@ -64,6 +64,7 @@
     <string name="activity_account_btn_following">FOLLOWING</string>
     <string name="activity_account_btn_install">INSTALL</string>
     <string name="activity_account_btn_open">OPEN</string>
+    <string name="activity_account_text_user_views">%s views</string>
     <string name="activity_account_text_profile">profile</string>
     <string name="activity_account_toast_follow_failed">Error when following</string>
     <string name="activity_account_toast_invalid_email_or_password">Invalid email or password</string>
@@ -96,7 +97,7 @@
     <string name="activity_recordings">Recordings</string>
     <string name="activity_network_error">Network connection error ~</string>
     <string name="activity_accessibility_enable">Enable privacy protection</string>
-    <string name="activity_accessibility_setting">Setting privacy protection</string>
+    <string name="activity_accessibility_setting">Configure privacy protection</string>
     <string name="activity_accessibility_title">Privacy protection</string>
     <string name="activity_accessibility_disable_label">You need to find Shou from the settings, and tap it, then enable it. This will blur your password and privacy information when recording or broadcasting.</string>
     <string name="activity_accessibility_disable_setting">Go to settings</string>
@@ -196,8 +197,8 @@
     <string name="pref_title_misc_open_source">Open source licenses</string>
     <string name="pref_title_misc_privacy_policy">Privacy policy</string>
     <string name="pref_title_misc_terms_of_service">Terms of service</string>
-    <string name="pref_title_misc_push">Push</string>
-    <string name="pref_summary_misc_push">Receive message push</string>
+    <string name="pref_title_misc_push">Push messages</string>
+    <string name="pref_summary_misc_push">Whether to receive push messages</string>
     <string name="msg_send_faild">Can\'t send this message</string>
     <string name="msg_description_send">Send</string>
     <string name="msg_description_loading">Loading</string>
