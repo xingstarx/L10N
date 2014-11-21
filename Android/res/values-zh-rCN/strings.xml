@@ -28,7 +28,6 @@
     <string name="menu_recordings">录制的视频</string>
     <string name="menu_settings">设置</string>
     <string name="menu_feedback">反馈问题</string>
-    <string name="menu_edit_profile">编辑个人资料</string>
     <string name="menu_sign_out">退出帐号</string>
     <string name="menu_search">搜索</string>
     <string name="menu_like">喜欢</string>
@@ -38,6 +37,7 @@
     <string name="profile_text_followers">粉丝</string>
     <string name="profile_text_following">关注</string>
     <string name="profile_text_live">直播</string>
+    <string name="profile_edit_profile">编辑个人资料</string>
     <string name="activity_landing_brand_name">Shou your game screen\nTHE HOLY SPIRIT OF THE GAME</string>
     <string name="activity_landing_btn_sign_up">注册</string>
     <string name="activity_landing_btn_sign_in">登录</string>

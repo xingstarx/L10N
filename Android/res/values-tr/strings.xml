@@ -28,7 +28,6 @@
     <string name="menu_recordings">Kayıtlar</string>
     <string name="menu_settings">Ayarlar</string>
     <string name="menu_feedback">Geri Bildirim</string>
-    <string name="menu_edit_profile">Profili düzenle</string>
     <string name="menu_sign_out">Çıkış yap</string>
     <string name="menu_search">Ara</string>
     <string name="menu_like">Beğen</string>
@@ -38,6 +37,7 @@
     <string name="profile_text_followers">takipçi</string>
     <string name="profile_text_following">takip edilen</string>
     <string name="profile_text_live">Canlı</string>
+    <string name="profile_edit_profile">Profili düzenle</string>
     <string name="activity_landing_brand_name">Shou your game screen\nTHE HOLY SPIRIT OF THE GAME</string>
     <string name="activity_landing_btn_sign_up">Üye Ol</string>
     <string name="activity_landing_btn_sign_in">Giriş Yap</string>
