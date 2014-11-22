@@ -57,6 +57,9 @@
     <string name="activity_account_btn_signing_in">Giriş Yapılıyor</string>
     <string name="activity_account_btn_signed_in">Giriş Yapıldı</string>
     <string name="activity_account_btn_forgot_password">Parolanızı mı unuttunuz?</string>
+    <string name="activity_account_btn_reset_password">Parolamı sıfırla</string>
+    <string name="activity_account_btn_reset_password_complete">Parolama sıfırlama başarılı</string>
+    <string name="activity_account_btn_resetting_password">Parolamı sıfırla</string>
     <string name="activity_account_btn_save_profile">Kaydet</string>
     <string name="activity_account_btn_saving_profile">Kaydediliyor</string>
     <string name="activity_account_btn_saved_profile">Kaydedildi</string>
@@ -67,7 +70,9 @@
     <string name="activity_account_text_user_views">%s görüntüleme</string>
     <string name="activity_account_text_profile">profil</string>
     <string name="activity_account_toast_follow_failed">Takip etme başarısız</string>
+    <string name="activity_account_toast_invalid_email">Geçersiz email</string>
     <string name="activity_account_toast_invalid_email_or_password">Geçersiz email ya da parola</string>
+    <string name="activity_account_toast_reset_password_success">Size bir eposta gönderdik. Parolanızı sıfırlamak için postanın içindeki linke tıklayın.</string>
     <string name="activity_account_toast_profile_update_success">Profil başarıyla güncellendi!</string>
     <string name="activity_account_toast_profile_update_failed">Profiliniz güncellenemedi</string>
     <string name="activity_account_toast_failed_to_sign_in_with_google_plus">Google Plus ile giriş yapılamadı :(</string>
