@@ -123,6 +123,7 @@
     <string name="toast_api_error_no_connection">No network connection</string>
     <string name="toast_api_error_connection_timeout">Network connection timeout</string>
     <string name="toast_api_error_server_5xx">Shou.TV server encounters errors</string>
+    <string name="toast_api_error_not_found">Not found any message</string>
     <string name="toast_worker_start_failed">The recorder cannot start!</string>
     <string name="toast_worker_stop_failed">The recorder cannot stop!</string>
     <string name="toast_worker_error_occurred">Internal error occurred!</string>

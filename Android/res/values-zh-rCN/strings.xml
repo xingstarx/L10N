@@ -230,4 +230,5 @@
     <string name="root_access_link">什么是 Root 权限?</string>
     <string name="notification_push_live_title">%s 正在直播</string>
     <string name="activity_account_btn_forgot_password">忘记密码了？</string>
+    <string name="toast_api_error_not_found">没有找到相应的信息</string>
 </resources>
