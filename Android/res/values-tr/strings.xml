@@ -56,6 +56,7 @@
     <string name="activity_account_btn_signed_up">Üye Olundu</string>
     <string name="activity_account_btn_signing_in">Giriş Yapılıyor</string>
     <string name="activity_account_btn_signed_in">Giriş Yapıldı</string>
+    <string name="activity_account_btn_forgot_password">Parolanızı mı unuttunuz?</string>
     <string name="activity_account_btn_save_profile">Kaydet</string>
     <string name="activity_account_btn_saving_profile">Kaydediliyor</string>
     <string name="activity_account_btn_saved_profile">Kaydedildi</string>
@@ -63,6 +64,7 @@
     <string name="activity_account_btn_following">TAKİP EDİLİYOR</string>
     <string name="activity_account_btn_install">YÜKLE</string>
     <string name="activity_account_btn_open">AÇ</string>
+    <string name="activity_account_text_user_views">%s görüntüleme</string>
     <string name="activity_account_text_profile">profil</string>
     <string name="activity_account_toast_follow_failed">Takip etme başarısız</string>
     <string name="activity_account_toast_invalid_email_or_password">Geçersiz email ya da parola</string>
@@ -84,6 +86,7 @@
     <string name="activity_screen_choose_email">E-postayla geri bildir</string>
     <string name="activity_screen_live_loading">Yükleniyor...</string>
     <string name="activity_screen_live_title_hint">Başlık (isteğe bağlı)</string>
+    <string name="activity_screen_live_game_hint">Oyun seç</string>
     <string name="activity_video_player_share">%1$s : %2$s</string>
     <string name="activity_no_medias">Gösterilecek video yok, \n kayıt için durum çubuğunu kontrol et.</string>
     <string name="activity_no_videos">Gösterilecek video yok</string>
@@ -93,6 +96,8 @@
     <string name="activity_no_people">Kişi yok</string>
     <string name="activity_recordings">Kayıtlar</string>
     <string name="activity_network_error">Ağ hatası ~</string>
+    <string name="activity_accessibility_enable">Gizlilik korumasını etkinleştir</string>
+    <string name="activity_accessibility_setting">Gizlilik korumasını ayarla</string>
     <string name="activity_accessibility_title">Gizlilik koruması</string>
     <string name="activity_accessibility_disable_label">Ayarlardan Shou\'yu bulun, ve dokunun, sonra etkinleştirin. Bu kayıt veya canlı yayın yaparken parola ve gizlilik bilgilerinizi korur ve ekranı bulanıklaştırır.</string>
     <string name="activity_accessibility_disable_setting">Ayarlara git</string>
@@ -152,7 +157,7 @@
     <string name="pref_summary_category_video">Video çözünürlüğü, bit hızı, vb.</string>
     <string name="pref_title_category_audio">Ses</string>
     <string name="pref_summary_category_audio">Ses kaynağı, sürücü, vb.</string>
-    <string name="pref_title_category_broadcast">Canlı yayın</string>
+    <string name="pref_title_category_broadcast">Canlı Yayın</string>
     <string name="pref_summary_category_broadcast">Canlı yayın ya da ekran paylaşımı</string>
     <string name="pref_title_category_misc">Çeşitli</string>
     <string name="pref_summary_category_misc">Hakkında, sıfırlama, vb.</string>
@@ -176,6 +181,8 @@
     <string name="pref_summary_misc_auto_restart">Canlı yayında ya da ekran paylaşımında bir hata meydana geldiği zaman bu servisleri otomatik olarak yeniden başlatır</string>
     <string name="pref_title_misc_bubble">Kayan pencere</string>
     <string name="pref_summary_misc_bubble">Canlı yayın ya da ekran paylaşımı yaparken kayan pencereyi ekranda göster</string>
+    <string name="pref_title_misc_server">Canlı yayın sunucusu</string>
+    <string name="pref_summary_misc_server">Otomatik</string>
     <string name="pref_title_misc_reset">Sıfırla</string>
     <string name="pref_summary_misc_reset">Varsayılan ayarlara dön</string>
     <string name="pref_title_misc_recording_dir">Kayıt klasörü</string>
@@ -190,6 +197,8 @@
     <string name="pref_title_misc_open_source">Açık kaynak lisansları</string>
     <string name="pref_title_misc_privacy_policy">Gizlilik</string>
     <string name="pref_title_misc_terms_of_service">Hizmet şartları</string>
+    <string name="pref_title_misc_push">Push messages</string>
+    <string name="pref_summary_misc_push">Whether to receive push messages</string>
     <string name="msg_send_faild">Mesaj gönderilemiyor</string>
     <string name="msg_description_send">Gönder</string>
     <string name="msg_description_loading">Yükleniyor...</string>
