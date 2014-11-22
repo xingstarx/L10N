@@ -57,6 +57,9 @@
     <string name="activity_account_btn_signing_in">Signing In</string>
     <string name="activity_account_btn_signed_in">Signed In</string>
     <string name="activity_account_btn_forgot_password">Forgot your password?</string>
+    <string name="activity_account_btn_recover_password">Send me instruction</string>
+    <string name="activity_account_btn_recovering_password">Sending instruction</string>
+    <string name="activity_account_btn_recover_complete">Instruction sent</string>
     <string name="activity_account_btn_reset_password">Reset my password</string>
     <string name="activity_account_btn_reset_password_complete">Reset password complete</string>
     <string name="activity_account_btn_resetting_password">Reset my password</string>

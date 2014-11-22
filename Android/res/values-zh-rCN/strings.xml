@@ -56,6 +56,9 @@
     <string name="activity_account_btn_signed_up">注册成功</string>
     <string name="activity_account_btn_signing_in">登录中</string>
     <string name="activity_account_btn_signed_in">登录成功</string>
+    <string name="activity_account_btn_recover_password">给我发送邮件</string>
+    <string name="activity_account_btn_recovering_password">发送中...</string>
+    <string name="activity_account_btn_recover_complete">邮件发送成功</string>
     <string name="activity_account_btn_forgot_password">忘记密码了？</string>
     <string name="activity_account_btn_reset_password">重置密码</string>
     <string name="activity_account_btn_reset_password_complete">重置密码成功</string>
