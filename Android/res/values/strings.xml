@@ -71,8 +71,9 @@
     <string name="activity_account_text_profile">profile</string>
     <string name="activity_account_toast_follow_failed">Error when following</string>
     <string name="activity_account_toast_invalid_email">Invalid email</string>
+    <string name="activity_account_toast_invalid_password_or_token">Invalid password or token</string>
     <string name="activity_account_toast_invalid_email_or_password">Invalid email or password</string>
-    <string name="activity_account_toast_reset_password_success">Within a few minutes you will receive an email with instructions on how to reset password.</string>
+    <string name="activity_account_toast_reset_password_success">We\'ve sent an email to you. Click the link in the email to reset your password.</string>
     <string name="activity_account_toast_profile_update_success">Update profile successfully!</string>
     <string name="activity_account_toast_profile_update_failed">Failed to update your profile</string>
     <string name="activity_account_toast_failed_to_sign_in_with_google_plus">Failed to sign in with Google Plus :(</string>

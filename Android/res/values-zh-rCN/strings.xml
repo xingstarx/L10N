@@ -71,8 +71,9 @@
     <string name="activity_account_text_profile">profile</string>
     <string name="activity_account_toast_follow_failed">关注失败了</string>
     <string name="activity_account_toast_invalid_email">无效的邮箱</string>
+    <string name="activity_account_toast_invalid_password_or_token">无效的密码和链接</string>
     <string name="activity_account_toast_invalid_email_or_password">无效的邮箱或者密码</string>
-    <string name="activity_account_toast_reset_password_success">密码重置说明已经发送到您的邮箱，请查收</string>
+    <string name="activity_account_toast_reset_password_success">我们已经给您发送了邮件，请点击邮件中的链接重置密码。</string>
     <string name="activity_account_toast_profile_update_success">成功更新个人资料！</string>
     <string name="activity_account_toast_profile_update_failed">更新个人资料失败！</string>
     <string name="activity_account_toast_failed_to_sign_in_with_google_plus">使用 Google 登录失败 :(</string>
