@@ -56,6 +56,10 @@
     <string name="activity_account_btn_signed_up">注册成功</string>
     <string name="activity_account_btn_signing_in">登录中</string>
     <string name="activity_account_btn_signed_in">登录成功</string>
+    <string name="activity_account_btn_forgot_password">忘记密码了？</string>
+    <string name="activity_account_btn_reset_password">重置密码</string>
+    <string name="activity_account_btn_reset_password_complete">重置密码成功</string>
+    <string name="activity_account_btn_resetting_password">正在重置中</string>
     <string name="activity_account_btn_save_profile">保存</string>
     <string name="activity_account_btn_saving_profile">保存中</string>
     <string name="activity_account_btn_saved_profile">保存成功</string>
@@ -66,7 +70,9 @@
     <string name="activity_account_text_user_views">%s 次观看</string>
     <string name="activity_account_text_profile">profile</string>
     <string name="activity_account_toast_follow_failed">关注失败了</string>
+    <string name="activity_account_toast_invalid_email">无效的邮箱</string>
     <string name="activity_account_toast_invalid_email_or_password">无效的邮箱或者密码</string>
+    <string name="activity_account_toast_reset_password_success">密码重置说明已经发送到您的邮箱，请查收</string>
     <string name="activity_account_toast_profile_update_success">成功更新个人资料！</string>
     <string name="activity_account_toast_profile_update_failed">更新个人资料失败！</string>
     <string name="activity_account_toast_failed_to_sign_in_with_google_plus">使用 Google 登录失败 :(</string>
@@ -122,6 +128,7 @@
     <string name="toast_api_error_no_connection">无网络连接</string>
     <string name="toast_api_error_connection_timeout">网络连接超时</string>
     <string name="toast_api_error_server_5xx">Shou.TV 服务器出错</string>
+    <string name="toast_api_error_not_found">没有找到相应的信息</string>
     <string name="toast_worker_start_failed">Shou 无法启动！</string>
     <string name="toast_worker_stop_failed">Shou 无法正常停止！</string>
     <string name="toast_worker_error_occurred">出现异常！</string>
@@ -229,6 +236,5 @@
     <string name="root_access_title">需要 Root 访问权限</string>
     <string name="root_access_link">什么是 Root 权限?</string>
     <string name="notification_push_live_title">%s 正在直播</string>
-    <string name="activity_account_btn_forgot_password">忘记密码了？</string>
-    <string name="toast_api_error_not_found">没有找到相应的信息</string>
+
 </resources>

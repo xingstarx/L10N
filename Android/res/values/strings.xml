@@ -57,6 +57,9 @@
     <string name="activity_account_btn_signing_in">Signing In</string>
     <string name="activity_account_btn_signed_in">Signed In</string>
     <string name="activity_account_btn_forgot_password">Forgot your password?</string>
+    <string name="activity_account_btn_reset_password">Reset my password</string>
+    <string name="activity_account_btn_reset_password_complete">Reset password complete</string>
+    <string name="activity_account_btn_resetting_password">Reset my password</string>
     <string name="activity_account_btn_save_profile">Save</string>
     <string name="activity_account_btn_saving_profile">Saving</string>
     <string name="activity_account_btn_saved_profile">Saved</string>
@@ -67,7 +70,9 @@
     <string name="activity_account_text_user_views">%s views</string>
     <string name="activity_account_text_profile">profile</string>
     <string name="activity_account_toast_follow_failed">Error when following</string>
+    <string name="activity_account_toast_invalid_email">Invalid email</string>
     <string name="activity_account_toast_invalid_email_or_password">Invalid email or password</string>
+    <string name="activity_account_toast_reset_password_success">Within a few minutes you will receive an email with instructions on how to reset password.</string>
     <string name="activity_account_toast_profile_update_success">Update profile successfully!</string>
     <string name="activity_account_toast_profile_update_failed">Failed to update your profile</string>
     <string name="activity_account_toast_failed_to_sign_in_with_google_plus">Failed to sign in with Google Plus :(</string>
