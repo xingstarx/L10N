@@ -28,7 +28,6 @@
     <string name="menu_recordings">Kayıtlar</string>
     <string name="menu_settings">Ayarlar</string>
     <string name="menu_feedback">Geri Bildirim</string>
-    <string name="menu_edit_profile">Profili düzenle</string>
     <string name="menu_sign_out">Çıkış yap</string>
     <string name="menu_search">Ara</string>
     <string name="menu_like">Beğen</string>
@@ -38,6 +37,7 @@
     <string name="profile_text_followers">takipçi</string>
     <string name="profile_text_following">takip edilen</string>
     <string name="profile_text_live">Canlı</string>
+    <string name="profile_edit_profile">Profili düzenle</string>
     <string name="activity_landing_brand_name">Shou your game screen\nTHE HOLY SPIRIT OF THE GAME</string>
     <string name="activity_landing_btn_sign_up">Üye Ol</string>
     <string name="activity_landing_btn_sign_in">Giriş Yap</string>
@@ -58,6 +58,9 @@
     <string name="activity_account_btn_signed_in">Giriş Yapıldı</string>
     <string name="activity_account_btn_forgot_password">Parolanızı mı unuttunuz?</string>
     <string name="activity_account_btn_reset_password">Parolamı sıfırla</string>
+    <string name="activity_account_btn_recover_password">Sıfırlama isteği gönder</string>
+    <string name="activity_account_btn_recovering_password">İstek gönderiliyor</string>
+    <string name="activity_account_btn_recover_complete">İstek gönderildi</string>
     <string name="activity_account_btn_reset_password_complete">Parolama sıfırlama başarılı</string>
     <string name="activity_account_btn_resetting_password">Parolamı sıfırla</string>
     <string name="activity_account_btn_save_profile">Kaydet</string>
@@ -71,6 +74,7 @@
     <string name="activity_account_text_profile">profil</string>
     <string name="activity_account_toast_follow_failed">Takip etme başarısız</string>
     <string name="activity_account_toast_invalid_email">Geçersiz email</string>
+    <string name="activity_account_toast_invalid_password_or_token">Geçersiz parola ya da token</string>
     <string name="activity_account_toast_invalid_email_or_password">Geçersiz email ya da parola</string>
     <string name="activity_account_toast_reset_password_success">Size bir eposta gönderdik. Parolanızı sıfırlamak için postanın içindeki linke tıklayın.</string>
     <string name="activity_account_toast_profile_update_success">Profil başarıyla güncellendi!</string>
@@ -128,6 +132,7 @@
     <string name="toast_api_error_no_connection">İnternet erişimi yok</string>
     <string name="toast_api_error_connection_timeout">Bağlantı zaman aşımına uğradı</string>
     <string name="toast_api_error_server_5xx">Shou.TV sunucusu hatalar ile karşılaştı</string>
+     <string name="toast_api_error_not_found">Herhangi bir mesaj bulunamadı</string>
     <string name="toast_worker_start_failed">Kaydedici başlatılamadı!</string>
     <string name="toast_worker_stop_failed">Kaydedici durdurulamadı!</string>
     <string name="toast_worker_error_occurred">Dahili hata oluştu!</string>
