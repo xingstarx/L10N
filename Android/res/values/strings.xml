@@ -152,8 +152,8 @@
     <string name="ticker_airplay_started">Screen mirroring started&#8230;</string>
     <string name="ticker_airplay_stopped">Screen mirroring stopped&#8230;</string>
     <string name="ticker_airplay_mirroring_to">%s</string>
-    <string name="ticker_live_started">Live broadcasting started&#8230;</string>
-    <string name="ticker_live_stopped">Live broadcasting stopped&#8230;</string>
+    <string name="ticker_live_started">Broadcasting started&#8230;</string>
+    <string name="ticker_live_stopped">Stopping broadcasting&#8230;</string>
     <string name="ticker_live_casting_to">LIVE: %s</string>
     <string name="ticker_browser_started">View your screen in browser&#8230;</string>
     <string name="ticker_browser_stopped">Browser casting stopped&#8230;</string>
