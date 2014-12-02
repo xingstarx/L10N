@@ -240,5 +240,6 @@
     <string name="root_access_title">Root access is required</string>
     <string name="root_access_link">What\'s rooting?</string>
     <string name="notification_push_live_title">%s is broadcasting</string>
+    <string name="notification_push_multi_live_title">%s players are broadcasting</string>
 
 </resources>
