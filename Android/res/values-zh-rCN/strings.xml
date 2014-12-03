@@ -44,6 +44,7 @@
     <string name="activity_landing_google_plus_sign_in_progress">正在用 Google 登录</string>
     <string name="activity_landing_facebook_sign_in_progress">正在用 Facebook 登录</string>
     <string name="activity_account_title_edit_profile">编辑个人资料</string>
+    <string name="activity_account_hint_identify">用户名或邮箱</string>
     <string name="activity_account_hint_email">邮箱</string>
     <string name="activity_account_hint_username">用户名</string>
     <string name="activity_account_hint_password">密码</string>
@@ -75,7 +76,7 @@
     <string name="activity_account_toast_follow_failed">关注失败了</string>
     <string name="activity_account_toast_invalid_email">无效的邮箱</string>
     <string name="activity_account_toast_invalid_password_or_token">无效的密码和链接</string>
-    <string name="activity_account_toast_invalid_email_or_password">无效的邮箱或者密码</string>
+    <string name="activity_account_toast_invalid_identify_or_password">无效的账号或者密码</string>
     <string name="activity_account_toast_reset_password_success">我们已经给您发送了邮件，请点击邮件中的链接重置密码。</string>
     <string name="activity_account_toast_profile_update_success">成功更新个人资料！</string>
     <string name="activity_account_toast_profile_update_failed">更新个人资料失败！</string>

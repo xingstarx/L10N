@@ -44,6 +44,7 @@
     <string name="activity_landing_google_plus_sign_in_progress">Sign in with Google Plus</string>
     <string name="activity_landing_facebook_sign_in_progress">Sign in with Facebook</string>
     <string name="activity_account_title_edit_profile">Edit profile</string>
+    <string name="activity_account_hint_identify">username or email</string>
     <string name="activity_account_hint_email">email</string>
     <string name="activity_account_hint_username">username</string>
     <string name="activity_account_hint_password">password</string>
@@ -75,7 +76,7 @@
     <string name="activity_account_toast_follow_failed">Error when following</string>
     <string name="activity_account_toast_invalid_email">Invalid email</string>
     <string name="activity_account_toast_invalid_password_or_token">Invalid password or token</string>
-    <string name="activity_account_toast_invalid_email_or_password">Invalid email or password</string>
+    <string name="activity_account_toast_invalid_identify_or_password">Invalid identify or password</string>
     <string name="activity_account_toast_reset_password_success">We\'ve sent an email to you. Click the link in the email to reset your password.</string>
     <string name="activity_account_toast_profile_update_success">Update profile successfully!</string>
     <string name="activity_account_toast_profile_update_failed">Failed to update your profile</string>
