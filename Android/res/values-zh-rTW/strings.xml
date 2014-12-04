@@ -75,7 +75,7 @@
     <string name="activity_account_toast_follow_failed">關注失敗了</string>
     <string name="activity_account_toast_invalid_email">無效的電子信箱</string>
     <string name="activity_account_toast_invalid_password_or_token">無效的密碼和鏈接</string>
-    <string name="activity_account_toast_invalid_email_or_password">無效的電子信箱或者密碼</string>
+    <string name="activity_account_toast_invalid_identify_or_password">無效的電子信箱或者密碼</string>
     <string name="activity_account_toast_reset_password_success">我們已經給你寄送了信件，請點選信件中的鏈接重置密碼。</string>
     <string name="activity_account_toast_profile_update_success">成功更新個人資料！</string>
     <string name="activity_account_toast_profile_update_failed">更新個人資料失敗！</string>
