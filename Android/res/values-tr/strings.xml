@@ -32,7 +32,7 @@
     <string name="menu_search">Ara</string>
     <string name="menu_like">Beğen</string>
     <string name="menu_share">Paylaş</string>
-    <string name="search_hint">Kişileri ara</string>
+    <string name="search_hint">Video/kişi/oyun ara</string>
     <string name="profile_text_videos">video</string>
     <string name="profile_text_followers">takipçi</string>
     <string name="profile_text_following">takip edilen</string>
@@ -44,6 +44,7 @@
     <string name="activity_landing_google_plus_sign_in_progress">Google Plus ile giriş yap</string>
     <string name="activity_landing_facebook_sign_in_progress">Facebook ile giriş yap</string>
     <string name="activity_account_title_edit_profile">Profili düzenle</string>
+    <string name="activity_account_hint_identify">kullanıcı adı ya da email</string>
     <string name="activity_account_hint_email">email</string>
     <string name="activity_account_hint_username">kullanıcı adı</string>
     <string name="activity_account_hint_password">parola</string>
@@ -75,8 +76,8 @@
     <string name="activity_account_toast_follow_failed">Takip etme başarısız</string>
     <string name="activity_account_toast_invalid_email">Geçersiz email</string>
     <string name="activity_account_toast_invalid_password_or_token">Geçersiz parola ya da token</string>
-    <string name="activity_account_toast_invalid_email_or_password">Geçersiz email ya da parola</string>
-    <string name="activity_account_toast_reset_password_success">Size bir eposta gönderdik. Parolanızı sıfırlamak için postanın içindeki linke tıklayın.</string>
+    <string name="activity_account_toast_invalid_identify_or_password">Geçersiz kimlik ya da parola</string>
+    <string name="activity_account_toast_reset_password_success">Size bir e-posta gönderdik. Parolanızı sıfırlamak için postanın içindeki linke tıklayın.</string>
     <string name="activity_account_toast_profile_update_success">Profil başarıyla güncellendi!</string>
     <string name="activity_account_toast_profile_update_failed">Profiliniz güncellenemedi</string>
     <string name="activity_account_toast_failed_to_sign_in_with_google_plus">Google Plus ile giriş yapılamadı :(</string>
@@ -103,6 +104,7 @@
     <string name="activity_no_following">Takip edilen yok</string>
     <string name="activity_no_follower">Takipçi yok</string>
     <string name="activity_no_people">Kişi yok</string>
+    <string name="activity_no_game">Oyun yok</string>
     <string name="activity_recordings">Kayıtlar</string>
     <string name="activity_network_error">Ağ hatası ~</string>
     <string name="activity_accessibility_enable">Gizlilik korumasını etkinleştir</string>
@@ -207,8 +209,8 @@
     <string name="pref_title_misc_open_source">Açık kaynak lisansları</string>
     <string name="pref_title_misc_privacy_policy">Gizlilik</string>
     <string name="pref_title_misc_terms_of_service">Hizmet şartları</string>
-    <string name="pref_title_misc_push">Push messages</string>
-    <string name="pref_summary_misc_push">Whether to receive push messages</string>
+    <string name="pref_title_misc_push">Anlık mesaj</string>
+    <string name="pref_summary_misc_push">Anında mesaj alıp almayacağını ayarla</string>
     <string name="msg_send_faild">Mesaj gönderilemiyor</string>
     <string name="msg_description_send">Gönder</string>
     <string name="msg_description_loading">Yükleniyor...</string>
@@ -240,5 +242,6 @@
     <string name="root_access_title">Root erişimi gereklidir</string>
     <string name="root_access_link">Root nedir?</string>
     <string name="notification_push_live_title">%s canlı yayın yapıyor</string>
+     <string name="notification_push_multi_live_title">%s oyuncu canlı yayın yapıyor</string>
 
 </resources>
