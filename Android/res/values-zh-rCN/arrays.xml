@@ -58,9 +58,9 @@
         <item>主播</item>
     </string-array>
     <string-array name="search_tabs">
-        <item>视频</item>
         <item>主播</item>
         <item>游戏</item>
+        <item>视频</item>
     </string-array>
 
 </resources>

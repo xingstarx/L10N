@@ -32,7 +32,7 @@
     <string name="menu_search">搜索</string>
     <string name="menu_like">喜欢</string>
     <string name="menu_share">分享</string>
-    <string name="search_hint">搜索视频、主播或游戏</string>
+    <string name="search_hint">搜索主播、游戏或视频</string>
     <string name="profile_text_videos">视频</string>
     <string name="profile_text_followers">粉丝</string>
     <string name="profile_text_following">关注</string>

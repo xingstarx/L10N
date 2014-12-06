@@ -57,5 +57,10 @@
         <item>影片</item>
         <item>玩家</item>
     </string-array>
+    <string-array name="search_tabs">
+        <item>玩家</item>
+        <item>遊戲</item>
+        <item>影片</item>
+    </string-array>
 
 </resources>

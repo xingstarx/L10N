@@ -58,9 +58,9 @@
         <item>players</item>
     </string-array>
     <string-array name="search_tabs">
-        <item>videos</item>
         <item>players</item>
         <item>games</item>
+        <item>videos</item>
     </string-array>
 
 </resources>
