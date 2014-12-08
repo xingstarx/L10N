@@ -119,7 +119,7 @@
     <string name="streaming_broadcasting">CANLI YAYIN</string>
     <string name="streaming_recording">KAYDEDİLİYOR</string>
     <string name="streaming_mirroring">EKRAN PAYLAŞILIYOR</string>
-    <string name="streaming_btn_watch">İzle</string>
+    <string name="streaming_btn_chat">İzle</string>
     <string name="streaming_btn_share">Paylaş</string>
     <string name="streaming_btn_stop">Durdur</string>
     <string name="alert_dialog_button_open">Aç</string>

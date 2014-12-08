@@ -117,7 +117,7 @@
     <string name="streaming_broadcasting">正在直播</string>
     <string name="streaming_recording">正在錄影</string>
     <string name="streaming_mirroring">正在螢幕投射</string>
-    <string name="streaming_btn_watch">觀看</string>
+    <string name="streaming_btn_chat">聊天</string>
     <string name="streaming_btn_share">分享</string>
     <string name="streaming_btn_stop">停止</string>
     <string name="alert_dialog_button_open">打開</string>
