@@ -58,9 +58,9 @@
         <item>oyuncular</item>
     </string-array>
     <string-array name="search_tabs">
-        <item>video</item>
         <item>oyuncu</item>
         <item>oyun</item>
+        <item>video</item>
     </string-array>
 
 </resources>
