@@ -103,8 +103,9 @@
     <string name="activity_no_games">没有游戏</string>
     <string name="activity_no_following">没关注别人</string>
     <string name="activity_no_follower">没有人关注</string>
-    <string name="activity_no_people">没有相关主播</string>
-    <string name="activity_no_game">没有相关游戏</string>
+    <string name="activity_search_no_peoples">没有相关主播</string>
+    <string name="activity_search_no_games">没有相关游戏</string>
+    <string name="activity_search_no_videos">没有相关视频</string>
     <string name="activity_recordings">录制的视频</string>
     <string name="activity_network_error">网络异常～</string>
     <string name="activity_accessibility_enable">立即启用隐私保护</string>

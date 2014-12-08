@@ -103,8 +103,9 @@
     <string name="activity_no_games">No games to show</string>
     <string name="activity_no_following">No following</string>
     <string name="activity_no_follower">No followers</string>
-    <string name="activity_no_people">No people</string>
-    <string name="activity_no_game">No game</string>
+    <string name="activity_search_no_peoples">No people</string>
+    <string name="activity_search_no_games">No game</string>
+    <string name="activity_search_no_videos">No videos</string>
     <string name="activity_recordings">Recordings</string>
     <string name="activity_network_error">Network connection error ~</string>
     <string name="activity_accessibility_enable">Enable privacy protection</string>
