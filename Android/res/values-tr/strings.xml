@@ -32,7 +32,7 @@
     <string name="menu_search">Ara</string>
     <string name="menu_like">Beğen</string>
     <string name="menu_share">Paylaş</string>
-    <string name="search_hint">Video/kişi/oyun ara</string>
+    <string name="search_hint">Oyuncu/oyun/video ara</string>
     <string name="profile_text_videos">video</string>
     <string name="profile_text_followers">takipçi</string>
     <string name="profile_text_following">takip edilen</string>
@@ -109,7 +109,7 @@
     <string name="activity_network_error">Ağ hatası ~</string>
     <string name="activity_accessibility_enable">Gizlilik korumasını etkinleştir</string>
     <string name="activity_accessibility_setting">Gizlilik korumasını ayarla</string>
-    <string name="activity_accessibility_title">Gizlilik koruması</string>
+    <string name="activity_accessibility_title">Gizlilik Koruması</string>
     <string name="activity_accessibility_disable_label">Ayarlardan Shou\'yu bulun, ve dokunun, sonra etkinleştirin. Bu kayıt veya canlı yayın yaparken parola ve gizlilik bilgilerinizi korur ve ekranı bulanıklaştırır.</string>
     <string name="activity_accessibility_disable_setting">Ayarlara git</string>
     <string name="action_open">Aç</string>
@@ -119,7 +119,7 @@
     <string name="streaming_broadcasting">CANLI YAYIN</string>
     <string name="streaming_recording">KAYDEDİLİYOR</string>
     <string name="streaming_mirroring">EKRAN PAYLAŞILIYOR</string>
-    <string name="streaming_btn_watch">İzle</string>
+    <string name="streaming_btn_watch">Sohbet et</string>
     <string name="streaming_btn_share">Paylaş</string>
     <string name="streaming_btn_stop">Durdur</string>
     <string name="alert_dialog_button_open">Aç</string>
