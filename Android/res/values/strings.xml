@@ -123,6 +123,7 @@
     <string name="streaming_btn_chat">chat</string>
     <string name="streaming_btn_share">share</string>
     <string name="streaming_btn_stop">STOP</string>
+    <string name="streaming_chat_title">chat room</string>
     <string name="alert_dialog_button_open">Open</string>
     <string name="alert_dialog_button_delete">Delete</string>
     <string name="alert_dialog_button_share">Share</string>
