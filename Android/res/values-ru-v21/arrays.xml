@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="pref_entries_audio_source">
+        <item>Без звука</item>
+        <item>Микрофон</item>
+    </string-array>
+    <string-array name="pref_entries_video_source_engine">
+        <item>Ничего</item>
+        <item>Фантом</item>
+    </string-array>
+
+</resources>

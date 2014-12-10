@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="pref_entries_video_output_format">
+        <item>MKV</item>
+        <item>MP4</item>
+        <item>MOV</item>
+        <item>MPEG-TS</item>
+        <item>FLV</item>
+        <item>AVI</item>
+    </string-array>
+    <string-array name="pref_entries_video_source_engine">
+        <item>Ничего</item>
+        <item>Память</item>
+    </string-array>
+    <string-array name="pref_entries_video_encoding_engine">
+        <item>Аппаратное</item>
+        <item>Программное</item>
+    </string-array>
+    <string-array name="pref_entries_video_orientation">
+        <item>Авто</item>
+        <item>Ландшафтная</item>
+        <item>Портретная</item>
+    </string-array>
+    <string-array name="pref_entries_video_resolution">
+        <item>240P</item>
+        <item>320P</item>
+        <item>480P</item>
+        <item>640P</item>
+        <item>720P</item>
+        <item>1080P</item>
+    </string-array>
+    <string-array name="pref_entries_video_bitrate">
+        <item>256 Кбит/с</item>
+        <item>512 Кбит/с</item>
+        <item>1 Мбит/с</item>
+        <item>2 Мбит/с</item>
+        <item>4 Мбит/с</item>
+        <item>8 Мбит/с</item>
+        <item>10 Мбит/с</item>
+        <item>16 Мбит/с</item>
+    </string-array>
+    <string-array name="pref_entries_audio_source">
+        <item>Без звука</item>
+        <item>Микрофон</item>
+    </string-array>
+    <string-array name="pref_entries_network_type">
+        <item>Только Wi-Fi</item>
+        <item>Любая сеть</item>
+    </string-array>
+    <string-array name="profile_tabs">
+        <item>видео</item>
+        <item>подписки</item>
+        <item>подписчики</item>
+    </string-array>
+    <string-array name="app_tabs">
+        <item>видео</item>
+        <item>игроки</item>
+    </string-array>
+    <string-array name="search_tabs">
+        <item>игроки</item>
+        <item>игры</item>
+        <item>видео</item>
+    </string-array>
+
+</resources>
