@@ -10,7 +10,7 @@
     <string name="description_notification_record">Начало или остановка записи</string>
     <string name="description_notification_broadcast">Начало или остановка трансляции</string>
     <string name="description_notification_quit">Завершить</string>
-    <string name="description_notification_icon">Иконка</string>	
+    <string name="description_toast_icon">Иконка</string>
     <string name="description_activity_landing_background">Фон Shou.TV</string>
     <string name="description_activity_landing_brand">Бренд Shou.TV</string>
     <string name="description_activity_account_field_glyph_bio">Биография глифов</string>
