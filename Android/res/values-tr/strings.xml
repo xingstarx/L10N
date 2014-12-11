@@ -58,10 +58,10 @@
     <string name="activity_account_btn_signing_in">Giriş Yapılıyor</string>
     <string name="activity_account_btn_signed_in">Giriş Yapıldı</string>
     <string name="activity_account_btn_forgot_password">Parolanızı mı unuttunuz?</string>
-    <string name="activity_account_btn_reset_password">Parolamı sıfırla</string>
     <string name="activity_account_btn_recover_password">Sıfırlama isteği gönder</string>
     <string name="activity_account_btn_recovering_password">İstek gönderiliyor</string>
     <string name="activity_account_btn_recover_complete">İstek gönderildi</string>
+    <string name="activity_account_btn_reset_password">Parolamı sıfırla</string>
     <string name="activity_account_btn_reset_password_complete">Parolama sıfırlama başarılı</string>
     <string name="activity_account_btn_resetting_password">Parolamı sıfırla</string>
     <string name="activity_account_btn_save_profile">Kaydet</string>
@@ -103,8 +103,9 @@
     <string name="activity_no_games">Gösterilecek oyun yok</string>
     <string name="activity_no_following">Takip edilen yok</string>
     <string name="activity_no_follower">Takipçi yok</string>
-    <string name="activity_no_people">Kişi yok</string>
-    <string name="activity_no_game">Oyun yok</string>
+    <string name="activity_search_no_peoples">Kişi yok</string>
+    <string name="activity_search_no_games">Oyun yok</string>
+    <string name="activity_search_no_videos">Video yok</string>
     <string name="activity_recordings">Kayıtlar</string>
     <string name="activity_network_error">Ağ hatası ~</string>
     <string name="activity_accessibility_enable">Gizlilik korumasını etkinleştir</string>
@@ -119,9 +120,10 @@
     <string name="streaming_broadcasting">CANLI YAYIN</string>
     <string name="streaming_recording">KAYDEDİLİYOR</string>
     <string name="streaming_mirroring">EKRAN PAYLAŞILIYOR</string>
-    <string name="streaming_btn_watch">Sohbet et</string>
+    <string name="streaming_btn_chat">Sohbet et</string>
     <string name="streaming_btn_share">Paylaş</string>
     <string name="streaming_btn_stop">Durdur</string>
+    <string name="streaming_chat_title">Sohbet Odası</string>
     <string name="alert_dialog_button_open">Aç</string>
     <string name="alert_dialog_button_delete">Sil</string>
     <string name="alert_dialog_button_share">Paylaş</string>
@@ -199,7 +201,7 @@
     <string name="pref_summary_misc_reset">Varsayılan ayarlara dön</string>
     <string name="pref_title_misc_recording_dir">Kayıt klasörü</string>
     <string name="pref_title_misc_about">Hakkında</string>
-    <string name="pref_summary_misc_about">Versiyon: %s</string>
+    <string name="pref_summary_misc_about">Sürüm: %s</string>
     <string name="pref_title_misc_twitter">Twitter</string>
     <string name="pref_summary_misc_twitter">\@Shou_TV</string>
     <string name="pref_title_misc_google_plus">Google+</string>
@@ -242,6 +244,6 @@
     <string name="root_access_title">Root erişimi gereklidir</string>
     <string name="root_access_link">Root nedir?</string>
     <string name="notification_push_live_title">%s canlı yayın yapıyor</string>
-     <string name="notification_push_multi_live_title">%s oyuncu canlı yayın yapıyor</string>
+    <string name="notification_push_multi_live_title">%s oyuncu canlı yayın yapıyor</string>
 
 </resources>
