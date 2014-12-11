@@ -38,12 +38,13 @@
     <string name="profile_text_following">關注</string>
     <string name="profile_text_live">直播</string>
     <string name="profile_edit_profile">編輯個人資料</string>
-    <string name="activity_landing_brand_name">Shou your game screen\nTHE HOLY SPIRIT OF THE GAME</string>
+    <string name="activity_landing_brand_name">分享你的遊戲畫面\nTHE HOLY SPIRIT OF THE GAME</string>
     <string name="activity_landing_btn_sign_up">註冊</string>
     <string name="activity_landing_btn_sign_in">登錄</string>
     <string name="activity_landing_google_plus_sign_in_progress">正在用 Google 登錄</string>
     <string name="activity_landing_facebook_sign_in_progress">正在用 Facebook 登錄</string>
     <string name="activity_account_title_edit_profile">編輯個人資料</string>
+    <string name="activity_account_hint_identify">帳號或是email</string>
     <string name="activity_account_hint_email">電子信箱</string>
     <string name="activity_account_hint_username">用戶名稱</string>
     <string name="activity_account_hint_password">密碼</string>
@@ -56,10 +57,10 @@
     <string name="activity_account_btn_signed_up">註冊成功</string>
     <string name="activity_account_btn_signing_in">登錄中</string>
     <string name="activity_account_btn_signed_in">登錄成功</string>
+    <string name="activity_account_btn_forgot_password">忘記密碼了？</string>
     <string name="activity_account_btn_recover_password">寄送認證信</string>
     <string name="activity_account_btn_recovering_password">寄送中...</string>
     <string name="activity_account_btn_recover_complete">認證信寄送成功</string>
-    <string name="activity_account_btn_forgot_password">忘記密碼了？</string>
     <string name="activity_account_btn_reset_password">重置密碼</string>
     <string name="activity_account_btn_reset_password_complete">重置密碼成功</string>
     <string name="activity_account_btn_resetting_password">正在重置中</string>
@@ -102,7 +103,9 @@
     <string name="activity_no_games">沒有遊戲</string>
     <string name="activity_no_following">沒關注别人</string>
     <string name="activity_no_follower">沒有人關注</string>
-    <string name="activity_no_people">沒有相關用户</string>
+    <string name="activity_search_no_peoples">沒有相關用户</string>
+    <string name="activity_search_no_games">沒有遊戲</string>
+    <string name="activity_search_no_videos">沒有影片</string>
     <string name="activity_recordings">錄影的影片</string>
     <string name="activity_network_error">網路異常～</string>
     <string name="activity_accessibility_enable">立即使用隱私保護</string>
@@ -120,6 +123,7 @@
     <string name="streaming_btn_chat">聊天</string>
     <string name="streaming_btn_share">分享</string>
     <string name="streaming_btn_stop">停止</string>
+    <string name="streaming_chat_title">聊天室</string>
     <string name="alert_dialog_button_open">打開</string>
     <string name="alert_dialog_button_delete">删除</string>
     <string name="alert_dialog_button_share">分享</string>
@@ -181,14 +185,14 @@
     <string name="pref_summary_video_show_touches">打開選項在手指觸控螢幕時顯示小白點</string>
     <string name="pref_title_video_swap_uv">修復顏色補正</string>
     <string name="pref_summary_video_swap_uv">有些設備（如三星）硬編碼的影片顏色異常</string>
-    <string name="pref_title_audio_source">音效源</string>
+    <string name="pref_title_audio_source">聲音來源</string>
     <string name="pref_title_audio_patch_driver">修正音效驅動</string>
     <string name="pref_summary_audio_patch_driver">危顯操作！可能透過這個操作來讓系統內音效錄影工作</string>
     <string name="pref_title_audio_restore_driver">還原音效驅動</string>
     <string name="pref_summary_audio_restore_driver">如果你修正過音效驅動，這個操作可以讓驅動還原到初始狀態</string>
     <string name="pref_title_misc_auto_restart">自動重連</string>
-    <string name="pref_summary_misc_auto_restart">在螢幕直播或螢幕投射失敗後自動重連</string>
-    <string name="pref_title_misc_network_type">直播網路選擇</string>
+    <string name="pref_title_misc_network_type">直播結束</string>
+    <string name="pref_summary_misc_auto_restart">在螢幕直播或螢幕投射失敗後自動重新連接</string>
     <string name="pref_title_misc_bubble">啟用多功能浮動視窗</string>
     <string name="pref_summary_misc_bubble">在直播或螢幕投射時顯示多功能浮動視窗</string>
     <string name="pref_title_misc_server">直播伺服器選擇</string>
@@ -196,7 +200,7 @@
     <string name="pref_title_misc_reset">重置</string>
     <string name="pref_summary_misc_reset">把所有設定重置為預設值</string>
     <string name="pref_title_misc_recording_dir">錄影影片的資料夾</string>
-    <string name="pref_title_misc_about">關於 Shou.TV</string>
+    <string name="pref_title_misc_about">關於</string>
     <string name="pref_summary_misc_about">軟體版本： %s</string>
     <string name="pref_title_misc_twitter">Twitter</string>
     <string name="pref_summary_misc_twitter">\@Shou_TV</string>
@@ -240,5 +244,6 @@
     <string name="root_access_title">需要 Root 系統權限</string>
     <string name="root_access_link">什麼是 Root 權限?</string>
     <string name="notification_push_live_title">%s 正在直播</string>
+    <string name="notification_push_multi_live_title">%s 個觀眾正在觀看</string>
 
 </resources>
