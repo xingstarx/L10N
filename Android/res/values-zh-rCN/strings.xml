@@ -144,6 +144,7 @@
     <string name="toast_worker_error_network_error">网络无法连接或内存空间不足！</string>
     <string name="toast_screencast_saved">录制的视频被保存在 %s</string>
     <string name="toast_settings_reset">所有设置已经被重置为默认</string>
+    <string name="toast_settings_audio_source_internal_need_root">你的设备没有 Root 权限，录制内部声音需要 Root 权限。</string>
     <string name="toast_settings_audio_source_internal_not_supported">你的设备似乎不支持这个特性。</string>
     <string name="toast_audio_driver_warning">如果你已经可以录制系统内部声音，请不要修正音频驱动。修正音频驱动有可能损坏你的设备，我们不提供任何担保。</string>
     <string name="toast_audio_driver_patch_success">音频驱动成功修正，请重启设备。</string>
