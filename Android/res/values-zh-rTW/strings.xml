@@ -72,6 +72,7 @@
     <string name="activity_account_btn_install">安裝</string>
     <string name="activity_account_btn_open">打開</string>
     <string name="activity_account_text_user_views">%s 次觀看</string>
+    <string name="activity_account_text_user_viewers">%s 名觀眾</string>
     <string name="activity_account_text_profile">個人資料</string>
     <string name="activity_account_toast_follow_failed">關注失敗了</string>
     <string name="activity_account_toast_invalid_email">無效的電子信箱</string>
