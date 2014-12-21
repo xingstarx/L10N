@@ -72,6 +72,7 @@
     <string name="activity_account_btn_install">YÜKLE</string>
     <string name="activity_account_btn_open">AÇ</string>
     <string name="activity_account_text_user_views">%s görüntüleme</string>
+    <string name="activity_account_text_user_viewers">%s izleyici</string>
     <string name="activity_account_text_profile">profil</string>
     <string name="activity_account_toast_follow_failed">Takip etme başarısız</string>
     <string name="activity_account_toast_invalid_email">Geçersiz email</string>
