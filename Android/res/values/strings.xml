@@ -73,6 +73,8 @@
     <string name="activity_account_btn_open">OPEN</string>
     <string name="activity_account_text_user_views">%s views</string>
     <string name="activity_account_text_user_viewers">%s viewers</string>
+    <string name="activity_account_text_game_casts">%s videos</string>
+    <string name="activity_account_text_game_players">%s players</string>
     <string name="activity_account_text_profile">profile</string>
     <string name="activity_account_toast_follow_failed">Error when following</string>
     <string name="activity_account_toast_invalid_email">Invalid email</string>

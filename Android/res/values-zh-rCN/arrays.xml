@@ -56,6 +56,7 @@
     <string-array name="app_tabs">
         <item>视频</item>
         <item>主播</item>
+        <item>游戏推荐</item>
     </string-array>
     <string-array name="search_tabs">
         <item>主播</item>

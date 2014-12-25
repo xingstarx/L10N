@@ -56,6 +56,7 @@
     <string-array name="app_tabs">
         <item>videos</item>
         <item>players</item>
+        <item>games recommended</item>
     </string-array>
     <string-array name="search_tabs">
         <item>players</item>
