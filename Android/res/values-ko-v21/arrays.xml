@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="pref_entries_video_source_engine">
+        <item>스크린 안 녹음</item>
+        <item>환영（아주 빠름，비교 안정）</item>
+    </string-array>
+
+</resources>

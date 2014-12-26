@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="pref_entries_audio_source">
+        <item>소리 없음</item>
+        <item>마이크</item>
+        <item>시크탬내 소리(스크린을 녹음할 때 소리 없음)</item>
+    </string-array>
+    <string-array name="pref_entries_video_source_engine">
+        <item>스크린 안 녹음</item>
+        <item>환영（아주 빠름，비교 안정）</item>
+        <item>메모리（비교 느림，많은 안정）</item>
+    </string-array>
+
+</resources>
