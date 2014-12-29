@@ -56,7 +56,7 @@
     <string-array name="app_tabs">
         <item>video</item>
         <item>oyuncular</item>
-		<item>oyunlar</item>
+        <item>oyunlar</item>
     </string-array>
     <string-array name="search_tabs">
         <item>oyuncu</item>

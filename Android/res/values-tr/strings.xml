@@ -73,9 +73,9 @@
     <string name="activity_account_btn_open">AÇ</string>
     <string name="activity_account_text_user_views">%s görüntüleme</string>
     <string name="activity_account_text_user_viewers">%s izleyici</string>
-	<string name="activity_account_text_game_casts">%s video</string>
-	<string name="activity_account_text_game_players">%s oyuncu</string>
-	<string name="activity_account_text_profile">profil</string>
+    <string name="activity_account_text_game_casts">%s video</string>
+    <string name="activity_account_text_game_players">%s oyuncu</string>
+    <string name="activity_account_text_profile">profil</string>
     <string name="activity_account_toast_follow_failed">Takip etme başarısız</string>
     <string name="activity_account_toast_invalid_email">Geçersiz email</string>
     <string name="activity_account_toast_invalid_password_or_token">Geçersiz parola ya da token</string>
@@ -114,7 +114,9 @@
     <string name="activity_accessibility_enable">Gizlilik korumasını etkinleştir</string>
     <string name="activity_accessibility_setting">Gizlilik korumasını ayarla</string>
     <string name="activity_accessibility_title">Gizlilik Koruması</string>
-    <string name="activity_accessibility_disable_label">Ayarlardan Shou\'yu bulun, ve dokunun, sonra etkinleştirin. Bu kayıt veya canlı yayın yaparken parola ve gizlilik bilgilerinizi korur ve ekranı bulanıklaştırır.</string>
+    <string name="activity_accessibility_disable_label">Ayarlardan Shou\'yu bulun, ve dokunun, sonra etkinleştirin. Bu kayıt veya canlı yayın yaparken parola ve gizlilik
+        bilgilerinizi korur ve ekranı bulanıklaştırır.
+    </string>
     <string name="activity_accessibility_disable_setting">Ayarlara git</string>
     <string name="action_open">Aç</string>
     <string name="action_delete">Sil</string>
@@ -166,10 +168,14 @@
     <string name="ticker_browser_stopped">Tarayıcıya paylaşım durduruldu&#8230;</string>
     <string name="ticker_browser_mirroring_to">%s</string>
     <string name="permission_read_shou_composer_label">read Shou composer</string>
-    <string name="permission_read_shou_composer_description">Ekranınızı kaydetmeye ve ekran görüntüsü almaya izin verir. Bütün yaptıklarınız görünebilir, ÖR. klavyeniz, şifreniz, vb.</string>
+    <string name="permission_read_shou_composer_description">Ekranınızı kaydetmeye ve ekran görüntüsü almaya izin verir. Bütün yaptıklarınız görünebilir, ÖR. klavyeniz, şifreniz,
+        vb.
+    </string>
     <string name="permission_group_shou_label">Shou</string>
-    <string name="permission_group_shou_description">Ekranınızı kaydetmeye ve ekran görüntüsü almaya izin verir. Bütün yaptıklarınız görünebilir, ÖR. klavyeniz, şifreniz, vb.</string>
-    <string name="permission_accessibility_description">Bu erişilebilirlik servisi, kayıt yaparken ya da Shou.TV\'ye canlı yayın yaparken parola ve gizlilik bilgilerinizi korur.</string>
+    <string name="permission_group_shou_description">Ekranınızı kaydetmeye ve ekran görüntüsü almaya izin verir. Bütün yaptıklarınız görünebilir, ÖR. klavyeniz, şifreniz, vb.
+    </string>
+    <string name="permission_accessibility_description">Bu erişilebilirlik servisi, kayıt yaparken ya da Shou.TV\'ye canlı yayın yaparken parola ve gizlilik bilgilerinizi korur.
+    </string>
     <string name="pref_title_category_video">Video</string>
     <string name="pref_summary_category_video">Video çözünürlüğü, bit hızı, vb.</string>
     <string name="pref_title_category_audio">Ses</string>
