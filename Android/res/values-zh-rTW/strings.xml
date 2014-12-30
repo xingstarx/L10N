@@ -140,7 +140,8 @@
     <string name="toast_api_error_connection_timeout">網路連接逾時</string>
     <string name="toast_api_error_server_5xx">Shou.TV 伺服器出錯</string>
     <string name="toast_api_error_not_found">沒有找到對應的訊息</string>
-    <string name="toast_worker_start_failed">Shou 無法啟動！</string>
+    <string name="toast_worker_start_failed_source">錄屏失敗，无法启动, 请重试！</string>
+    <string name="toast_worker_start_failed_recorder">無法連接服務器，請查看網路連接！</string>
     <string name="toast_worker_stop_failed">Shou 無法正常停止！</string>
     <string name="toast_worker_error_occurred">出現異常！</string>
     <string name="toast_worker_error_server_die">伺服器異常！</string>
