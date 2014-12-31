@@ -141,7 +141,7 @@
     <string name="toast_api_error_server_5xx">Shou.TV sunucusu hatalar ile karşılaştı</string>
     <string name="toast_api_error_not_found">Herhangi bir mesaj bulunamadı</string>
     <string name="toast_worker_start_failed_source">Ekranı kaydetme başarısız, lütfen tekrar deneyin!</string>
-    <string name="toast_worker_start_failed_recorder">Sunucuya bağlanılamıyor, lütfen internet bağlantınızı kpntrol edin</string>
+    <string name="toast_worker_start_failed_recorder">Sunucuya bağlanılamıyor, lütfen internet bağlantınızı kontrol edin</string>
     <string name="toast_worker_stop_failed">Kaydedici durdurulamadı!</string>
     <string name="toast_worker_error_occurred">Dahili hata oluştu!</string>
     <string name="toast_worker_error_server_die">Sunucu hatası oluştu!</string>
