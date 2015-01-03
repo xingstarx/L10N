@@ -2,10 +2,10 @@
 <resources>
 
     <string-array name="pref_entries_video_source_engine">
-        <item>不录屏</item>
-        <item>환영（아주 빠름，비교 안정）</item>
-        <item>메모리（비교 느림，많은 안정）</item>
-        <item>GPU（더 빠름，안정하지 않음）</item>
+        <item>없음</item>
+        <item>팬텀（매우 빠름，비교적 안정）</item>
+        <item>메모리（비교적 느림，매우 안정）</item>
+        <item>GPU（가장 빠름，안정적이지 않음）</item>
     </string-array>
 
 </resources>
