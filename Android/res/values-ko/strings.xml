@@ -172,11 +172,11 @@
     <string name="pref_title_category_video">동영상</string>
     <string name="pref_summary_category_video">동영상 해상도, 비트레이트 등</string>
     <string name="pref_title_category_audio">소리</string>
-    <string name="pref_summary_category_audio"음원, 드라이버 등</string>
+    <string name="pref_summary_category_audio">음원, 드라이버 등</string>
     <string name="pref_title_category_broadcast">방송</string>
     <string name="pref_summary_category_broadcast">방송 혹은 미러링</string>
     <string name="pref_title_category_misc">기타</string>
-    <string name="pref_summary_category_misc">제작자, 초기화 등/string>
+    <string name="pref_summary_category_misc">제작자, 초기화 등</string>
     <string name="pref_title_video_output_format">동영상 형식</string>
     <string name="pref_title_video_source_engine">소스 엔진</string>
     <string name="pref_title_video_encoding_engine">인코딩 엔진</string>
@@ -200,7 +200,7 @@
     <string name="pref_title_misc_server">방송 서버</string>
     <string name="pref_summary_misc_server">자동</string>
     <string name="pref_title_misc_reset">초기화</string>
-    <string name="pref_summary_misc_reset"기본 설정으로 초기화</string>
+    <string name="pref_summary_misc_reset">기본 설정으로 초기화</string>
     <string name="pref_title_misc_recording_dir">녹화 파일 경로</string>
     <string name="pref_title_misc_about"> Shou.TV에 대해</string>
     <string name="pref_summary_misc_about">버전: %s</string>
