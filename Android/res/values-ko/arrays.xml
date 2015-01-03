@@ -10,17 +10,17 @@
         <item>AVI（추천하지 않음）</item>
     </string-array>
     <string-array name="pref_entries_video_source_engine">
-        <item>스크린 녹음하지 않음</item>
-        <item>스크린 녹음</item>
+        <item>없음</item>
+        <item>메모리</item>
     </string-array>
     <string-array name="pref_entries_video_encoding_engine">
-        <item>하드 고딩（아주 빠름，비교 안정）</item>
-        <item>부두러운 코드（비교 느림，안정 많음）</item>
+        <item>하드웨어（매우 빠름，비교적 안정）</item>
+        <item>소프트웨어（비교적 느림，매우 안정）</item>
     </string-array>
     <string-array name="pref_entries_video_orientation">
-        <item>작동</item>
-        <item>가로운 스크린</item>
-        <item>세로운 스크린</item>
+        <item>자동</item>
+        <item>가로</item>
+        <item>세로</item>
     </string-array>
     <string-array name="pref_entries_video_resolution">
         <item>240P</item>
@@ -41,12 +41,12 @@
         <item>16 Mbps</item>
     </string-array>
     <string-array name="pref_entries_audio_source">
-        <item>소리 없음</item>
-        <item>마이크로폰</item>
+        <item>음소거</item>
+        <item>마이크</item>
     </string-array>
     <string-array name="pref_entries_network_type">
-        <item> Wi-Fi를 연결항 때만  생방송</item>
-        <item> Wi-Fi 과 휴대폰은 인터넷을 연결할 때 다 생방송</item>
+        <item> Wi-Fi를 연결할 때만</item>
+        <item> Wi-Fi와 데이터 네트워크</item>
     </string-array>
     <string-array name="profile_tabs">
         <item>비디오</item>
@@ -55,11 +55,11 @@
     </string-array>
     <string-array name="app_tabs">
         <item>비디오</item>
-        <item>캐스터</item>
-        <item>게임</item>
+        <item>팔로잉</item>
+        <item>팔로워</item>
     </string-array>
     <string-array name="search_tabs">
-        <item>캐스터</item>
+        <item>플레이어</item>
         <item>게임</item>
         <item>비디오</item>
     </string-array>
