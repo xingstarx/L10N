@@ -94,6 +94,8 @@
     <string name="activity_screen_streaming_checking">連接伺服器 &#8230;</string>
     <string name="activity_screen_streaming_ready">直播螢幕</string>
     <string name="activity_screen_streaming_share">我正在直播我的 Android 螢幕，快來看看吧 %s</string>
+    <string name="activity_screen_streaming_sharing">正在獲取分享鏈接 &#8230;</string>
+    <string name="activity_screen_streaming_share_game">我正在直播 %1$s，快來看看吧 %2$s</string>
     <string name="activity_screen_streaming_retry">重試</string>
     <string name="activity_screen_device_browser_name">把螢幕分享到瀏覽器中</string>
     <string name="activity_screen_choose_email">使用電子信箱反饋問題</string>

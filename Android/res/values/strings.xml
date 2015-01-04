@@ -94,6 +94,8 @@
     <string name="activity_screen_streaming_checking">Connecting &#8230;</string>
     <string name="activity_screen_streaming_ready">Broadcast</string>
     <string name="activity_screen_streaming_share">I\'m broadcasting my Android screen at %s</string>
+    <string name="activity_screen_streaming_sharing">Connecting &#8230;</string>
+    <string name="activity_screen_streaming_share_game">I\'m broadcasting %1$s at %2$s</string>
     <string name="activity_screen_streaming_retry">Retry</string>
     <string name="activity_screen_device_browser_name">Mirror to browser</string>
     <string name="activity_screen_choose_email">Feedback with email</string>
