@@ -94,6 +94,8 @@
     <string name="activity_screen_streaming_checking">Bağlanılıyor &#8230;</string>
     <string name="activity_screen_streaming_ready">Canlı yayını başlat</string>
     <string name="activity_screen_streaming_share">Android ekranımı %s adresinde paylaşıyorum</string>
+    <string name="activity_screen_streaming_sharing">Bağlanılıyor &#8230;</string>
+    <string name="activity_screen_streaming_share_game">%1$s uygulamasını %2$s adresinde canlı yayın yapıyorum</string>
     <string name="activity_screen_streaming_retry">Tekrar dene</string>
     <string name="activity_screen_device_browser_name">Ekranı tarayıcıya paylaş</string>
     <string name="activity_screen_choose_email">E-postayla geri bildir</string>
