@@ -28,9 +28,23 @@
         <item>480P</item>
         <item>640P</item>
         <item>720P</item>
-        <item>1080P</item>
     </string-array>
     <string-array name="pref_entries_video_bitrate">
+        <item>256 Кбит/с</item>
+        <item>512 Кбит/с</item>
+        <item>1 Мбит/с</item>
+        <item>2 Мбит/с</item>
+        <item>4 Мбит/с</item>
+    </string-array>
+    <string-array name="pref_entries_record_video_resolution">
+        <item>240P</item>
+        <item>320P</item>
+        <item>480P</item>
+        <item>640P</item>
+        <item>720P</item>
+        <item>1080P</item>
+    </string-array>
+    <string-array name="pref_entries_record_video_bitrate">
         <item>256 Кбит/с</item>
         <item>512 Кбит/с</item>
         <item>1 Мбит/с</item>
