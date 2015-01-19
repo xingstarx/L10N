@@ -175,11 +175,13 @@
     <string name="permission_group_shou_description">Allows the app to record your screen or take screenshot. All your operations could be monitored, e.g. your keyboard, password, etc.</string>
     <string name="permission_accessibility_description">This service will protect you from leaking password or privacy information when recording or broadcasting from Shou.TV</string>
     <string name="pref_title_category_video">Video</string>
-    <string name="pref_summary_category_video">Video resolution, bitrate, etc.</string>
+    <string name="pref_summary_category_video">Video source, encoding, etc.</string>
     <string name="pref_title_category_audio">Audio</string>
     <string name="pref_summary_category_audio">Audio source, driver, etc.</string>
     <string name="pref_title_category_broadcast">Broadcast</string>
     <string name="pref_summary_category_broadcast">Live streaming or mirroring</string>
+    <string name="pref_title_category_record">Record screen</string>
+    <string name="pref_summary_category_record">Record screen to sdcard</string>
     <string name="pref_title_category_misc">Misc</string>
     <string name="pref_summary_category_misc">About, reset, etc.</string>
     <string name="pref_title_video_output_format">Video format</string>

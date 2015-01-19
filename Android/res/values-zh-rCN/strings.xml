@@ -175,11 +175,13 @@
     <string name="permission_group_shou_description">允许应用录制你的设备屏幕，屏幕上所有信息都将被读取。</string>
     <string name="permission_accessibility_description">这是检测你当前屏幕的服务，启用这项服务后，将保护你输入的密码不被屏幕录制。</string>
     <string name="pref_title_category_video">视频</string>
-    <string name="pref_summary_category_video">比如视频分辨率、码率等</string>
+    <string name="pref_summary_category_video">比如视频源、编码等</string>
     <string name="pref_title_category_audio">音频</string>
     <string name="pref_summary_category_audio">比如音频源、音频驱动等</string>
     <string name="pref_title_category_broadcast">直播和镜像</string>
     <string name="pref_summary_category_broadcast">屏幕直播和镜像设置</string>
+    <string name="pref_title_category_record">屏幕录制</string>
+    <string name="pref_summary_category_record">录制屏幕存储到 sdcard</string>
     <string name="pref_title_category_misc">其他杂项</string>
     <string name="pref_summary_category_misc">录制目录、关于等</string>
     <string name="pref_title_video_output_format">视频格式</string>

@@ -175,11 +175,13 @@
     <string name="permission_group_shou_description">允許程式錄影你的設備螢幕，螢幕上所有訊息都將被讀取。</string>
     <string name="permission_accessibility_description">這是檢測你目前螢幕的服務，啟用這項服務後，將保護你輸入的密碼不被錄製下來。</string>
     <string name="pref_title_category_video">影片</string>
-    <string name="pref_summary_category_video">比如影片解析度、碼率等</string>
+    <string name="pref_summary_category_video">比如影片源、編碼等</string>
     <string name="pref_title_category_audio">音效</string>
     <string name="pref_summary_category_audio">比如聲音來源、音效驅動等</string>
     <string name="pref_title_category_broadcast">直播和螢幕投射</string>
     <string name="pref_summary_category_broadcast">螢幕直播和螢幕投射設定</string>
+    <string name="pref_title_category_record">屏幕錄製</string>
+    <string name="pref_summary_category_record">錄製屏幕存储到 sdcard</string>
     <string name="pref_title_category_misc">其他雜項</string>
     <string name="pref_summary_category_misc">錄影目錄、關於等</string>
     <string name="pref_title_video_output_format">影片格式</string>
