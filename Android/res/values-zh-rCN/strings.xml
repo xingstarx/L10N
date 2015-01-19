@@ -250,6 +250,8 @@
     <string name="video_duration_placement">0:00</string>
     <string name="root_access_title">需要 Root 访问权限</string>
     <string name="root_access_link">什么是 Root 权限?</string>
+    <string name="no_capture_screen_permission">需要截取屏幕的权限</string>
+    <string name="get_capture_screen_permission">获取权限</string>
     <string name="notification_push_live_title">%s 正在直播</string>
     <string name="notification_push_multi_live_title">您关注的 %s 位主播正在直播</string>
 

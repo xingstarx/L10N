@@ -250,6 +250,8 @@
     <string name="video_duration_placement">0:00</string>
     <string name="root_access_title">需要 Root 系統權限</string>
     <string name="root_access_link">什麼是 Root 權限?</string>
+    <string name="no_capture_screen_permission">需要截取屏幕的權限</string>
+    <string name="get_capture_screen_permission">獲取權限</string>
     <string name="notification_push_live_title">%s 正在直播</string>
     <string name="notification_push_multi_live_title">%s 個觀眾正在觀看</string>
 
