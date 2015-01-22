@@ -64,13 +64,13 @@
     </string-array>
     <string-array name="profile_tabs">
         <item>비디오</item>
-        <item>주목</item>
-        <item>팬</item>
+        <item>팔로잉</item>
+        <item>팔로워</item>
     </string-array>
     <string-array name="app_tabs">
         <item>비디오</item>
-        <item>팔로잉</item>
-        <item>팔로워</item>
+        <item>플레이어</item>
+        <item>게임</item>
     </string-array>
     <string-array name="search_tabs">
         <item>플레이어</item>
