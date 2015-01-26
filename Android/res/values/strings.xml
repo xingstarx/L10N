@@ -103,6 +103,7 @@
     <string name="activity_screen_live_title_hint">Title (optional)</string>
     <string name="activity_screen_live_game_hint">Choose game</string>
     <string name="activity_video_player_share">%1$s : %2$s</string>
+    <string name="activity_video_player_welcome">Welcome to the chat room!</string>
     <string name="activity_no_medias">No videos to show, \n check status bar to record screen.</string>
     <string name="activity_no_videos">No videos to show</string>
     <string name="activity_no_games">No games to show</string>

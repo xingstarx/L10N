@@ -48,8 +48,8 @@
     <string name="activity_account_hint_email">電子信箱</string>
     <string name="activity_account_hint_username">用戶名稱</string>
     <string name="activity_account_hint_password">密碼</string>
-    <string name="activity_account_hint_name">名字</string>
-    <string name="activity_account_hint_biography">介紹</string>
+    <string name="activity_account_hint_name">暱稱</string>
+    <string name="activity_account_hint_biography">個性簽名</string>
     <string name="activity_account_text_optional">可以不填</string>
     <string name="activity_account_choose_avatar">選擇大頭貼照</string>
     <string name="activity_account_choose_avatar_failed">大頭貼照選擇失敗</string>
@@ -103,6 +103,7 @@
     <string name="activity_screen_live_title_hint">標題（可以不寫）</string>
     <string name="activity_screen_live_game_hint">選擇直播的遊戲</string>
     <string name="activity_video_player_share">%1$s ：%2$s</string>
+    <string name="activity_video_player_welcome">歡迎來到我的聊天室！</string>
     <string name="activity_no_medias">還沒有拍攝影片</string>
     <string name="activity_no_videos">沒有影片</string>
     <string name="activity_no_games">沒有遊戲</string>
