@@ -103,6 +103,7 @@
     <string name="activity_screen_live_title_hint">Başlık (isteğe bağlı)</string>
     <string name="activity_screen_live_game_hint">Oyun seç</string>
     <string name="activity_video_player_share">%1$s : %2$s</string>
+    <string name="activity_video_player_welcome">Sohbet odasına hoşgeldiniz!</string>
     <string name="activity_no_medias">Gösterilecek video yok, \n kayıt için durum çubuğunu kontrol et.</string>
     <string name="activity_no_videos">Gösterilecek video yok</string>
     <string name="activity_no_games">Gösterilecek oyun yok</string>
