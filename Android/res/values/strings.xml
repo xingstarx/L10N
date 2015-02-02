@@ -257,5 +257,6 @@
     <string name="get_capture_screen_permission">Get permission</string>
     <string name="notification_push_live_title">%s is broadcasting</string>
     <string name="notification_push_multi_live_title">%s players are broadcasting</string>
+    <string name="no_root_url">http://www.androidpolice.com/2010/04/15/rooting-explained-top-5-benefits-of-rooting-your-android-phone/</string>
 
 </resources>
