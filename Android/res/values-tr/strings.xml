@@ -257,5 +257,5 @@
     <string name="get_capture_screen_permission">İzin ver</string>
     <string name="notification_push_live_title">%s canlı yayın yapıyor</string>
     <string name="notification_push_multi_live_title">%s oyuncu canlı yayın yapıyor</string>
-
+    <string name="no_root_url">http://philodox.net/android-root-yapmak-ne-demektir/</string>
 </resources>
