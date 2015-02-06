@@ -221,8 +221,8 @@
     <string name="pref_title_misc_open_source">Açık kaynak lisansları</string>
     <string name="pref_title_misc_privacy_policy">Gizlilik</string>
     <string name="pref_title_misc_terms_of_service">Hizmet şartları</string>
-    <string name="pref_title_misc_push">Anlık mesaj</string>
-    <string name="pref_summary_misc_push">Anında mesaj alıp almayacağını ayarla</string>
+    <string name="pref_title_misc_push">Bildirimler</string>
+    <string name="pref_summary_misc_push">Bildirimleri almak için etkinleştirin</string>
     <string name="msg_send_faild">Mesaj gönderilemiyor</string>
     <string name="msg_description_send">Gönder</string>
     <string name="msg_description_loading">Yükleniyor...</string>
