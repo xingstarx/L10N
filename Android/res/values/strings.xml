@@ -221,8 +221,8 @@
     <string name="pref_title_misc_open_source">Open source licenses</string>
     <string name="pref_title_misc_privacy_policy">Privacy policy</string>
     <string name="pref_title_misc_terms_of_service">Terms of service</string>
-    <string name="pref_title_misc_push">Push messages</string>
-    <string name="pref_summary_misc_push">Whether to receive push messages</string>
+    <string name="pref_title_misc_push">Notifications</string>
+    <string name="pref_summary_misc_push">Whether to receive notifications</string>
     <string name="msg_send_faild">Can\'t send this message</string>
     <string name="msg_description_send">Send</string>
     <string name="msg_description_loading">Loading</string>
