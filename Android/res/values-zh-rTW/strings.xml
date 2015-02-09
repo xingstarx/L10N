@@ -203,6 +203,8 @@
     <string name="pref_title_misc_auto_restart">自動重連</string>
     <string name="pref_title_misc_network_type">直播結束</string>
     <string name="pref_summary_misc_auto_restart">在螢幕直播或螢幕投射失敗後自動重新連接</string>
+    <string name="pref_title_misc_msg_pop">彈幕</string>
+    <string name="pref_summary_misc_msg_pop">是否在直播顯示消息彈幕</string>
     <string name="pref_title_misc_bubble">啟用多功能浮動視窗</string>
     <string name="pref_summary_misc_bubble">在直播或螢幕投射時顯示多功能浮動視窗</string>
     <string name="pref_title_misc_server">直播伺服器選擇</string>
