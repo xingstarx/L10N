@@ -24,7 +24,7 @@
     </string-array>
     <string-array name="pref_entries_video_resolution">
         <item>240P</item>
-        <item>360P</item>
+        <item>320P</item>
         <item>480P</item>
         <item>640P</item>
         <item>720P</item>
@@ -38,7 +38,7 @@
     </string-array>
     <string-array name="pref_entries_record_video_resolution">
         <item>240P</item>
-        <item>360P</item>
+        <item>320P</item>
         <item>480P</item>
         <item>640P</item>
         <item>720P</item>
