@@ -38,3 +38,8 @@ build/
 *.pc
 .deps
 .libs
+
+#Mac
+.DS_Store
+.settings/*
+lint.xml

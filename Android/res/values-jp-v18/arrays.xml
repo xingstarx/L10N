@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_entries_video_source_engine">
+        <item>レコードじゃない</item>
+        <item>ファントム（ファスト，安定する）</item>
+        <item>CPU（遅く，最安定する）</item>
+        <item>GPU（ファスト，安定しない）</item>
+    </string-array>
+</resources>
