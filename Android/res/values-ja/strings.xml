@@ -250,6 +250,6 @@
     <string name="video_duration_placement">0:00</string>
     <string name="root_access_title">Rooを求めいます</string>
     <string name="root_access_link">Rootは何ですか?</string>
-    <string name="notification_push_live_title">%s 生放送している</string>
+    <string name="notification_push_live_title">%1$s 生放送している %2$s</string>
     <string name="notification_push_multi_live_title">%s 位フォローな達人を生放送している</string>
 </resources>

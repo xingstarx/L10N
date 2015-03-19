@@ -257,7 +257,12 @@
     <string name="root_access_link">什麼是 Root 權限?</string>
     <string name="no_capture_screen_permission">需要截取屏幕的權限</string>
     <string name="get_capture_screen_permission">獲取權限</string>
-    <string name="notification_push_live_title">%s 正在直播</string>
+    <string name="notification_push_live_title">%1$s 正在直播 %2$s</string>
     <string name="notification_push_multi_live_title">%s 個觀眾正在觀看</string>
+    <string name="notification_push_follow_title">%s 現在是您的新粉絲</string>
+    <string name="notification_push_multi_follow_title">您有 %s 位新粉絲</string>
+    <string name="notification_push_like_title">%s 為您的視頻點了一個贊</string>
+    <string name="notification_push_multi_like_title">您新獲得了 %s 個贊</string>
+    <string name="notification_push_recommended_description">恭喜！您直播的視頻已被推薦到首頁！</string>
 
 </resources>

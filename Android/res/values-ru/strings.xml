@@ -243,7 +243,7 @@
     <string name="video_duration_placement">0:00</string>
     <string name="root_access_title">Необходимы Root-права</string>
     <string name="root_access_link">Что такое Root?</string>
-    <string name="notification_push_live_title">%s транслируется</string>
+    <string name="notification_push_live_title">%1$s транслируется %2$s</string>
     <string name="notification_push_multi_live_title">%s игроков транслируется</string>
 
 </resources>
