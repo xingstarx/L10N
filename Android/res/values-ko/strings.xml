@@ -245,7 +245,7 @@
     <string name="video_duration_placement">0:00</string>
     <string name="root_access_title">루트 권한 필요</string>
     <string name="root_access_link">루팅이 뭔가요?</string>
-    <string name="notification_push_live_title">%1$s 생방송 중 %2$s</string>
-    <string name="notification_push_multi_live_title">플레이어 %s명 생방송중</string>
+    <string name="notification_push_live_multi_title">%1$s 생방송 중 %2$s</string>
+    <string name="notification_push_live_big_title">플레이어 %s명 생방송중</string>
 
 </resources>

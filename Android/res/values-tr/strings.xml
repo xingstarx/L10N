@@ -263,7 +263,7 @@
     <string name="root_access_link">Root nedir?</string>
     <string name="no_capture_screen_permission">Ekranı kaydetme izni gereklidir</string>
     <string name="get_capture_screen_permission">İzin ver</string>
-    <string name="notification_push_live_title">%1$s canlı yayın yapıyor %2$s</string>
-    <string name="notification_push_multi_live_title">%s oyuncu canlı yayın yapıyor</string>
+    <string name="notification_push_live_multi_title">%1$s canlı yayın yapıyor %2$s</string>
+    <string name="notification_push_live_big_title">%s oyuncu canlı yayın yapıyor</string>
     <string name="no_root_url">http://philodox.net/android-root-yapmak-ne-demektir/</string>
 </resources>
