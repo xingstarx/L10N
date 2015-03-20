@@ -252,4 +252,5 @@
     <string name="root_access_link">Rootは何ですか?</string>
     <string name="notification_push_live_multi_title">%1$s 生放送している %2$s</string>
     <string name="notification_push_live_big_title">%s 位フォローな達人を生放送している</string>
+    <string name="profile_archive_broadcasts">自動的に配信内容をアーカイブ</string>
 </resources>

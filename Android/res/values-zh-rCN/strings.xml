@@ -266,5 +266,6 @@
     <string name="notification_push_like_description">为您的视频点了一个赞</string>
     <string name="notification_push_like_big_title">您新获得了 %s 个赞</string>
     <string name="notification_push_recommended_description">恭喜！您直播的视频已被推荐到首页！</string>
+    <string name="profile_archive_broadcasts">自动存档我的直播</string>
 
 </resources>

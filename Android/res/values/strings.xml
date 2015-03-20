@@ -38,6 +38,7 @@
     <string name="profile_text_following">following</string>
     <string name="profile_text_live">Live</string>
     <string name="profile_edit_profile">Edit profile</string>
+    <string name="profile_archive_broadcasts">Automatically archive my broadcasts</string>
     <string name="activity_landing_brand_name">Shou your game screen\nTHE HOLY SPIRIT OF THE GAME</string>
     <string name="activity_landing_btn_sign_up">Sign Up</string>
     <string name="activity_landing_btn_sign_in">Sign In</string>

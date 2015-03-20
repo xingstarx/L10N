@@ -266,5 +266,6 @@
     <string name="notification_push_like_description">為您的視頻點了一個贊</string>
     <string name="notification_push_like_big_title">您新獲得了 %s 個贊</string>
     <string name="notification_push_recommended_description">恭喜！您直播的視頻已被推薦到首頁！</string>
+    <string name="profile_archive_broadcasts">自動收藏我的直播</string>
 
 </resources>
