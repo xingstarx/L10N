@@ -260,8 +260,10 @@
     <string name="notification_push_live_title">%1$s 正在直播 %2$s</string>
     <string name="notification_push_multi_live_title">%s 個觀眾正在觀看</string>
     <string name="notification_push_follow_title">%s 現在是您的新粉絲</string>
+    <string name="notification_push_follow_description">是您的新粉絲</string>
     <string name="notification_push_multi_follow_title">您有 %s 位新粉絲</string>
     <string name="notification_push_like_title">%s 為您的視頻點了一個贊</string>
+    <string name="notification_push_like_description">為您的視頻點了一個贊</string>
     <string name="notification_push_multi_like_title">您新獲得了 %s 個贊</string>
     <string name="notification_push_recommended_description">恭喜！您直播的視頻已被推薦到首頁！</string>
 

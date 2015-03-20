@@ -258,8 +258,10 @@
     <string name="no_capture_screen_permission">Capture screen permission is required</string>
     <string name="get_capture_screen_permission">Get permission</string>
     <string name="notification_push_follow_title">%s is now following you</string>
+    <string name="notification_push_follow_description">following you</string>
     <string name="notification_push_multi_follow_title">%s followers</string>
     <string name="notification_push_like_title">%s like your broadcast</string>
+    <string name="notification_push_like_description">like your broadcast</string>
     <string name="notification_push_multi_like_title">%s likes</string>
     <string name="notification_push_live_title">%1$s is broadcasting %2$s</string>
     <string name="notification_push_multi_live_title">%s players are broadcasting</string>
