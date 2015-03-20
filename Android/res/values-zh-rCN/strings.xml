@@ -32,6 +32,7 @@
     <string name="menu_search">搜索</string>
     <string name="menu_like">喜欢</string>
     <string name="menu_share">分享</string>
+    <string name="menu_notifications">通知</string>
     <string name="search_hint">搜索主播、游戏或视频</string>
     <string name="profile_text_videos">视频</string>
     <string name="profile_text_followers">粉丝</string>
@@ -119,6 +120,8 @@
     <string name="activity_accessibility_title">隐私保护功能</string>
     <string name="activity_accessibility_disable_label">到设置里找到 Shou，点它，启用它，然后你的密码和一些隐私类的应用就不会被录制和直播了。</string>
     <string name="activity_accessibility_disable_setting">前往设置</string>
+    <string name="activity_notification_title">通知</string>
+    <string name="activity_no_notifications">没有通知</string>
     <string name="action_open">打开</string>
     <string name="action_delete">删除</string>
     <string name="action_share">分享</string>
@@ -231,6 +234,11 @@
     <string name="msg_hint_send_msg">开始聊天</string>
     <string name="msg_hint_send_disable">登录后开始聊天</string>
     <string name="msg_description_emoji">表情</string>
+    <string name="msg_ban_user">禁言</string>
+    <string name="msg_ban_user_description">%s 已经被禁言</string>
+    <string name="msg_unban_user">取消禁言</string>
+    <string name="msg_unban_user_description">%s 已经被取消禁言</string>
+    <string name="msg_popup_detail">查看</string>
     <string name="emoji_no_recent">最近没有使用过表情</string>
     <string name="emoji_description_back_space">回退</string>
     <string name="emoji_description_cell">格子</string>
