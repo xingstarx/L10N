@@ -44,6 +44,7 @@
     <string name="activity_landing_btn_sign_in">Sign In</string>
     <string name="activity_landing_google_plus_sign_in_progress">Sign in with Google Plus</string>
     <string name="activity_landing_facebook_sign_in_progress">Sign in with Facebook</string>
+    <string name="activity_landing_twitter_sign_in_progress">Sign in with Twitter</string>
     <string name="activity_account_title_edit_profile">Edit profile</string>
     <string name="activity_account_hint_identify">username or email</string>
     <string name="activity_account_hint_email">email</string>
@@ -86,6 +87,7 @@
     <string name="activity_account_toast_profile_update_failed">Failed to update your profile</string>
     <string name="activity_account_toast_failed_to_sign_in_with_google_plus">Failed to sign in with Google Plus :(</string>
     <string name="activity_account_toast_failed_to_sign_in_with_facebook">Failed to sign in with Facebook :(</string>
+    <string name="activity_account_toast_failed_to_sign_in_with_twitter">Failed to sign in with Twitter :(</string>
     <string name="activity_account_toast_sign_up_failed">Failed to sign up with provided information</string>
     <string name="activity_account_toast_sign_in_required">Sign in to continue</string>
     <string name="activity_image_cropper_btn_use">Use</string>
