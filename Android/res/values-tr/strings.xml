@@ -32,7 +32,7 @@
     <string name="menu_search">Ara</string>
     <string name="menu_like">Beğen</string>
     <string name="menu_share">Paylaş</string>
-	<string name="menu_notifications">Bildirimler</string>
+    <string name="menu_notifications">Bildirimler</string>
     <string name="search_hint">Oyuncu/oyun/video ara</string>
     <string name="profile_text_videos">video</string>
     <string name="profile_text_followers">takipçi</string>
