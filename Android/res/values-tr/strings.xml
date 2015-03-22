@@ -32,17 +32,20 @@
     <string name="menu_search">Ara</string>
     <string name="menu_like">Beğen</string>
     <string name="menu_share">Paylaş</string>
+    <string name="menu_notifications">Bildirimler</string>
     <string name="search_hint">Oyuncu/oyun/video ara</string>
     <string name="profile_text_videos">video</string>
     <string name="profile_text_followers">takipçi</string>
     <string name="profile_text_following">takip edilen</string>
     <string name="profile_text_live">Canlı</string>
     <string name="profile_edit_profile">Profili düzenle</string>
+    <string name="profile_archive_broadcasts">Canlı yayınları sunucuya kaydet</string>
     <string name="activity_landing_brand_name">Shou your game screen\nTHE HOLY SPIRIT OF THE GAME</string>
     <string name="activity_landing_btn_sign_up">Üye Ol</string>
     <string name="activity_landing_btn_sign_in">Giriş Yap</string>
     <string name="activity_landing_google_plus_sign_in_progress">Google Plus ile giriş yap</string>
     <string name="activity_landing_facebook_sign_in_progress">Facebook ile giriş yap</string>
+    <string name="activity_landing_twitter_sign_in_progress">Twitter ile giriş yap</string>
     <string name="activity_account_title_edit_profile">Profili düzenle</string>
     <string name="activity_account_hint_identify">kullanıcı adı ya da email</string>
     <string name="activity_account_hint_email">email</string>
@@ -85,6 +88,7 @@
     <string name="activity_account_toast_profile_update_failed">Profiliniz güncellenemedi</string>
     <string name="activity_account_toast_failed_to_sign_in_with_google_plus">Google Plus ile giriş yapılamadı :(</string>
     <string name="activity_account_toast_failed_to_sign_in_with_facebook">Facebook ile giriş yapılamadı :(</string>
+    <string name="activity_account_toast_failed_to_sign_in_with_twitter">Twitter ile giriş yapılamadı :(</string>
     <string name="activity_account_toast_sign_up_failed">Verilen bilgilerle üye olunamadı</string>
     <string name="activity_account_toast_sign_in_required">Devam etmek için giriş yapın</string>
     <string name="activity_image_cropper_btn_use">Kullan</string>
@@ -117,10 +121,10 @@
     <string name="activity_accessibility_enable">Gizlilik korumasını etkinleştir</string>
     <string name="activity_accessibility_setting">Gizlilik korumasını ayarla</string>
     <string name="activity_accessibility_title">Gizlilik Koruması</string>
-    <string name="activity_accessibility_disable_label">Ayarlardan Shou\'yu bulun, ve dokunun, sonra etkinleştirin. Bu kayıt veya canlı yayın yaparken parola ve gizlilik
-        bilgilerinizi korur ve ekranı bulanıklaştırır.
-    </string>
+    <string name="activity_accessibility_disable_label">Ayarlardan Shou\'yu bulun, ve dokunun, sonra etkinleştirin. Bu kayıt veya canlı yayın yaparken parola ve gizlilik bilgilerinizi korur ve ekranı bulanıklaştırır.</string>
     <string name="activity_accessibility_disable_setting">Ayarlara git</string>
+    <string name="activity_notification_title">Bildirimler</string>
+    <string name="activity_no_notifications">Bildirim yok</string>
     <string name="action_open">Aç</string>
     <string name="action_delete">Sil</string>
     <string name="action_share">Paylaş</string>
@@ -173,14 +177,10 @@
     <string name="ticker_browser_stopped">Tarayıcıya paylaşım durduruldu&#8230;</string>
     <string name="ticker_browser_mirroring_to">%s</string>
     <string name="permission_read_shou_composer_label">read Shou composer</string>
-    <string name="permission_read_shou_composer_description">Ekranınızı kaydetmeye ve ekran görüntüsü almaya izin verir. Bütün yaptıklarınız görünebilir, ÖR. klavyeniz, şifreniz,
-        vb.
-    </string>
+    <string name="permission_read_shou_composer_description">Ekranınızı kaydetmeye ve ekran görüntüsü almaya izin verir. Bütün yaptıklarınız görünebilir, ÖR. klavyeniz, şifreniz, vb.</string>
     <string name="permission_group_shou_label">Shou</string>
-    <string name="permission_group_shou_description">Ekranınızı kaydetmeye ve ekran görüntüsü almaya izin verir. Bütün yaptıklarınız görünebilir, ÖR. klavyeniz, şifreniz, vb.
-    </string>
-    <string name="permission_accessibility_description">Bu erişilebilirlik servisi, kayıt yaparken ya da Shou.TV\'ye canlı yayın yaparken parola ve gizlilik bilgilerinizi korur.
-    </string>
+    <string name="permission_group_shou_description">Ekranınızı kaydetmeye ve ekran görüntüsü almaya izin verir. Bütün yaptıklarınız görünebilir, ÖR. klavyeniz, şifreniz, vb.</string>
+    <string name="permission_accessibility_description">Bu erişilebilirlik servisi, kayıt yaparken ya da Shou.TV\'ye canlı yayın yaparken parola ve gizlilik bilgilerinizi korur.</string>
     <string name="pref_title_category_video">Video</string>
     <string name="pref_summary_category_video">Video kaynağı, çözümleme, vb.</string>
     <string name="pref_title_category_audio">Ses</string>
@@ -237,6 +237,11 @@
     <string name="msg_hint_send_msg">Bir mesaj gönder</string>
     <string name="msg_hint_send_disable">Giriş yapılmamış mesaj gönderme devre dışı</string>
     <string name="msg_description_emoji">İfade</string>
+    <string name="msg_ban_user">Engelle</string>
+    <string name="msg_ban_user_description">%s kullanıcısı zaten engellenmiş.</string>
+    <string name="msg_unban_user">Engellemeyi kaldır</string>
+    <string name="msg_unban_user_description">%s kullanıcısının engeli zaten kaldırılmış.</string>
+    <string name="msg_popup_detail">Detail</string>
     <string name="emoji_no_recent">Son kullanılan ifade yok</string>
     <string name="emoji_description_back_space">Sil</string>
     <string name="emoji_description_cell">Hücre</string>
@@ -265,5 +270,13 @@
     <string name="get_capture_screen_permission">İzin ver</string>
     <string name="notification_push_live_multi_title">%1$s canlı yayın yapıyor %2$s</string>
     <string name="notification_push_live_big_title">%s oyuncu canlı yayın yapıyor</string>
+    <string name="notification_push_follow_multi_title">%s seni takip etti</string>
+    <string name="notification_push_follow_description">seni takip etti</string>
+    <string name="notification_push_follow_big_title">%s takipçi</string>
+    <string name="notification_push_like_multi_title">%s yayınını beğendi</string>
+    <string name="notification_push_like_description">yayınını beğendi</string>
+    <string name="notification_push_like_big_title">%s beğenme</string>
+    <string name="notification_push_recommended_description">Videonuz önerildi!</string>
     <string name="no_root_url">http://philodox.net/android-root-yapmak-ne-demektir/</string>
+	
 </resources>
