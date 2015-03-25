@@ -122,6 +122,12 @@
     <string name="activity_accessibility_disable_setting">前往设置</string>
     <string name="activity_notification_title">通知</string>
     <string name="activity_no_notifications">没有通知</string>
+    <string name="activity_app_like_success">关注成功！</string>
+    <string name="activity_app_like_faild">关注失败 :(</string>
+    <string name="activity_app_unlike_success">取消关注成功！</string>
+    <string name="activity_app_unlike_faild">取消关注失败 :(</string>
+    <string name="activity_game_group_favorite">我关注的游戏</string>
+    <string name="activity_game_group_played">我直播过的游戏</string>
     <string name="action_open">打开</string>
     <string name="action_delete">删除</string>
     <string name="action_share">分享</string>
