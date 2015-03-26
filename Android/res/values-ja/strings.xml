@@ -220,7 +220,7 @@
     <string name="pref_title_misc_terms_of_service">利用規約</string>
     <string name="pref_title_misc_push">プッシュ</string>
     <string name="pref_summary_misc_push">通信を送信します、よろしでしょうか</string>
-    <string name="msg_send_faild">送りしない</string>
+    <string name="msg_send_failed">送りしない</string>
     <string name="msg_description_send">送りました</string>
     <string name="msg_description_loading">ローディング</string>
     <string name="msg_hint_send_msg">チェットしよ</string>

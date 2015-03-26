@@ -126,9 +126,9 @@
     <string name="activity_notification_title">Notifications</string>
     <string name="activity_no_notifications">No notifications</string>
     <string name="activity_app_like_success">Followed!</string>
-    <string name="activity_app_like_faild">Failed to Follow :(</string>
+    <string name="activity_app_like_failed">Failed to Follow :(</string>
     <string name="activity_app_unlike_success">Unfollowed!</string>
-    <string name="activity_app_unlike_faild">Failed to Unfollow :(</string>
+    <string name="activity_app_unlike_failed">Failed to Unfollow :(</string>
     <string name="activity_game_group_favorite">Followed Games</string>
     <string name="activity_game_group_played">Broadcast Games</string>
     <string name="action_open">Open</string>
@@ -237,7 +237,7 @@
     <string name="pref_title_misc_terms_of_service">Terms of service</string>
     <string name="pref_title_misc_push">Notifications</string>
     <string name="pref_summary_misc_push">Whether to receive notifications</string>
-    <string name="msg_send_faild">Can\'t send this message</string>
+    <string name="msg_send_failed">Can\'t send this message</string>
     <string name="msg_description_send">Send</string>
     <string name="msg_description_loading">Loading</string>
     <string name="msg_hint_send_msg">Send a message</string>

@@ -237,7 +237,7 @@
     <string name="pref_title_misc_terms_of_service">Hizmet şartları</string>
     <string name="pref_title_misc_push">Bildirimler</string>
     <string name="pref_summary_misc_push">Bildirimleri almak için etkinleştirin</string>
-    <string name="msg_send_faild">Mesaj gönderilemiyor</string>
+    <string name="msg_send_failed">Mesaj gönderilemiyor</string>
     <string name="msg_description_send">Gönder</string>
     <string name="msg_description_loading">Yükleniyor...</string>
     <string name="msg_hint_send_msg">Bir mesaj gönder</string>

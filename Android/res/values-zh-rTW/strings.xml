@@ -123,9 +123,9 @@
     <string name="activity_notification_title">通知</string>
     <string name="activity_no_notifications">沒有通知</string>
     <string name="activity_app_like_success">關注成功！</string>
-    <string name="activity_app_like_faild">關注失敗 :(</string>
+    <string name="activity_app_like_failed">關注失敗 :(</string>
     <string name="activity_app_unlike_success">取消關注成功！</string>
-    <string name="activity_app_unlike_faild">取消關注失敗 :(</string>
+    <string name="activity_app_unlike_failed">取消關注失敗 :(</string>
     <string name="activity_game_group_favorite">我關注的遊戲</string>
     <string name="activity_game_group_played">我直播過的遊戲</string>
     <string name="action_open">打開</string>
@@ -234,7 +234,7 @@
     <string name="pref_title_misc_terms_of_service">服務條款</string>
     <string name="pref_title_misc_push">推送</string>
     <string name="pref_summary_misc_push">是否接收消息推送</string>
-    <string name="msg_send_faild">寄送失敗</string>
+    <string name="msg_send_failed">寄送失敗</string>
     <string name="msg_description_send">寄送</string>
     <string name="msg_description_loading">加載中</string>
     <string name="msg_hint_send_msg">開始聊天</string>
