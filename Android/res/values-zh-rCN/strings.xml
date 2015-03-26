@@ -77,6 +77,7 @@
     <string name="activity_account_text_game_casts">%s 个视频</string>
     <string name="activity_account_text_game_players">%s 个玩家</string>
     <string name="activity_account_text_profile">profile</string>
+    <string name="activity_account_text_agree_term">点击继续，即表示你已阅读%1$s 服务条款 %2$s 并同意 %3$s 隐私政策 %4$s</string>
     <string name="activity_account_toast_follow_failed">关注失败了</string>
     <string name="activity_account_toast_invalid_email">无效的邮箱</string>
     <string name="activity_account_toast_invalid_password_or_token">无效的密码和链接</string>

@@ -79,6 +79,7 @@
     <string name="activity_account_text_game_casts">%s videos</string>
     <string name="activity_account_text_game_players">%s players</string>
     <string name="activity_account_text_profile">profile</string>
+    <string name="activity_account_text_agree_term">By tapping to continue, your are indicating that your have read the %1$s Terms of Service %2$s and agree to the %3$s Privacy Policy %4$s</string>
     <string name="activity_account_toast_follow_failed">Error when following</string>
     <string name="activity_account_toast_invalid_email">Invalid email</string>
     <string name="activity_account_toast_invalid_password_or_token">Invalid password or token</string>
