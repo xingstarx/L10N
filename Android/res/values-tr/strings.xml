@@ -130,7 +130,7 @@
     <string name="activity_app_unlike_success">Takip bırakıldı!</string>
     <string name="activity_app_unlike_failed">Takip bırakılamadı :(</string>
     <string name="activity_game_group_favorite">Takip Edilen Oyunlar</string>
-    <string name="activity_game_group_played">Broadcast Games</string>
+    <string name="activity_game_group_played">Oynadığın Oyunlar</string>
     <string name="action_open">Aç</string>
     <string name="action_delete">Sil</string>
     <string name="action_share">Paylaş</string>
