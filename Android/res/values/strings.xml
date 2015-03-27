@@ -24,6 +24,7 @@
     <string name="description_play_pause">Play pause</string>
     <string name="description_live">Live</string>
     <string name="description_rotation">Rotation</string>
+    <string name="menu_next">Next</string>
     <string name="menu_more">More</string>
     <string name="menu_recordings">Recordings</string>
     <string name="menu_settings">Settings</string>
@@ -79,7 +80,7 @@
     <string name="activity_account_text_game_casts">%s videos</string>
     <string name="activity_account_text_game_players">%s players</string>
     <string name="activity_account_text_profile">profile</string>
-    <string name="activity_account_text_agree_term">By tapping to continue, your are indicating that your have read the %1$s Terms of Service %2$s and agree to the %3$s Privacy Policy %4$s</string>
+    <string name="activity_account_text_agree_term">By tapping to SIGN UP, your are indicating that your have read the %1$s Terms of Service %2$s and agree to the %3$s Privacy Policy %4$s</string>
     <string name="activity_account_toast_follow_failed">Error when following</string>
     <string name="activity_account_toast_invalid_email">Invalid email</string>
     <string name="activity_account_toast_invalid_password_or_token">Invalid password or token</string>
@@ -132,6 +133,10 @@
     <string name="activity_app_unlike_failed">Failed to Unfollow :(</string>
     <string name="activity_game_group_favorite">Followed Games</string>
     <string name="activity_game_group_played">Broadcast Games</string>
+    <string name="activity_find_friends_follow_all">Follow all</string>
+    <string name="activity_find_friends_title">%s Friends</string>
+    <string name="activity_find_friends_text">You have %1$s %2$s friends on Shou.TV.</string>
+    <string name="activity_find_friends_no_people">No people found.</string>
     <string name="action_open">Open</string>
     <string name="action_delete">Delete</string>
     <string name="action_share">Share</string>
