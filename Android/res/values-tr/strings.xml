@@ -79,7 +79,7 @@
     <string name="activity_account_text_game_casts">%s video</string>
     <string name="activity_account_text_game_players">%s oyuncu</string>
     <string name="activity_account_text_profile">profil</string>
-    <string name="activity_account_text_agree_term">"Devam et"e basarak, %1$s Hizmet Şartlarını okuduğunuzu %2$s ve %3$s Gizlilik Politikasını kabul ettiğinizi belirtmiş oluyorsunuz %4$s</string>
+    <string name="activity_account_text_agree_term">"Kayıt Ol"a basarak, %1$s Hizmet Şartlarını okuduğunuzu %2$s ve %3$s Gizlilik Politikasını kabul ettiğinizi belirtmiş oluyorsunuz %4$s</string>
     <string name="activity_account_toast_follow_failed">Takip etme başarısız</string>
     <string name="activity_account_toast_invalid_email">Geçersiz email</string>
     <string name="activity_account_toast_invalid_password_or_token">Geçersiz parola ya da token</string>
@@ -132,6 +132,10 @@
     <string name="activity_app_unlike_failed">Takip bırakılamadı :(</string>
     <string name="activity_game_group_favorite">Takip Edilen Oyunlar</string>
     <string name="activity_game_group_played">Oynadığın Oyunlar</string>
+    <string name="activity_find_friends_follow_all">Hepsini takip et</string>
+    <string name="activity_find_friends_title">%s Arkadaş</string>
+    <string name="activity_find_friends_text">Shou.TV'de %1$s %2$s arkadaşın var.</string>
+    <string name="activity_find_friends_no_people">Oyuncu bulunmadı.</string>
     <string name="action_open">Aç</string>
     <string name="action_delete">Sil</string>
     <string name="action_share">Paylaş</string>
