@@ -253,7 +253,7 @@
     <string name="msg_ban_user_description">%s is already banned in this room.</string>
     <string name="msg_unban_user">Unban</string>
     <string name="msg_unban_user_description">%s is already unbanned in this room.</string>
-    <string name="msg_popup_detail">Detail</string>
+    <string name="msg_popup_detail">Profile</string>
     <string name="emoji_no_recent">No recent used emoji</string>
     <string name="emoji_description_back_space">Back space</string>
     <string name="emoji_description_cell">Cell</string>
