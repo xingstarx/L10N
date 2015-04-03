@@ -252,7 +252,7 @@
     <string name="msg_ban_user_description">%s kullanıcısı zaten engellenmiş.</string>
     <string name="msg_unban_user">Engellemeyi kaldır</string>
     <string name="msg_unban_user_description">%s kullanıcısının engeli zaten kaldırılmış.</string>
-    <string name="msg_popup_detail">Detail</string>
+    <string name="msg_popup_detail">Profil</string>
     <string name="emoji_no_recent">Son kullanılan ifade yok</string>
     <string name="emoji_description_back_space">Sil</string>
     <string name="emoji_description_cell">Hücre</string>
