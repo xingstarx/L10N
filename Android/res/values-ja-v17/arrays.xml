@@ -2,13 +2,13 @@
 
 <resources>
     <string-array name="pref_entries_audio_source">
-        <item>無言</item>
+        <item>ミュート(無し)</item>
         <item>マイク</item>
-        <item>システム・オーディオ（無言がレコードしている）</item>
+        <item>内部音声(Root化必須)</item>
     </string-array>
     <string-array name="pref_entries_video_source_engine">
-        <item>レコードじゃない</item>
-        <item>ファントム（ファスト，安定する</item>
-        <item>CPU（遅く，最安定する）</item>
+        <item>無し</item>
+        <item>ファントム</item>
+        <item>メモリー</item>
     </string-array>
 </resources>

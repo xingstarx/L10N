@@ -1,80 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <resources>
-    <string-array name="pref_entries_video_output_format">
-        <item>MKV</item>
-        <item>MP4（推薦じゃない）</item>
-        <item>MOV（推薦じゃない）</item>
-        <item>MPEG-TS</item>
-        <item>FLV</item>
-        <item>AVI（推薦じゃない）</item>
-    </string-array>
-    <string-array name="pref_entries_video_source_engine">
-        <item>レコードじゃない</item>
-        <item>レコード</item>
-    </string-array>
-    <string-array name="pref_entries_video_encoding_engine">
-        <item>ハードウェア(ファスト，安定する)</item>
-        <item>ソフトウェア(遅く，最安定する)</item>
-    </string-array>
-    <string-array name="pref_entries_video_orientation">
-        <item>オート</item>
-        <item>横置きリ</item>
-        <item>ポートレート</item>
-    </string-array>
-    <string-array name="pref_entries_video_resolution">
-        <item>240P</item>
-        <item>320P</item>
-        <item>480P</item>
-        <item>640P</item>
-        <item>720P</item>
-    </string-array>
-    <string-array name="pref_entries_video_bitrate">
-        <item>256 Kbps</item>
-        <item>512 Kbps</item>
-        <item>1 Mbps</item>
-        <item>2 Mbps</item>
-        <item>4 Mbps</item>
-    </string-array>
-    <string-array name="pref_entries_record_video_resolution">
-        <item>240P</item>
-        <item>320P</item>
-        <item>480P</item>
-        <item>640P</item>
-        <item>720P</item>
-        <item>1080P</item>
-    </string-array>
-    <string-array name="pref_entries_record_video_bitrate">
-        <item>256 Kbps</item>
-        <item>512 Kbps</item>
-        <item>1 Mbps</item>
-        <item>2 Mbps</item>
-        <item>4 Mbps</item>
-        <item>8 Mbps</item>
-        <item>10 Mbps</item>
-        <item>16 Mbps</item>
-    </string-array>
+
     <string-array name="pref_entries_audio_source">
-        <item>無言</item>
+        <item>ミュート(無し)</item>
         <item>マイク</item>
     </string-array>
     <string-array name="pref_entries_network_type">
-        <item>Wi-Fiを連続ただが、生放送します。</item>
-        <item>Wi-Fiや通信を連続して、生放送します。</item>
+        <item>Wi-Fiのみ</item>
+        <item>全ネットワーク</item>
     </string-array>
     <string-array name="profile_tabs">
-        <item>ビデオ</item>
-        <item>フォロー</item>
+        <item>動画</item>
+        <item>フォロー中</item>
         <item>フォロワー</item>
     </string-array>
     <string-array name="app_tabs">
-        <item>ビデオ</item>
-        <item>達人</item>
-        <item>おすすめ</item>
+        <item>動画</item>
+        <item>プレイヤー</item>
+        <item>ゲーム</item>
     </string-array>
     <string-array name="search_tabs">
-        <item>達人</item>
+        <item>プレイヤー</item>
         <item>ゲーム</item>
-        <item>ビデオ</item>
+        <item>動画</item>
     </string-array>
+
 </resources>
