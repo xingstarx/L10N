@@ -74,6 +74,7 @@
     <string name="activity_account_btn_install">安装</string>
     <string name="activity_account_btn_open">打开</string>
     <string name="activity_account_text_user_views">%s 次观看</string>
+    <string name="activity_account_text_user_likes">%s 次喜欢</string>
     <string name="activity_account_text_user_viewers">%s 名观众</string>
     <string name="activity_account_text_game_casts">%s 个视频</string>
     <string name="activity_account_text_game_players">%s 个玩家</string>

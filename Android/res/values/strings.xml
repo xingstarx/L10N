@@ -76,6 +76,7 @@
     <string name="activity_account_btn_install">INSTALL</string>
     <string name="activity_account_btn_open">OPEN</string>
     <string name="activity_account_text_user_views">%s views</string>
+    <string name="activity_account_text_user_likes">%s likes</string>
     <string name="activity_account_text_user_viewers">%s viewers</string>
     <string name="activity_account_text_game_casts">%s videos</string>
     <string name="activity_account_text_game_players">%s players</string>
