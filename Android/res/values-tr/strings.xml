@@ -24,6 +24,7 @@
     <string name="description_play_pause">Oynat durdur</string>
     <string name="description_live">Canlı</string>
     <string name="description_rotation">Döndürme</string>
+    <string name="menu_next">Sonraki</string>
     <string name="menu_more">Daha fazla</string>
     <string name="menu_recordings">Kayıtlar</string>
     <string name="menu_settings">Ayarlar</string>
@@ -76,6 +77,7 @@
     <string name="activity_account_btn_open">AÇ</string>
     <string name="activity_account_text_user_views">%s görüntüleme</string>
     <string name="activity_account_text_user_viewers">%s izleyici</string>
+    <string name="activity_account_text_user_likes">%s beğeni</string>
     <string name="activity_account_text_game_casts">%s video</string>
     <string name="activity_account_text_game_players">%s oyuncu</string>
     <string name="activity_account_text_profile">profil</string>
