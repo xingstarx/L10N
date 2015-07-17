@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="pref_entries_video_output_format">
+        <item>MKV</item>
+        <item>MP4</item>
+        <item>MOV</item>
+        <item>MPEG-TS</item>
+        <item>FLV</item>
+        <item>AVI</item>
+    </string-array>
+    <string-array name="pref_entries_video_source_engine">
+        <item>Nulo</item>
+        <item>Memória</item>
+    </string-array>
+    <string-array name="pref_entries_video_encoding_engine">
+        <item>Hardware</item>
+        <item>Software</item>
+    </string-array>
+    <string-array name="pref_entries_video_orientation">
+        <item>Auto</item>
+        <item>Panorama</item>
+        <item>Retrato</item>
+    </string-array>
+    <string-array name="pref_entries_video_resolution">
+        <item>240P</item>
+        <item>320P</item>
+        <item>480P</item>
+        <item>640P</item>
+        <item>720P</item>
+    </string-array>
+    <string-array name="pref_entries_video_bitrate">
+        <item>256 Kbps</item>
+        <item>512 Kbps</item>
+        <item>1 Mbps</item>
+        <item>2 Mbps</item>
+        <item>4 Mbps</item>
+    </string-array>
+    <string-array name="pref_entries_record_video_resolution">
+        <item>240P</item>
+        <item>320P</item>
+        <item>480P</item>
+        <item>640P</item>
+        <item>720P</item>
+        <item>1080P</item>
+    </string-array>
+    <string-array name="pref_entries_record_video_bitrate">
+        <item>256 Kbps</item>
+        <item>512 Kbps</item>
+        <item>1 Mbps</item>
+        <item>2 Mbps</item>
+        <item>4 Mbps</item>
+        <item>8 Mbps</item>
+        <item>10 Mbps</item>
+        <item>16 Mbps</item>
+    </string-array>
+    <string-array name="pref_entries_audio_source">
+        <item>Mudo</item>
+        <item>Mic</item>
+    </string-array>
+    <string-array name="pref_entries_network_type">
+        <item>Wi-Fi apenas</item>
+        <item>Qualquer rede</item>
+    </string-array>
+    <string-array name="profile_tabs">
+        <item>videos</item>
+        <item>Seguindo</item>
+        <item>Seguidores</item>
+    </string-array>
+    <string-array name="app_tabs">
+        <item>videos</item>
+        <item>Jogadores</item>
+        <item>Jogos</item>
+    </string-array>
+    <string-array name="search_tabs">
+        <item>jogadores</item>
+        <item>jogos</item>
+        <item>videos</item>
+    </string-array>
+
+</resources>
