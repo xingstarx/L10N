@@ -292,7 +292,7 @@
     <string name="notification_push_like_big_title">%s likes</string>
     <string name="notification_push_recommended_description">Your video is recommended!</string>
     <string name="no_root_url">http://www.androidpolice.com/2010/04/15/rooting-explained-top-5-benefits-of-rooting-your-android-phone/</string>
-    <string name="shou_cash_info">shou_cash_not_enough</string>
-    <string name="send_cash_info">giving after top-up!</string>
+    <string name="shou_cash_info">Shou Cash shortage!</string>
+    <string name="send_cash_info">Please charge after gift!</string>
 
 </resources>
