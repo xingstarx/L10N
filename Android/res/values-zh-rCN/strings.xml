@@ -289,5 +289,7 @@
     <string name="notification_push_like_big_title">您新获得了 %s 个赞</string>
     <string name="notification_push_recommended_description">恭喜！您直播的视频已被推荐到首页！</string>
     <string name="profile_archive_broadcasts">自动存档我的直播</string>
+    <string name="shou_cash_info">Shou Cash 不足!</string>
+    <string name="send_cash_info">请充值后再赠送!</string>
 
 </resources>
