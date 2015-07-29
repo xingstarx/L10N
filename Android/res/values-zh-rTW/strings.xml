@@ -284,5 +284,10 @@
     <string name="notification_push_like_big_title">您新獲得了 %s 個讚</string>
     <string name="notification_push_recommended_description">恭喜！您直播的視訊已被推薦到首頁！</string>
     <string name="profile_archive_broadcasts">自動收藏我的直播</string>
-
+    <string name="shou_cash_info">Shou Cash 不足!</string>
+    <string name="send_cash_info">請充值后再贈送!</string>
+    <string name="menu_statistic">統計</string>
+    <string name="menu_charge">充值</string>
+    <string name="mshou_cash">购买</string>
+    <string name="msg_description_more_cash">获取更多的Shou Cash!</string>
 </resources>

@@ -294,5 +294,9 @@
     <string name="no_root_url">http://www.androidpolice.com/2010/04/15/rooting-explained-top-5-benefits-of-rooting-your-android-phone/</string>
     <string name="shou_cash_info">Shou Cash shortage!</string>
     <string name="send_cash_info">Please charge after gift!</string>
+    <string name="menu_statistic">Statistics</string>
+    <string name="menu_charge">Charge</string>
+    <string name="msg_buy_shou_cash">Purchase</string>
+    <string name="msg_description_more_cash">for more Shou Cash!</string>
 
 </resources>
