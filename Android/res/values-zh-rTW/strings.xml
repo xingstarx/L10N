@@ -290,4 +290,5 @@
     <string name="menu_charge">充值</string>
     <string name="mshou_cash">购买</string>
     <string name="msg_description_more_cash">获取更多的Shou Cash!</string>
+    <string name="toast_shou_cash_failure">shoucash 失敗!</string>
 </resources>

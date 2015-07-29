@@ -298,5 +298,6 @@
     <string name="menu_charge">Charge</string>
     <string name="msg_buy_shou_cash">Purchase</string>
     <string name="msg_description_more_cash">for more Shou Cash!</string>
+    <string name="toast_shou_cash_failure">shoucash failure!</string>
 
 </resources>
