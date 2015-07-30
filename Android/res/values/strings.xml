@@ -299,5 +299,6 @@
     <string name="msg_buy_shou_cash">Purchase</string>
     <string name="msg_description_more_cash">for more Shou Cash!</string>
     <string name="toast_shou_cash_failure">shoucash failure!</string>
+    <string name="toast_shou_cash_google_play_service_not_found">Google Play services resources were not found</string>
 
 </resources>
