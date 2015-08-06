@@ -34,6 +34,7 @@
     <string name="menu_like">喜欢</string>
     <string name="menu_download">下载</string>
     <string name="menu_share">分享</string>
+    <string name="menu_report">举报</string>
     <string name="menu_notifications">通知</string>
     <string name="search_hint">搜索主播、游戏或视频</string>
     <string name="profile_text_videos">视频</string>
@@ -282,6 +283,9 @@
     <string name="create_folder_error_already_exists">文件夹已经存在</string>
     <string name="create_folder_error">无法创建文件夹</string>
     <string name="directory_chooser_up_label">返回</string>
+    <string name="video_report_illegal">色情、暴力等非法内容</string>
+    <string name="video_report_black">黑屏</string>
+    <string name="video_report_other">直播非游戏内容</string>
     <string name="video_duration_placement">0:00</string>
     <string name="root_access_title">需要 Root 访问权限</string>
     <string name="root_access_link">什么是 Root 权限?</string>
