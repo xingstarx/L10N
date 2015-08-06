@@ -281,6 +281,7 @@
     <string name="video_report_illegal">色情、暴力等非法內容</string>
     <string name="video_report_black">黑屏</string>
     <string name="video_report_other">直播非遊戲內容</string>
+    <string name="video_report_suceess">舉報成功</string>
     <string name="video_duration_placement">0:00</string>
     <string name="root_access_title">需要 Root 系統權限</string>
     <string name="root_access_link">什麼是 Root 權限?</string>
