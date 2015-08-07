@@ -217,7 +217,7 @@
     <string name="pref_title_video_orientation">屏幕方向</string>
     <string name="pref_title_video_resolution">分辨率</string>
     <string name="pref_title_video_bitrate">码率</string>
-    <string name="pref_title_video_quality">质量</string>
+    <string name="pref_title_video_quality">播送质量</string>
     <string name="pref_title_video_show_touches">显示小白点</string>
     <string name="pref_summary_video_show_touches">打开选项在手指触摸屏幕时显示小白点</string>
     <string name="pref_title_video_swap_uv">修复颜色不正</string>
