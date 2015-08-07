@@ -36,6 +36,11 @@
         <item>2 Mbps</item>
         <item>4 Mbps</item>
     </string-array>
+    <string-array name="pref_entries_video_quality">
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+    </string-array>
     <string-array name="pref_entries_record_video_resolution">
         <item>240P</item>
         <item>320P</item>

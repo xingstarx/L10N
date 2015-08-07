@@ -217,6 +217,7 @@
     <string name="pref_title_video_orientation">屏幕方向</string>
     <string name="pref_title_video_resolution">分辨率</string>
     <string name="pref_title_video_bitrate">码率</string>
+    <string name="pref_title_video_quality">质量</string>
     <string name="pref_title_video_show_touches">显示小白点</string>
     <string name="pref_summary_video_show_touches">打开选项在手指触摸屏幕时显示小白点</string>
     <string name="pref_title_video_swap_uv">修复颜色不正</string>
@@ -235,6 +236,7 @@
     <string name="pref_summary_misc_bubble">在直播或镜像时显示多功能浮动窗口</string>
     <string name="pref_title_misc_server">直播服务器选择</string>
     <string name="pref_summary_misc_server">自动</string>
+    <string name="pref_summary_quality">中</string>
     <string name="pref_title_misc_reset">重置</string>
     <string name="pref_summary_misc_reset">把所有设置重置为默认的</string>
     <string name="pref_title_misc_recording_dir">录制视频的文件夹</string>
