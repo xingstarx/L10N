@@ -212,6 +212,7 @@
     <string name="pref_title_video_orientation">螢幕方向</string>
     <string name="pref_title_video_resolution">解析度</string>
     <string name="pref_title_video_bitrate">碼率</string>
+    <string name="pref_title_video_quality">播送質量</string>
     <string name="pref_title_video_show_touches">顯示觸控點</string>
     <string name="pref_summary_video_show_touches">開啟選項在手指觸控螢幕時顯示小白點</string>
     <string name="pref_title_video_swap_uv">修復顏色補正</string>
@@ -230,6 +231,7 @@
     <string name="pref_summary_misc_bubble">在直播或螢幕投射時顯示多功能浮動視窗</string>
     <string name="pref_title_misc_server">直播伺服器選擇</string>
     <string name="pref_summary_misc_server">自動</string>
+    <string name="pref_summary_quality">中</string>
     <string name="pref_title_misc_reset">重設</string>
     <string name="pref_summary_misc_reset">把所有設定重設為預設值</string>
     <string name="pref_title_misc_recording_dir">錄影視訊的資料夾</string>
