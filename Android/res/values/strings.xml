@@ -320,4 +320,5 @@
     <string name="toast_msg_buy_shou_cash_status">Purchase %s</string>
     <string name="toast_msg_buy_shou_cash_status_value_success">success</string>
     <string name="toast_msg_buy_shou_cash_status_value_error">error</string>
+    <string name="activity_account_text_user_num_cash">%s cash</string>
 </resources>
