@@ -297,13 +297,12 @@
     <string name="notification_push_like_big_title">您新獲得了 %s 個讚</string>
     <string name="notification_push_recommended_description">恭喜！您直播的視訊已被推薦到首頁！</string>
     <string name="profile_archive_broadcasts">自動收藏我的直播</string>
-    <string name="shou_cash_info">Shou Cash 不足!</string>
+    <string name="shou_cash_info">ShouCash 不足!</string>
     <string name="send_cash_info">請充值后再贈送!</string>
     <string name="menu_statistic">統計</string>
     <string name="menu_charge">充值</string>
-    <string name="mshou_cash">购买</string>
-    <string name="msg_description_more_cash">获取更多的ShouCash!</string>
-    <string name="toast_shou_cash_failure">shoucash 失敗!</string>
+    <string name="msg_description_more_cash">获取更多的 ShouCash!</string>
+    <string name="toast_shou_cash_failure">ShouCash 失敗!</string>
     <string name="toast_shou_cash_google_play_service_not_found">Google Play 服务找不到</string>
     <string name="toast_chat_textview_load_url_failure">无法加载链接</string>
     <string name="toast_msg_buy_shou_cash_status">购买 %s</string>
