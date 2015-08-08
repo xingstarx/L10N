@@ -83,7 +83,6 @@
     <string name="activity_account_text_game_casts">%s videos</string>
     <string name="activity_account_text_game_players">%s jogadoras</string>
     <string name="activity_account_text_profile">perfil</string>
-    <string name="activity_account_text_agree_term">Por apertar em Registrar voce esta indicando que leu os Termos de Serviço e concordou com as politicas de privacidade</string>
     <string name="activity_account_toast_follow_failed">Erro ao seguir</string>
     <string name="activity_account_toast_invalid_email">Email invalido</string>
     <string name="activity_account_toast_invalid_password_or_token">Senha ou token invalido</string>

@@ -80,7 +80,7 @@
     <string name="activity_account_text_game_casts">%s 個視訊</string>
     <string name="activity_account_text_game_players">%s 個玩家</string>
     <string name="activity_account_text_profile">個人資料</string>
-    <string name="activity_account_text_agree_term">輕觸繼續，即表示你已閱讀%1$s 服務條款 %2$s 並同意 %3$s 隱私政策 %4$s</string>
+    <string name="activity_account_text_agree_term">繼續使用即表示你同意%1$s 服務條款 %2$s 並同意 %3$s 隱私政策 %4$s</string>
     <string name="activity_account_toast_follow_failed">關注失敗了</string>
     <string name="activity_account_toast_invalid_email">無效的電子信箱</string>
     <string name="activity_account_toast_invalid_password_or_token">無效的密碼與連結</string>

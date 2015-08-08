@@ -81,7 +81,6 @@
     <string name="activity_account_text_game_casts">%s video</string>
     <string name="activity_account_text_game_players">%s oyuncu</string>
     <string name="activity_account_text_profile">profil</string>
-    <string name="activity_account_text_agree_term">"Kayıt Ol"a basarak, %1$s Hizmet Şartlarını okuduğunuzu %2$s ve %3$s Gizlilik Politikasını kabul ettiğinizi belirtmiş oluyorsunuz %4$s</string>
     <string name="activity_account_toast_follow_failed">Takip etme başarısız</string>
     <string name="activity_account_toast_invalid_email">Geçersiz email</string>
     <string name="activity_account_toast_invalid_password_or_token">Geçersiz parola ya da token</string>
