@@ -144,7 +144,8 @@
     <string name="activity_statistics_views">总观看</string>
     <string name="activity_statistics_likes">总喜欢</string>
     <string name="activity_statistics_income">总收入</string>
-    <string name="activity_statistics_unit">次</string>
+    <string name="activity_statistics_views_unit">观看</string>
+    <string name="activity_statistics_likes_unit">喜欢</string>
     <string name="action_open">打开</string>
     <string name="action_delete">删除</string>
     <string name="action_share">分享</string>

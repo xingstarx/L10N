@@ -139,7 +139,8 @@
     <string name="activity_statistics_views">總觀看</string>
     <string name="activity_statistics_likes">總喜歡</string>
     <string name="activity_statistics_income">總收入</string>
-    <string name="activity_statistics_unit">次</string>
+    <string name="activity_statistics_views_unit">觀看</string>
+    <string name="activity_statistics_likes_unit">喜歡</string>
     <string name="action_open">打開</string>
     <string name="action_delete">删除</string>
     <string name="action_share">分享</string>
