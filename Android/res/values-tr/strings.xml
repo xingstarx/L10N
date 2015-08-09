@@ -33,6 +33,8 @@
     <string name="menu_search">Ara</string>
     <string name="menu_like">Beğen</string>
     <string name="menu_share">Paylaş</string>
+    <string name="menu_report">Bildir</string>
+    <string name="menu_download">İndir</string>
     <string name="menu_notifications">Bildirimler</string>
     <string name="search_hint">Oyuncu/oyun/video ara</string>
     <string name="profile_text_videos">video</string>
@@ -137,6 +139,16 @@
     <string name="activity_find_friends_title">%s Arkadaş</string>
     <string name="activity_find_friends_text">Shou.TV\'de %1$s %2$s arkadaşın var.</string>
     <string name="activity_find_friends_no_people">Oyuncu bulunmadı.</string>
+    <string name="activity_statistics_title">İstatistikler</string>
+    <string name="activity_statistics_title_views">İzlenme istatistikleri</string>
+    <string name="activity_statistics_title_like">Beğeni istatistikleri</string>
+    <string name="activity_statistics_title_income">Gelir istatistikleri</string>
+    <string name="activity_statistics_views">İzlenme</string>
+    <string name="activity_statistics_likes">Beğeni</string>
+    <string name="activity_statistics_income">Gelir</string>
+    <string name="activity_statistics_views_unit">Görüntülenme</string>
+    <string name="activity_statistics_likes_unit">Beğeni</string>
+    <string name="activity_statistics_show_cash">ShouCash</string>
     <string name="action_open">Aç</string>
     <string name="action_delete">Sil</string>
     <string name="action_share">Paylaş</string>
@@ -209,6 +221,7 @@
     <string name="pref_title_video_orientation">Çekim yönü</string>
     <string name="pref_title_video_resolution">Çözünürlük</string>
     <string name="pref_title_video_bitrate">Bit hızı</string>
+    <string name="pref_title_video_quality">Kalite</string>
     <string name="pref_title_video_show_touches">Dokunmaları göster</string>
     <string name="pref_summary_video_show_touches">Dokunmalar için görsel geri bildirim göster</string>
     <string name="pref_title_video_swap_uv">Renkleri tersine çevir</string>
@@ -227,6 +240,7 @@
     <string name="pref_summary_misc_bubble">Canlı yayın ya da ekran paylaşımı yaparken kayan pencereyi ekranda göster</string>
     <string name="pref_title_misc_server">Canlı yayın sunucusu</string>
     <string name="pref_summary_misc_server">Otomatik</string>
+    <string name="pref_summary_quality">Orta</string>
     <string name="pref_title_misc_reset">Sıfırla</string>
     <string name="pref_summary_misc_reset">Varsayılan ayarlara dön</string>
     <string name="pref_title_misc_recording_dir">Kayıt klasörü</string>
@@ -275,6 +289,10 @@
     <string name="create_folder_error_already_exists">Klasör mevcut</string>
     <string name="create_folder_error">Klasör oluşturulmadı</string>
     <string name="directory_chooser_up_label">Önceki</string>
+    <string name="video_report_illegal">Yasadışı içerik; pornografik, şiddet, vb.</string>
+    <string name="video_report_black">Siyah ekran</string>
+    <string name="video_report_other">Oyun videosu değil</string>
+    <string name="video_report_suceess">Bildiri gönderildi</string>
     <string name="video_duration_placement">0:00</string>
     <string name="root_access_title">Root erişimi gereklidir</string>
     <string name="root_access_link">Root nedir?</string>
@@ -290,5 +308,17 @@
     <string name="notification_push_like_big_title">%s beğenme</string>
     <string name="notification_push_recommended_description">Videonuz önerildi!</string>
     <string name="no_root_url">http://philodox.net/android-root-yapmak-ne-demektir/</string>
-	
+    <string name="shou_cash_info">ShouCash açığı!</string>
+    <string name="send_cash_info">Please charge after gift!</string>
+    <string name="menu_statistic">İstatistikler</string>
+    <string name="menu_charge">Ödeme Yap</string>
+    <string name="msg_buy_shou_cash">Satın Al</string>
+    <string name="msg_description_more_cash">Daha fazla ShouCash edinin!</string>
+    <string name="toast_shou_cash_failure">ShouCash alımı başarısız!</string>
+    <string name="toast_shou_cash_google_play_service_not_found">Google Play servis kaynakları bulunamadı</string>
+    <string name="toast_chat_textview_load_url_failure">Bağlantı yüklenemedi</string>
+    <string name="toast_msg_buy_shou_cash_status">%s satın al</string>
+    <string name="toast_msg_buy_shou_cash_status_value_success">başarılı</string>
+    <string name="toast_msg_buy_shou_cash_status_value_error">hata</string>
+    <string name="activity_account_text_user_num_cash">%s nakit</string>
 </resources>
