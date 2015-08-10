@@ -140,7 +140,7 @@
     <string name="activity_find_friends_title">%s Friends</string>
     <string name="activity_find_friends_text">You have %1$s %2$s friends on Shou.TV.</string>
     <string name="activity_find_friends_no_people">No people found.</string>
-    <string name="activity_statistics_title">statistics</string>
+    <string name="activity_statistics_title">Statistics</string>
     <string name="activity_statistics_title_views">Watch statistics</string>
     <string name="activity_statistics_title_like">Like statistics</string>
     <string name="activity_statistics_title_income">Income statistics</string>
