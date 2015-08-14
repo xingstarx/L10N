@@ -308,8 +308,10 @@
     <string name="toast_shou_cash_failure">ShouCash 失敗!</string>
     <string name="toast_shou_cash_google_play_service_not_found">Google Play 服务找不到</string>
     <string name="toast_chat_textview_load_url_failure">无法加载链接</string>
-    <string name="toast_msg_buy_shou_cash_status">购买 %s</string>
+    <string name="toast_msg_buy_shou_cash_status">購買 %s</string>
     <string name="toast_msg_buy_shou_cash_status_value_success">成功</string>
     <string name="toast_msg_buy_shou_cash_status_value_error">失敗</string>
-    <string name="fragment_shou_cash_success_msg">购买成功！新獲得 %1$d ShouCash，總計 %2$d ShouCash</string>
+    <string name="fragment_shou_cash_success_msg">購買成功！新獲得 %1$d ShouCash，總計 %2$d ShouCash</string>
+    <string name="msg_description_love">喜歡</string>
+    <string name="msg_description_reward">打賞</string>
 </resources>
