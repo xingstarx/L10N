@@ -22,20 +22,6 @@
         <item>Landscape</item>
         <item>Portrait</item>
     </string-array>
-    <string-array name="pref_entries_video_resolution">
-        <item>240P</item>
-        <item>320P</item>
-        <item>480P</item>
-        <item>640P</item>
-        <item>720P</item>
-    </string-array>
-    <string-array name="pref_entries_video_bitrate">
-        <item>256 Kbps</item>
-        <item>512 Kbps</item>
-        <item>1 Mbps</item>
-        <item>2 Mbps</item>
-        <item>4 Mbps</item>
-    </string-array>
     <string-array name="pref_entries_video_quality">
         <item>Low</item>
         <item>Medium</item>

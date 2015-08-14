@@ -33,13 +33,9 @@
     <string name="menu_share">共有</string>
     <string name="menu_notifications">通知</string>
     <string name="search_hint">プレイヤー/ゲーム/動画を検索</string>
-    <string name="profile_text_videos">動画</string>
-    <string name="profile_text_followers">フォロワー</string>
-    <string name="profile_text_following">フォロー中</string>
     <string name="profile_text_live">@string/description_live</string>
     <string name="profile_edit_profile">プロフィールを編集</string>
     <string name="profile_archive_broadcasts">自分のブロードキャストを自動的に保存</string>
-    <string name="activity_landing_brand_name">あなたのゲーム画面をShouしましょう\nTHE HOLY SPIRIT OF THE GAME</string>
     <string name="activity_landing_btn_sign_up">登録</string>
     <string name="activity_landing_btn_sign_in">サインイン</string>
     <string name="activity_landing_google_plus_sign_in_progress">Google+でサインイン</string>
@@ -70,7 +66,6 @@
     <string name="activity_account_btn_saving_profile">保存中...</string>
     <string name="activity_account_btn_saved_profile">保存完了</string>
     <string name="activity_account_btn_follow">フォロー</string>
-    <string name="activity_account_btn_following">@string/profile_text_following</string>
     <string name="activity_account_btn_install">インストール</string>
     <string name="activity_account_btn_open">開く</string>
     <string name="activity_account_text_user_views">%s回再生</string>
@@ -78,7 +73,6 @@
     <string name="activity_account_text_game_casts">%s個のビデオ</string>
     <string name="activity_account_text_game_players">%s人のプレイヤー</string>
     <string name="activity_account_text_profile">プロファイル</string>
-    <string name="activity_account_toast_follow_failed">フォロー中にエラー発生</string>
     <string name="activity_account_toast_invalid_email">不正なEメールアドレス</string>
     <string name="activity_account_toast_invalid_password_or_token">不正なパスワードもしくはトークン</string>
     <string name="activity_account_toast_invalid_identify_or_password">不正な情報もしくはパスワード</string>
@@ -124,7 +118,6 @@
     <string name="activity_accessibility_disable_setting">設定を開く</string>
     <string name="activity_notification_title">通知</string>
     <string name="activity_no_notifications">通知無し</string>
-    <string name="action_open">開く</string>
     <string name="action_delete">削除</string>
     <string name="action_share">共有</string>
     <string name="action_edit">編集</string>
@@ -227,9 +220,7 @@
     <string name="pref_summary_misc_push">通知を取得するか</string>
     <string name="msg_send_faild">このメッセージを送信できません。</string>
     <string name="msg_description_send">送信</string>
-    <string name="msg_description_loading">@string/activity_screen_live_loading</string>
     <string name="msg_hint_send_msg">メッセージを送信</string>
-    <string name="msg_hint_send_disable">ログイン無しでの送信を無効化しました。</string>
     <string name="msg_description_emoji">絵文字</string>
     <string name="msg_ban_user">追放(Ban)</string>
     <string name="msg_ban_user_description">%sの追放しました。</string>

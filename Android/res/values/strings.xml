@@ -23,7 +23,6 @@
     <string name="description_video_cover">Video cover</string>
     <string name="description_play_pause">Play pause</string>
     <string name="description_live">Live</string>
-    <string name="description_rotation">Rotation</string>
     <string name="menu_next">Next</string>
     <string name="menu_more">More</string>
     <string name="menu_recordings">Recordings</string>
@@ -34,16 +33,11 @@
     <string name="menu_like">Like</string>
     <string name="menu_share">Share</string>
     <string name="menu_report">Report</string>
-    <string name="menu_download">Download</string>
     <string name="menu_notifications">Notifications</string>
     <string name="search_hint">Search player/game/video</string>
-    <string name="profile_text_videos">videos</string>
-    <string name="profile_text_followers">followers</string>
-    <string name="profile_text_following">following</string>
     <string name="profile_text_live">Live</string>
     <string name="profile_edit_profile">Edit profile</string>
     <string name="profile_archive_broadcasts">Automatically archive my broadcasts</string>
-    <string name="activity_landing_brand_name">Shou your game screen\nTHE HOLY SPIRIT OF THE GAME</string>
     <string name="activity_landing_btn_sign_up">Sign Up</string>
     <string name="activity_landing_btn_sign_in">Sign In</string>
     <string name="activity_landing_google_plus_sign_in_progress">Sign in with Google Plus</string>
@@ -78,13 +72,11 @@
     <string name="activity_account_btn_install">INSTALL</string>
     <string name="activity_account_btn_open">OPEN</string>
     <string name="activity_account_text_user_views">%s views</string>
-    <string name="activity_account_text_user_likes">%s likes</string>
     <string name="activity_account_text_user_viewers">%s viewers</string>
     <string name="activity_account_text_game_casts">%s videos</string>
     <string name="activity_account_text_game_players">%s players</string>
     <string name="activity_account_text_profile">profile</string>
     <string name="activity_account_text_agree_term">By proceeding, you agree to the  %1$s Terms of Service %2$s and  %3$s Privacy Policy %4$s</string>
-    <string name="activity_account_toast_follow_failed">Error when following</string>
     <string name="activity_account_toast_invalid_email">Invalid email</string>
     <string name="activity_account_toast_invalid_password_or_token">Invalid password or token</string>
     <string name="activity_account_toast_invalid_identify_or_password">Invalid identify or password</string>
@@ -150,7 +142,6 @@
     <string name="activity_statistics_views_unit">Views</string>
     <string name="activity_statistics_likes_unit">Likes</string>
     <string name="activity_statistics_show_cash">ShouCash</string>
-    <string name="action_open">Open</string>
     <string name="action_delete">Delete</string>
     <string name="action_share">Share</string>
     <string name="action_edit">Edit</string>
@@ -258,11 +249,8 @@
     <string name="pref_title_misc_terms_of_service">Terms of service</string>
     <string name="pref_title_misc_push">Notifications</string>
     <string name="pref_summary_misc_push">Whether to receive notifications</string>
-    <string name="msg_send_failed">Can\'t send this message</string>
     <string name="msg_description_send">Send</string>
-    <string name="msg_description_loading">Loading</string>
     <string name="msg_hint_send_msg">Send a message</string>
-    <string name="msg_hint_send_disable">No login sending disabled</string>
     <string name="msg_description_emoji">Emoji</string>
     <string name="msg_ban_user">Ban</string>
     <string name="msg_ban_user_description">%s is already banned in this room.</string>
@@ -319,7 +307,6 @@
     <string name="toast_shou_cash_google_play_service_not_found">Google Play services resources were not found</string>
     <string name="toast_chat_textview_load_url_failure">Could not load link</string>
     <string name="toast_msg_buy_shou_cash_status">Purchase %s</string>
-    <string name="toast_msg_buy_shou_cash_status_value_success">success</string>
     <string name="toast_msg_buy_shou_cash_status_value_error">error</string>
     <string name="activity_account_text_user_num_cash">%s cash</string>
     <string name="fragment_shou_cash_success_msg">Purchase successfully! got %1$d ShouCash, total %2$d ShouCash</string>

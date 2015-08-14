@@ -32,17 +32,12 @@
     <string name="menu_sign_out">登出帳號</string>
     <string name="menu_search">搜尋</string>
     <string name="menu_like">喜欢</string>
-    <string name="menu_download">下載</string>
     <string name="menu_share">分享</string>
     <string name="menu_report">舉報</string>
     <string name="menu_notifications">通知</string>
     <string name="search_hint">搜尋主播/遊戲/視訊</string>
-    <string name="profile_text_videos">視訊</string>
-    <string name="profile_text_followers">粉絲</string>
-    <string name="profile_text_following">關注</string>
     <string name="profile_text_live">直播</string>
     <string name="profile_edit_profile">編輯個人資料</string>
-    <string name="activity_landing_brand_name">分享你的遊戲畫面\nTHE HOLY SPIRIT OF THE GAME</string>
     <string name="activity_landing_btn_sign_up">註冊</string>
     <string name="activity_landing_btn_sign_in">登入</string>
     <string name="activity_landing_google_plus_sign_in_progress">正在用 Google 登入</string>
@@ -81,7 +76,6 @@
     <string name="activity_account_text_game_players">%s 玩家</string>
     <string name="activity_account_text_profile">個人資料</string>
     <string name="activity_account_text_agree_term">繼續使用即表示你同意%1$s 服務條款 %2$s 並同意 %3$s 隱私政策 %4$s</string>
-    <string name="activity_account_toast_follow_failed">關注失敗了</string>
     <string name="activity_account_toast_invalid_email">無效的電子信箱</string>
     <string name="activity_account_toast_invalid_password_or_token">無效的密碼與連結</string>
     <string name="activity_account_toast_invalid_identify_or_password">無效的電子信箱或者密碼</string>
@@ -141,7 +135,6 @@
     <string name="activity_statistics_income">總收入</string>
     <string name="activity_statistics_views_unit">觀看</string>
     <string name="activity_statistics_likes_unit">喜歡</string>
-    <string name="action_open">打開</string>
     <string name="action_delete">删除</string>
     <string name="action_share">分享</string>
     <string name="action_edit">編輯</string>
@@ -249,11 +242,8 @@
     <string name="pref_title_misc_terms_of_service">服務條款</string>
     <string name="pref_title_misc_push">推送</string>
     <string name="pref_summary_misc_push">是否接收訊息推播</string>
-    <string name="msg_send_failed">寄送失敗</string>
     <string name="msg_description_send">寄送</string>
-    <string name="msg_description_loading">加載中</string>
     <string name="msg_hint_send_msg">開始聊天</string>
-    <string name="msg_hint_send_disable">登入後開始聊天</string>
     <string name="msg_description_emoji">表情</string>
     <string name="msg_ban_user">禁言</string>
     <string name="msg_ban_user_description">%s 已經被禁言</string>
@@ -313,5 +303,5 @@
     <string name="toast_msg_buy_shou_cash_status_value_error">失敗</string>
     <string name="fragment_shou_cash_success_msg">購買成功！新獲得 %1$d ShouCash，總計 %2$d ShouCash</string>
     <string name="msg_description_love">喜歡</string>
-    <string name="msg_description_reward">打賞</string>
+    <string name="msg_description_reward">打賞</string> 
 </resources>

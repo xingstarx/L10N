@@ -33,16 +33,11 @@
     <string name="menu_search">Pesquisa</string>
     <string name="menu_like">Gostar</string>
     <string name="menu_share">Compartilhar</string>
-    <string name="menu_download">Deixar</string>
     <string name="menu_notifications">Notificaçoes</string>
     <string name="search_hint">Pesquisar Jogador/game/video</string>
-    <string name="profile_text_videos">videos</string>
-    <string name="profile_text_followers">Seguidores</string>
-    <string name="profile_text_following">Seguindo</string>
     <string name="profile_text_live">Ao vivo</string>
     <string name="profile_edit_profile">Editar perfil</string>
     <string name="profile_archive_broadcasts">Automaticamente salvar minha transmissao</string>
-    <string name="activity_landing_brand_name">Shou sua tela de jogo \O sacro espirito do jogo/</string>
     <string name="activity_landing_btn_sign_up">Registre-se</string>
     <string name="activity_landing_btn_sign_in">Entrer</string>
     <string name="activity_landing_google_plus_sign_in_progress">Entre com Google Plus</string>
@@ -77,13 +72,11 @@
     <string name="activity_account_btn_install">Instalar</string>
     <string name="activity_account_btn_open">Abrir</string>
     <string name="activity_account_text_user_views">%s visualizaçoes</string>
-    <string name="activity_account_text_user_likes">%s likes</string>
     <!-- Like is a quantifiable expression, you can have 10, 100, 2000 likes. Gostar is a qualifiable expression, you can't have 200 Gostar. But you can have "200 videos que você gostou" (200 videos that you liked) In this case it's needed to know what like refers to, to videos, people, ... -->
     <string name="activity_account_text_user_viewers">%s espectadores </string>
     <string name="activity_account_text_game_casts">%s videos</string>
     <string name="activity_account_text_game_players">%s jogadoras</string>
     <string name="activity_account_text_profile">perfil</string>
-    <string name="activity_account_toast_follow_failed">Erro ao seguir</string>
     <string name="activity_account_toast_invalid_email">Email invalido</string>
     <string name="activity_account_toast_invalid_password_or_token">Senha ou token invalido</string>
     <string name="activity_account_toast_invalid_identify_or_password">Identidade ou Senha invalida</string>
@@ -141,7 +134,6 @@
     <string name="activity_find_friends_title">%s Amigos</string>
     <string name="activity_find_friends_text">Você tem %1$s %2$s amigos no Shou.TV.</string>
     <string name="activity_find_friends_no_people">Nenhuma pessoa foi encontrada.</string>
-    <string name="action_open">Abrir</string>
     <string name="action_delete">Deletar</string>
     <string name="action_share">Compartilhar</string>
     <string name="action_edit">Editar</string>
@@ -260,11 +252,8 @@
     <string name="pref_title_misc_terms_of_service">Termos de serviço</string>
     <string name="pref_title_misc_push">Notificações</string>
     <string name="pref_summary_misc_push">Se irá receber notificações</string>
-    <string name="msg_send_failed">Não foi possível enviar essa mensagem</string>
     <string name="msg_description_send">Enviar</string>
-    <string name="msg_description_loading">Carregando</string>
     <string name="msg_hint_send_msg">Enviar uma mensagem</string>
-    <string name="msg_hint_send_disable">No login sending disabled</string>
     <!-- What this action does? What is the meaning of No Login? -->
     <string name="msg_description_emoji">Emoji</string>
     <string name="msg_ban_user">Banir</string>
