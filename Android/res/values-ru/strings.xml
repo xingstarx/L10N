@@ -33,13 +33,9 @@
     <string name="menu_like">Оценка</string>
     <string name="menu_share">Участие</string>
     <string name="search_hint">Найти игрока/игру/видео</string>
-    <string name="profile_text_videos">видео</string>
-    <string name="profile_text_followers">подписчики</string>
-    <string name="profile_text_following">подписки</string>
     <string name="profile_text_live">Live</string>
     <string name="profile_edit_profile">Редактировать профиль</string>
-    <string name="activity_landing_brand_name">Shou your game screen\nTHE HOLY SPIRIT OF THE GAME</string>
-    <string name="activity_landing_btn_sign_up">Регистрация</string>    
+    <string name="activity_landing_btn_sign_up">Регистрация</string>
 	<string name="activity_landing_btn_sign_in">Вход</string>
     <string name="activity_landing_google_plus_sign_in_progress">Войти с аккаунтом Google+</string>
     <string name="activity_landing_facebook_sign_in_progress">Войти с аккаунтом Facebook</string>
@@ -73,7 +69,6 @@
     <string name="activity_account_btn_open">ОТКРЫТЬ</string>
     <string name="activity_account_text_user_views">%s просмотров</string>
     <string name="activity_account_text_profile">профиль</string>
-    <string name="activity_account_toast_follow_failed">Ошибка при подписке</string>
     <string name="activity_account_toast_invalid_email">Неверный email</string>
     <string name="activity_account_toast_invalid_password_or_token">Неверный пароль или ключ</string>
     <string name="activity_account_toast_invalid_identify_or_password">Неверный идентификатор или пароль</string>
@@ -113,7 +108,6 @@
     <string name="activity_accessibility_title">Защита персональных данных</string>
     <string name="activity_accessibility_disable_label">Вам нужно выбрать Shou в настройках, и тапнуть по нему для включения. С помощью этого, ваш пароль и личная информация будут закрыты для просмотра при записи или трансляции.</string>
     <string name="activity_accessibility_disable_setting">Перейти к настройкам</string>
-    <string name="action_open">Открыть</string>
     <string name="action_delete">Удалить</string>
     <string name="action_share">Делиться</string>
     <string name="action_edit">Редактировать</string>
@@ -213,11 +207,8 @@
     <string name="pref_title_misc_terms_of_service">Условия предоставления услуг</string>
     <string name="pref_title_misc_push">Push-сообщения</string>
     <string name="pref_summary_misc_push">Получать push-сообщения</string>
-    <string name="msg_send_failed">Невозможно отправить это сообщение</string>
     <string name="msg_description_send">Отправить</string>
-    <string name="msg_description_loading">Загрузка</string>
     <string name="msg_hint_send_msg">Отправить сообщение</string>
-    <string name="msg_hint_send_disable">Вход не выполнен, отправка невозможна</string>
     <string name="msg_description_emoji">Смайлы</string>
     <string name="emoji_no_recent">Нет недавно использованных смайлов</string>
     <string name="emoji_description_back_space">Назад пропуск</string>
