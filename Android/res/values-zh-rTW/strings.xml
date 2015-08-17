@@ -302,6 +302,6 @@
     <string name="toast_msg_buy_shou_cash_status_value_success">成功</string>
     <string name="toast_msg_buy_shou_cash_status_value_error">失敗</string>
     <string name="fragment_shou_cash_success_msg">購買成功！新獲得 %1$d ShouCash，總計 %2$d ShouCash</string>
-    <string name="msg_description_love">喜歡</string>
-    <string name="msg_description_reward">打賞</string> 
+    <string name="msg_description_like">喜歡</string>
+    <string name="msg_description_reward">打賞</string>
 </resources>
