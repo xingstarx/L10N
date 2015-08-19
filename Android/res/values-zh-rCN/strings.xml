@@ -29,6 +29,7 @@
     <string name="menu_recordings">录制的视频</string>
     <string name="menu_settings">设置</string>
     <string name="menu_feedback">反馈问题</string>
+    <string name="menu_how_to_record">如何直播？</string>
     <string name="menu_sign_out">退出帐号</string>
     <string name="menu_search">搜索</string>
     <string name="menu_like">喜欢</string>
