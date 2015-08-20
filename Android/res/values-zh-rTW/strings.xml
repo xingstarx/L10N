@@ -36,7 +36,7 @@
     <string name="menu_share">分享</string>
     <string name="menu_report">舉報</string>
     <string name="menu_notifications">通知</string>
-    <string name="search_hint">搜尋主播/遊戲/視訊</string>
+    <string name="search_hint">搜尋主播/遊戲</string>
     <string name="profile_text_live">直播</string>
     <string name="profile_edit_profile">編輯個人資料</string>
     <string name="activity_landing_btn_sign_up">註冊</string>

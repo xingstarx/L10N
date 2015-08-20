@@ -66,7 +66,6 @@
     <string-array name="search_tabs">
         <item>players</item>
         <item>games</item>
-        <item>videos</item>
     </string-array>
 
 </resources>

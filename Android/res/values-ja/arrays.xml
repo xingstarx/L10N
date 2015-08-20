@@ -22,7 +22,6 @@
     <string-array name="search_tabs">
         <item>プレイヤー</item>
         <item>ゲーム</item>
-        <item>動画</item>
     </string-array>
 
 </resources>
