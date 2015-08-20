@@ -305,4 +305,16 @@
     <string name="fragment_shou_cash_success_msg">購買成功！新獲得 %1$d ShouCash，總計 %2$d ShouCash</string>
     <string name="msg_description_like">喜歡</string>
     <string name="msg_description_reward">打賞</string>
+    <string name="pref_title_category_notification">通知</string>
+    <string name="pref_summary_category_notification">在此設備上顯示通知</string>
+    <string name="pref_title_notifications_vibrate">振動</string>
+    <string name="pref_summary_notifications_vibrate">收到通知時振動</string>
+    <string name="pref_title_notifications_ringthone">鈴聲</string>
+    <string name="pref_summary_notifications_ringthone">收到通知時啟用鈴聲</string>
+    <string name="pref_title_notifications_notification_light">閃光燈</string>
+    <string name="pref_summary_notifications_notification_light">收到通知時啟用閃光燈</string>
+    <string name="pref_title_notifications_new_followers">新粉絲</string>
+    <string name="pref_title_notifications_likes">喜歡</string>
+    <string name="pref_summary_notifications_likes">接收直播喜歡的通知</string>
+    <string name="pref_title_notifications_new_broadcasts">新的直播</string>
 </resources>
