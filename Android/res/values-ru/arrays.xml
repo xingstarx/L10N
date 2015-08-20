@@ -75,7 +75,6 @@
     <string-array name="search_tabs">
         <item>игроки</item>
         <item>игры</item>
-        <item>видео</item>
     </string-array>
 
 </resources>

@@ -35,7 +35,7 @@
     <string name="menu_share">Paylaş</string>
     <string name="menu_report">Bildir</string>
     <string name="menu_notifications">Bildirimler</string>
-    <string name="search_hint">Oyuncu/oyun/video ara</string>
+    <string name="search_hint">Oyuncu/oyun ara</string>
     <string name="profile_text_live">Canlı</string>
     <string name="profile_edit_profile">Profili düzenle</string>
     <string name="profile_archive_broadcasts">Canlı yayınları sunucuya kaydet</string>

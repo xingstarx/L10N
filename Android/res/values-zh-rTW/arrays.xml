@@ -80,7 +80,6 @@
     <string-array name="search_tabs">
         <item>玩家</item>
         <item>遊戲</item>
-        <item>視訊</item>
     </string-array>
 
 </resources>

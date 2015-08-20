@@ -75,7 +75,6 @@
     <string-array name="search_tabs">
         <item>oyuncu</item>
         <item>oyun</item>
-        <item>video</item>
     </string-array>
 
 </resources>

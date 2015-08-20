@@ -32,7 +32,7 @@
     <string name="menu_search">Поиск</string>
     <string name="menu_like">Оценка</string>
     <string name="menu_share">Участие</string>
-    <string name="search_hint">Найти игрока/игру/видео</string>
+    <string name="search_hint">Найти игрока/игру</string>
     <string name="profile_text_live">Live</string>
     <string name="profile_edit_profile">Редактировать профиль</string>
     <string name="activity_landing_btn_sign_up">Регистрация</string>
