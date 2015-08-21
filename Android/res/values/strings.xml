@@ -296,6 +296,9 @@
     <string name="notification_push_like_multi_title">%s liked your broadcast</string>
     <string name="notification_push_like_description">liked your broadcast</string>
     <string name="notification_push_like_big_title">%s likes</string>
+    <string name="notification_push_cash_big_title">%s gifts</string>
+    <string name="notification_push_cash_content">gave you %s ShouCash</string>
+    <string name="notification_push_cash_big_content">%1$s gave you %2$s ShouCash</string>
     <string name="notification_push_recommended_description">Your video is recommended!</string>
     <string name="no_root_url">http://www.androidpolice.com/2010/04/15/rooting-explained-top-5-benefits-of-rooting-your-android-phone/</string>
     <string name="shou_cash_info">ShouCash shortage!</string>
