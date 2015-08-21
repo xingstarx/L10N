@@ -245,8 +245,8 @@
     <string name="pref_title_misc_open_source">开源软件协议</string>
     <string name="pref_title_misc_privacy_policy">隐私政策</string>
     <string name="pref_title_misc_terms_of_service">服务条款</string>
-    <string name="pref_title_misc_push">推送</string>
-    <string name="pref_summary_misc_push">是否接收消息推送</string>
+    <string name="pref_title_notifications_push">推送</string>
+    <string name="pref_summary_notifications_push">是否接收消息推送</string>
     <string name="msg_description_send">发送</string>
     <string name="msg_hint_send_msg">开始聊天</string>
     <string name="msg_description_emoji">表情</string>

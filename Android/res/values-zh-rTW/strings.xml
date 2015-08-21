@@ -241,8 +241,8 @@
     <string name="pref_title_misc_open_source">開放原始碼軟體協定</string>
     <string name="pref_title_misc_privacy_policy">隱私政策</string>
     <string name="pref_title_misc_terms_of_service">服務條款</string>
-    <string name="pref_title_misc_push">推送</string>
-    <string name="pref_summary_misc_push">是否接收訊息推播</string>
+    <string name="pref_title_notifications_push">推送</string>
+    <string name="pref_summary_notifications_push">是否接收訊息推播</string>
     <string name="msg_description_send">寄送</string>
     <string name="msg_hint_send_msg">開始聊天</string>
     <string name="msg_description_emoji">表情</string>
