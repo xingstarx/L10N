@@ -324,6 +324,4 @@
     <string name="pref_title_notifications_likes">喜欢</string>
     <string name="pref_summary_notifications_likes">接收直播喜欢的通知</string>
     <string name="pref_title_notifications_new_broadcasts">新的直播</string>
-    <string name="pref_title_category_version">软件版本 %s</string>
-    <string name="pref_summary_category_version">帮助,服务条款,隐私政策</string>
 </resources>
