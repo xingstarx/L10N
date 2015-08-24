@@ -23,11 +23,11 @@
     <string name="description_video_cover">Video kaplığı</string>
     <string name="description_play_pause">Oynat durdur</string>
     <string name="description_live">Canlı</string>
-    <string name="description_rotation">Döndürme</string>
     <string name="menu_next">Sonraki</string>
     <string name="menu_more">Daha fazla</string>
     <string name="menu_recordings">Kayıtlar</string>
     <string name="menu_settings">Ayarlar</string>
+    <string name="menu_how_to_record">Nasıl yayın yapılır?</string>
     <string name="menu_feedback">Geri Bildirim</string>
     <string name="menu_sign_out">Çıkış yap</string>
     <string name="menu_search">Ara</string>
@@ -77,6 +77,7 @@
     <string name="activity_account_text_game_casts">%s video</string>
     <string name="activity_account_text_game_players">%s oyuncu</string>
     <string name="activity_account_text_profile">profil</string>
+    <string name="activity_account_text_agree_term">"Kayıt Ol"a basarak, %1$s Hizmet Şartlarını okuduğunuzu %2$s ve %3$s Gizlilik Politikasını kabul ettiğinizi belirtmiş oluyorsunuz %4$s</string>
     <string name="activity_account_toast_invalid_email">Geçersiz email</string>
     <string name="activity_account_toast_invalid_password_or_token">Geçersiz parola ya da token</string>
     <string name="activity_account_toast_invalid_identify_or_password">Geçersiz kimlik ya da parola</string>
@@ -247,8 +248,8 @@
     <string name="pref_title_misc_open_source">Açık kaynak lisansları</string>
     <string name="pref_title_misc_privacy_policy">Gizlilik</string>
     <string name="pref_title_misc_terms_of_service">Hizmet şartları</string>
-    <string name="pref_title_misc_push">Bildirimler</string>
-    <string name="pref_summary_misc_push">Bildirimleri almak için etkinleştirin</string>
+    <string name="pref_title_notifications_push">Bildirimler</string>
+    <string name="pref_summary_notifications_push">Bildirimleri almak için etkinleştirin</string>
     <string name="msg_description_send">Gönder</string>
     <string name="msg_hint_send_msg">Bir mesaj gönder</string>
     <string name="msg_description_emoji">İfade</string>
@@ -295,6 +296,9 @@
     <string name="notification_push_like_multi_title">%s yayınını beğendi</string>
     <string name="notification_push_like_description">yayınını beğendi</string>
     <string name="notification_push_like_big_title">%s beğenme</string>
+    <string name="notification_push_cash_big_title">%s hediye</string>
+    <string name="notification_push_cash_content">sana %s ShouCash verdi</string>
+    <string name="notification_push_cash_big_content">%1$s sana %2$s ShouCash verdi</string>
     <string name="notification_push_recommended_description">Videonuz önerildi!</string>
     <string name="no_root_url">http://philodox.net/android-root-yapmak-ne-demektir/</string>
     <string name="shou_cash_info">ShouCash açığı!</string>
@@ -312,4 +316,18 @@
     <string name="fragment_shou_cash_success_msg">Satın alma başarılı! %1$d ShouCash alındı, toplam da %2$d ShouCash\'iniz var</string>
     <string name="msg_description_love">Beğen</string>
     <string name="msg_description_reward">Ödül</string>
+    <string name="pref_title_category_notification">Bildirimler</string>
+    <string name="pref_summary_category_notification">Bildirimler AÇIK</string>
+    <string name="pref_title_notifications_vibrate">Titreşim</string>
+    <string name="pref_summary_notifications_vibrate">Gelen bildirimlerde titreştir</string>
+    <string name="pref_title_notifications_ringthone">Bildirim Sesi</string>
+    <string name="pref_summary_notifications_ringthone">Bildirim sesini ayarlayın</string>
+    <string name="pref_title_notifications_notification_light">Bildirim Işığı</string>
+    <string name="pref_summary_notifications_notification_light">Bildirim geldiğinde tuş arka ışığı ile bildir</string>
+    <string name="pref_title_notifications_new_followers">Yeni takipçiler</string>
+    <string name="pref_title_notifications_likes">Beğeniler</string>
+    <string name="pref_summary_notifications_likes">Yayın için seni beğendi</string>
+    <string name="pref_title_notifications_new_broadcasts">Yeni yayınlar</string>
+    <string name="pref_title_category_version">Versiyon Hakkında %s</string>
+    <string name="pref_summary_category_version">Yardım,Hizmet Şartları,Gizlilik Politikası</string>
 </resources>
