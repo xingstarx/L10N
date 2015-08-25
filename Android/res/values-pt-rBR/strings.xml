@@ -301,7 +301,6 @@
     <string name="notification_push_like_description">Gostou da sua trasmissão</string>
     <string name="notification_push_like_big_title">%s likes</string>
     <string name="notification_push_recommended_description">Seu video foi recomendado!</string>
-    <string name="no_root_url">http://www.androidpolice.com/2010/04/15/rooting-explained-top-5-benefits-of-rooting-your-android-phone/</string>
 
     <!-- terms to be careful about : Mirroring , Streaming, Broadcast, network -->
 
