@@ -320,12 +320,12 @@
     <string name="pref_summary_category_notification">Notifications are ON</string>
     <string name="pref_title_notifications_vibrate">Vibrate</string>
     <string name="pref_summary_notifications_vibrate">Vibrate on incoming notifications</string>
-    <string name="pref_title_notifications_ringthone">Ringthone</string>
+    <string name="pref_title_notifications_ringthone">Ringtone</string>
     <string name="pref_summary_notifications_ringthone">Set your notification ringtone</string>
     <string name="pref_title_notifications_notification_light">Notification light</string>
     <string name="pref_summary_notifications_notification_light">Pulse light for notifications</string>
     <string name="pref_title_notifications_new_followers">New followers</string>
-    <string name="pref_title_notifications_likes">Likes</string>
-    <string name="pref_summary_notifications_likes">Like you for broadcast</string>
+    <string name="pref_title_notifications_likes">New likes</string>
+    <string name="pref_summary_notifications_likes">Like broadcast</string>
     <string name="pref_title_notifications_new_broadcasts">New broadcasts</string>
 </resources>

@@ -314,10 +314,10 @@
     <string name="pref_summary_notifications_vibrate">收到通知時振動</string>
     <string name="pref_title_notifications_ringthone">鈴聲</string>
     <string name="pref_summary_notifications_ringthone">收到通知時啟用鈴聲</string>
-    <string name="pref_title_notifications_notification_light">閃光燈</string>
-    <string name="pref_summary_notifications_notification_light">收到通知時啟用閃光燈</string>
+    <string name="pref_title_notifications_notification_light">指示灯</string>
+    <string name="pref_summary_notifications_notification_light">收到通知時闪烁指示灯</string>
     <string name="pref_title_notifications_new_followers">新粉絲</string>
-    <string name="pref_title_notifications_likes">喜歡</string>
+    <string name="pref_title_notifications_likes">新的喜歡</string>
     <string name="pref_summary_notifications_likes">接收直播喜歡的通知</string>
     <string name="pref_title_notifications_new_broadcasts">新的直播</string>
 </resources>
