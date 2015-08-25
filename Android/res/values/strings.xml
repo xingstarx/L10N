@@ -102,7 +102,7 @@
     <string name="activity_screen_device_browser_name">Mirror to browser</string>
     <string name="activity_screen_choose_email">Feedback with email</string>
     <string name="activity_screen_live_loading">Loading</string>
-    <string name="activity_screen_live_title_hint">Title (optional)</string>
+    <string name="activity_screen_live_title_hint">Title</string>
     <string name="activity_screen_live_game_hint">Choose game</string>
     <string name="activity_video_player_share">%1$s : %2$s</string>
     <string name="activity_video_player_welcome">Welcome to the chat room!</string>
@@ -327,4 +327,6 @@
     <string name="pref_title_notifications_likes">New likes</string>
     <string name="pref_summary_notifications_likes">Like broadcast</string>
     <string name="pref_title_notifications_new_broadcasts">New broadcasts</string>
+    <string name="toast_livefragment_screen_live_title">Please enter title</string>
+    <string name="toast_livefragment_screen_live_game">Please select the game</string>
 </resources>

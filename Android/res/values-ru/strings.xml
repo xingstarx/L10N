@@ -90,7 +90,7 @@
     <string name="activity_screen_device_browser_name">Зеркалировать в браузер</string>
     <string name="activity_screen_choose_email">Связаться по email</string>
     <string name="activity_screen_live_loading">Загрузка</string>
-    <string name="activity_screen_live_title_hint">Название (необязательно)</string>
+    <string name="activity_screen_live_title_hint">Название</string>
     <string name="activity_screen_live_game_hint">Выбрать игру</string>
     <string name="activity_video_player_share">%1$s : %2$s</string>
     <string name="activity_no_medias">"Нет видео для показа, \n  перейдите в строку состояния, чтобы записать экран."</string>

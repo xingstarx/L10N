@@ -91,7 +91,7 @@
     <string name="activity_screen_device_browser_name">화면을 브라우저로 전송</string>
     <string name="activity_screen_choose_email">메일로 피드백 보내기</string>
     <string name="activity_screen_live_loading">로딩중</string>
-    <string name="activity_screen_live_title_hint">제목（옵션）</string>
+    <string name="activity_screen_live_title_hint">제목</string>
     <string name="activity_screen_live_game_hint">게임 선택</string>
     <string name="activity_video_player_share">%1$s ：%2$s</string>
     <string name="activity_no_medias">동영상 없음</string>
