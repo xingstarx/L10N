@@ -100,7 +100,7 @@
     <string name="activity_screen_device_browser_name">把螢幕分享到瀏覽器中</string>
     <string name="activity_screen_choose_email">使用電子信箱回饋問題</string>
     <string name="activity_screen_live_loading">載入中</string>
-    <string name="activity_screen_live_title_hint">標題（可以不寫）</string>
+    <string name="activity_screen_live_title_hint">標題</string>
     <string name="activity_screen_live_game_hint">選擇直播的遊戲</string>
     <string name="activity_video_player_share">%1$s ：%2$s</string>
     <string name="activity_video_player_welcome">歡迎來到我的聊天室！</string>
@@ -320,4 +320,6 @@
     <string name="pref_title_notifications_likes">新的喜歡</string>
     <string name="pref_summary_notifications_likes">接收直播喜歡的通知</string>
     <string name="pref_title_notifications_new_broadcasts">新的直播</string>
+    <string name="toast_livefragment_screen_live_title">請輸入標題</string>
+    <string name="toast_livefragment_screen_live_game">請選擇遊戲</string>
 </resources>

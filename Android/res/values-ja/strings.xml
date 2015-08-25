@@ -97,7 +97,7 @@
     <string name="activity_screen_device_browser_name">ブラウザー上でミラー表示</string>
     <string name="activity_screen_choose_email">メールでフィードバックを送信</string>
     <string name="activity_screen_live_loading">読み込み中...</string>
-    <string name="activity_screen_live_title_hint">タイトル(任意)</string>
+    <string name="activity_screen_live_title_hint">タイトル</string>
     <string name="activity_screen_live_game_hint">ゲームを選択</string>
     <string name="activity_video_player_share">%1$s : %2$s</string>
     <string name="activity_video_player_welcome">チャットルームへようこそ</string>

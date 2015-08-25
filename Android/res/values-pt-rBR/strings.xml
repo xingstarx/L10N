@@ -101,7 +101,7 @@
     <string name="activity_screen_device_browser_name">Refletir no navegador</string>
     <string name="activity_screen_choose_email">Feedback com o email</string>
     <string name="activity_screen_live_loading">Carregando</string>
-    <string name="activity_screen_live_title_hint">Titulo (Opcional)</string>
+    <string name="activity_screen_live_title_hint">Titulo</string>
     <string name="activity_screen_live_game_hint">selecione jogo</string>
     <string name="activity_video_player_share">%1$s : %2$s</string>
     <string name="activity_video_player_welcome">Bem vindo a sala de bate papo!</string>
