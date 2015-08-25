@@ -327,4 +327,5 @@
     <string name="pref_title_notifications_likes">Yeni beğeniler</string>
     <string name="pref_summary_notifications_likes">I will nit translate this string until someone explain it</string>
     <string name="pref_title_notifications_new_broadcasts">Yeni yayınlar</string>
-</resources>
+    <string name="toast_livefragment_screen_live_title">Lütfen başlık giriniz</string>
+    <string name="toast_livefragment_screen_live_game">Lütfen oyun seçiniz</string></resources>
