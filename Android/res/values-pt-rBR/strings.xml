@@ -23,7 +23,6 @@
     <string name="description_video_cover">video resumo</string>
     <string name="description_play_pause">parar player</string>
     <string name="description_live">Ao vivo</string>
-    <string name="description_rotation">Rotaçao</string>
     <string name="menu_next">Proxima</string>
     <string name="menu_more">Mais</string>
     <string name="menu_recordings">Gravações</string>
@@ -250,8 +249,6 @@
     <string name="pref_title_misc_open_source">Licenças de código aberto</string>
     <string name="pref_title_misc_privacy_policy">Política de privacidade</string>
     <string name="pref_title_misc_terms_of_service">Termos de serviço</string>
-    <string name="pref_title_misc_push">Notificações</string>
-    <string name="pref_summary_misc_push">Se irá receber notificações</string>
     <string name="msg_description_send">Enviar</string>
     <string name="msg_hint_send_msg">Enviar uma mensagem</string>
     <!-- What this action does? What is the meaning of No Login? -->

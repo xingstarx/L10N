@@ -23,7 +23,6 @@
     <string name="description_video_cover">동영상 표지</string>
     <string name="description_play_pause">시작, 정지</string>
     <string name="description_live">생방송</string>
-    <string name="description_rotation">회전</string>
     <string name="menu_more">추가 표시</string>
     <string name="menu_recordings">녹화한 동영상</string>
     <string name="menu_settings">설정</string>
@@ -132,7 +131,6 @@
     <string name="toast_api_error_connection_timeout">인터넷 타임아웃</string>
     <string name="toast_api_error_server_5xx">Shou.TV 서버 에러</string>
     <string name="toast_api_error_not_found">메시지 찾지 못함</string>
-    <string name="toast_worker_start_failed">Shou 시작 실패!</string>
     <string name="toast_worker_stop_failed">Shou 정지 실패!</string>
     <string name="toast_worker_error_occurred">에러 발생!</string>
     <string name="toast_worker_error_server_die">서버 이상!</string>
@@ -207,8 +205,6 @@
     <string name="pref_title_misc_open_source">오픈소스 라이센스</string>
     <string name="pref_title_misc_privacy_policy">개인정보보호정책</string>
     <string name="pref_title_misc_terms_of_service">서비스 조건</string>
-    <string name="pref_title_misc_push">푸시 알림</string>
-    <string name="pref_summary_misc_push">푸시 알림을 받을 것인가.</string>
     <string name="msg_description_send">발송</string>
     <string name="msg_hint_send_msg">채팅 시작</string>
     <string name="msg_description_emoji">이모티콘</string>
