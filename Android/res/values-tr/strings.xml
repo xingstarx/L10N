@@ -313,7 +313,6 @@
     <string name="toast_msg_buy_shou_cash_status_value_error">hata</string>
     <string name="activity_account_text_user_num_cash">%s nakit</string>
     <string name="fragment_shou_cash_success_msg">Satın alma başarılı! %1$d ShouCash alındı, toplam da %2$d ShouCash\'iniz var</string>
-    <string name="msg_description_love">Beğen</string>
     <string name="msg_description_reward">Ödül</string>
     <string name="pref_title_category_notification">Bildirimler</string>
     <string name="pref_summary_category_notification">Bildirimler AÇIK</string>

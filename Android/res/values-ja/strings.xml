@@ -22,7 +22,6 @@
     <string name="description_video_cover">ビデオカバー</string>
     <string name="description_play_pause">再生/一時停止</string>
     <string name="description_live">生放送</string>
-    <string name="description_rotation">回転</string>
     <string name="menu_more">もっと</string>
     <string name="menu_recordings">録画一覧</string>
     <string name="menu_settings">設定</string>
@@ -216,9 +215,6 @@
     <string name="pref_title_misc_open_source">オープンソースライセンス</string>
     <string name="pref_title_misc_privacy_policy">プライバシーポリシー(英語)</string>
     <string name="pref_title_misc_terms_of_service">ご利用にあたって(英語)</string>
-    <string name="pref_title_misc_push">通知</string>
-    <string name="pref_summary_misc_push">通知を取得するか</string>
-    <string name="msg_send_faild">このメッセージを送信できません。</string>
     <string name="msg_description_send">送信</string>
     <string name="msg_hint_send_msg">メッセージを送信</string>
     <string name="msg_description_emoji">絵文字</string>

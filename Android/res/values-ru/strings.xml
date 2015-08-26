@@ -23,7 +23,6 @@
     <string name="description_video_cover">Обложка видео</string>
     <string name="description_play_pause">Воспроизведение пауза</string>
     <string name="description_live">Live</string>
-    <string name="description_rotation">Поворот</string>
     <string name="menu_more">Ещё...</string>
     <string name="menu_recordings">Записи</string>
     <string name="menu_settings">Настройки</string>
@@ -131,7 +130,6 @@
     <string name="toast_api_error_connection_timeout">Таймаут соединения с сетью</string>
     <string name="toast_api_error_server_5xx">Shou.TV сервер обнаружил ошибки</string>
     <string name="toast_api_error_not_found">Сообщения не найдены</string>
-    <string name="toast_worker_start_failed">Рекордер не может начать запись!</string>
     <string name="toast_worker_stop_failed">Рекордер не может остановить запись!</string>
     <string name="toast_worker_error_occurred">Внутренняя ошибка!</string>
     <string name="toast_worker_error_server_die">Ошибка сервера!</string>
@@ -205,8 +203,6 @@
     <string name="pref_title_misc_open_source">Лицензии Open source</string>
     <string name="pref_title_misc_privacy_policy">Конфиденциальность</string>
     <string name="pref_title_misc_terms_of_service">Условия предоставления услуг</string>
-    <string name="pref_title_misc_push">Push-сообщения</string>
-    <string name="pref_summary_misc_push">Получать push-сообщения</string>
     <string name="msg_description_send">Отправить</string>
     <string name="msg_hint_send_msg">Отправить сообщение</string>
     <string name="msg_description_emoji">Смайлы</string>
