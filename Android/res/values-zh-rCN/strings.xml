@@ -325,4 +325,8 @@
     <string name="pref_title_notifications_new_broadcasts">新的直播</string>
     <string name="toast_livefragment_screen_live_title">请输入标题</string>
     <string name="toast_livefragment_screen_live_game">请选择游戏</string>
+    <string name="toast_need_permission_broadcast">直播功能需要 ROOT 权限</string>
+    <string name="toast_no_broadcast">直播功能不支持 x86 CPU</string>
+    <string name="toast_how_to_broadcast">如何直播</string>
+    <string name="toast_broadcast_dismiss">关闭</string>
 </resources>

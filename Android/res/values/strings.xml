@@ -329,4 +329,8 @@
     <string name="pref_title_notifications_new_broadcasts">New broadcasts</string>
     <string name="toast_livefragment_screen_live_title">Please enter title</string>
     <string name="toast_livefragment_screen_live_game">Please select the game</string>
+    <string name="toast_need_permission_broadcast">Broadcast feature need ROOT permission</string>
+    <string name="toast_no_broadcast">Broadcast feature don\'t support x86 CPU</string>
+    <string name="toast_how_to_broadcast">How to broadcast</string>
+    <string name="toast_broadcast_dismiss">Dismiss</string>
 </resources>
