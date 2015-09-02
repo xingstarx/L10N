@@ -320,4 +320,7 @@
     <string name="pref_title_notifications_new_broadcasts">新的直播</string>
     <string name="toast_livefragment_screen_live_title">請輸入標題</string>
     <string name="toast_livefragment_screen_live_game">請選擇遊戲</string>
+    <string name="msg_popup_at">提及</string>
+    <string name="fragment_bottom_toast_ban_info">禁言中 &#8230;</string>
+    <string name="fragment_bottom_toast_unban_info">取消禁言 &#8230;</string>
 </resources>
