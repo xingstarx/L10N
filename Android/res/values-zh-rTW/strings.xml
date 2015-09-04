@@ -316,7 +316,6 @@
     <string name="pref_summary_notifications_notification_light">收到通知時闪烁指示灯</string>
     <string name="pref_title_notifications_new_followers">新粉絲</string>
     <string name="pref_title_notifications_likes">新的喜歡</string>
-    <string name="pref_summary_notifications_likes">接收直播喜歡的通知</string>
     <string name="pref_title_notifications_new_broadcasts">新的直播</string>
     <string name="toast_livefragment_screen_live_title">請輸入標題</string>
     <string name="toast_livefragment_screen_live_game">請選擇遊戲</string>
