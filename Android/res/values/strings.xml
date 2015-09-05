@@ -335,4 +335,6 @@
     <string name="msg_popup_at">Mention</string>
     <string name="fragment_bottom_toast_ban_info">Ban &#8230;</string>
     <string name="fragment_bottom_toast_unban_info">Unban &#8230;</string>
+    <string name="permission_storage_denied">Write storage file denied, please allow</string>
+    <string name="permission_audio_denied">Record audio permission denied, please allow</string>
 </resources>
