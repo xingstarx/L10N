@@ -3,24 +3,24 @@
 
     <string-array name="pref_entries_video_output_format">
         <item>MKV</item>
-        <item>MP4（不推薦）</item>
-        <item>MOV（不推薦）</item>
+        <item>MP4</item>
+        <item>MOV</item>
         <item>MPEG-TS</item>
         <item>FLV</item>
-        <item>AVI（不推薦）</item>
+        <item>AVI</item>
     </string-array>
     <string-array name="pref_entries_video_source_engine">
-        <item>不錄影</item>
-        <item>錄影</item>
+        <item>Nulo</item>
+        <item>Memória</item>
     </string-array>
     <string-array name="pref_entries_video_encoding_engine">
-        <item>硬編碼（極快，較穩定）</item>
-        <item>軟編碼（較慢，很穩定）</item>
+        <item>Hardware</item>
+        <item>Software</item>
     </string-array>
     <string-array name="pref_entries_video_orientation">
-        <item>自動</item>
-        <item>水平</item>
-        <item>垂直</item>
+        <item>Auto</item>
+        <item>Panorama</item>
+        <item>Retrato</item>
     </string-array>
     <string-array name="pref_entries_video_resolution">
         <item>240P</item>
@@ -35,11 +35,6 @@
         <item>1 Mbps</item>
         <item>2 Mbps</item>
         <item>4 Mbps</item>
-    </string-array>
-    <string-array name="pref_entries_video_quality">
-        <item>低</item>
-        <item>中</item>
-        <item>高</item>
     </string-array>
     <string-array name="pref_entries_record_video_resolution">
         <item>240P</item>
@@ -60,26 +55,26 @@
         <item>16 Mbps</item>
     </string-array>
     <string-array name="pref_entries_audio_source">
-        <item>靜音</item>
-        <item>麥克風</item>
+        <item>Mudo</item>
+        <item>Mic</item>
     </string-array>
     <string-array name="pref_entries_network_type">
-        <item>只有連線 Wi-Fi 時才直播</item>
-        <item>在 Wi-Fi 和行動網路都可以直撥</item>
+        <item>Wi-Fi apenas</item>
+        <item>Qualquer rede</item>
     </string-array>
     <string-array name="profile_tabs">
-        <item>視訊</item>
-        <item>關注</item>
-        <item>粉絲</item>
+        <item>videos</item>
+        <item>Seguindo</item>
+        <item>Seguidores</item>
     </string-array>
     <string-array name="app_tabs">
-        <item>影片</item>
-        <item>玩家</item>
-        <item>遊戲推薦</item>
+        <item>videos</item>
+        <item>Jogadores</item>
+        <item>Jogos</item>
     </string-array>
     <string-array name="search_tabs">
-        <item>玩家</item>
-        <item>遊戲</item>
+        <item>jogadores</item>
+        <item>jogos</item>
     </string-array>
 
 </resources>

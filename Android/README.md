@@ -19,4 +19,4 @@ You may find detailed instructions at [Android developers site](http://developer
 6. Edit your own `strings.xml`, translate from `<string...>EN</string>` to `<string>LOCALE</string>`
 3. Edit your own `arrays.xml`, translate from `<item>EN</item>` to `<item>LOCALE</item>`
 
-DON NOT TOUCH ANY OTHER LETTERS!
+DO NOT TOUCH ANY OTHER LETTERS!

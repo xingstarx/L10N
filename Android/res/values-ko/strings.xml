@@ -23,7 +23,6 @@
     <string name="description_video_cover">동영상 표지</string>
     <string name="description_play_pause">시작, 정지</string>
     <string name="description_live">생방송</string>
-    <string name="description_rotation">회전</string>
     <string name="menu_more">추가 표시</string>
     <string name="menu_recordings">녹화한 동영상</string>
     <string name="menu_settings">설정</string>
@@ -32,13 +31,9 @@
     <string name="menu_search">검색</string>
     <string name="menu_like">좋아요</string>
     <string name="menu_share">공유</string>
-    <string name="search_hint">플레이어/게임/동영상 검색</string>
-    <string name="profile_text_videos">동영상</string>
-    <string name="profile_text_followers">팔로워</string>
-    <string name="profile_text_following">팔로잉</string>
+    <string name="search_hint">플레이어/게임 검색</string>
     <string name="profile_text_live">생방송</string>
     <string name="profile_edit_profile">프로필 편집</string>
-    <string name="activity_landing_brand_name">Shou your game screen\nTHE HOLY SPIRIT OF THE GAME</string>
     <string name="activity_landing_btn_sign_up">가입</string>
     <string name="activity_landing_btn_sign_in">로그인</string>
     <string name="activity_landing_google_plus_sign_in_progress">Google+로 로그인</string>
@@ -74,7 +69,6 @@
     <string name="activity_account_text_user_views">조회수: %s</string>
     <string name="activity_account_text_user_viewers">시청자: %s</string>
     <string name="activity_account_text_profile">프로필</string>
-    <string name="activity_account_toast_follow_failed">팔로우 실패</string>
     <string name="activity_account_toast_invalid_email">잘못된 메일</string>
     <string name="activity_account_toast_invalid_password_or_token">잘못된 비밀번호 및 링크</string>
     <string name="activity_account_toast_invalid_identify_or_password">잘못된 아이디 및 비밀번호</string>
@@ -96,7 +90,7 @@
     <string name="activity_screen_device_browser_name">화면을 브라우저로 전송</string>
     <string name="activity_screen_choose_email">메일로 피드백 보내기</string>
     <string name="activity_screen_live_loading">로딩중</string>
-    <string name="activity_screen_live_title_hint">제목（옵션）</string>
+    <string name="activity_screen_live_title_hint">제목</string>
     <string name="activity_screen_live_game_hint">게임 선택</string>
     <string name="activity_video_player_share">%1$s ：%2$s</string>
     <string name="activity_no_medias">동영상 없음</string>
@@ -114,7 +108,6 @@
     <string name="activity_accessibility_title">개인정보 보호</string>
     <string name="activity_accessibility_disable_label">설정에서 Shou를 찾고, 탭하고, 활성화하세요. 그러면 녹화나 방송 시 비밀번호와 개인정보를 흐리게 합니다.</string>
     <string name="activity_accessibility_disable_setting">설정</string>
-    <string name="action_open">열기</string>
     <string name="action_delete">삭제</string>
     <string name="action_share">공유</string>
     <string name="action_edit">편집</string>
@@ -138,7 +131,6 @@
     <string name="toast_api_error_connection_timeout">인터넷 타임아웃</string>
     <string name="toast_api_error_server_5xx">Shou.TV 서버 에러</string>
     <string name="toast_api_error_not_found">메시지 찾지 못함</string>
-    <string name="toast_worker_start_failed">Shou 시작 실패!</string>
     <string name="toast_worker_stop_failed">Shou 정지 실패!</string>
     <string name="toast_worker_error_occurred">에러 발생!</string>
     <string name="toast_worker_error_server_die">서버 이상!</string>
@@ -213,13 +205,8 @@
     <string name="pref_title_misc_open_source">오픈소스 라이센스</string>
     <string name="pref_title_misc_privacy_policy">개인정보보호정책</string>
     <string name="pref_title_misc_terms_of_service">서비스 조건</string>
-    <string name="pref_title_misc_push">푸시 알림</string>
-    <string name="pref_summary_misc_push">푸시 알림을 받을 것인가.</string>
-    <string name="msg_send_failed">발송실패</string>
     <string name="msg_description_send">발송</string>
-    <string name="msg_description_loading">로딩중</string>
     <string name="msg_hint_send_msg">채팅 시작</string>
-    <string name="msg_hint_send_disable">로그인 후 채팅 시작</string>
     <string name="msg_description_emoji">이모티콘</string>
     <string name="emoji_no_recent">최근 사용했던 표정 없음</string>
     <string name="emoji_description_back_space">지우기</string>

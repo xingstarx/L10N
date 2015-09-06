@@ -36,6 +36,11 @@
         <item>2 Mbps</item>
         <item>4 Mbps</item>
     </string-array>
+    <string-array name="pref_entries_video_quality">
+        <item>低</item>
+        <item>中</item>
+        <item>高</item>
+    </string-array>
     <string-array name="pref_entries_record_video_resolution">
         <item>240P</item>
         <item>320P</item>
@@ -75,7 +80,6 @@
     <string-array name="search_tabs">
         <item>主播</item>
         <item>游戏</item>
-        <item>视频</item>
     </string-array>
 
 </resources>
