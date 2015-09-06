@@ -313,6 +313,7 @@
     <string name="toast_msg_buy_shou_cash_status_value_error">hata</string>
     <string name="activity_account_text_user_num_cash">%s nakit</string>
     <string name="fragment_shou_cash_success_msg">Satın alma başarılı! %1$d ShouCash alındı, toplam da %2$d ShouCash\'iniz var</string>
+    <string name="msg_description_like">Beğen</string>
     <string name="msg_description_reward">Ödül</string>
     <string name="pref_title_category_notification">Bildirimler</string>
     <string name="pref_summary_category_notification">Bildirimler AÇIK</string>
@@ -327,4 +328,13 @@
     <string name="pref_title_notifications_new_broadcasts">Yeni yayınlar</string>
     <string name="toast_livefragment_screen_live_title">Lütfen başlık giriniz</string>
     <string name="toast_livefragment_screen_live_game">Lütfen oyun seçiniz</string>
+    <string name="toast_need_permission_broadcast">Yayın yapma özelliği ROOT izni gerektirir</string>
+    <string name="toast_no_broadcast">Yayın yapma özelliği x86 yapısına sahio işlemcilerde çalışmıyor</string>
+    <string name="toast_how_to_broadcast">Nasıl yayın yapılır</string>
+    <string name="toast_broadcast_dismiss">Reddet</string>
+    <string name="msg_popup_at">Bahset</string>
+    <string name="fragment_bottom_toast_ban_info">Engelle: &#8230;</string>
+    <string name="fragment_bottom_toast_unban_info">Engeli kaldır: &#8230;</string>
+    <string name="permission_storage_denied">Dosya yazma başarısız, lütfen izin verin</string>
+    <string name="permission_audio_denied">Ses kaydetme izni kabul edilmedi, lütfen izin verin</string>
 </resources>
