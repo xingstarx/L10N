@@ -322,4 +322,9 @@
     <string name="msg_popup_at">提及</string>
     <string name="fragment_bottom_toast_ban_info">禁言中 &#8230;</string>
     <string name="fragment_bottom_toast_unban_info">取消禁言 &#8230;</string>
+    <string name="permission_title">權限</string>
+    <string name="permission_content">需要授權</string>
+    <string name="permission_storage">儲存空間</string>
+    <string name="permission_audio">麥克風</string>
+    <string name="permission_alet_window">懸浮窗口</string>
 </resources>

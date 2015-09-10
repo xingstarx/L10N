@@ -333,4 +333,9 @@
     <string name="fragment_bottom_toast_unban_info">取消禁言 &#8230;</string>
     <string name="permission_storage_denied">请允许 Shou 访问 SDCARD 权限</string>
     <string name="permission_audio_denied">请允许 Shou 获取录制麦克风权限</string>
+    <string name="permission_title">权限</string>
+    <string name="permission_content">需要授权</string>
+    <string name="permission_storage">储存空间</string>
+    <string name="permission_audio">麦克风</string>
+    <string name="permission_alet_window">悬浮窗口</string>
 </resources>
