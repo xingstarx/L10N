@@ -322,4 +322,7 @@
     <string name="msg_popup_at">提及</string>
     <string name="fragment_bottom_toast_ban_info">禁言中 &#8230;</string>
     <string name="fragment_bottom_toast_unban_info">取消禁言 &#8230;</string>
+    <string name="msg_error_often">您的信息發送過於頻繁，請在%d秒后重試</string>
+    <string name="msg_error_quickly">您的信息發送過於頻繁，請稍後重試</string>
+    <string name="msg_error_similar">請勿發送重複內容</string>
 </resources>
