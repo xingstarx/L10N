@@ -104,6 +104,9 @@
     <string name="activity_screen_live_loading">Loading</string>
     <string name="activity_screen_live_title_hint">Title</string>
     <string name="activity_screen_live_game_hint">Choose game</string>
+    <string name="activity_screen_fab_mirror">Mirror</string>
+    <string name="activity_screen_fab_record">Record</string>
+    <string name="activity_screen_fab_broadcast">Broadcast</string>
     <string name="activity_video_player_share">%1$s : %2$s</string>
     <string name="activity_video_player_welcome">Welcome to the chat room!</string>
     <string name="activity_no_medias">No videos to show, \n check status bar to record screen.</string>

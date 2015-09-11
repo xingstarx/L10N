@@ -101,6 +101,9 @@
     <string name="activity_screen_live_loading">加载中</string>
     <string name="activity_screen_live_title_hint">标题</string>
     <string name="activity_screen_live_game_hint">选择直播的游戏</string>
+    <string name="activity_screen_fab_mirror">镜像</string>
+    <string name="activity_screen_fab_record">录制</string>
+    <string name="activity_screen_fab_broadcast">直播</string>
     <string name="activity_video_player_share">%1$s ：%2$s</string>
     <string name="activity_video_player_welcome">欢迎来到我的聊天室！</string>
     <string name="activity_no_medias">还没有录制视频</string>
