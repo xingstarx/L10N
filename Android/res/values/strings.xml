@@ -123,10 +123,6 @@
     <string name="activity_accessibility_disable_setting">Go to settings</string>
     <string name="activity_notification_title">Notifications</string>
     <string name="activity_no_notifications">No notifications</string>
-    <string name="activity_app_like_success">Followed!</string>
-    <string name="activity_app_like_failed">Failed to Follow :(</string>
-    <string name="activity_app_unlike_success">Unfollowed!</string>
-    <string name="activity_app_unlike_failed">Failed to Unfollow :(</string>
     <string name="activity_game_group_favorite">Followed Games</string>
     <string name="activity_game_group_played">Broadcast Games</string>
     <string name="activity_find_friends_follow_all">Follow all</string>
