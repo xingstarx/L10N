@@ -339,4 +339,9 @@
     <string name="msg_error_often">您的信息发送过于频繁，请在%d秒后重试</string>
     <string name="msg_error_quickly">您的信息发送过于频繁，请稍后重试</string>
     <string name="msg_error_similar">请勿发送重复内容</string>
+    <string name="permission_title">权限</string>
+    <string name="permission_content">需要授权</string>
+    <string name="permission_storage">储存空间</string>
+    <string name="permission_audio">麦克风</string>
+    <string name="permission_alet_window">悬浮窗口</string>
 </resources>
