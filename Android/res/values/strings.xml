@@ -342,7 +342,7 @@
     <string name="msg_error_similar">Your message not sent because it is identical to the previous one you sent.</string>
     <string name="permission_title">Permission</string>
     <string name="permission_content">need access to</string>
-    <string name="permission_storage">Stroage</string>
+    <string name="permission_storage">Storage</string>
     <string name="permission_audio">Microphone</string>
     <string name="permission_alet_window">Floating Window</string>
 </resources>
