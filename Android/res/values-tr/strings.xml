@@ -340,4 +340,9 @@
     <string name="fragment_bottom_toast_unban_info">Engeli kaldır: &#8230;</string>
     <string name="permission_storage_denied">Dosya yazma izni verilmedi, lütfen izin verin</string>
     <string name="permission_audio_denied">Ses kaydetme izni verilmedi, lütfen izin verin</string>
+    <string name="permission_title">İzin</string>
+    <string name="permission_content">erişimine ihtiyaç var</string>
+    <string name="permission_storage">Depolama</string>
+    <string name="permission_audio">Mikrofon</string>
+    <string name="permission_alet_window">Kayan pencere</string>
 </resources>
