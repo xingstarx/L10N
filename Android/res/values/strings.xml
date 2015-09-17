@@ -348,4 +348,5 @@
     <string name="permission_storage">Stroage</string>
     <string name="permission_audio">Microphone</string>
     <string name="permission_alet_window">Floating Window</string>
+    <string name="settings_parmams">Parmams</string>
 </resources>
