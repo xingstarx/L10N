@@ -337,4 +337,12 @@
     <string name="fragment_bottom_toast_unban_info">Unban &#8230;</string>
     <string name="permission_storage_denied">Write storage file denied, please allow</string>
     <string name="permission_audio_denied">Record audio permission denied, please allow</string>
+    <string name="msg_error_often">Your message not sent because you are sending messages too quickly. You will be able to talk in %d seconds.</string>
+    <string name="msg_error_quickly"> Your message not sent because you are sending messages too quickly. Please try again.</string>
+    <string name="msg_error_similar">Your message not sent because it is identical to the previous one you sent.</string>
+    <string name="permission_title">Permission</string>
+    <string name="permission_content">need access to</string>
+    <string name="permission_storage">Storage</string>
+    <string name="permission_audio">Microphone</string>
+    <string name="permission_alet_window">Floating Window</string>
 </resources>
