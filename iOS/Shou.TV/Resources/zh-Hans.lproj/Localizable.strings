@@ -248,3 +248,7 @@ CFBundleDisplayName = "Shou.TV";
 "broadcast_guide_tips_sign_in" = "选择要直播的电脑进行登录操作";
 
 "explore_search_game" = "搜索 “%@” 游戏？";
+
+"VIDEO_CAMERA_LIVE_TITLE_HINT" = "What are you seeing now?";
+"VIDEO_CAMERA_STREAMING_READY" = "开始直播";
+"VIDEO_CAMERA_STREAMING_STOP" = "停止直播";
