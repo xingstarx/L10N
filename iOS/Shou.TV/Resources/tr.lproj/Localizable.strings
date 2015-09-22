@@ -250,3 +250,7 @@ CFBundleDisplayName = "Shou.TV";
 "broadcast_guide_tips_sign_in" = "Yayın yapmak için giriş yapmak istediğiniz bilgisayarı seçiniz";
 
 "explore_search_game" = "Ara \"%@\" oyun?";
+
+"VIDEO_CAMERA_LIVE_TITLE_HINT" = "Ne görüyorsun?";
+"VIDEO_CAMERA_STREAMING_READY" = "Yayını Başlat";
+"VIDEO_CAMERA_STREAMING_STOP" = "Durdur";
