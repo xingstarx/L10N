@@ -123,10 +123,6 @@
     <string name="activity_accessibility_disable_setting">Ayarlara git</string>
     <string name="activity_notification_title">Bildirimler</string>
     <string name="activity_no_notifications">Bildirim yok</string>
-    <string name="activity_app_like_success">Takip edildi!</string>
-    <string name="activity_app_like_failed">Takip edilemedi :(</string>
-    <string name="activity_app_unlike_success">Takip bırakıldı!</string>
-    <string name="activity_app_unlike_failed">Takip bırakılamadı :(</string>
     <string name="activity_game_group_favorite">Takip Edilen Oyunlar</string>
     <string name="activity_game_group_played">Oynadığın Oyunlar</string>
     <string name="activity_find_friends_follow_all">Hepsini takip et</string>
