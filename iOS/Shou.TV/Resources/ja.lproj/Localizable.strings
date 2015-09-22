@@ -250,7 +250,3 @@ CFBundleDisplayName = "Shou.TV";
 "broadcast_guide_tips_sign_in" = "Select the computer you want to broadcast to sign in";
 
 "explore_search_game" = "Search \"%@\" game?";
-
-"VIDEO_CAMERA_LIVE_TITLE_HINT" = "What are you seeing now?";
-"VIDEO_CAMERA_STREAMING_READY" = "Stream";
-"VIDEO_CAMERA_STREAMING_STOP" = "Stop";
