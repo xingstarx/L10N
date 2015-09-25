@@ -252,5 +252,5 @@ CFBundleDisplayName = "Shou.TV";
 "explore_search_game" = "Search \"%@\" game?";
 
 "VIDEO_CAMERA_LIVE_TITLE_HINT" = "What are you seeing now?";
-"VIDEO_CAMERA_STREAMING_READY" = "Stream";
-"VIDEO_CAMERA_STREAMING_STOP" = "Stop";
+"VIDEO_CAMERA_STREAMING_READY" = "Start Broadcast";
+"VIDEO_CAMERA_STREAMING_STOP" = "Stop Broadcast";
