@@ -72,8 +72,10 @@
     <string name="activity_account_btn_open">打开</string>
     <string name="activity_account_text_user_views">%s 观看</string>
     <string name="activity_account_text_user_viewers">%s 观众</string>
+    <string name="activity_account_text_user_score">%s 人气</string>
     <string name="activity_account_text_game_casts">%s 视频</string>
     <string name="activity_account_text_game_players">%s 玩家</string>
+    <string name="activity_account_text_user_likes">%s 喜欢</string>
     <string name="activity_account_text_profile">profile</string>
     <string name="activity_account_text_agree_term">继续使用即表示你同意%1$s 服务条款 %2$s 并同意 %3$s 隐私政策 %4$s</string>
     <string name="activity_account_toast_invalid_email">无效的邮箱</string>
