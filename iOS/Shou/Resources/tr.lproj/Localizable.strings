@@ -145,7 +145,7 @@
 "Title" = "Başlık";
 
 /* No comment provided by engineer. */
-"To record most games, turn on AssistiveTouch in iOS Settings > General > Accessibility > AssistiveTouch." = "Çoğu oyunu kaydetmek için, turn AssistiveTouch'u iOS Ayarlar > Genel > Erişebilirlik > Assistive Touch bölümünden etkinleştiriniz.";
+"To record most games, turn on AssistiveTouch in iOS Settings > General > Accessibility > AssistiveTouch." = "Çoğu oyunu kaydetmek için, AssistiveTouch'u iOS Ayarlar > Genel > Erişebilirlik > Assistive Touch bölümünden etkinleştiriniz.";
 
 /* No comment provided by engineer. */
 "Watch my live stream" = "Canlı yayınımı izleyin";
