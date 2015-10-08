@@ -208,6 +208,7 @@
     <string name="pref_title_video_quality">播送質量</string>
     <string name="pref_title_video_show_touches">顯示觸控點</string>
     <string name="pref_summary_video_show_touches">開啟選項在手指觸控螢幕時顯示小白點</string>
+    <string name="pref_summary_video_show_touches_unenable">Android6.0暫不支持該功能</string>
     <string name="pref_title_video_swap_uv">修復顏色補正</string>
     <string name="pref_summary_video_swap_uv">有些裝置（如三星）硬編碼的視訊顏色異常</string>
     <string name="pref_title_audio_source">聲音來源</string>
