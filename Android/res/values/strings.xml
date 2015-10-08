@@ -126,10 +126,6 @@
     <string name="activity_accessibility_disable_setting">Go to settings</string>
     <string name="activity_notification_title">Notifications</string>
     <string name="activity_no_notifications">No notifications</string>
-    <string name="activity_app_like_success">Followed!</string>
-    <string name="activity_app_like_failed">Failed to Follow :(</string>
-    <string name="activity_app_unlike_success">Unfollowed!</string>
-    <string name="activity_app_unlike_failed">Failed to Unfollow :(</string>
     <string name="activity_game_group_favorite">Followed Games</string>
     <string name="activity_game_group_played">Broadcast Games</string>
     <string name="activity_find_friends_follow_all">Follow all</string>
@@ -265,16 +261,16 @@
     <string name="emoji_description_back_space">Back space</string>
     <string name="emoji_description_cell">Cell</string>
     <string name="time_ago_seconds">just now</string>
-    <string name="time_ago_minute">1 min ago</string>
-    <string name="time_ago_minutes">%d mins ago</string>
-    <string name="time_ago_hour">1 hour ago</string>
-    <string name="time_ago_hours">%d hours ago</string>
-    <string name="time_ago_day">1 day ago</string>
-    <string name="time_ago_days">%d days ago</string>
-    <string name="time_ago_month">1 month ago</string>
-    <string name="time_ago_months">%d months ago</string>
-    <string name="time_ago_year">1 year ago</string>
-    <string name="time_ago_years">%d years ago</string>
+    <string name="time_ago_minute">1 min</string>
+    <string name="time_ago_minutes">%d mins</string>
+    <string name="time_ago_hour">1 hour</string>
+    <string name="time_ago_hours">%d hours</string>
+    <string name="time_ago_day">1 day</string>
+    <string name="time_ago_days">%d days</string>
+    <string name="time_ago_month">1 month</string>
+    <string name="time_ago_months">%d months</string>
+    <string name="time_ago_year">1 year</string>
+    <string name="time_ago_years">%d years</string>
     <string name="selected_folder_label">Selected folder:</string>
     <string name="create_folder_label">New folder name</string>
     <string name="create_folder_success">Created new folder</string>
@@ -315,6 +311,8 @@
     <string name="toast_msg_buy_shou_cash_status">Purchase %s</string>
     <string name="toast_msg_buy_shou_cash_status_value_error">error</string>
     <string name="activity_account_text_user_num_cash">%s cash</string>
+    <string name="activity_account_text_user_score">%s score</string>
+    <string name="activity_account_text_user_likes">%s likes</string>
     <string name="fragment_shou_cash_success_msg">Purchase successfully! got %1$d ShouCash, total %2$d ShouCash</string>
     <string name="msg_description_like">Like</string>
     <string name="msg_description_reward">Reward</string>
@@ -347,6 +345,7 @@
     <string name="permission_content">need access to</string>
     <string name="permission_storage">Storage</string>
     <string name="permission_audio">Microphone</string>
+    <string name="permission_camera">Camera</string>
     <string name="permission_alet_window">Floating Window</string>
     <string name="settings_parmams">Parmams</string>
 </resources>

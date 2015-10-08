@@ -1,0 +1,332 @@
+﻿/* No comment provided by engineer. */
+"Are you sure?" = "Emin misiniz?";
+
+/* No comment provided by engineer. */
+"Broadcast" = "Canlı yayını başlat";
+
+/* No comment provided by engineer. */
+"Broadcast Failed" = "Yayın yapma başarısız";
+
+/* No comment provided by engineer. */
+"BROADCASTING" = "CANLI YAYIN";
+
+/* No comment provided by engineer. */
+"Broadcasting stopped!" = "Canlı yayın durduruldu!";
+
+/* No comment provided by engineer. */
+"Can't connect to server!" = "Sunucuya bağlanılamıyor!";
+
+/* No comment provided by engineer. */
+"Can't find live server!" = "Canlı sunucu bulunamıyor!";
+
+/* No comment provided by engineer. */
+"Cancel" = "İptal";
+
+/* No comment provided by engineer. */
+"Choose game" = "Oyun seç";
+
+/* No comment provided by engineer. */
+"Continue" = "Devam et";
+
+/* No comment provided by engineer. */
+"Delete" = "Sil";
+
+/* No comment provided by engineer. */
+"Download Shou.TV" = "Shou.TV'yi indirin";
+
+/* No comment provided by engineer. */
+"Error! Please try again" = "Hata! Lütfen tekrar deneyin";
+
+/* No comment provided by engineer. */
+"My Broadcast Streams" = "Yayınlarım";
+
+/* No comment provided by engineer. */
+"Network connection error" = "Ağ bağlantısı hatası";
+
+/* No comment provided by engineer. */
+"No Internet Connection." = "İnternet bağlantısı yok.";
+
+"Shou.TV server maintenance" = "Shou.TV sunucusu bakım altında";
+
+/* No comment provided by engineer. */
+"Note" = "Not";
+
+/* No comment provided by engineer. */
+"OK" = "Tamam";
+
+/* No comment provided by engineer. */
+"Open In..." = "Şununla Aç...";
+
+/* No comment provided by engineer. */
+"Open my broadcast streams list" = "Yayın listemi aç";
+
+/* No comment provided by engineer. */
+"Play" = "Oyna";
+
+/* No comment provided by engineer. */
+"Please allow Shou access Microphone in iOS Settings > Privacy > Microphone." ="Lütfen iOS Ayarlar > Gizlilik > Mikrofon bölümüne giderek Shou'ya mikrofonu kullanma izni verin.";
+
+/* No comment provided by engineer. */
+"Please allow Shou access Album in iOS Settings > Privacy > Photos." = "Lütfen iOS Ayarlar > Gizlilik > Fotoğraflar bölümüne giderek Shou'ya albüme erişim izni verin";
+
+/* No comment provided by engineer. */
+"Please enter broadcast title" = "Lütfen yayın başlığını giriniz";
+
+/* No comment provided by engineer. */
+"Please select a game" = "Lütfen oyun seçiniz";
+
+/* No comment provided by engineer. */
+"Please upgrade Shou.TV to 0.5.0+" = "Lütfen Shou.TV'yi 0.5.0 ve üstü bir sürüme güncelleyiniz";
+
+/* No comment provided by engineer. */
+"Record" = "Kaydet";
+
+/* No comment provided by engineer. */
+"Record screen" = "Ekranı kaydet";
+
+/* No comment provided by engineer. */
+"RECORDING" = "KAYDEDİLİYOR";
+
+/* No comment provided by engineer. */
+"Recording stopped!" = "Kayıt durduruldu!";
+
+/* No comment provided by engineer. */
+"Recordings" = "Kayıtlar";
+
+/* No comment provided by engineer. */
+"Save failed!" = "Kaydetme başarısız!";
+
+"Dont support 1080P video save to Camera Roll" = "Albüme 1080p video kaydetme desteklenmiyor";
+
+/* No comment provided by engineer. */
+"Save Successfully!" = "Kaydetme başarılı!";
+
+/* No comment provided by engineer. */
+"Save to Camera Roll" = "Albüme Kaydet";
+
+/* No comment provided by engineer. */
+"Settings" = "Ayarlar";
+
+/* No comment provided by engineer. */
+"Share failed" = "Paylaşılamadı";
+
+/* No comment provided by engineer. */
+"Shou" = "Shou";
+
+/* No comment provided by engineer. */
+"Sign in" = "Giriş yap";
+
+/* No comment provided by engineer. */
+"Sign in with Shou.TV" = "Shou.TV ile Giriş Yap";
+
+"Learn more" = "Daha fazla öğren";
+
+"not_support_title" = "Shou iPad 2, 3, iPhone 4 ve iOS 9 cihazlarında kayıt yapamaz, shou.tv/mac adresinden Shou for Mac'i yüklemeniz gerekmektedir, Mac'iniz OS X 10.10 ve üzeri bir sürümde olmalıdır";
+
+/* No comment provided by engineer. */
+"Start" = "Başlat";
+
+/* No comment provided by engineer. */
+"Start Broadcast" = "Yayını Başlat";
+
+/* No comment provided by engineer. */
+"Start Record" = "Kaydı Başlat";
+
+/* No comment provided by engineer. */
+"Stop" = "Durdur";
+
+/* No comment provided by engineer. */
+"Stop Broadcasting" = "Yayını Durdur";
+
+/* No comment provided by engineer. */
+"Stop Recording" = "Kaydı Durdur";
+
+/* No comment provided by engineer. */
+"Title" = "Başlık";
+
+/* No comment provided by engineer. */
+"To record most games, turn on AssistiveTouch in iOS Settings > General > Accessibility > AssistiveTouch." = "Çoğu oyunu kaydetmek için, AssistiveTouch'u iOS Ayarlar > Genel > Erişebilirlik > Assistive Touch bölümünden etkinleştiriniz.";
+
+/* No comment provided by engineer. */
+"Watch my live stream" = "Canlı yayınımı izleyin";
+
+/* No comment provided by engineer. */
+"You need to install Shou.TV from AppStore to sign in the app" = "Uygulamaya giriş yapabilmeniz için AppStore'dan Shou.TV'yi yüklemeniz gerekmektedir";
+
+/* No comment provided by engineer. */
+"BROADCAST_RECORD"  = "Yayınla ya da Kaydet";
+
+/* No comment provided by engineer. */
+"BROADCAST"           = "Yayınla";
+
+/* No comment provided by engineer. */
+"RECORD"              = "Kaydet";
+
+/* No comment provided by engineer. */
+"FORMAT"              = "Format";
+
+/* No comment provided by engineer. */
+"TS"                    = "TS";
+
+/* No comment provided by engineer. */
+"MKV"                   = "MKV";
+
+/* No comment provided by engineer. */
+"MP4"                   = "MP4";
+
+/* No comment provided by engineer. */
+"MOV"                   = "MOV";
+
+/* No comment provided by engineer. */
+"FLV"                   = "FLV";
+
+/* No comment provided by engineer. */
+"VIDEO_ORIENTATION" = "Çekim Yönü";
+
+/* No comment provided by engineer. */
+"PORTRAIT"            = "Dikey";
+
+/* No comment provided by engineer. */
+"LANDSCAPE_LEFT"      = "Yatay (Orta Tuş Solda)";
+
+/* No comment provided by engineer. */
+"LANDSCAPE_RIGHT"     = "Yatay (Orta Tuş Sağda)";
+
+/* No comment provided by engineer. */
+"PORTRAIT_UPSIDE"     = "Dikey (Ters)";
+
+/* No comment provided by engineer. */
+"QUALITY" = "Kalite";
+
+/* No comment provided by engineer. */
+"LOW" = "Düşük";
+
+/* No comment provided by engineer. */
+"MEDIUM" = "Orta";
+
+/* No comment provided by engineer. */
+"HIGH" = "Yüksek";
+
+/* No comment provided by engineer. */
+"RECORDING" = "Kaydediliyor";
+
+/* No comment provided by engineer. */
+"RESOLUTION"  = "Çözünürlük";
+
+/* No comment provided by engineer. */
+"R240P"         = "240P";
+
+/* No comment provided by engineer. */
+"R360P"         = "360P";
+
+/* No comment provided by engineer. */
+"R480P"         = "480P";
+
+/* No comment provided by engineer. */
+"R640P"         = "640P";
+
+/* No comment provided by engineer. */
+"R720P"         = "720P";
+
+/* No comment provided by engineer. */
+"R1080P"        = "1080P";
+
+/* No comment provided by engineer. */
+"BITRATE"     = "Bit Hızı";
+
+/* No comment provided by engineer. */
+"B256KB"        = "256 Kbps";
+
+/* No comment provided by engineer. */
+"B512KB"        = "512 Kbps";
+
+/* No comment provided by engineer. */
+"B1MB"          = "1 Mbps";
+
+/* No comment provided by engineer. */
+"B2MB"          = "2 Mbps";
+
+/* No comment provided by engineer. */
+"B3MB"          = "3 Mbps";
+
+/* No comment provided by engineer. */
+"B4MB"          = "4 Mbps";
+
+/* No comment provided by engineer. */
+"B6MB"          = "6 Mbps";
+
+/* No comment provided by engineer. */
+"B8MB"          = "8 Mbps";
+
+/* No comment provided by engineer. */
+"B10MB"         = "10 Mbps";
+
+/* No comment provided by engineer. */
+"B16MB"         = "16 Mbps";
+
+/* No comment provided by engineer. */
+"HELP"            = "yardım";
+
+/* No comment provided by engineer. */
+"DOWNLOAD"        = "İndir";
+
+/* No comment provided by engineer. */
+"FACECAM"        = "FaceCam";
+
+/*No comment provided by engineer.*/
+"FLOATING AVATAR" = "Kayan pencere";
+
+/* No comment provided by engineer. */
+"FAQ"               = "SSS";
+
+/* No comment provided by engineer. */
+"WEBSITE"           = "Website";
+
+/* No comment provided by engineer. */
+"TWITTER"           = "Twitter";
+
+/* No comment provided by engineer. */
+"FACEBOOK"          = "Facebook";
+
+/* No comment provided by engineer. */
+"GOOGLE_PLUS"       = "Google+";
+
+/* No comment provided by engineer. */
+"PRIVACY_POLICY"    = "Gizlilik politikası";
+
+/* No comment provided by engineer.*/
+"FEEDBACK"      =   "Geribildirim";
+
+/* No comment provided by engineer. */
+"TERMS_OF_SERVICE"  = "Hizmet şartları";
+
+/* No comment provided by engineer. */
+"ABOUT"       = "hakkında";
+
+/* No comment provided by engineer. */
+"VERSION"       = " Sürüm";
+
+/* No comment provided by engineer. */
+"COPYRIGHT"     = " Telif Hakkı";
+
+/* No comment provided by engineer. */
+"LOG_OUT_GROUP"    = "";
+
+/* No comment provided by engineer. */
+"LOG_OUT"          = "Çıkış Yap";
+
+/* No comment provided by engineer. */
+"DOWNLOAD_VIEWER_SHOU"  = "Görüntüleyiciyi İndir (Shou.TV)";
+
+/* No comment provided by engineer. */
+"DOWNLOAD_VIEWER_233"   = "Görüntüleyiciyi İndir (233.TV)";
+
+/* No comment provided by engineer. */
+"DOWNLOAD_RECORDER_SHOU"  = "Kaydediciyi İndir (Shou.TV)";
+
+/* No comment provided by engineer. */
+"DOWNLOAD_RECORDER_233"   = "Kaydediciyi İndir (233.TV)";
+
+/* No comment provided by engineer. */
+"give"        =      ""verildi;
+

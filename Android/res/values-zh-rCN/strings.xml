@@ -72,8 +72,10 @@
     <string name="activity_account_btn_open">打开</string>
     <string name="activity_account_text_user_views">%s 观看</string>
     <string name="activity_account_text_user_viewers">%s 观众</string>
+    <string name="activity_account_text_user_score">%s 人气</string>
     <string name="activity_account_text_game_casts">%s 视频</string>
     <string name="activity_account_text_game_players">%s 玩家</string>
+    <string name="activity_account_text_user_likes">%s 喜欢</string>
     <string name="activity_account_text_profile">profile</string>
     <string name="activity_account_text_agree_term">继续使用即表示你同意%1$s 服务条款 %2$s 并同意 %3$s 隐私政策 %4$s</string>
     <string name="activity_account_toast_invalid_email">无效的邮箱</string>
@@ -123,10 +125,6 @@
     <string name="activity_accessibility_disable_setting">前往设置</string>
     <string name="activity_notification_title">通知</string>
     <string name="activity_no_notifications">没有通知</string>
-    <string name="activity_app_like_success">关注成功！</string>
-    <string name="activity_app_like_failed">关注失败 :(</string>
-    <string name="activity_app_unlike_success">取消关注成功！</string>
-    <string name="activity_app_unlike_failed">取消关注失败 :(</string>
     <string name="activity_game_group_favorite">我关注的游戏</string>
     <string name="activity_game_group_played">我直播过的游戏</string>
     <string name="activity_find_friends_follow_all">全部关注</string>
@@ -261,16 +259,16 @@
     <string name="emoji_description_back_space">回退</string>
     <string name="emoji_description_cell">格子</string>
     <string name="time_ago_seconds">刚刚</string>
-    <string name="time_ago_minute">1 分钟前</string>
-    <string name="time_ago_minutes">%d 分钟前</string>
-    <string name="time_ago_hour">1 小时前</string>
-    <string name="time_ago_hours">%d 小时前</string>
-    <string name="time_ago_day">1 天前</string>
-    <string name="time_ago_days">%d 天前</string>
-    <string name="time_ago_month">1 月前</string>
-    <string name="time_ago_months">%d 月前</string>
-    <string name="time_ago_year">1 年前</string>
-    <string name="time_ago_years">%d 年前</string>
+    <string name="time_ago_minute">1 分钟</string>
+    <string name="time_ago_minutes">%d 分钟</string>
+    <string name="time_ago_hour">1 小时</string>
+    <string name="time_ago_hours">%d 小时</string>
+    <string name="time_ago_day">1 天</string>
+    <string name="time_ago_days">%d 天</string>
+    <string name="time_ago_month">1 月</string>
+    <string name="time_ago_months">%d 月</string>
+    <string name="time_ago_year">1 年</string>
+    <string name="time_ago_years">%d 年</string>
     <string name="selected_folder_label">选择的文件夹：</string>
     <string name="create_folder_label">新文件夹名称</string>
     <string name="create_folder_success">成功创建文件夹</string>
@@ -343,6 +341,7 @@
     <string name="permission_content">需要授权</string>
     <string name="permission_storage">储存空间</string>
     <string name="permission_audio">麦克风</string>
+    <string name="permission_camera">前置摄像头</string>
     <string name="permission_alet_window">悬浮窗口</string>
     <string name="settings_parmams">参数</string>
 </resources>
