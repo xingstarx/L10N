@@ -163,7 +163,7 @@
     <string name="toast_browser_screen_mirror_not_supported">Cannot find valid Wi-Fi network</string>
     <string name="toast_api_error_no_connection">No network connection</string>
     <string name="toast_api_error_connection_timeout">Network connection timeout</string>
-    <string name="toast_api_error_server_5xx">Shou.TV server maintenance ...</string>
+    <string name="toast_api_error_server_5xx">Shou.TV server maintenance &#8230;</string>
     <string name="toast_api_error_not_found">Not found any message</string>
     <string name="toast_worker_start_failed_source">The capture screen failed, please try again!</string>
     <string name="toast_worker_start_failed_recorder">Cannot connect server, please check your network</string>
@@ -327,6 +327,7 @@
     <string name="pref_title_notifications_new_followers">New followers</string>
     <string name="pref_title_notifications_likes">New likes</string>
     <string name="pref_title_notifications_new_broadcasts">New broadcasts</string>
+    <string name="toast_settings_show_touches_unenable">Don\'t support Android 6.0+</string>
     <string name="toast_livefragment_screen_live_title">Please enter title</string>
     <string name="toast_livefragment_screen_live_game">Please select the game</string>
     <string name="toast_need_permission_broadcast">Broadcast feature need ROOT permission</string>
