@@ -117,9 +117,6 @@
     <string name="streaming_btn_share">поделиться</string>
     <string name="streaming_btn_stop">СТОП</string>
     <string name="streaming_chat_title">чат</string>
-    <string name="alert_dialog_button_open">Открыть</string>
-    <string name="alert_dialog_button_delete">Удалить</string>
-    <string name="alert_dialog_button_share">Расшарить</string>
     <string name="alert_dialog_button_close">Закрыть</string>
     <string name="alert_dialog_audio_patch">Патчить</string>
     <string name="progress_dialog_connecting_to_airplay">Соединение с устройством AirPlay: %s</string>
