@@ -348,5 +348,4 @@
     <string name="permission_audio">Microphone</string>
     <string name="permission_camera">Camera</string>
     <string name="permission_alet_window">Floating Window</string>
-    <string name="settings_parmams">Parmams</string>
 </resources>

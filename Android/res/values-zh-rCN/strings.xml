@@ -344,5 +344,4 @@
     <string name="permission_audio">麦克风</string>
     <string name="permission_camera">前置摄像头</string>
     <string name="permission_alet_window">悬浮窗口</string>
-    <string name="settings_parmams">参数</string>
 </resources>
