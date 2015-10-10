@@ -118,9 +118,6 @@
     <string name="streaming_btn_share">공유</string>
     <string name="streaming_btn_stop">정지</string>
     <string name="streaming_chat_title">채팅방</string>
-    <string name="alert_dialog_button_open">열기</string>
-    <string name="alert_dialog_button_delete">삭제</string>
-    <string name="alert_dialog_button_share">공유</string>
     <string name="alert_dialog_button_close">닫기</string>
     <string name="alert_dialog_audio_patch">수정</string>
     <string name="progress_dialog_connecting_to_airplay">AirPlay 장치 연결： %s</string>

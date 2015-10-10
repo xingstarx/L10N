@@ -149,9 +149,6 @@
     <string name="streaming_btn_share">Paylaş</string>
     <string name="streaming_btn_stop">Durdur</string>
     <string name="streaming_chat_title">Sohbet Odası</string>
-    <string name="alert_dialog_button_open">Aç</string>
-    <string name="alert_dialog_button_delete">Sil</string>
-    <string name="alert_dialog_button_share">Paylaş</string>
     <string name="alert_dialog_button_close">Kapat</string>
     <string name="alert_dialog_audio_patch">Yamala</string>
     <string name="progress_dialog_connecting_to_airplay">AirPlay cihazına bağlanılıyor: %s</string>

@@ -151,9 +151,6 @@
     <string name="streaming_btn_share">分享</string>
     <string name="streaming_btn_stop">停止</string>
     <string name="streaming_chat_title">直播聊天室</string>
-    <string name="alert_dialog_button_open">打开</string>
-    <string name="alert_dialog_button_delete">删除</string>
-    <string name="alert_dialog_button_share">分享</string>
     <string name="alert_dialog_button_close">关闭</string>
     <string name="alert_dialog_audio_patch">修正</string>
     <string name="progress_dialog_connecting_to_airplay">连接到 AirPlay 设备： %s</string>
@@ -345,4 +342,5 @@
     <string name="permission_audio">麦克风</string>
     <string name="permission_camera">前置摄像头</string>
     <string name="permission_alet_window">悬浮窗口</string>
+    <string name="action_open">打开</string>
 </resources>
