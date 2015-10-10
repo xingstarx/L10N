@@ -104,6 +104,10 @@
     <string name="activity_screen_live_loading">Loading</string>
     <string name="activity_screen_live_title_hint">Title</string>
     <string name="activity_screen_live_game_hint">Choose game</string>
+    <string name="activity_screen_record_name_hint">File name</string>
+    <string name="activity_screen_fab_mirror">Mirror</string>
+    <string name="activity_screen_fab_record">Record</string>
+    <string name="activity_screen_fab_broadcast">Broadcast</string>
     <string name="activity_video_player_share">%1$s : %2$s</string>
     <string name="activity_video_player_welcome">Welcome to the chat room!</string>
     <string name="activity_no_medias">No videos to show, \n check status bar to record screen.</string>
@@ -149,9 +153,6 @@
     <string name="streaming_btn_share">share</string>
     <string name="streaming_btn_stop">STOP</string>
     <string name="streaming_chat_title">chat room</string>
-    <string name="alert_dialog_button_open">Open</string>
-    <string name="alert_dialog_button_delete">Delete</string>
-    <string name="alert_dialog_button_share">Share</string>
     <string name="alert_dialog_button_close">Close</string>
     <string name="alert_dialog_audio_patch">Patch</string>
     <string name="progress_dialog_connecting_to_airplay">Connecting to AirPlay device: %s</string>
@@ -160,7 +161,7 @@
     <string name="toast_browser_screen_mirror_not_supported">Cannot find valid Wi-Fi network</string>
     <string name="toast_api_error_no_connection">No network connection</string>
     <string name="toast_api_error_connection_timeout">Network connection timeout</string>
-    <string name="toast_api_error_server_5xx">Shou.TV server maintenance ...</string>
+    <string name="toast_api_error_server_5xx">Shou.TV server maintenance &#8230;</string>
     <string name="toast_api_error_not_found">Not found any message</string>
     <string name="toast_worker_start_failed_source">The capture screen failed, please try again!</string>
     <string name="toast_worker_start_failed_recorder">Cannot connect server, please check your network</string>
@@ -258,16 +259,16 @@
     <string name="emoji_description_back_space">Back space</string>
     <string name="emoji_description_cell">Cell</string>
     <string name="time_ago_seconds">just now</string>
-    <string name="time_ago_minute">1 min ago</string>
-    <string name="time_ago_minutes">%d mins ago</string>
-    <string name="time_ago_hour">1 hour ago</string>
-    <string name="time_ago_hours">%d hours ago</string>
-    <string name="time_ago_day">1 day ago</string>
-    <string name="time_ago_days">%d days ago</string>
-    <string name="time_ago_month">1 month ago</string>
-    <string name="time_ago_months">%d months ago</string>
-    <string name="time_ago_year">1 year ago</string>
-    <string name="time_ago_years">%d years ago</string>
+    <string name="time_ago_minute">1 min</string>
+    <string name="time_ago_minutes">%d mins</string>
+    <string name="time_ago_hour">1 hour</string>
+    <string name="time_ago_hours">%d hours</string>
+    <string name="time_ago_day">1 day</string>
+    <string name="time_ago_days">%d days</string>
+    <string name="time_ago_month">1 month</string>
+    <string name="time_ago_months">%d months</string>
+    <string name="time_ago_year">1 year</string>
+    <string name="time_ago_years">%d years</string>
     <string name="selected_folder_label">Selected folder:</string>
     <string name="create_folder_label">New folder name</string>
     <string name="create_folder_success">Created new folder</string>
@@ -324,6 +325,7 @@
     <string name="pref_title_notifications_new_followers">New followers</string>
     <string name="pref_title_notifications_likes">New likes</string>
     <string name="pref_title_notifications_new_broadcasts">New broadcasts</string>
+    <string name="toast_settings_show_touches_unenable">Don\'t support Android 6.0+</string>
     <string name="toast_livefragment_screen_live_title">Please enter title</string>
     <string name="toast_livefragment_screen_live_game">Please select the game</string>
     <string name="toast_need_permission_broadcast">Broadcast feature need ROOT permission</string>
@@ -342,5 +344,7 @@
     <string name="permission_content">need access to</string>
     <string name="permission_storage">Storage</string>
     <string name="permission_audio">Microphone</string>
+    <string name="permission_camera">Camera</string>
     <string name="permission_alet_window">Floating Window</string>
+    <string name="action_open">Open</string>
 </resources>

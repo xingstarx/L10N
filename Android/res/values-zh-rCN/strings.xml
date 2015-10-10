@@ -103,6 +103,10 @@
     <string name="activity_screen_live_loading">加载中</string>
     <string name="activity_screen_live_title_hint">标题</string>
     <string name="activity_screen_live_game_hint">选择直播的游戏</string>
+    <string name="activity_screen_record_name_hint">文件名</string>
+    <string name="activity_screen_fab_mirror">镜像</string>
+    <string name="activity_screen_fab_record">录制</string>
+    <string name="activity_screen_fab_broadcast">直播</string>
     <string name="activity_video_player_share">%1$s ：%2$s</string>
     <string name="activity_video_player_welcome">欢迎来到我的聊天室！</string>
     <string name="activity_no_medias">还没有录制视频</string>
@@ -147,9 +151,6 @@
     <string name="streaming_btn_share">分享</string>
     <string name="streaming_btn_stop">停止</string>
     <string name="streaming_chat_title">直播聊天室</string>
-    <string name="alert_dialog_button_open">打开</string>
-    <string name="alert_dialog_button_delete">删除</string>
-    <string name="alert_dialog_button_share">分享</string>
     <string name="alert_dialog_button_close">关闭</string>
     <string name="alert_dialog_audio_patch">修正</string>
     <string name="progress_dialog_connecting_to_airplay">连接到 AirPlay 设备： %s</string>
@@ -256,16 +257,16 @@
     <string name="emoji_description_back_space">回退</string>
     <string name="emoji_description_cell">格子</string>
     <string name="time_ago_seconds">刚刚</string>
-    <string name="time_ago_minute">1 分钟前</string>
-    <string name="time_ago_minutes">%d 分钟前</string>
-    <string name="time_ago_hour">1 小时前</string>
-    <string name="time_ago_hours">%d 小时前</string>
-    <string name="time_ago_day">1 天前</string>
-    <string name="time_ago_days">%d 天前</string>
-    <string name="time_ago_month">1 月前</string>
-    <string name="time_ago_months">%d 月前</string>
-    <string name="time_ago_year">1 年前</string>
-    <string name="time_ago_years">%d 年前</string>
+    <string name="time_ago_minute">1 分钟</string>
+    <string name="time_ago_minutes">%d 分钟</string>
+    <string name="time_ago_hour">1 小时</string>
+    <string name="time_ago_hours">%d 小时</string>
+    <string name="time_ago_day">1 天</string>
+    <string name="time_ago_days">%d 天</string>
+    <string name="time_ago_month">1 月</string>
+    <string name="time_ago_months">%d 月</string>
+    <string name="time_ago_year">1 年</string>
+    <string name="time_ago_years">%d 年</string>
     <string name="selected_folder_label">选择的文件夹：</string>
     <string name="create_folder_label">新文件夹名称</string>
     <string name="create_folder_success">成功创建文件夹</string>
@@ -320,6 +321,7 @@
     <string name="pref_title_notifications_new_followers">新粉丝</string>
     <string name="pref_title_notifications_likes">喜欢</string>
     <string name="pref_title_notifications_new_broadcasts">新的直播</string>
+    <string name="toast_settings_show_touches_unenable">Android 6.0 不支持此功能</string>
     <string name="toast_livefragment_screen_live_title">请输入标题</string>
     <string name="toast_livefragment_screen_live_game">请选择游戏</string>
     <string name="toast_need_permission_broadcast">直播功能需要 ROOT 权限</string>
@@ -338,5 +340,7 @@
     <string name="permission_content">需要授权</string>
     <string name="permission_storage">储存空间</string>
     <string name="permission_audio">麦克风</string>
+    <string name="permission_camera">前置摄像头</string>
     <string name="permission_alet_window">悬浮窗口</string>
+    <string name="action_open">打开</string>
 </resources>
