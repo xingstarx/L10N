@@ -104,6 +104,7 @@
     <string name="activity_screen_live_loading">Loading</string>
     <string name="activity_screen_live_title_hint">Title</string>
     <string name="activity_screen_live_game_hint">Choose game</string>
+    <string name="activity_screen_record_name_hint">File name</string>
     <string name="activity_screen_fab_mirror">Mirror</string>
     <string name="activity_screen_fab_record">Record</string>
     <string name="activity_screen_fab_broadcast">Broadcast</string>
@@ -348,5 +349,4 @@
     <string name="permission_audio">Microphone</string>
     <string name="permission_camera">Camera</string>
     <string name="permission_alet_window">Floating Window</string>
-    <string name="settings_parmams">Parmams</string>
 </resources>
