@@ -101,6 +101,7 @@
     <string name="activity_screen_live_loading">載入中</string>
     <string name="activity_screen_live_title_hint">標題</string>
     <string name="activity_screen_live_game_hint">選擇直播的遊戲</string>
+    <string name="activity_screen_record_name_hint">文件名</string>
     <string name="activity_screen_fab_mirror">鏡像</string>
     <string name="activity_screen_fab_record">錄製</string>
     <string name="activity_screen_fab_broadcast">直播</string>
