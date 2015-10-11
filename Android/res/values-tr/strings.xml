@@ -104,6 +104,10 @@
     <string name="activity_screen_live_loading">Yükleniyor...</string>
     <string name="activity_screen_live_title_hint">Başlık</string>
     <string name="activity_screen_live_game_hint">Oyun seç</string>
+    <string name="activity_screen_record_name_hint">Dosya adı</string>
+    <string name="activity_screen_fab_mirror">Ekranı Paylaş</string>
+    <string name="activity_screen_fab_record">Kayıt Et</string>
+    <string name="activity_screen_fab_broadcast">Canlı Yayın</string>
     <string name="activity_video_player_share">%1$s : %2$s</string>
     <string name="activity_video_player_welcome">Sohbet odasına hoşgeldiniz!</string>
     <string name="activity_no_medias">Gösterilecek video yok, \n kayıt için durum çubuğunu kontrol et.</string>
@@ -342,4 +346,5 @@
     <string name="permission_audio">Mikrofon</string>
     <string name="permission_camera">Kamera</string>
     <string name="permission_alet_window">Kayan pencere</string>
+    <string name="action_open">Aç</string>
 </resources>
