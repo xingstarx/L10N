@@ -88,6 +88,7 @@
     <string name="activity_account_toast_failed_to_sign_in_with_facebook">使用 Facebook 登录失败 :(</string>
     <string name="activity_account_toast_sign_up_failed">注册失败，注意用户名、邮箱或密码</string>
     <string name="activity_account_toast_sign_in_required">请登录帐号</string>
+    <string name="activity_account_toast_failed_to_sign_in_account_denied">获取账户权限失败</string>
     <string name="activity_image_cropper_btn_use">使用</string>
     <string name="activity_image_cropper_btn_cancel">取消</string>
     <string name="activity_image_cropper_toast_failed">裁剪图片失败 :(</string>
