@@ -254,3 +254,5 @@ CFBundleDisplayName = "Shou.TV";
 "VIDEO_CAMERA_LIVE_TITLE_HINT" = "Ne görüyorsun?";
 "VIDEO_CAMERA_STREAMING_READY" = "Yayını Başlat";
 "VIDEO_CAMERA_STREAMING_STOP" = "Durdur";
+"DIALOG_FAILD_TO_GRANTED" = "Kamera izni alınamadı";
+"DIALOG_BUTTON_OK" = "TAMAM";
