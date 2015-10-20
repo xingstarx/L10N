@@ -345,7 +345,7 @@
     <string name="permission_alet_window">悬浮窗口</string>
     <string name="action_open">打开</string>
     <string name="streaming_front_carema">前置摄像头</string>
-    <string name="streaming_privacy">隐私保护</string>
+    <string name="streaming_privacy">隐私</string>
     <string name="streaming_privacy_spinner_item_1">自动保护</string>
     <string name="streaming_privacy_spinner_item_2">手动保护</string>
     <string name="streaming_privacy_spinner_item_3">关闭</string>
