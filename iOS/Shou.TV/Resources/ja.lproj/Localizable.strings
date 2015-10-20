@@ -1,16 +1,16 @@
 CFBundleDisplayName = "Shou.TV";
 
 "TIME_AGO_SECONDS" = "ただいま";
-"TIME_AGO_MINUTE" = "1分";
-"TIME_AGO_MINUTES" = "%@ 分";
-"TIME_AGO_HOUR" = "1 時間";
-"TIME_AGO_HOURS" = "%@ 時間";
-"TIME_AGO_DAY" = "1 日";
-"TIME_AGO_DAYS" = "%@ 日";
-"TIME_AGO_MONTH" = "1 かっ月";
-"TIME_AGO_MONTHS" = "%@ かっ月";
-"TIME_AGO_YEAR" = "1 年";
-"TIME_AGO_YEARS" = "%@ 年";
+"TIME_AGO_MINUTE" = "1分前";
+"TIME_AGO_MINUTES" = "%@ 分前";
+"TIME_AGO_HOUR" = "1 時間前";
+"TIME_AGO_HOURS" = "%@ 時間前";
+"TIME_AGO_DAY" = "1 日前";
+"TIME_AGO_DAYS" = "%@ 日前";
+"TIME_AGO_MONTH" = "1 かっ月前";
+"TIME_AGO_MONTHS" = "%@ かっ月前";
+"TIME_AGO_YEAR" = "1 年前";
+"TIME_AGO_YEARS" = "%@ 年前";
 
 "title_bar_done" = "完成";
 
@@ -26,11 +26,11 @@ CFBundleDisplayName = "Shou.TV";
 "tab_players" = "プレーヤー";
 "tab_videos" = "ビデオ";
 "tab_explore" = "探る";
-"tab_me" = "私の";
+"tab_me" = "マイページ";
 
 "explore_recommended" = "お勧め";
 "explore_leaderboard" = "ランキング";
-"explore_leaderboard_text_score" = "人气の %@";
+"explore_leaderboard_text_score" = "スコアの %@";
 
 "no_medias" = "録画無し";
 "no_videos" = "ビデオ無し";
@@ -46,7 +46,7 @@ CFBundleDisplayName = "Shou.TV";
 "profile_text_following" = "フォロー";
 "profile_text_live" = "生放送";
 "profile_edit_profile" = "個人プロフィールをエディタ";
-"profile_archive_broadcasts" = "私の放送を自動的に保存";
+"profile_archive_broadcasts" = "マイページ放送を自動的に保存";
 
 "landing_btn_twitter" = "Twitterで登録";
 "landing_btn_facebook" = "Facebookで登録";
@@ -69,7 +69,7 @@ CFBundleDisplayName = "Shou.TV";
 "account_text_user_view" = "%@ 見る";
 "account_text_user_like" = "%@ 好き";
 "account_text_user_viewer" = "%@ 観衆";
-"account_text_user_score" = "%@ 人气";
+"account_text_user_score" = "%@ スコア";
 "account_text_game_cast" = "%@ ビデオ";
 "account_text_game_player" = "%@ プレーヤー";
 "account_title_edit_profile" = "個人プロフィールをエディタ";
@@ -78,7 +78,7 @@ CFBundleDisplayName = "Shou.TV";
 "account_label_username" = "名前";
 "account_label_password" = "パスワード";
 "account_label_email" = "メールアドレス";
-"account_label_full_name" = "ニクネム";
+"account_label_full_name" = "ニックネーム";
 "account_label_biography" = "個人プロフィール";
 "account_label_avatar" = "個人写真";
 "account_label_gender" = "性別";
@@ -88,7 +88,7 @@ CFBundleDisplayName = "Shou.TV";
 "account_hint_email" = "メールアドレス";
 "account_hint_username" = "アカウント";
 "account_hint_password" = "パスワードは６字目以内";
-"account_hint_name" = "ニクネム";
+"account_hint_name" = "ニックネーム";
 "account_hint_biography" = "個人的サイン";
 "account_hint_current_password" = "現在のパスワード";
 "account_hint_new_password" = "新しいパスワード";
@@ -135,9 +135,9 @@ CFBundleDisplayName = "Shou.TV";
 "account_toast_not_found" = "関連インフォメーションなし";
 "account_dialog_sign_up_failed" = "登録失敗";
 "account_invite_friends" = "友達を招待";
-"account_invite" = "私の名前は%@ ，ShouというAppをドンロードしてください！";
+"account_invite" = "マイページ名前は%@ ，ShouというAppをドンロードしてください！";
 
-"video_player_welcome" = "私のルームへようこそ！";
+"video_player_welcome" = "マイページルームへようこそ！";
 "video_player_quality" = "画面品質";
 "video_player_auto" = "自動";
 "video_player_source" = "画面品質優先";
@@ -199,7 +199,7 @@ CFBundleDisplayName = "Shou.TV";
 "about_title_terms_of_service" = "サービス条件";
 "about_title_version" = "バージョン";
 "about_title_copyright" = "著作権";
-"about_title_rate" = "App Storeでコメント";
+"about_title_rate" = "App Storeでレビュー";
 "about_title_feedback" = "意見";
 
 "From Photo Library" = "写真より";

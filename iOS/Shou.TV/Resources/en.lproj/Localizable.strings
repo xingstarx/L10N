@@ -206,6 +206,7 @@ CFBundleDisplayName = "Shou.TV";
 "From Photo Library" = "From Photo Library";
 "From Camera" = "From Camera";
 "Choose Source" = "Choose Source";
+"imagePicker_failed"  = "Get Picture failed, please re-select pictures";
 
 "app_download" = "Install";
 "app_open" = "Open";
