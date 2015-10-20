@@ -205,7 +205,7 @@ CFBundleDisplayName = "Shou.TV";
 "From Photo Library" = "从图库获取";
 "From Camera" = "从相机获取";
 "Choose Source" = "选择获取方式";
-"imagePicker_failed" = "图片获取失败，请尝试选择其他图片"
+"imagePicker_failed" = "图片获取失败，请尝试选择其他图片";
 
 "app_download" = "安装";
 "app_open" = "打开";
