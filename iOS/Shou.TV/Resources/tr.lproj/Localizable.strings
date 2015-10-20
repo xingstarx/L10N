@@ -206,6 +206,7 @@ CFBundleDisplayName = "Shou.TV";
 "From Photo Library" = "Resim Kütüphanesinden";
 "From Camera" = "Kameradan";
 "Choose Source" = "Kaynak Seç";
+"imagePicker_failed"  = "Fotoğraf alınamadı, lütfen yeniden seçin";
 
 "app_download" = "Yükle";
 "app_open" = "Aç";
