@@ -148,8 +148,8 @@
     <string name="streaming_broadcasting">正在直播</string>
     <string name="streaming_recording">正在录屏</string>
     <string name="streaming_mirroring">正在镜像</string>
-    <string name="streaming_btn_chat">聊天</string>
-    <string name="streaming_btn_share">分享</string>
+    <string name="streaming_chat">聊天</string>
+    <string name="streaming_share">分享</string>
     <string name="streaming_btn_stop">停止</string>
     <string name="streaming_chat_title">直播聊天室</string>
     <string name="alert_dialog_button_close">关闭</string>
@@ -344,4 +344,14 @@
     <string name="permission_camera">前置摄像头</string>
     <string name="permission_alet_window">悬浮窗口</string>
     <string name="action_open">打开</string>
+    <string name="streaming_front_carema">前置摄像头</string>
+    <string name="streaming_privacy">隐私保护</string>
+    <string name="streaming_privacy_spinner_item_1">自动保护</string>
+    <string name="streaming_privacy_spinner_item_2">手动保护</string>
+    <string name="streaming_privacy_spinner_item_3">关闭</string>
+    <string name="streaming_mirror_address">镜像地址</string>
+    <string name="streaming_privacy_protection_open">隐私保护已开启</string>
+    <string name="streaming_privacy_settings">设置隐私保护</string>
+    <string name="streaming_privacy_protection_close">关闭隐私保护</string>
+    <string name="streaming_privacy_toast_info">隐私保护已关闭，当您输入用户名、密码等敏感信息时请开启手动保护!</string>
 </resources>
