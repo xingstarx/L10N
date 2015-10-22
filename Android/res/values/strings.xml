@@ -358,4 +358,6 @@
     <string name="streaming_privacy_settings">Privacy Settings</string>
     <string name="streaming_privacy_protection_close">Close Privacy</string>
     <string name="streaming_privacy_toast_info">Privacy is turned off, when you enter a user name, password and other sensitive information, please open the manual protected!</string>
+    <string name="activity_banlist_title">BanList</string>
+    <string name="activity_no_banlist">No BanList</string>
 </resources>

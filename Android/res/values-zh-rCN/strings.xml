@@ -354,4 +354,6 @@
     <string name="streaming_privacy_settings">设置隐私保护</string>
     <string name="streaming_privacy_protection_close">关闭隐私保护</string>
     <string name="streaming_privacy_toast_info">隐私保护已关闭，当您输入用户名、密码等敏感信息时请开启手动保护!</string>
+    <string name="activity_banlist_title">禁言列表</string>
+    <string name="activity_no_banlist">没有禁言列表</string>
 </resources>
