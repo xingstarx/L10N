@@ -140,8 +140,8 @@
     <string name="streaming_recording">GRAVANDO</string>
     <string name="streaming_mirroring">ESPELHANDO</string>
     <!-- I am guessing the meaning of mirroring as to reflect the image somewhere, so this is the translation I'm using -->
-    <string name="streaming_chat">chat</string>
-    <string name="streaming_share">Compartilhar</string>
+    <string name="streaming_btn_chat">chat</string>
+    <string name="streaming_btn_share">Compartilhar</string>
     <string name="streaming_btn_stop">Parar</string>
     <string name="streaming_chat_title">Sala de bate papo</string>
     <string name="alert_dialog_button_close">Fechar</string>

@@ -113,8 +113,8 @@
     <string name="streaming_broadcasting">ТРАНСЛЯЦИЯ</string>
     <string name="streaming_recording">ЗАПИСЬ</string>
     <string name="streaming_mirroring">ЗЕРКАЛИРОВАНИЕ</string>
-    <string name="streaming_chat">Чат</string>
-    <string name="streaming_share">поделиться</string>
+    <string name="streaming_btn_chat">Чат</string>
+    <string name="streaming_btn_share">поделиться</string>
     <string name="streaming_btn_stop">СТОП</string>
     <string name="streaming_chat_title">чат</string>
     <string name="alert_dialog_button_close">Закрыть</string>

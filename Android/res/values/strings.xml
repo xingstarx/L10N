@@ -150,8 +150,8 @@
     <string name="streaming_broadcasting">BROADCASTING</string>
     <string name="streaming_recording">RECORDING</string>
     <string name="streaming_mirroring">MIRRORING</string>
-    <string name="streaming_chat">Chat</string>
-    <string name="streaming_share">Share</string>
+    <string name="streaming_btn_chat">chat</string>
+    <string name="streaming_btn_share">share</string>
     <string name="streaming_btn_stop">STOP</string>
     <string name="streaming_chat_title">chat room</string>
     <string name="alert_dialog_button_close">Close</string>
@@ -348,16 +348,4 @@
     <string name="permission_camera">Camera</string>
     <string name="permission_alet_window">Floating Window</string>
     <string name="action_open">Open</string>
-    <string name="streaming_front_carema">Front camera</string>
-    <string name="streaming_privacy">Privacy</string>
-    <string name="streaming_privacy_spinner_item_1">Automatic protection</string>
-    <string name="streaming_privacy_spinner_item_2">Manual protection</string>
-    <string name="streaming_privacy_spinner_item_3">Close up</string>
-    <string name="streaming_mirror_address">Mirroring url</string>
-    <string name="streaming_privacy_protection_open">Privacy protection is turned on</string>
-    <string name="streaming_privacy_settings">Privacy Settings</string>
-    <string name="streaming_privacy_protection_close">Close Privacy</string>
-    <string name="streaming_privacy_toast_info">Privacy is turned off, when you enter a user name, password and other sensitive information, please open the manual protected!</string>
-    <string name="activity_banlist_title">BanList</string>
-    <string name="activity_no_banlist">No BanList</string>
 </resources>

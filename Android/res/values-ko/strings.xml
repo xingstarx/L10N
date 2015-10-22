@@ -114,8 +114,8 @@
     <string name="streaming_broadcasting">방송중</string>
     <string name="streaming_recording">녹화중</string>
     <string name="streaming_mirroring">미러링 중</string>
-    <string name="streaming_chat">채팅</string>
-    <string name="streaming_share">공유</string>
+    <string name="streaming_btn_chat">채팅</string>
+    <string name="streaming_btn_share">공유</string>
     <string name="streaming_btn_stop">정지</string>
     <string name="streaming_chat_title">채팅방</string>
     <string name="alert_dialog_button_close">닫기</string>

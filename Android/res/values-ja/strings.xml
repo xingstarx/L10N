@@ -123,8 +123,8 @@
     <string name="streaming_broadcasting">ブロードキャスト中</string>
     <string name="streaming_recording">録画中</string>
     <string name="streaming_mirroring">ミラーリング中</string>
-    <string name="streaming_chat">チャット</string>
-    <string name="streaming_share">共有</string>
+    <string name="streaming_btn_chat">チャット</string>
+    <string name="streaming_btn_share">共有</string>
     <string name="streaming_btn_stop">停止</string>
     <string name="streaming_chat_title">チャットルーム</string>
     <string name="alert_dialog_button_close">閉じる</string>
