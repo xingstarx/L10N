@@ -328,4 +328,6 @@
     <string name="permission_audio">麥克風</string>
     <string name="permission_alet_window">懸浮窗口</string>
     <string name="action_open">開啟</string>
+    <string name="activity_banlist_title">禁言列表</string>
+    <string name="activity_no_banlist">没有禁言列表</string>
 </resources>

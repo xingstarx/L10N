@@ -348,4 +348,6 @@
     <string name="permission_camera">Camera</string>
     <string name="permission_alet_window">Floating Window</string>
     <string name="action_open">Open</string>
+    <string name="activity_banlist_title">Banned users</string>
+    <string name="activity_no_banlist">No banned user</string>
 </resources>
