@@ -347,6 +347,7 @@
     <string name="permission_audio">Mikrofon</string>
     <string name="permission_camera">Kamera</string>
     <string name="permission_alet_window">Kayan pencere</string>
+    <string name="action_open">Aç</string>
     <string name="activity_banlist_title">Engellenmiş kullanıcılar</string>
     <string name="activity_no_banlist">Engellenmiş kullanıcı yok</string>
 </resources>
