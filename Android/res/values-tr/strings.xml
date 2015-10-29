@@ -347,17 +347,6 @@
     <string name="permission_audio">Mikrofon</string>
     <string name="permission_camera">Kamera</string>
     <string name="permission_alet_window">Kayan pencere</string>
-    <string name="action_open">Aç</string>
-    <string name="streaming_front_carema">Ön kamera</string>
-    <string name="streaming_privacy">Gizlilik</string>
-    <string name="streaming_privacy_spinner_item_1">Otomatik koruma</string>
-    <string name="streaming_privacy_spinner_item_2">Manuel koruma</string>
-    <string name="streaming_privacy_spinner_item_3">Kapalı</string>
-    <string name="streaming_mirror_address">Ekran paylaşım adresi</string>
-    <string name="streaming_privacy_protection_open">Gizlilik koruması açık</string>
-    <string name="streaming_privacy_settings">Gizlilik Ayarları</string>
-    <string name="streaming_privacy_protection_close">Gizliliği Kapat</string>
-    <string name="streaming_privacy_toast_info">Gizlilik kapatıldı, kullanıcı adı, parola ve diğer özel bilgi gireceğiniz zaman, lütfen manuel olarak gizliliği açın!</string>
     <string name="activity_banlist_title">Engellenmiş kullanıcılar</string>
     <string name="activity_no_banlist">Engellenmiş kullanıcı yok</string>
 </resources>
