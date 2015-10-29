@@ -301,7 +301,7 @@
     <string name="shou_cash_info">ShouCash açığı!</string>
     <string name="send_cash_info">Lütfen hediyeden sonra ödeme yapın!</string>
     <string name="menu_statistic">İstatistikler</string>
-    <string name="menu_charge">Ödeme Yap</string>
+    <string name="menu_charge">Satın Al</string>
     <string name="msg_buy_shou_cash">Satın Al</string>
     <string name="msg_description_more_cash">Daha fazla ShouCash edinin!</string>
     <string name="toast_shou_cash_failure">ShouCash alımı başarısız!</string>
