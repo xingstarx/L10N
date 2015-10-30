@@ -145,13 +145,17 @@ CFBundleDisplayName = "Shou.TV";
 "video_player_share" = "共有";
 "video_player_rotation" = "方向";
 "video_player_report" = "トラブル報告";
-"video_player_report_illegal" = "エロイ、暴力などの内容";
-"video_player_report_black" = "ブラック";
-"video_player_report_no_game" = "ゲーム以外な内容の放送";
 "video_player_send" = "発送";
 "video_player_report_success" = "報告成功";
 "video_player_report_faild" = "報告失敗";
 "video_palyer_info" = "インフォメーション";
+
+"video_player_report_sexual" = "性的なコンテンツ";
+"video_player_report_violent" = "暴力的または不快なコンテンツ";
+"video_player_report_hateful" = "差別的または攻撃的なコンテンツ";
+"video_player_report_harmful" = "有害または危険な行為";
+"video_player_report_misleading" = "スパムや誤解を招く動画";
+"video_player_report_playback" = "再生の問題";
 
 "find_friends_follow_all" = "全部フォロー";
 "find_friends_title" = "%@ 友達";
