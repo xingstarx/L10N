@@ -209,15 +209,6 @@ CFBundleDisplayName = "Shou.TV";
 "app_download" = "安裝";
 "app_open" = "打開";
 
-"payment_number_money1" = "99";
-"payment_number_money2" = "199";
-"payment_number_money3" = "499";
-"payment_number_money4" = "999";
-"payment_number_money5" = "1999";
-"payment_number_money6" = "3499";
-"payment_number_money7" = "4999";
-"payment_number_money8" = "9999";
-
 "payment_title_label" = "獲得更多的 ShouCash!";
 "payment_faild_not_allow" = "應用內購買被禁止。 設置 > 通用 > 訪問限制 > 允許應用內購買";
 "payment_faild" = "購買失敗！";
