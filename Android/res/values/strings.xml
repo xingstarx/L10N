@@ -277,9 +277,13 @@
     <string name="create_folder_error_already_exists">Folder already exists</string>
     <string name="create_folder_error">Could not create folder</string>
     <string name="directory_chooser_up_label">Up</string>
-    <string name="video_report_illegal">Illegal content pornography, violence, etc.</string>
-    <string name="video_report_black">Black screen</string>
-    <string name="video_report_other">Non-game video</string>
+    <string name="video_report_sexual">Sexual content</string>
+    <string name="video_report_violent">Violent or repulsive content</string>
+    <string name="video_report_hateful">Hateful or abusive content</string>
+    <string name="video_report_harmful">Harmful or dangerous acts</string>
+    <string name="video_report_misleading">Spam or misleading</string>
+    <string name="video_report_playback">Playback issue</string>
+    <string name="video_report_cancel">Cancel</string>
     <string name="video_report_suceess">Report suceess</string>
     <string name="video_duration_placement">0:00</string>
     <string name="root_access_title">Root access is required</string>
