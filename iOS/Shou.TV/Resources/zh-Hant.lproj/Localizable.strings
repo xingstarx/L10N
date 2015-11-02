@@ -144,13 +144,17 @@ CFBundleDisplayName = "Shou.TV";
 "video_player_share" = "分享";
 "video_player_rotation" = "方向";
 "video_player_report" = "報告問題";
-"video_player_report_illegal" = "色情、暴力等非法內容";
-"video_player_report_black" = "黑屏";
-"video_player_report_no_game" = "直播非遊戲內容";
 "video_player_send" = "发送";
 "video_player_report_success" = "举报成功";
 "video_player_report_faild" = "举报失败";
 "video_palyer_info" = "信息";
+
+"video_player_report_sexual" = "色情內容";
+"video_player_report_violent" = "暴力或令人反感的內容";
+"video_player_report_hateful" = "仇恨或侮辱性的內容";
+"video_player_report_harmful" = "有害或危險行為";
+"video_player_report_misleading" = "垃圾內容或誤導性內容";
+"video_player_report_playback" = "播放問題";
 
 "find_friends_follow_all" = "全部關注";
 "find_friends_title" = "%@ 朋友";
@@ -208,15 +212,6 @@ CFBundleDisplayName = "Shou.TV";
 
 "app_download" = "安裝";
 "app_open" = "打開";
-
-"payment_number_money1" = "99";
-"payment_number_money2" = "199";
-"payment_number_money3" = "499";
-"payment_number_money4" = "999";
-"payment_number_money5" = "1999";
-"payment_number_money6" = "3499";
-"payment_number_money7" = "4999";
-"payment_number_money8" = "9999";
 
 "payment_title_label" = "獲得更多的 ShouCash!";
 "payment_faild_not_allow" = "應用內購買被禁止。 設置 > 通用 > 訪問限制 > 允許應用內購買";
