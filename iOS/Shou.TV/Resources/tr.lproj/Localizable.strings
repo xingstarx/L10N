@@ -145,9 +145,6 @@ CFBundleDisplayName = "Shou.TV";
 "video_player_share" = "Paylaş";
 "video_player_rotation" = "Döndür";
 "video_player_report" = "Sorun Bildir";
-"video_player_report_illegal" = "Yasadışı içerik pornografi, şiddet, vb.";
-"video_player_report_black" = "Siyah ekran";
-"video_player_report_no_game" = "Oyun videosu değil";
 "video_player_send" = "Gönder";
 "video_player_report_success" = "Bildiri Başarılı";
 "video_player_report_faild" = "Bildiri Gönderilemedi";
@@ -210,16 +207,6 @@ CFBundleDisplayName = "Shou.TV";
 
 "app_download" = "Yükle";
 "app_open" = "Aç";
-
-
-"payment_number_money1" = "99";
-"payment_number_money2" = "199";
-"payment_number_money3" = "499";
-"payment_number_money4" = "999";
-"payment_number_money5" = "1999";
-"payment_number_money6" = "3499";
-"payment_number_money7" = "4999";
-"payment_number_money8" = "9999";
 
 "payment_title_label" = "Daha fazla ShouCash edinin!";
 "payment_faild" = "Satın alma başarısız!";
