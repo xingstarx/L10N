@@ -346,4 +346,5 @@
     <string name="action_open">打开</string>
     <string name="activity_banlist_title">禁言列表</string>
     <string name="activity_no_banlist">没有禁言列表</string>
+    <string name="fragment_video_delete_info">要删除此视频吗?</string>
 </resources>
