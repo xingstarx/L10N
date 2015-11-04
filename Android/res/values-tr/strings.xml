@@ -34,6 +34,7 @@
     <string name="menu_like">Beğen</string>
     <string name="menu_share">Paylaş</string>
     <string name="menu_report">Bildir</string>
+    <string name="menu_quality">Kalite</string>
     <string name="menu_notifications">Bildirimler</string>
     <string name="search_hint">Oyuncu/oyun ara</string>
     <string name="profile_text_live">Canlı</string>
@@ -281,6 +282,9 @@
     <string name="video_report_black">Siyah ekran</string>
     <string name="video_report_other">Oyun videosu değil</string>
     <string name="video_report_suceess">Bildiri gönderildi</string>
+    <string name="video_quality_auto">Otomatik</string>
+    <string name="video_quality_source">Kaynak</string>
+    <string name="video_quality_low">Düşük</string>
     <string name="video_duration_placement">0:00</string>
     <string name="root_access_title">Root erişimi gereklidir</string>
     <string name="root_access_link">Root nedir?</string>
