@@ -148,7 +148,7 @@ CFBundleDisplayName = "Shou.TV";
 "video_player_send" = "Send";
 "video_player_report_success" = "Report Success";
 "video_player_report_faild" = "Report Faild";
-"video_palyer_info" = "Info";
+"video_player_info" = "Info";
 
 "video_player_report_sexual" = "Sexual content";
 "video_player_report_violent" = "Violent or repulsive content";
