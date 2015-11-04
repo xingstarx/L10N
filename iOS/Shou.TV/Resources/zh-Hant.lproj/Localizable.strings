@@ -147,7 +147,7 @@ CFBundleDisplayName = "Shou.TV";
 "video_player_send" = "发送";
 "video_player_report_success" = "举报成功";
 "video_player_report_faild" = "举报失败";
-"video_palyer_info" = "信息";
+"video_player_info" = "信息";
 
 "video_player_report_sexual" = "色情內容";
 "video_player_report_violent" = "暴力或令人反感的內容";
