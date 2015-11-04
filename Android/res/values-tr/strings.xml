@@ -278,9 +278,13 @@
     <string name="create_folder_error_already_exists">Klasör mevcut</string>
     <string name="create_folder_error">Klasör oluşturulmadı</string>
     <string name="directory_chooser_up_label">Önceki</string>
-    <string name="video_report_illegal">Yasadışı içerik; pornografik, şiddet, vb.</string>
-    <string name="video_report_black">Siyah ekran</string>
-    <string name="video_report_other">Oyun videosu değil</string>
+    <string name="video_report_sexual">Cinsel içerik</string>
+    <string name="video_report_violent">Şiddet ya da itici/antipatik içerik</string>
+    <string name="video_report_hateful">Nefret dolu ya da küfürlü içerik</string>
+    <string name="video_report_harmful">Zarar verici ya da tehlikeli hareketler</string>
+    <string name="video_report_misleading">Spam ya da yanıltıcı</string>
+    <string name="video_report_playback">Oynatma sorunu</string>
+    <string name="video_report_cancel">Cancel</string>
     <string name="video_report_suceess">Bildiri gönderildi</string>
     <string name="video_quality_auto">Otomatik</string>
     <string name="video_quality_source">Kaynak</string>
