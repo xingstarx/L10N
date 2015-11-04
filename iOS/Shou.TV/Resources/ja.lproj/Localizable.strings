@@ -148,7 +148,7 @@ CFBundleDisplayName = "Shou.TV";
 "video_player_send" = "発送";
 "video_player_report_success" = "報告成功";
 "video_player_report_faild" = "報告失敗";
-"video_palyer_info" = "インフォメーション";
+"video_player_info" = "インフォメーション";
 
 "video_player_report_sexual" = "性的なコンテンツ";
 "video_player_report_violent" = "暴力的または不快なコンテンツ";
