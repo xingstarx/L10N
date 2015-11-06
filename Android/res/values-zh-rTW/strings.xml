@@ -268,9 +268,13 @@
     <string name="create_folder_error_already_exists">資料夾已經存在</string>
     <string name="create_folder_error">無法新增資料夾</string>
     <string name="directory_chooser_up_label">返回</string>
-    <string name="video_report_illegal">色情、暴力等非法內容</string>
-    <string name="video_report_black">黑屏</string>
-    <string name="video_report_other">直播非遊戲內容</string>
+    <string name="video_report_sexual">色情</string>
+    <string name="video_report_violent">暴力</string>
+    <string name="video_report_hateful">歧視、侮辱性內容</string>
+    <string name="video_report_harmful">危害行為</string>
+    <string name="video_report_misleading">廣告或誤導性標題</string>
+    <string name="video_report_playback">播放問題</string>
+    <string name="video_report_cancel">取消</string>
     <string name="video_report_suceess">舉報成功</string>
     <string name="video_duration_placement">0:00</string>
     <string name="root_access_title">需要 Root 系統權限</string>
