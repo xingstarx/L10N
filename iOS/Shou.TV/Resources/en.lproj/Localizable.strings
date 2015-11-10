@@ -136,6 +136,7 @@ CFBundleDisplayName = "Shou.TV";
 "account_dialog_sign_up_failed" = "Failed to sign up";
 "account_invite_friends" = "Invite Friends";
 "account_invite" = "I'm on Shou.TV as %@ . Install the app to follow my streamings.";
+"account_user_video_delete_info" = "Are you sure delete this video?";
 
 "video_player_welcome" = "Welcome to the chat room!";
 "video_player_quality" = "Quality";
