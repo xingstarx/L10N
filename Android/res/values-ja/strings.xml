@@ -123,8 +123,8 @@
     <string name="streaming_broadcasting">ブロードキャスト中</string>
     <string name="streaming_recording">録画中</string>
     <string name="streaming_mirroring">ミラーリング中</string>
-    <string name="streaming_btn_chat">チャット</string>
-    <string name="streaming_btn_share">共有</string>
+    <string name="streaming_chat">チャット</string>
+    <string name="streaming_share">共有</string>
     <string name="streaming_btn_stop">停止</string>
     <string name="streaming_chat_title">チャットルーム</string>
     <string name="alert_dialog_button_close">閉じる</string>
@@ -241,6 +241,14 @@
     <string name="create_folder_error_already_exists">このフォルダはすでに存在します。</string>
     <string name="create_folder_error">フォルダを作成できません。</string>
     <string name="directory_chooser_up_label">上へ</string>
+    <string name="video_report_sexual">性的なコンテンツ</string>
+    <string name="video_report_violent">暴力的または不快なコンテンツ</string>
+    <string name="video_report_hateful">差別的または攻撃的なコンテンツ</string>
+    <string name="video_report_harmful">有害または危険な行為</string>
+    <string name="video_report_misleading">スパムや誤解を招く動画</string>
+    <string name="video_report_playback">再生の問題</string>
+    <string name="video_report_cancel">取り消す</string>
+    <string name="video_report_suceess">成功する</string>
     <string name="root_access_title">Root権限が必要です。</string>
     <string name="root_access_link">Root化って何?</string>
     <string name="no_capture_screen_permission">画面キャプチャの権限が必要です。</string>

@@ -151,8 +151,8 @@
     <string name="streaming_broadcasting">CANLI YAYIN</string>
     <string name="streaming_recording">KAYDEDİLİYOR</string>
     <string name="streaming_mirroring">EKRAN PAYLAŞILIYOR</string>
-    <string name="streaming_btn_chat">Sohbet et</string>
-    <string name="streaming_btn_share">Paylaş</string>
+    <string name="streaming_chat">Sohbet et</string>
+    <string name="streaming_share">Paylaş</string>
     <string name="streaming_btn_stop">Durdur</string>
     <string name="streaming_chat_title">Sohbet Odası</string>
     <string name="alert_dialog_button_close">Kapat</string>

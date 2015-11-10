@@ -150,8 +150,8 @@
     <string name="streaming_broadcasting">BROADCASTING</string>
     <string name="streaming_recording">RECORDING</string>
     <string name="streaming_mirroring">MIRRORING</string>
-    <string name="streaming_btn_chat">chat</string>
-    <string name="streaming_btn_share">share</string>
+    <string name="streaming_chat">Chat</string>
+    <string name="streaming_share">Share</string>
     <string name="streaming_btn_stop">STOP</string>
     <string name="streaming_chat_title">chat room</string>
     <string name="alert_dialog_button_close">Close</string>
@@ -277,9 +277,13 @@
     <string name="create_folder_error_already_exists">Folder already exists</string>
     <string name="create_folder_error">Could not create folder</string>
     <string name="directory_chooser_up_label">Up</string>
-    <string name="video_report_illegal">Illegal content pornography, violence, etc.</string>
-    <string name="video_report_black">Black screen</string>
-    <string name="video_report_other">Non-game video</string>
+    <string name="video_report_sexual">Sexual content</string>
+    <string name="video_report_violent">Violent or repulsive content</string>
+    <string name="video_report_hateful">Hateful or abusive content</string>
+    <string name="video_report_harmful">Harmful or dangerous acts</string>
+    <string name="video_report_misleading">Spam or misleading</string>
+    <string name="video_report_playback">Playback issue</string>
+    <string name="video_report_cancel">Cancel</string>
     <string name="video_report_suceess">Report suceess</string>
     <string name="video_duration_placement">0:00</string>
     <string name="root_access_title">Root access is required</string>
@@ -351,4 +355,13 @@
     <string name="activity_banlist_title">Banned users</string>
     <string name="activity_no_banlist">No banned user</string>
     <string name="fragment_video_delete_info">Are you sure delete this video?</string>
+    <string name="streaming_front_carema">camera</string>
+    <string name="streaming_privacy">Privacy</string>
+    <string name="streaming_privacy_option_auto">Automatic protection</string>
+    <string name="streaming_privacy_option_manual">Manual protection</string>
+    <string name="streaming_privacy_option_close">Close up</string>
+    <string name="streaming_privacy_protection_open">Privacy protection is turned on</string>
+    <string name="streaming_privacy_settings">Privacy Settings</string>
+    <string name="streaming_privacy_protection_close">Close Privacy</string>
+    <string name="streaming_privacy_toast_info">Privacy is turned off, when you enter a user name, password and other sensitive information, please open the manual protected!</string>
 </resources>
