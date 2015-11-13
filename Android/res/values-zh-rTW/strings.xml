@@ -341,7 +341,7 @@
     <string name="streaming_privacy_option_manual">手動保護</string>
     <string name="streaming_privacy_option_close">關閉</string>
     <string name="streaming_privacy_protection_open">隱私保護已開啟</string>
-    <string name="streaming_privacy_settings">設置隱私保護</string>
+    <string name="streaming_privacy_settings">設置</string>
     <string name="streaming_privacy_protection_close">關閉隱私保護</string>
     <string name="streaming_privacy_toast_info">隱私保護已關閉,當您輸入用戶名、密碼等敏感信息時請開啟手動保護!</string>
 </resources>
