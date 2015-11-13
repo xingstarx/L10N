@@ -362,6 +362,6 @@
     <string name="streaming_privacy_option_close">Disable</string>
     <string name="streaming_privacy_protection_open">Privacy protection is turned on</string>
     <string name="streaming_privacy_settings">Settings</string>
-    <string name="streaming_privacy_protection_close">Close Privacy</string>
-    <string name="streaming_privacy_toast_info">Privacy is turned off, when you enter a user name, password and other sensitive information, please open the manual protected!</string>
+    <string name="streaming_privacy_protection_close">Disable</string>
+    <string name="streaming_privacy_toast_info">Privacy is turned off, please open when you input password and other sensitive information.</string>
 </resources>
