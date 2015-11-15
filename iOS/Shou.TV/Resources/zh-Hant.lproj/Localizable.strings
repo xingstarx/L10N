@@ -135,6 +135,7 @@ CFBundleDisplayName = "Shou.TV";
 "account_dialog_sign_up_failed" = "註冊失敗";
 "account_invite_friends" = "邀請好友";
 "account_invite" = "我在 Shou.TV 叫 %@ ，請安裝這個App并關注我直播！";
+"account_user_video_delete_info" = "要刪除此視頻嗎？";
 
 "video_player_welcome" = "歡迎來到我的聊天室！";
 "video_player_quality" = "清晰度";

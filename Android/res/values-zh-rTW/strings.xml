@@ -34,6 +34,7 @@
     <string name="menu_like">喜欢</string>
     <string name="menu_share">分享</string>
     <string name="menu_report">舉報</string>
+    <string name="menu_quality">清晰度</string>
     <string name="menu_notifications">通知</string>
     <string name="search_hint">搜尋主播/遊戲</string>
     <string name="profile_text_live">直播</string>
@@ -276,6 +277,9 @@
     <string name="video_report_playback">播放問題</string>
     <string name="video_report_cancel">取消</string>
     <string name="video_report_suceess">舉報成功</string>
+    <string name="video_quality_auto">自動</string>
+    <string name="video_quality_source">清晰</string>
+    <string name="video_quality_low">流暢</string>
     <string name="video_duration_placement">0:00</string>
     <string name="root_access_title">需要 Root 系統權限</string>
     <string name="root_access_link">什麼是 Root 權限?</string>
@@ -341,7 +345,7 @@
     <string name="streaming_privacy_option_manual">手動保護</string>
     <string name="streaming_privacy_option_close">關閉</string>
     <string name="streaming_privacy_protection_open">隱私保護已開啟</string>
-    <string name="streaming_privacy_settings">設置隱私保護</string>
+    <string name="streaming_privacy_settings">設置</string>
     <string name="streaming_privacy_protection_close">關閉隱私保護</string>
     <string name="streaming_privacy_toast_info">隱私保護已關閉,當您輸入用戶名、密碼等敏感信息時請開啟手動保護!</string>
 </resources>

@@ -34,6 +34,7 @@
     <string name="menu_like">喜欢</string>
     <string name="menu_share">分享</string>
     <string name="menu_report">举报</string>
+    <string name="menu_quality">清晰度</string>
     <string name="menu_notifications">通知</string>
     <string name="search_hint">搜索主播或游戏</string>
     <string name="profile_text_live">直播</string>
@@ -275,6 +276,9 @@
     <string name="create_folder_error_already_exists">文件夹已经存在</string>
     <string name="create_folder_error">无法创建文件夹</string>
     <string name="directory_chooser_up_label">返回</string>
+    <string name="video_quality_auto">自動</string>
+    <string name="video_quality_source">清晰</string>
+    <string name="video_quality_low">流畅</string>
     <string name="video_report_sexual">色情</string>
     <string name="video_report_violent">暴力内容</string>
     <string name="video_report_hateful">歧视、侮辱性内容</string>
@@ -332,6 +336,7 @@
     <string name="toast_no_broadcast">直播功能不支持 x86 CPU</string>
     <string name="toast_how_to_broadcast">如何直播</string>
     <string name="toast_broadcast_dismiss">关闭</string>
+    <string name="toast_video_deleted">视频已经被删除</string>
     <string name="msg_popup_at">提及</string>
     <string name="fragment_bottom_toast_ban_info">禁言中 &#8230;</string>
     <string name="fragment_bottom_toast_unban_info">取消禁言 &#8230;</string>
@@ -353,7 +358,7 @@
     <string name="streaming_privacy_option_manual">手动保护</string>
     <string name="streaming_privacy_option_close">关闭</string>
     <string name="streaming_privacy_protection_open">隐私保护已开启</string>
-    <string name="streaming_privacy_settings">设置隐私保护</string>
+    <string name="streaming_privacy_settings">设置</string>
     <string name="streaming_privacy_protection_close">关闭隐私保护</string>
     <string name="streaming_privacy_toast_info">隐私保护已关闭，当您输入用户名、密码等敏感信息时请开启手动保护!</string>
     <string name="activity_banlist_title">禁言列表</string>
