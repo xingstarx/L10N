@@ -141,7 +141,6 @@
     <string name="streaming_mirroring">ESPELHANDO</string>
     <!-- I am guessing the meaning of mirroring as to reflect the image somewhere, so this is the translation I'm using -->
     <string name="streaming_chat">chat</string>
-    <string name="streaming_share">Compartilhar</string>
     <string name="streaming_btn_stop">Parar</string>
     <string name="streaming_chat_title">Sala de bate papo</string>
     <string name="alert_dialog_button_close">Fechar</string>
@@ -224,10 +223,6 @@
     <string name="pref_title_misc_auto_restart">Auto reiniciar</string>
     <string name="pref_title_misc_network_type">Transmissão encerrada</string>
     <string name="pref_summary_misc_auto_restart">Quanto se reiniciar transmissão ou espelhamento automaticamente depois que um erro ocorrer</string>
-    <!-- Still very unconfortable with the translation for mirroring, but I'm not part of the Broadcast community in Brazil so I don't know how they use the word, if they translate or use mirroring in the original english -->
-    <string name="pref_title_misc_msg_pop">Mensagem instantânea</string>
-    <!-- Instance message is correct? I never heard of the term, I will use to translate Instant Message... But correct me if I'm wrong-->
-    <string name="pref_summary_misc_msg_pop">Mostre mensagens instantâneas enquanto transmite</string>
     <string name="pref_title_misc_bubble">Janela flutuante</string>
     <string name="pref_summary_misc_bubble">Exibir janela flutuante no topo da tela enquanto transmitindo ou refletindo</string>
     <string name="pref_title_misc_server">Servidor de Transmissão</string>

@@ -143,7 +143,7 @@
     <string name="streaming_recording">正在錄影</string>
     <string name="streaming_mirroring">正在螢幕投射</string>
     <string name="streaming_chat">聊天</string>
-    <string name="streaming_share">分享</string>
+    <string name="streaming_pop_msg">彈幕</string>
     <string name="streaming_btn_stop">停止</string>
     <string name="streaming_chat_title">聊天室</string>
     <string name="alert_dialog_button_close">關閉</string>
@@ -217,8 +217,6 @@
     <string name="pref_title_misc_auto_restart">自動重連</string>
     <string name="pref_title_misc_network_type">直播結束</string>
     <string name="pref_summary_misc_auto_restart">在螢幕直播或螢幕投射失敗後自動重新連接</string>
-    <string name="pref_title_misc_msg_pop">彈幕</string>
-    <string name="pref_summary_misc_msg_pop">是否在直播顯示消息彈幕</string>
     <string name="pref_title_misc_bubble">啟用多功能浮動視窗</string>
     <string name="pref_summary_misc_bubble">在直播或螢幕投射時顯示多功能浮動視窗</string>
     <string name="pref_title_misc_server">直播伺服器選擇</string>
