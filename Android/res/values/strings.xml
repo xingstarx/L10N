@@ -319,6 +319,7 @@
     <string name="activity_account_text_user_score">%s score</string>
     <string name="activity_account_text_user_likes">%s likes</string>
     <string name="fragment_shou_cash_success_msg">Purchase successfully! got %1$d ShouCash, total %2$d ShouCash</string>
+    <string name="fragment_shoucash_msg_count">%s</string>
     <string name="msg_description_like">Like</string>
     <string name="msg_description_reward">Reward</string>
     <string name="pref_title_category_notification">Notifications</string>
@@ -340,6 +341,9 @@
     <string name="toast_how_to_broadcast">How to broadcast</string>
     <string name="toast_broadcast_dismiss">Dismiss</string>
     <string name="toast_video_deleted">This video has been deleted by the broadcaster</string>
+    <string name="msg_popup_follow">Follow</string>
+    <string name="msg_popup_moderate">Moderate</string>
+    <string name="msg_popup_moderate_cancel">Cancel Moderate</string>
     <string name="msg_popup_at">Mention</string>
     <string name="fragment_bottom_toast_ban_info">Ban &#8230;</string>
     <string name="fragment_bottom_toast_unban_info">Unban &#8230;</string>

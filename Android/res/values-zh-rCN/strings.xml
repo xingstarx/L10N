@@ -314,6 +314,7 @@
     <string name="toast_msg_buy_shou_cash_status">购买 %s</string>
     <string name="toast_msg_buy_shou_cash_status_value_error">失败</string>
     <string name="fragment_shou_cash_success_msg">购买成功！新获得 %1$d ShouCash，总计 %2$d ShouCash</string>
+    <string name="fragment_shoucash_msg_count">%s个</string>
     <string name="msg_description_like">喜欢</string>
     <string name="msg_description_reward">打赏</string>
     <string name="pref_title_category_notification">推送通知</string>
@@ -335,6 +336,9 @@
     <string name="toast_how_to_broadcast">如何直播</string>
     <string name="toast_broadcast_dismiss">关闭</string>
     <string name="toast_video_deleted">视频已经被删除</string>
+    <string name="msg_popup_follow">关注</string>
+    <string name="msg_popup_moderate">管理员</string>
+    <string name="msg_popup_moderate_cancel">取消管理员</string>
     <string name="msg_popup_at">提及</string>
     <string name="fragment_bottom_toast_ban_info">禁言中 &#8230;</string>
     <string name="fragment_bottom_toast_unban_info">取消禁言 &#8230;</string>
