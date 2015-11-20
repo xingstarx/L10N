@@ -152,7 +152,7 @@
     <string name="streaming_recording">RECORDING</string>
     <string name="streaming_mirroring">MIRRORING</string>
     <string name="streaming_chat">Chat</string>
-    <string name="streaming_share">Share</string>
+    <string name="streaming_pop_msg">Message</string>
     <string name="streaming_btn_stop">STOP</string>
     <string name="streaming_chat_title">chat room</string>
     <string name="alert_dialog_button_close">Close</string>
@@ -226,8 +226,6 @@
     <string name="pref_title_misc_auto_restart">Auto restart</string>
     <string name="pref_title_misc_network_type">Broadcast over</string>
     <string name="pref_summary_misc_auto_restart">Whether to restart broadcast or mirroring automatically after error occurred</string>
-    <string name="pref_title_misc_msg_pop">Instance message</string>
-    <string name="pref_summary_misc_msg_pop">Show instance message when broadcasting</string>
     <string name="pref_title_misc_bubble">Floating window</string>
     <string name="pref_summary_misc_bubble">Display floating window on screen top when broadcast or mirroring</string>
     <string name="pref_title_misc_server">Broadcast server</string>
