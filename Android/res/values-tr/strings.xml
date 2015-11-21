@@ -274,9 +274,13 @@
     <string name="create_folder_error_already_exists">Klasör mevcut</string>
     <string name="create_folder_error">Klasör oluşturulmadı</string>
     <string name="directory_chooser_up_label">Önceki</string>
-    <string name="video_report_illegal">Yasadışı içerik; pornografik, şiddet, vb.</string>
-    <string name="video_report_black">Siyah ekran</string>
-    <string name="video_report_other">Oyun videosu değil</string>
+    <string name="video_report_sexual">Cinsel içerik</string>
+    <string name="video_report_violent">Şiddet ya da itici/antipatik içerik</string>
+    <string name="video_report_hateful">Nefret dolu ya da küfürlü içerik</string>
+    <string name="video_report_harmful">Zarar verici ya da tehlikeli hareketler</string>
+    <string name="video_report_misleading">Spam ya da yanıltıcı</string>
+    <string name="video_report_playback">Oynatma sorunu</string>
+    <string name="video_report_cancel">İptal</string>
     <string name="video_report_suceess">Bildiri gönderildi</string>
     <string name="video_duration_placement">0:00</string>
     <string name="root_access_title">Root erişimi gereklidir</string>
@@ -348,4 +352,13 @@
     <string name="activity_banlist_title">Engellenmiş kullanıcılar</string>
     <string name="activity_no_banlist">Engellenmiş kullanıcı yok</string>
     <string name="fragment_video_delete_info">Bu videoyu silmek istediğinizden emin misiniz?</string>
+    <string name="streaming_front_carema">Ön kamera</string>
+    <string name="streaming_privacy">Gizlilik</string>
+    <string name="streaming_privacy_option_auto">Otomatik koruma</string>
+    <string name="streaming_privacy_option_manual">Manuel koruma</string>
+    <string name="streaming_privacy_option_close">Kapat</string>
+    <string name="streaming_privacy_protection_open">Gizlilik koruması etkin</string>
+    <string name="streaming_privacy_settings">Gizlilik Ayarları</string>
+    <string name="streaming_privacy_protection_close">Korumayı Kapat</string>
+    <string name="streaming_privacy_toast_info">Gizlilik kapatıldı, kullanıcı adı, parola ve diğer özel bir bilgi gireceğiniz zaman, lütfen manuel olarak gizliliği açın!</string>
 </resources>
