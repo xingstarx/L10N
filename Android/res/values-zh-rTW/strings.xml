@@ -143,7 +143,7 @@
     <string name="streaming_recording">正在錄影</string>
     <string name="streaming_mirroring">正在螢幕投射</string>
     <string name="streaming_chat">聊天</string>
-    <string name="streaming_share">分享</string>
+    <string name="streaming_pop_msg">彈幕</string>
     <string name="streaming_btn_stop">停止</string>
     <string name="streaming_chat_title">聊天室</string>
     <string name="alert_dialog_button_close">關閉</string>
@@ -217,8 +217,6 @@
     <string name="pref_title_misc_auto_restart">自動重連</string>
     <string name="pref_title_misc_network_type">直播結束</string>
     <string name="pref_summary_misc_auto_restart">在螢幕直播或螢幕投射失敗後自動重新連接</string>
-    <string name="pref_title_misc_msg_pop">彈幕</string>
-    <string name="pref_summary_misc_msg_pop">是否在直播顯示消息彈幕</string>
     <string name="pref_title_misc_bubble">啟用多功能浮動視窗</string>
     <string name="pref_summary_misc_bubble">在直播或螢幕投射時顯示多功能浮動視窗</string>
     <string name="pref_title_misc_server">直播伺服器選擇</string>
@@ -293,13 +291,13 @@
     <string name="notification_push_like_multi_title">%s 為您的視訊點了一個讚</string>
     <string name="notification_push_like_description">為您的視訊點了一個贊</string>
     <string name="notification_push_like_big_title">您新獲得了 %s 個讚</string>
-    <string name="notification_push_cash_big_title">您收到 %s 筆贈送</string>
-    <string name="notification_push_cash_content">贈送給您 %s ShouCash</string>
-    <string name="notification_push_cash_big_content">%1$s %2$s 贈送給您 %3$s ShouCash</string>
+    <string name="notification_push_cash_big_title">您收到 %s 筆抖內</string>
+    <string name="notification_push_cash_content">抖內給您 %s ShouCash</string>
+    <string name="notification_push_cash_big_content">%1$s %2$s 抖內給您 %3$s ShouCash</string>
     <string name="notification_push_recommended_description">恭喜！您直播的視訊已被推薦到首頁！</string>
     <string name="profile_archive_broadcasts">自動收藏我的直播</string>
     <string name="shou_cash_info">ShouCash 不足!</string>
-    <string name="send_cash_info">請充值后再贈送!</string>
+    <string name="send_cash_info">請充值后再抖內!</string>
     <string name="menu_statistic">統計</string>
     <string name="menu_charge">充值</string>
     <string name="msg_description_more_cash">获取更多的 ShouCash!</string>

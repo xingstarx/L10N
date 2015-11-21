@@ -249,5 +249,6 @@ CFBundleDisplayName = "Shou.TV";
 "VIDEO_CAMERA_LIVE_TITLE_HINT" = "What are you seeing now?";
 "VIDEO_CAMERA_STREAMING_READY" = "开始直播";
 "VIDEO_CAMERA_STREAMING_STOP" = "停止直播";
-"DIALOG_FAILD_TO_GRANTED" = "授权摄像头失败";
+"DIALOG_FAILD_TO_CAMERA_GRANTED" = "获取摄像头权限失败";
+"DIALOG_FAILD_TO_MIC_GRANTED" = "获取麦克风权限失败";
 "DIALOG_BUTTON_OK" = "确定";
