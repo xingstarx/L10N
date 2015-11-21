@@ -34,6 +34,7 @@
     <string name="menu_like">Beğen</string>
     <string name="menu_share">Paylaş</string>
     <string name="menu_report">Bildir</string>
+    <string name="menu_quality">Kalite</string>
     <string name="menu_notifications">Bildirimler</string>
     <string name="search_hint">Oyuncu/oyun ara</string>
     <string name="profile_text_live">Canlı</string>
@@ -151,6 +152,7 @@
     <string name="streaming_recording">KAYDEDİLİYOR</string>
     <string name="streaming_mirroring">EKRAN PAYLAŞILIYOR</string>
     <string name="streaming_chat">Sohbet et</string>
+    <string name="streaming_pop_msg">Mesaj</string>
     <string name="streaming_btn_stop">Durdur</string>
     <string name="streaming_chat_title">Sohbet Odası</string>
     <string name="alert_dialog_button_close">Kapat</string>
@@ -282,6 +284,9 @@
     <string name="video_report_playback">Oynatma sorunu</string>
     <string name="video_report_cancel">İptal</string>
     <string name="video_report_suceess">Bildiri gönderildi</string>
+    <string name="video_quality_auto">Otomatik</string>
+    <string name="video_quality_source">Kaynak</string>
+    <string name="video_quality_low">Düşük</string>
     <string name="video_duration_placement">0:00</string>
     <string name="root_access_title">Root erişimi gereklidir</string>
     <string name="root_access_link">Root nedir?</string>
@@ -334,6 +339,7 @@
     <string name="toast_no_broadcast">Yayın yapma özelliği x86 yapısına sahip işlemcilerde çalışmıyor</string>
     <string name="toast_how_to_broadcast">Nasıl yayın yapılır</string>
     <string name="toast_broadcast_dismiss">Reddet</string>
+    <string name="toast_video_deleted">bu video kullanıcı tarafından silinmiştir</string>
     <string name="msg_popup_at">Cevap Ver</string>
     <string name="fragment_bottom_toast_ban_info">Engelle: &#8230;</string>
     <string name="fragment_bottom_toast_unban_info">Engeli kaldır: &#8230;</string>
