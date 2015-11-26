@@ -188,6 +188,7 @@ CFBundleDisplayName = "Shou.TV";
 "toast_api_error_connection_timeout" = "網絡連接超時";
 "toast_api_error_server_5xx" = "Shou.TV 伺服器出錯";
 "toast_api_error_not_found" = "沒有找到相應的信息";
+"toast_video_deleted" = "視頻已被刪除";
 
 "about_title" = "關於";
 "about_title_download_viewer" = "下載Shou录制端";
