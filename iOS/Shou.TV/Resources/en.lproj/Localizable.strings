@@ -190,6 +190,7 @@ CFBundleDisplayName = "Shou.TV";
 "toast_api_error_connection_timeout" = "Network connection timeout";
 "toast_api_error_server_5xx" = "Shou.TV server encounters errors";
 "toast_api_error_not_found" = "Not found any message";
+"toast_video_deleted" = "This video has been deleted by the broadcaster";
 
 "about_title" = "About";
 "about_title_download_recorder" = "Download Shou Recorder";
