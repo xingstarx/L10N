@@ -82,7 +82,7 @@ CFBundleDisplayName = "Shou.TV";
 "account_label_biography" = "Hakkında";
 "account_label_avatar" = "Resim";
 "account_label_gender" = "Cinsiyet";
-"account_label_cover" = "Kaplama";
+"account_label_cover" = "Kapak";
 "account_label_upload_avatar"= "Resim Yükle";
 "account_hint_identify" = "Kullanıcı adı ya da e-posta";
 "account_hint_email" = "e-posta";
@@ -189,6 +189,7 @@ CFBundleDisplayName = "Shou.TV";
 "toast_api_error_connection_timeout" = "Ağ bağlantısı zaman aşımına uğradı";
 "toast_api_error_server_5xx" = "Shou.TV sunucusu hatalar ile karşılaştı";
 "toast_api_error_not_found" = "Mesaj bulunamadı";
+"toast_video_deleted" = "Bu video kullanıcı tarafından silindi";
 
 "about_title" = "Hakkında";
 "about_title_download_recorder" = "Shou Kaydediciyi İndirin";
@@ -203,11 +204,11 @@ CFBundleDisplayName = "Shou.TV";
 "about_title_privacy_policy" = "Gizlilik politikası";
 "about_title_terms_of_service" = "Hizmet şartları";
 "about_title_version" = "Sürüm";
-"about_title_copyright" = "Telif Hakkı";
+"about_title_copyright" = "Telif hakkı";
 "about_title_rate" = "Bu uygulamayı değerlendirin";
 "about_title_feedback" = "Geri Bildirim";
 
-"From Photo Library" = "Resim Kütüphanesinden";
+"From Photo Library" = "Galeriden";
 "From Camera" = "Kameradan";
 "Choose Source" = "Kaynak Seç";
 "imagePicker_failed"  = "Fotoğraf alınamadı, lütfen yeniden seçin";
@@ -244,7 +245,7 @@ CFBundleDisplayName = "Shou.TV";
 "broadcast_guide_tips_scanning" = "Arıyor, lütfen Shou for Mac\'i açtığınızdan emin olun!!";
 "broadcast_guide_tips_sign_in" = "Yayın yapmak için giriş yapmak istediğiniz bilgisayarı seçiniz";
 
-"explore_search_game" = "Ara \"%@\" oyun?";
+"explore_search_game" = "\"%@\" oyunu ara?";
 
 "VIDEO_CAMERA_LIVE_TITLE_HINT" = "Ne görüyorsun?";
 "VIDEO_CAMERA_STREAMING_READY" = "Yayını Başlat";
