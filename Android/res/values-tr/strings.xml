@@ -339,7 +339,7 @@
     <string name="toast_no_broadcast">Yayın yapma özelliği x86 yapısına sahip işlemcilerde çalışmıyor</string>
     <string name="toast_how_to_broadcast">Nasıl yayın yapılır</string>
     <string name="toast_broadcast_dismiss">Reddet</string>
-    <string name="toast_video_deleted">bu video kullanıcı tarafından silinmiştir</string>
+    <string name="toast_video_deleted">Bu video kullanıcı tarafından silinmiştir</string>
     <string name="msg_popup_at">Cevap Ver</string>
     <string name="fragment_bottom_toast_ban_info">Engelle: &#8230;</string>
     <string name="fragment_bottom_toast_unban_info">Engeli kaldır: &#8230;</string>
@@ -367,4 +367,5 @@
     <string name="streaming_privacy_settings">Gizlilik Ayarları</string>
     <string name="streaming_privacy_protection_close">Korumayı Kapat</string>
     <string name="streaming_privacy_toast_info">Gizlilik kapatıldı, kullanıcı adı, parola ve diğer özel bir bilgi gireceğiniz zaman, lütfen manuel olarak gizliliği açın!</string>
+    <string name="video_player_play_info_end">Yayın bitti</string>
 </resources>
