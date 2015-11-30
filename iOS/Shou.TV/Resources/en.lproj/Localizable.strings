@@ -48,11 +48,11 @@ CFBundleDisplayName = "Shou.TV";
 "profile_edit_profile" = "EDIT PROFILE";
 "profile_archive_broadcasts" = "Automatically archive my broadcasts";
 
-"landing_btn_twitter" = "Sign in with Twitter";
-"landing_btn_facebook" = "Sign in with Facebook";
-"landing_btn_google" = "Sign in with Google+";
-"landing_btn_sign_up" = "Sign Up";
-"landing_btn_sign_in" = "Sign In";
+"landing_btn_twitter" = "Log in with Twitter";
+"landing_btn_facebook" = "Log in with Facebook";
+"landing_btn_google" = "Log in with Google+";
+"landing_btn_sign_up" = "Sign up";
+"landing_btn_sign_in" = "Log in";
 "landing_google_plus_sign_in_progress" = "Sign in with Google Plus";
 "landing_facebook_sign_in_progress" = "Sign in with Facebook";
 "landing_twitter_sign_in_progress" = "Sign in with Twitter";
