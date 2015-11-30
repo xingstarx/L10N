@@ -7,7 +7,6 @@
         <item>Hoparlör</item>
     </string-array>
     <string-array name="pref_entries_video_source_engine">
-        <item>Boş</item>
         <item>Hayalet</item>
         <item>Hafıza</item>
     </string-array>

@@ -10,7 +10,6 @@
         <item>AVI（不推薦）</item>
     </string-array>
     <string-array name="pref_entries_video_source_engine">
-        <item>不錄影</item>
         <item>錄影</item>
     </string-array>
     <string-array name="pref_entries_video_encoding_engine">

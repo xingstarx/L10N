@@ -6,7 +6,6 @@
         <item>Внутренний</item>
     </string-array>
     <string-array name="pref_entries_video_source_engine">
-        <item>Ничего</item>
         <item>Фантом</item>
         <item>Память</item>
     </string-array>

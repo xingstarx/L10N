@@ -7,7 +7,6 @@
         <item>Internal</item>
     </string-array>
     <string-array name="pref_entries_video_source_engine">
-        <item>Nulo</item>
         <item>Phantom</item>
         <item>Memória</item>
     </string-array>

@@ -2,10 +2,8 @@
 <resources>
 
     <string-array name="pref_entries_video_source_engine">
-        <item>不錄影</item>
         <item>幻影（較快，較穩定）</item>
         <item>記憶體（較慢，很穩定）</item>
-        <item>GPU（較快，不穩定）</item>
     </string-array>
 
 </resources>
