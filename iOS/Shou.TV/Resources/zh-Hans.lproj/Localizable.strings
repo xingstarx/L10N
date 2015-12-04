@@ -253,3 +253,4 @@ CFBundleDisplayName = "Shou.TV";
 "DIALOG_FAILD_TO_CAMERA_GRANTED" = "获取摄像头权限失败";
 "DIALOG_FAILD_TO_MIC_GRANTED" = "获取麦克风权限失败";
 "DIALOG_BUTTON_OK" = "确定";
+"VIDEO_PLAYBACK_OVER" = "播放结束";

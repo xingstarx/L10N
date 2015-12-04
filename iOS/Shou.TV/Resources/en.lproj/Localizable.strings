@@ -254,3 +254,4 @@ CFBundleDisplayName = "Shou.TV";
 "DIALOG_FAILD_TO_CAMERA_GRANTED" = "Grant camera failed";
 "DIALOG_FAILD_TO_MIC_GRANTED" = "Grant mic failed";
 "DIALOG_BUTTON_OK" = "OK";
+"VIDEO_PLAYBACK_OVER" = "End of Stream";

@@ -245,3 +245,4 @@ CFBundleDisplayName = "Shou.TV";
 "broadcast_guide_tips_sign_in" = "選擇要直播的電腦進行登入操作";
 
 "explore_search_game" = "搜索 “%@” 遊戲？";
+"VIDEO_PLAYBACK_OVER" = "播放結束";
