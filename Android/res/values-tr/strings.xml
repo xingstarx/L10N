@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Shou</string>
-    <string name="tab_feed">Son Eklenenler</string>
+    <string name="tab_feed">Yayınlar</string>
     <string name="tab_broadcast">Canlı Yayın</string>
     <string name="tab_games">Oyunlar</string>
     <string name="card_record">Ekranı kaydet</string>
@@ -78,7 +78,7 @@
     <string name="activity_account_text_game_casts">%s video</string>
     <string name="activity_account_text_game_players">%s oyuncu</string>
     <string name="activity_account_text_profile">profil</string>
-    <string name="activity_account_text_agree_term">"Kayıt Ol"a basarak, %1$s Hizmet Şartlarını okuduğunuzu %2$s ve %3$s Gizlilik Politikasını kabul ettiğinizi belirtmiş oluyorsunuz %4$s</string>
+    <string name="activity_account_text_agree_term">"Üye Ol"a basarak, %1$s Hizmet Şartlarını okuduğunuzu %2$s ve %3$s Gizlilik Politikasını kabul ettiğinizi belirtmiş oluyorsunuz %4$s</string>
     <string name="activity_account_toast_invalid_email">Geçersiz email</string>
     <string name="activity_account_toast_invalid_password_or_token">Geçersiz parola ya da token</string>
     <string name="activity_account_toast_invalid_identify_or_password">Geçersiz kimlik ya da parola</string>
@@ -112,7 +112,7 @@
     <string name="activity_screen_fab_broadcast">Canlı Yayın</string>
     <string name="activity_video_player_share">%1$s : %2$s</string>
     <string name="activity_video_player_welcome">Sohbet odasına hoşgeldiniz!</string>
-    <string name="activity_no_medias">Gösterilecek video yok, \n kayıt için durum çubuğunu kontrol et.</string>
+    <string name="activity_no_medias">Gösterilecek video yok, \n kayıt yapmak için durum çubuğundaki bildirimi kullanabilirsiniz.</string>
     <string name="activity_no_videos">Gösterilecek video yok</string>
     <string name="activity_no_games">Gösterilecek oyun yok</string>
     <string name="activity_no_following">Takip edilen yok</string>
@@ -192,7 +192,7 @@
     <string name="ticker_browser_started">Tarayıcıya paylaşım başladı&#8230;</string>
     <string name="ticker_browser_stopped">Tarayıcıya paylaşım durduruldu&#8230;</string>
     <string name="ticker_browser_mirroring_to">%s</string>
-    <string name="permission_read_shou_composer_label">read Shou composer</string>
+    <string name="permission_read_shou_composer_label">Shou çözümleyicisini oku</string>
     <string name="permission_read_shou_composer_description">Ekranınızı kaydetmeye ve ekran görüntüsü almaya izin verir. Bütün yaptıklarınız görünebilir, ÖR. klavyeniz, şifreniz, vb.</string>
     <string name="permission_group_shou_label">Shou</string>
     <string name="permission_group_shou_description">Ekranınızı kaydetmeye ve ekran görüntüsü almaya izin verir. Bütün yaptıklarınız görünebilir, ÖR. klavyeniz, şifreniz, vb.</string>
@@ -252,7 +252,7 @@
     <string name="msg_description_emoji">İfade</string>
     <string name="msg_ban_user">Engelle</string>
     <string name="msg_ban_user_description">%s kullanıcısı engellendi.</string>
-    <string name="msg_unban_user">Engellemeyi kaldır</string>
+    <string name="msg_unban_user">Engeli kaldır</string>
     <string name="msg_unban_user_description">%s kullanıcısının engeli kaldırıldı.</string>
     <string name="msg_popup_detail">Profil</string>
     <string name="emoji_no_recent">Son kullanılan ifade yok</string>
@@ -299,13 +299,13 @@
     <string name="notification_push_follow_big_title">%s takipçi</string>
     <string name="notification_push_like_multi_title">%s yayınını beğendi</string>
     <string name="notification_push_like_description">yayınını beğendi</string>
-    <string name="notification_push_like_big_title">%s beğenme</string>
+    <string name="notification_push_like_big_title">%s beğeni</string>
     <string name="notification_push_cash_big_title">%s hediye</string>
     <string name="notification_push_cash_content">sana %s ShouCash verdi</string>
-    <string name="notification_push_cash_big_content">%1$s %2$s sana %3$s ShouCash verdi</string>
+    <string name="notification_push_cash_big_content">%1$s %2$s sana %3$s ShouCash verdi!</string>
     <string name="notification_push_recommended_description">Videonuz önerildi!</string>
     <string name="shou_cash_info">ShouCash açığı!</string>
-    <string name="send_cash_info">Lütfen hediyeden sonra ödeme yapın!</string>
+    <string name="send_cash_info">Yayıncıyı desteklemek için daha fazla ShouCash satın alın!</string>
     <string name="menu_statistic">İstatistikler</string>
     <string name="menu_charge">Satın Al</string>
     <string name="msg_buy_shou_cash">Satın Al</string>
@@ -319,6 +319,7 @@
     <string name="activity_account_text_user_score">%s skor</string>
     <string name="activity_account_text_user_likes">%s beğeni</string>
     <string name="fragment_shou_cash_success_msg">Satın alma başarılı! %1$d ShouCash alındı, toplam da %2$d ShouCash\'iniz var</string>
+    <string name="fragment_shoucash_msg_count">%s</string>
     <string name="msg_description_like">Beğen</string>
     <string name="msg_description_reward">Ödül</string>
     <string name="pref_title_category_notification">Bildirimler</string>
@@ -340,6 +341,9 @@
     <string name="toast_how_to_broadcast">Nasıl yayın yapılır</string>
     <string name="toast_broadcast_dismiss">Reddet</string>
     <string name="toast_video_deleted">Bu video kullanıcı tarafından silinmiştir</string>
+    <string name="msg_popup_follow">Takip Et</string>
+    <string name="msg_popup_moderate">Moderatör Yap</string>
+    <string name="msg_popup_moderate_cancel">Moderatör yetkisini kaldır</string>
     <string name="msg_popup_at">Cevap Ver</string>
     <string name="fragment_bottom_toast_ban_info">Engelle: &#8230;</string>
     <string name="fragment_bottom_toast_unban_info">Engeli kaldır: &#8230;</string>
@@ -367,5 +371,5 @@
     <string name="streaming_privacy_settings">Gizlilik Ayarları</string>
     <string name="streaming_privacy_protection_close">Korumayı Kapat</string>
     <string name="streaming_privacy_toast_info">Gizlilik kapatıldı, kullanıcı adı, parola ve diğer özel bir bilgi gireceğiniz zaman, lütfen manuel olarak gizliliği açın!</string>
-    <string name="video_player_play_info_end">Yayın bitti</string>
+    <string name="video_player_play_info_end">Yayın Bitti</string>
 </resources>
