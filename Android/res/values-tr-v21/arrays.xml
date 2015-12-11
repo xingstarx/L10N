@@ -2,7 +2,6 @@
 <resources>
 
     <string-array name="pref_entries_video_source_engine">
-        <item>Boş</item>
         <item>Hayalet</item>
     </string-array>
 

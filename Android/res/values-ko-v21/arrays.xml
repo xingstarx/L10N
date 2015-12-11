@@ -2,7 +2,6 @@
 <resources>
 
     <string-array name="pref_entries_video_source_engine">
-        <item>없음</item>
         <item>팬텀（매우 빠름，비교적 안정）</item>
     </string-array>
 
