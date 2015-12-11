@@ -10,7 +10,6 @@
         <item>AVI（不推荐）</item>
     </string-array>
     <string-array name="pref_entries_video_source_engine">
-        <item>不录屏</item>
         <item>录屏</item>
     </string-array>
     <string-array name="pref_entries_video_encoding_engine">

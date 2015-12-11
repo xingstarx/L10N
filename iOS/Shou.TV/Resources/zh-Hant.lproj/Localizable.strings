@@ -245,3 +245,8 @@ CFBundleDisplayName = "Shou.TV";
 "broadcast_guide_tips_sign_in" = "選擇要直播的電腦進行登入操作";
 
 "explore_search_game" = "搜索 “%@” 遊戲？";
+"VIDEO_PLAYBACK_OVER" = "播放結束";
+"msg_popup_moderate" = "管理員";
+"msg_popup_moderate_cancel" = "取消管理員";
+"msg_popup_moderate_description" = "%@ 已經設置為管理員";
+"msg_popup_moderate_cancel_description" = "%@ 已經被取消管理員";

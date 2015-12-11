@@ -2,7 +2,6 @@
 <resources>
 
     <string-array name="pref_entries_video_source_engine">
-        <item>不錄影</item>
         <item>幻影（較快，較穩定）</item>
     </string-array>
 
