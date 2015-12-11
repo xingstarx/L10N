@@ -192,7 +192,7 @@
     <string name="pref_summary_category_video">比如影片來源、編碼等</string>
     <string name="pref_title_category_audio">音效</string>
     <string name="pref_summary_category_audio">比如聲音來源、音效驅動等</string>
-    <string name="pref_title_category_broadcast">直播和螢幕投射</string>
+    <string name="pref_title_category_broadcast">直播與螢幕投射</string>
     <string name="pref_summary_category_broadcast">螢幕直播與螢幕投射設定</string>
     <string name="pref_title_category_record">螢幕錄製</string>
     <string name="pref_summary_category_record">錄製螢幕儲存至 sdcard</string>
