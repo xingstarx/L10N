@@ -253,3 +253,4 @@ CFBundleDisplayName = "Shou.TV";
 "DIALOG_FAILD_TO_CAMERA_GRANTED" = "Kamera izni alınamadı";
 "DIALOG_FAILD_TO_MIC_GRANTED" = "Mikrofon izni alınamadı";
 "DIALOG_BUTTON_OK" = "TAMAM";
+"VIDEO_PLAYBACK_OVER" = "Yayın Bitti";
