@@ -257,5 +257,5 @@ CFBundleDisplayName = "Shou.TV";
 "VIDEO_PLAYBACK_OVER" = "Yayın Bitti";
 "msg_popup_moderate" = "Moderatör yap";
 "msg_popup_moderate_cancel" = "Moderatör yetkisini kaldır";
-"msg_popup_moderate_description" = "%@, bu odada moderatör.";
-"msg_popup_moderate_cancel_description" = "Moderatör %@, yetkisi alındı.";
+"msg_popup_moderate_description" = "%@ artık bir moderatör.";
+"msg_popup_moderate_cancel_description" = "%@ moderatörünün yetkisi alındı.";
