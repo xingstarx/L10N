@@ -367,4 +367,5 @@
     <string name="activity_no_banlist">没有禁言列表</string>
     <string name="fragment_video_delete_info">要删除此视频吗?</string>
     <string name="video_player_play_info_end">播放结束</string>
+    <string name="video_player_living_play_info_end">直播结束</string>
 </resources>
