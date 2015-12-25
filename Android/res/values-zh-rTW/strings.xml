@@ -396,4 +396,12 @@
     <string name="activity_account_btn_skip">略過</string>
     <string name="activity_account_title_sign_up_edit_profile">完善個資</string>
     <string name="permission_camera_denied">請允許 Shou 存取 CAMERA 權限</string>
+    <string name="pref_title_chat_settings_ban_user">禁言</string>
+    <string name="pref_summary_chat_settings_ban_user">被禁言的用戶</string>
+    <string name="pref_title_chat_settings_moderators">管理員</string>
+    <string name="pref_summary_chat_settings_moderators">管理員清單</string>
+    <string name="activity_moderatorlist_title">管理員清單</string>
+    <string name="activity_no_moderatorlist">没有管理員</string>
+    <string name="activity_moderator_msg_moderator">授權</string>
+    <string name="activity_moderator_msg_unmoderator">取消授權</string>
 </resources>

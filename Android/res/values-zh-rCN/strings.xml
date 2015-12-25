@@ -406,4 +406,12 @@
     <string name="notification_push_like_multi_title_me">%1$s 为 %2$s 的视频点了一个赞</string>
     <string name="notification_push_like_description_me">为 %s 的视频点了一个赞</string>
     <string name="pref_title_notifications_direct_msg">私信</string>
+    <string name="pref_title_chat_settings_ban_user">禁言</string>
+    <string name="pref_summary_chat_settings_ban_user">被禁言的用户</string>
+    <string name="pref_title_chat_settings_moderators">管理员</string>
+    <string name="pref_summary_chat_settings_moderators">管理员列表</string>
+    <string name="activity_moderatorlist_title">管理员列表</string>
+    <string name="activity_no_moderatorlist">没有管理员</string>
+    <string name="activity_moderator_msg_moderator">授权</string>
+    <string name="activity_moderator_msg_unmoderator">取消授权</string>
 </resources>
