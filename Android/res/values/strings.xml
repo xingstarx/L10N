@@ -373,4 +373,6 @@
     <string name="streaming_privacy_toast_info">Privacy is turned off, please open when you input password and other sensitive information.</string>
     <string name="video_player_play_info_end">Stream over</string>
     <string name="video_player_living_play_info_end">Stream over</string>
+    <string name="fragment_bottom_un_moderator_info">Cancel Moderate</string>
+    <string name="fragment_bottom_moderator_info">Moderate</string>
 </resources>
