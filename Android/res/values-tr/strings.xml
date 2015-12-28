@@ -372,4 +372,7 @@
     <string name="streaming_privacy_protection_close">Korumayı Kapat</string>
     <string name="streaming_privacy_toast_info">Gizlilik kapatıldı, kullanıcı adı, parola ve diğer özel bir bilgi gireceğiniz zaman, lütfen manuel olarak gizliliği açın!</string>
     <string name="video_player_play_info_end">Yayın Bitti</string>
+    <string name="video_player_living_play_info_end">Yayın Bitti</string>
+    <string name="fragment_bottom_un_moderator_info">Moderatörlükten Çıkar</string>
+    <string name="fragment_bottom_moderator_info">Moderatör Yap</string>
 </resources>
