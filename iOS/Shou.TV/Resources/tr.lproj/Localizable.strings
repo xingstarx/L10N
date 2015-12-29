@@ -194,6 +194,7 @@ CFBundleDisplayName = "Shou.TV";
 
 "about_title" = "Hakkında";
 "about_title_download_recorder" = "Shou Kaydediciyi İndirin";
+"about_title_download_airshou" = "AirShou\'u İndirin";
 "about_title_faq" = "SSS";
 "about_summary_faq" = "Shou SSS";
 "about_title_website" = "Website";
@@ -208,6 +209,7 @@ CFBundleDisplayName = "Shou.TV";
 "about_title_copyright" = "Telif hakkı";
 "about_title_rate" = "Bu uygulamayı değerlendirin";
 "about_title_feedback" = "Geri Bildirim";
+"about_title_instagram" = "Instagram";
 
 "From Photo Library" = "Galeriden";
 "From Camera" = "Kameradan";
