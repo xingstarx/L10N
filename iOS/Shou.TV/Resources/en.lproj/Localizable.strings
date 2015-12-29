@@ -194,6 +194,7 @@ CFBundleDisplayName = "Shou.TV";
 
 "about_title" = "About";
 "about_title_download_recorder" = "Download Shou Recorder";
+"about_title_download_airshou" = "Download AirShou";
 "about_title_faq" = "FAQ";
 "about_summary_faq" = "Shou FAQ";
 "about_title_website" = "Website";
@@ -208,6 +209,7 @@ CFBundleDisplayName = "Shou.TV";
 "about_title_copyright" = "Copyright";
 "about_title_rate" = "Rate this app";
 "about_title_feedback" = "Feedback";
+"about_title_instagram" = "Instagram";
 
 "From Photo Library" = "From Photo Library";
 "From Camera" = "From Camera";
