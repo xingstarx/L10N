@@ -191,7 +191,8 @@ CFBundleDisplayName = "Shou.TV";
 "toast_video_deleted" = "視頻已被刪除";
 
 "about_title" = "關於";
-"about_title_download_viewer" = "下載Shou录制端";
+"about_title_download_recorder" = "下載 Shou 录制端";
+"about_title_download_airshou" = "下載 AirShou";
 "about_title_faq" = "FAQ";
 "about_summary_faq" = "Shou FAQ";
 "about_title_website" = "官方網站";
@@ -206,6 +207,7 @@ CFBundleDisplayName = "Shou.TV";
 "about_title_copyright" = "版權";
 "about_title_rate" = "去 App Store 评论";
 "about_title_feedback" = "意见反馈";
+"about_title_instagram" = "Instagram";
 
 "From Photo Library" = "从图库获取";
 "From Camera" = "从相机获取";

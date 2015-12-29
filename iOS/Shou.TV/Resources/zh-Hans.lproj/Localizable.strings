@@ -193,6 +193,7 @@ CFBundleDisplayName = "Shou.TV";
 
 "about_title" = "关于";
 "about_title_download_recorder" = "下载 Shou 录制端";
+"about_title_download_airshou" = "下载 AirShou";
 "about_title_faq" = "FAQ";
 "about_summary_faq" = "Shou FAQ";
 "about_title_website" = "官方网站";
@@ -207,6 +208,7 @@ CFBundleDisplayName = "Shou.TV";
 "about_title_copyright" = "版权";
 "about_title_rate" = "去 App Store 评论";
 "about_title_feedback" = "意见反馈";
+"about_title_instagram" = "Instagram";
 
 "From Photo Library" = "从图库获取";
 "From Camera" = "从相机获取";
