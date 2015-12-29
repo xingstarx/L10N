@@ -375,4 +375,6 @@
     <string name="video_player_living_play_info_end">Stream over</string>
     <string name="fragment_bottom_un_moderator_info">Cancel Moderate</string>
     <string name="fragment_bottom_moderator_info">Moderate</string>
+    <string name="pref_title_misc_instagram">Instagram</string>
+    <string name="pref_summary_misc_instagram">shou_tv</string>
 </resources>
