@@ -39,6 +39,15 @@
     <string name="search_hint">搜尋主播/遊戲</string>
     <string name="profile_text_live">直播</string>
     <string name="profile_edit_profile">編輯個人資料</string>
+    <string name="profile_title_time">直播總時長</string>
+    <string name="profile_title_view">觀看數</string>
+    <string name="profile_title_like">喜歡數</string>
+    <string name="profile_title_money">ShouCash</string>
+    <string name="profile_title_broadcast">視頻</string>
+    <string name="profile_title_game">遊戲</string>
+    <string name="profile_title_profile">編輯資料</string>
+    <string name="profile_title_black">拉黑</string>
+    <string name="profile_title_logout">退出</string>
     <string name="activity_landing_btn_sign_up">註冊</string>
     <string name="activity_landing_btn_sign_in">登入</string>
     <string name="activity_landing_google_plus_sign_in_progress">正在用 Google 登入</string>
@@ -131,9 +140,11 @@
     <string name="activity_statistics_title_views">觀看統計</string>
     <string name="activity_statistics_title_like">喜歡統計</string>
     <string name="activity_statistics_title_income">收入統計</string>
+    <string name="activity_statistics_title_time">直播時長統計</string>
     <string name="activity_statistics_views">總觀看</string>
     <string name="activity_statistics_likes">總喜歡</string>
     <string name="activity_statistics_income">總收入</string>
+    <string name="activity_statistics_time">總時長</string>
     <string name="activity_statistics_views_unit">觀看</string>
     <string name="activity_statistics_likes_unit">喜歡</string>
     <string name="action_delete">删除</string>
@@ -377,4 +388,7 @@
     <string name="permission_storage_denied">請允許 Shou 存取 SDCARD 權限</string>
     <string name="permission_audio_denied">請允許 Shou 取得錄製麥克風權限</string>
     <string name="permission_camera">前置攝像頭</string>
+    <string name="activity_followers_title">粉絲</string>
+    <string name="activity_following_title">關注</string>
+    <string name="activity_videos_title">視頻</string>
 </resources>
