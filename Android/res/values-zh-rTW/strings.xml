@@ -354,4 +354,6 @@
     <string name="video_player_living_play_info_end">直播結束</string>
     <string name="fragment_bottom_un_moderator_info">正在取消授權</string>
     <string name="fragment_bottom_moderator_info">正在授權</string>
+    <string name="pref_title_misc_instagram">Instagram</string>
+    <string name="pref_summary_misc_instagram">shou_tv</string>
 </resources>
