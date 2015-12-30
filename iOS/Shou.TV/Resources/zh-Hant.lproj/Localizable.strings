@@ -243,7 +243,13 @@ CFBundleDisplayName = "Shou.TV";
 "broadcast_guide_tips_scanning" = "正在搜索，請確保 Shou 已經打開且與 iOS 設備在同一個 Wifi 無線網路下";
 "broadcast_guide_tips_sign_in" = "選擇要直播的電腦進行登入操作";
 
-"explore_search_game" = "搜索 “%@” 遊戲？";
+"explore_search_game" = "搜索 \"%@\" 遊戲？";
+
+"VIDEO_CAMERA_LIVE_TITLE_HINT" = " What are you seeing now?";
+"VIDEO_CAMERA_STREAMING_READY" = "開始直播";
+"VIDEO_CAMERA_STREAMING_STOP" = "停止直播";
+"DIALOG_FAILD_TO_CAMERA_GRANTED" = "獲取攝像頭權限失敗";
+"DIALOG_FAILD_TO_MIC_GRANTED" = "獲取麥克風權限失敗";
 "VIDEO_PLAYBACK_OVER" = "播放結束";
 "msg_popup_moderate" = "管理員";
 "msg_popup_moderate_cancel" = "取消管理員";
