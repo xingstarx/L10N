@@ -250,6 +250,7 @@ CFBundleDisplayName = "Shou.TV";
 "broadcast_guide_airshou_summary" = "Try the first non-jailbroken iOS 9.X (9.0, 9.1, 9.2) screen recorder #AirShou, download: https://shou.tv/airshou";
 "broadcast_guide_jailbroken_title" = "Jailbreak";
 "broadcast_guide_jailbroken_summary" = "Just search Shou in Cydia, with the default BigBoss Repo Source. This is the recommended approach to record or broadcast your iOS screen. With best performance and most features.";
+"broadcast_sign_in_shou_for_mac" = "Log in Shou for Mac?";
 
 "explore_search_game" = "Search \"%@\" game?";
 

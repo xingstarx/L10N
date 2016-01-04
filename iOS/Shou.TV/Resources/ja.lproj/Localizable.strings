@@ -237,6 +237,7 @@ CFBundleDisplayName = "Shou.TV";
 "broadcast_guide_sign_in_success" = "ログイン成功！";
 "broadcast_guide_tips_scanning" = "捜索中, ShouとiOSは同じWifi環境の下で確認してください";
 "broadcast_guide_tips_sign_in" = "放送してほしいパソコンを選択してください";
+"broadcast_sign_in_shou_for_mac" = "Shouへ登録?";
 
 "explore_search_game" = "\"%@\"というゲームを探す？";
 

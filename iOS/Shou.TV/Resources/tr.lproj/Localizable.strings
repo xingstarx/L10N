@@ -244,6 +244,7 @@ CFBundleDisplayName = "Shou.TV";
 "broadcast_guide_sign_in_success" = "Başarıyla giriş yapıldı!";
 "broadcast_guide_tips_scanning" = "Arıyor, lütfen Shou for Mac\'i açtığınızdan emin olun!!";
 "broadcast_guide_tips_sign_in" = "Yayın yapmak için giriş yapmak istediğiniz bilgisayarı seçiniz";
+"broadcast_sign_in_shou_for_mac" = "Shou for Mac\'e Giriş Yapın?";
 
 "explore_search_game" = "\"%@\" oyunu ara?";
 
