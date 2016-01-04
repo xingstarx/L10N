@@ -245,6 +245,10 @@ CFBundleDisplayName = "Shou.TV";
 "broadcast_guide_sign_in_success" = "登录成功！";
 "broadcast_guide_tips_scanning" = "正在搜索, 请确保 Shou 已经打开且与 iOS 设备在同一个 Wifi 无线网络下";
 "broadcast_guide_tips_sign_in" = "选择要直播的电脑进行登录操作";
+"broadcast_guide_airshou_title" = "AirShou";
+"broadcast_guide_airshou_summary" = "体验第一个支持 iOS 9.X (9.0, 9.1, 9.2) 的非越狱录屏/直播应用 AirShou，下载: https://shou.tv/airshou";
+"broadcast_guide_jailbroken_title" = "越狱版";
+"broadcast_guide_jailbroken_summary" = "在 Cydia 中搜索 Shou，默认 BigBoss 源。推荐用越狱版的 Shou 录制或直播你的 iOS 屏幕，它有更好的性能更多特色功能。";
 
 "explore_search_game" = "搜索 \"%@\" 游戏？";
 
