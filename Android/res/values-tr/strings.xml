@@ -375,4 +375,6 @@
     <string name="video_player_living_play_info_end">Yayın Bitti</string>
     <string name="fragment_bottom_un_moderator_info">Moderatörlükten Çıkar</string>
     <string name="fragment_bottom_moderator_info">Moderatör Yap</string>
+    <string name="pref_title_misc_instagram">Instagram</string>
+    <string name="pref_summary_misc_instagram">shou_tv</string>
 </resources>
