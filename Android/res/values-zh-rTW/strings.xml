@@ -356,4 +356,25 @@
     <string name="fragment_bottom_moderator_info">正在授權</string>
     <string name="pref_title_misc_instagram">Instagram</string>
     <string name="pref_summary_misc_instagram">shou_tv</string>
+    <string name="activity_landing_twitter_sign_in_progress">正在用 Twitter 登入</string>
+    <string name="activity_account_toast_failed_to_sign_in_with_twitter">使用 Twitter 登入失敗 :(</string>
+    <string name="activity_account_toast_failed_to_sign_in_account_denied">獲取賬戶權限失敗</string>
+    <string name="activity_find_friends_follow_all">全部關注</string>
+    <string name="activity_find_friends_title">%s 朋友</string>
+    <string name="activity_find_friends_text">你在 Shou.TV 有 %1$s 個 %2$s 朋友</string>
+    <string name="activity_find_friends_no_people">沒有任何朋友</string>
+    <string name="activity_statistics_show_cash">ShouCash</string>
+    <string name="msg_buy_shou_cash">購買</string>
+    <string name="activity_account_text_user_num_cash">%s cash</string>
+    <string name="activity_account_text_user_score">%s 人氣</string>
+    <string name="activity_account_text_user_likes">%s 喜歡</string>
+    <string name="toast_settings_show_touches_unenable">Android 6.0 不支持此功能</string>
+    <string name="toast_need_permission_broadcast">直播功能需要 ROOT 權限</string>
+    <string name="toast_no_broadcast">直播功能不支持 x86 CPU</string>
+    <string name="toast_how_to_broadcast">如何直播</string>
+    <string name="toast_broadcast_dismiss">關閉</string>
+    <string name="toast_video_deleted">視頻已經被刪除</string>
+    <string name="permission_storage_denied">請允許 Shou 訪問 SDCARD 權限</string>
+    <string name="permission_audio_denied">請允許 Shou 獲取錄製麥克風權限</string>
+    <string name="permission_camera">前置攝像頭</string>
 </resources>
