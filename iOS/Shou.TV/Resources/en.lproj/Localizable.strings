@@ -72,6 +72,7 @@ CFBundleDisplayName = "Shou.TV";
 "account_text_user_score" = "%@ score";
 "account_text_game_cast" = "%@ video";
 "account_text_game_players" = "%@ players";
+"account_text_joined" = "Joined on %@";
 "account_title_edit_profile" = "Edit profile";
 "account_title_change_password" = "Change your password";
 "account_label_username" = "Username";

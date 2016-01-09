@@ -72,6 +72,7 @@ CFBundleDisplayName = "Shou.TV";
 "account_text_user_score" = "%@ 人气";
 "account_text_game_cast" = "%@ 视频";
 "account_text_game_player" = "%@ 玩家";
+"account_text_joined" = "%@ 加入";
 "account_title_edit_profile" = "编辑个人资料";
 "account_title_change_password" = "修改密码";
 "account_label_username" = "用户名";
