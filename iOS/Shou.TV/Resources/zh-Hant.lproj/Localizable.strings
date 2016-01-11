@@ -134,7 +134,7 @@ CFBundleDisplayName = "Shou.TV";
 "account_toast_password_not_match" = "密碼不匹配";
 "account_dialog_sign_up_failed" = "註冊失敗";
 "account_invite_friends" = "邀請好友";
-"account_invite" = "我在 Shou.TV 叫 %@ ，請安裝此應用程式并跟隨我直播！";
+"account_invite" = "我在 Shou.TV 叫 %@ ，請安裝此應用程式並跟隨我直播！";
 "account_user_video_delete_info" = "要刪除此影片嗎？";
 
 "video_player_welcome" = "歡迎來到我的聊天室！";
