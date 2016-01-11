@@ -209,7 +209,7 @@ CFBundleDisplayName = "Shou.TV";
 "about_title_feedback" = "意見回饋";
 "about_title_instagram" = "Instagram";
 
-"From Photo Library" = "從 Gallery 取得";
+"From Photo Library" = "從照片圖庫取得";
 "From Camera" = "從相機取得";
 "Choose Source" = "選擇取得方式";
 "imagePicker_failed" = "圖片取得失敗，請嘗試選擇其他圖片";
