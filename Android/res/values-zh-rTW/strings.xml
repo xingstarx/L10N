@@ -80,7 +80,7 @@
     <string name="activity_account_toast_invalid_email">無效的電子信箱</string>
     <string name="activity_account_toast_invalid_password_or_token">無效的密碼與連結</string>
     <string name="activity_account_toast_invalid_identify_or_password">無效的電子信箱或者密碼</string>
-    <string name="activity_account_toast_reset_password_success">我們已經給你寄送了信件，請輕觸中的重設。</string>
+    <string name="activity_account_toast_reset_password_success">我們已經給你寄送了信件，請輕觸信件中的連結重設密碼。</string>
     <string name="activity_account_toast_profile_update_success">成功更新個人資料！</string>
     <string name="activity_account_toast_profile_update_failed">更新個人資料失敗！</string>
     <string name="activity_account_toast_failed_to_sign_in_with_google_plus">使用 Google 登入失敗 :(</string>
