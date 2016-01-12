@@ -32,7 +32,6 @@ CFBundleDisplayName = "Shou.TV";
 "explore_leaderboard" = "ランキング";
 "explore_leaderboard_text_score" = "スコアの %@";
 
-"no_medias" = "録画無し";
 "no_videos" = "ビデオ無し";
 "no_games" = "ゲーム無し";
 "no_following" = "フォロー無し";
@@ -47,6 +46,12 @@ CFBundleDisplayName = "Shou.TV";
 "profile_text_live" = "生放送";
 "profile_edit_profile" = "個人プロフィールをエディタ";
 "profile_archive_broadcasts" = "マイページ放送を自動的に保存";
+"profile_text_times" = "Times";
+"profile_text_views" = "見る";
+"profile_text_likes" = "好き";
+"profile_text_cash" = "ShouCash";
+"profile_text_games" = "ゲーム";
+"profile_text_logout" = "退出";
 
 "landing_btn_twitter" = "Twitterで登録";
 "landing_btn_facebook" = "Facebookで登録";
@@ -74,14 +79,12 @@ CFBundleDisplayName = "Shou.TV";
 "account_text_game_player" = "%@ プレーヤー";
 "account_title_edit_profile" = "個人プロフィールをエディタ";
 "account_title_change_password" = "パスワードの変更";
-"account_label_identify" = "アカウント";
 "account_label_username" = "名前";
 "account_label_password" = "パスワード";
 "account_label_email" = "メールアドレス";
 "account_label_full_name" = "ニックネーム";
 "account_label_biography" = "個人プロフィール";
 "account_label_avatar" = "個人写真";
-"account_label_gender" = "性別";
 "account_label_cover" = "カバー";
 "account_label_upload_avatar" = "個人写真をアプロード";
 "account_hint_identify" = "アカウントまたメールアドレス";
@@ -240,6 +243,7 @@ CFBundleDisplayName = "Shou.TV";
 "broadcast_guide_sign_in_success" = "ログイン成功！";
 "broadcast_guide_tips_scanning" = "捜索中, ShouとiOSは同じWifi環境の下で確認してください";
 "broadcast_guide_tips_sign_in" = "放送してほしいパソコンを選択してください";
+"broadcast_sign_in_shou_for_mac" = "Shouへ登録?";
 
 "explore_search_game" = "\"%@\"というゲームを探す？";
 
