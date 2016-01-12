@@ -46,6 +46,12 @@ CFBundleDisplayName = "Shou.TV";
 "profile_text_live" = "CANLI";
 "profile_edit_profile" = "PROFİLİ DÜZENLE";
 "profile_archive_broadcasts" = "Yayınlarımı arşivle";
+"profile_text_times" = "Times";
+"profile_text_views" = "görüntüleme";
+"profile_text_likes" = "beğeni";
+"profile_text_cash" = "ShouCash";
+"profile_text_games" = "Oyunlar";
+"profile_text_logout" = "Logout";
 
 "landing_btn_twitter" = "Twitter ile giriş yap";
 "landing_btn_facebook" = "Facebook ile giriş yap";

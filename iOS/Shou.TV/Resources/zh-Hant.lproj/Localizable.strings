@@ -46,6 +46,12 @@ CFBundleDisplayName = "Shou.TV";
 "profile_text_live" = "直播";
 "profile_edit_profile" = "編輯個人資料";
 "profile_archive_broadcasts" = "自動存檔我的直播";
+"profile_text_times" = "時長";
+"profile_text_views" = "觀看";
+"profile_text_likes" = "喜歡";
+"profile_text_cash" = "ShouCash";
+"profile_text_games" = "遊戲";
+"profile_text_logout" = "退出";
 
 "landing_btn_twitter" = "透過 Twitter 登入";
 "landing_btn_facebook" = "透過 Facebook 登入";
