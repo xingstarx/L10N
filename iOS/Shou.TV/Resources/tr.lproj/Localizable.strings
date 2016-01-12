@@ -40,18 +40,18 @@ CFBundleDisplayName = "Shou.TV";
 "search_no_games" = "Böyle bir oyun yok";
 "search_no_videos" = "Böyle bir video yok";
 
-"profile_text_videos" = "VİDEOLAR";
-"profile_text_followers" = "TAKİPÇİLER";
-"profile_text_following" = "TAKİP EDİLEN";
+"profile_text_videos" = "Videolar";
+"profile_text_followers" = "Takipçiler";
+"profile_text_following" = "Takip Edilen";
 "profile_text_live" = "CANLI";
 "profile_edit_profile" = "PROFİLİ DÜZENLE";
 "profile_archive_broadcasts" = "Yayınlarımı arşivle";
-"profile_text_times" = "Times";
+"profile_text_times" = "kez";
 "profile_text_views" = "görüntüleme";
 "profile_text_likes" = "beğeni";
 "profile_text_cash" = "ShouCash";
 "profile_text_games" = "Oyunlar";
-"profile_text_logout" = "Logout";
+"profile_text_logout" = "Çıkış Yap";
 
 "landing_btn_twitter" = "Twitter ile giriş yap";
 "landing_btn_facebook" = "Facebook ile giriş yap";
@@ -254,10 +254,10 @@ CFBundleDisplayName = "Shou.TV";
 "broadcast_guide_tips_scanning" = "Arıyor, lütfen Shou for Mac\'i açtığınızdan emin olun!!";
 "broadcast_guide_tips_sign_in" = "Yayın yapmak için giriş yapmak istediğiniz bilgisayarı seçiniz";
 "broadcast_guide_airshou_title" = "AirShou";
-"broadcast_guide_airshou_summary" = "Jailbreak'siz ilk iOS 9.X (9.0, 9.1, 9.2) ekran kaydedicisini deneyin #AirShou, indirmek için: https://shou.tv/airshou";
+"broadcast_guide_airshou_summary" = "Jailbreak\'siz ilk iOS 9.X (9.0, 9.1, 9.2) ekran kaydedicisini deneyin #AirShou, indirmek için: https://shou.tv/airshou";
 "broadcast_guide_jailbroken_title" = "Jailbreak";
-"broadcast_guide_jailbroken_summary" = "Cydia'da Shou'yu varsayılan BigBoss Repo kaynağından arayın. iOS ekranınızı en iyi performans ve bir çok özellikle kaydetmek ve canlı yayın yapmak için önerilir.";
-"broadcast_sign_in_shou_for_mac" = "Shou for Mac'e giriş yapmak istiyor musunuz?";
+"broadcast_guide_jailbroken_summary" = "Cydia\'da Shou\'yu varsayılan BigBoss Repo kaynağından arayın. iOS ekranınızı en iyi performans ve bir çok özellikle kaydetmek ve canlı yayın yapmak için önerilir.";
+"broadcast_sign_in_shou_for_mac" = "Shou for Mac\'e giriş yapmak istiyor musunuz?";
 
 "explore_search_game" = "\"%@\" oyunu ara?";
 
