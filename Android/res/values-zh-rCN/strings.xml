@@ -395,4 +395,5 @@
     <string name="activity_account_text_username">你的用户名 @%s 是唯一的，可随时更改.</string>
     <string name="activity_account_btn_skip">跳过</string>
     <string name="activity_account_title_sign_up_edit_profile">完善个人资料</string>
+    <string name="permission_camera_denied">请允许 Shou 访问 CAMERA 权限</string>
 </resources>
