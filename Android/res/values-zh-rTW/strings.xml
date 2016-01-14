@@ -391,4 +391,8 @@
     <string name="activity_followers_title">粉絲</string>
     <string name="activity_following_title">關注</string>
     <string name="activity_videos_title">視頻</string>
+    <string name="activity_account_upload_avatar">上傳頭像</string>
+    <string name="activity_account_text_username">你的用戶名 @%s 是唯一的，可隨時更改。</string>
+    <string name="activity_account_btn_skip">跳過</string>
+    <string name="activity_account_title_sign_up_edit_profile">完善個人資料</string>
 </resources>

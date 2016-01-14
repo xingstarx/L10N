@@ -391,4 +391,8 @@
     <string name="activity_followers_title">FOLLOWERS</string>
     <string name="activity_following_title">FOLLOWING</string>
     <string name="activity_videos_title">Videos</string>
+    <string name="activity_account_upload_avatar">Upload Avatar</string>
+    <string name="activity_account_text_username">Your @%s is unique. You can always change it later.</string>
+    <string name="activity_account_btn_skip">skip</string>
+    <string name="activity_account_title_sign_up_edit_profile">Edit profile</string>
 </resources>
