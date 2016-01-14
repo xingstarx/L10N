@@ -40,13 +40,13 @@ CFBundleDisplayName = "Shou.TV";
 "search_no_games" = "No game";
 "search_no_videos" = "No videos";
 
-"profile_text_videos" = "Videos";
+"profile_text_videos" = "Broadcasts";
 "profile_text_followers" = "Followers";
 "profile_text_following" = "Following";
 "profile_text_live" = "LIVE";
 "profile_edit_profile" = "EDIT PROFILE";
 "profile_archive_broadcasts" = "Automatically archive my broadcasts";
-"profile_text_times" = "Times";
+"profile_text_times" = "Duration";
 "profile_text_views" = "Views";
 "profile_text_likes" = "Likes";
 "profile_text_cash" = "ShouCash";
@@ -151,10 +151,9 @@ CFBundleDisplayName = "Shou.TV";
 "video_player_low" = "Low";
 "video_player_share" = "Share";
 "video_player_rotation" = "Rotation";
-"video_player_report" = "Report An Issue";
+"video_player_report" = "Report";
 "video_player_send" = "Send";
-"video_player_report_success" = "Report Success";
-"video_player_report_faild" = "Report Faild";
+"video_player_report_faild" = "Report faild";
 "video_player_info" = "Info";
 
 "video_player_report_sexual" = "Sexual content";
@@ -163,6 +162,7 @@ CFBundleDisplayName = "Shou.TV";
 "video_player_report_harmful" = "Harmful or dangerous acts";
 "video_player_report_misleading" = "Spam or misleading";
 "video_player_report_playback" = "Playback issue";
+"video_player_report_success" = "Report successfully!";
 
 "find_friends_follow_all" = "Follow all";
 "find_friends_title" = "%@ Friends";
