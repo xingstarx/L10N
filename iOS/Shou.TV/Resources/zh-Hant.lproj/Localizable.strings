@@ -156,6 +156,8 @@ CFBundleDisplayName = "Shou.TV";
 "video_player_report_faild" = "檢舉失敗";
 "video_player_info" = "資訊";
 
+"chat_room_title" = "聊天室";
+
 "video_player_report_sexual" = "色情內容";
 "video_player_report_violent" = "暴力或令人反感的內容";
 "video_player_report_hateful" = "仇恨或侮辱性的內容";

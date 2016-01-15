@@ -156,6 +156,8 @@ CFBundleDisplayName = "Shou.TV";
 "video_player_report_faild" = "Report faild";
 "video_player_info" = "Info";
 
+"chat_room_title" = "Chat";
+
 "video_player_report_sexual" = "Sexual content";
 "video_player_report_violent" = "Violent or repulsive content";
 "video_player_report_hateful" = "Hateful or abusive content";
