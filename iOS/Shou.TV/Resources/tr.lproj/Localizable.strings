@@ -165,7 +165,7 @@ CFBundleDisplayName = "Shou.TV";
 "video_player_report_harmful" = "Zarar verici ya da tehlikeli hareketler";
 "video_player_report_misleading" = "Spam ya da yanıltıcı";
 "video_player_report_playback" = "Oynatma sorunu";
-"video_player_report_playback" = "Başarıyla bildirildi!"
+"video_player_report_playback" = "Başarıyla bildirildi!";
 
 "find_friends_follow_all" = "Hepsini takip et";
 "find_friends_title" = "%@ Arkadaş";
