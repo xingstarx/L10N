@@ -153,8 +153,8 @@
     <string name="activity_statistics_likes">Likes</string>
     <string name="activity_statistics_income">Income</string>
     <string name="activity_statistics_time">Time</string>
-    <string name="activity_statistics_views_unit">Views</string>
-    <string name="activity_statistics_likes_unit">Likes</string>
+    <string name="activity_statistics_views_unit">views</string>
+    <string name="activity_statistics_likes_unit">likes</string>
     <string name="activity_statistics_show_cash">ShouCash</string>
     <string name="action_delete">Delete</string>
     <string name="action_share">Share</string>
