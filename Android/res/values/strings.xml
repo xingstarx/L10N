@@ -40,6 +40,15 @@
     <string name="profile_text_live">Live</string>
     <string name="profile_edit_profile">Edit profile</string>
     <string name="profile_archive_broadcasts">Automatically archive my broadcasts</string>
+    <string name="profile_title_time">Duration</string>
+    <string name="profile_title_view">Views</string>
+    <string name="profile_title_like">Likes</string>
+    <string name="profile_title_money">ShouCash</string>
+    <string name="profile_title_broadcast">Broadcasts</string>
+    <string name="profile_title_game">Games</string>
+    <string name="profile_title_profile">Edit profile/Block</string>
+    <string name="profile_title_black">Block</string>
+    <string name="profile_title_logout">Logout</string>
     <string name="activity_landing_btn_sign_up">Sign Up</string>
     <string name="activity_landing_btn_sign_in">Sign In</string>
     <string name="activity_landing_google_plus_sign_in_progress">Sign in with Google Plus</string>
@@ -139,11 +148,13 @@
     <string name="activity_statistics_title_views">Watch statistics</string>
     <string name="activity_statistics_title_like">Like statistics</string>
     <string name="activity_statistics_title_income">Income statistics</string>
+    <string name="activity_statistics_title_time">Time statistics</string>
     <string name="activity_statistics_views">Watch</string>
     <string name="activity_statistics_likes">Likes</string>
     <string name="activity_statistics_income">Income</string>
-    <string name="activity_statistics_views_unit">Views</string>
-    <string name="activity_statistics_likes_unit">Likes</string>
+    <string name="activity_statistics_time">Time</string>
+    <string name="activity_statistics_views_unit">views</string>
+    <string name="activity_statistics_likes_unit">likes</string>
     <string name="activity_statistics_show_cash">ShouCash</string>
     <string name="action_delete">Delete</string>
     <string name="action_share">Share</string>
@@ -377,4 +388,12 @@
     <string name="fragment_bottom_moderator_info">Moderate</string>
     <string name="pref_title_misc_instagram">Instagram</string>
     <string name="pref_summary_misc_instagram">shou_tv</string>
+    <string name="activity_followers_title">FOLLOWERS</string>
+    <string name="activity_following_title">FOLLOWING</string>
+    <string name="activity_videos_title">Videos</string>
+    <string name="activity_account_upload_avatar">Upload Avatar</string>
+    <string name="activity_account_text_username">Your @%s is unique. You can always change it later.</string>
+    <string name="activity_account_btn_skip">skip</string>
+    <string name="activity_account_title_sign_up_edit_profile">Edit profile</string>
+    <string name="permission_camera_denied">Camera permission denied, please allow</string>
 </resources>
