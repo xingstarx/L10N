@@ -323,6 +323,9 @@
     <string name="toast_shou_cash_google_play_service_not_found">Google Play 服务找不到</string>
     <string name="toast_chat_textview_load_url_failure">无法加载链接</string>
     <string name="toast_msg_buy_shou_cash_status">购买 %s</string>
+    <string name="toast_msg_buy_shou_cash_status_google_play_error">从 Google Play 购买失败</string>
+    <string name="toast_msg_buy_shou_cash_status_consumed_error">ShouCash 消费失败，请反馈到 hello@shou.tv</string>
+    <string name="toast_msg_buy_shou_cash_status_server_error">ShouCash 购买失败，请重启应用</string>
     <string name="toast_msg_buy_shou_cash_status_value_error">失败</string>
     <string name="fragment_shou_cash_success_msg">购买成功！新获得 %1$d ShouCash，总计 %2$d ShouCash</string>
     <string name="fragment_shoucash_msg_count">%s个</string>

@@ -325,6 +325,9 @@
     <string name="toast_shou_cash_google_play_service_not_found">Google Play services resources were not found</string>
     <string name="toast_chat_textview_load_url_failure">Could not load link</string>
     <string name="toast_msg_buy_shou_cash_status">Purchase %s</string>
+    <string name="toast_msg_buy_shou_cash_status_google_play_error">Purchase failed, Google play error</string>
+    <string name="toast_msg_buy_shou_cash_status_consumed_error">Purchase consumed failed, please feedback to hello@shou.tv</string>
+    <string name="toast_msg_buy_shou_cash_status_server_error">Purchase server error, please restart Shou</string>
     <string name="toast_msg_buy_shou_cash_status_value_error">error</string>
     <string name="activity_account_text_user_num_cash">%s cash</string>
     <string name="activity_account_text_user_score">%s score</string>
