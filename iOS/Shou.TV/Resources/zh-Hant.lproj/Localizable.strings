@@ -51,7 +51,7 @@ CFBundleDisplayName = "Shou.TV";
 "profile_text_likes" = "喜歡";
 "profile_text_cash" = "ShouCash";
 "profile_text_games" = "遊戲";
-"profile_text_logout" = "退出";
+"profile_text_logout" = "登出";
 
 "landing_btn_twitter" = "透過 Twitter 登入";
 "landing_btn_facebook" = "透過 Facebook 登入";
