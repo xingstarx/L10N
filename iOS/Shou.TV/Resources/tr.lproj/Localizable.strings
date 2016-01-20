@@ -156,16 +156,16 @@ CFBundleDisplayName = "Shou.TV";
 "video_player_report_success" = "Bildiri Başarılı";
 "video_player_report_faild" = "Bildiri Gönderilemedi";
 "video_player_info" = "Bilgi";
-
-"chat_room_title" = "Sohbet";
-
+"video_player_over" = "Yayın Bitti";
 "video_player_report_sexual" = "Cinsel içerik";
 "video_player_report_violent" = "Şiddet ya da itici/antipatik";
 "video_player_report_hateful" = "Nefret dolu ya da küfürlü";
 "video_player_report_harmful" = "Zarar verici ya da tehlikeli hareketler";
 "video_player_report_misleading" = "Spam ya da yanıltıcı";
 "video_player_report_playback" = "Oynatma sorunu";
-"video_player_report_playback" = "Başarıyla bildirildi!"
+"video_player_report_playback" = "Başarıyla bildirildi!";
+
+"chat_room_title" = "Sohbet";
 
 "find_friends_follow_all" = "Hepsini takip et";
 "find_friends_title" = "%@ Arkadaş";
@@ -269,7 +269,6 @@ CFBundleDisplayName = "Shou.TV";
 "VIDEO_CAMERA_STREAMING_STOP" = "Durdur";
 "DIALOG_FAILD_TO_CAMERA_GRANTED" = "Kamera izni alınamadı";
 "DIALOG_FAILD_TO_MIC_GRANTED" = "Mikrofon izni alınamadı";
-"VIDEO_PLAYBACK_OVER" = "Yayın Bitti";
 "msg_popup_moderate" = "Moderatör yap";
 "msg_popup_moderate_cancel" = "Moderatör yetkisini kaldır";
 "msg_popup_moderate_description" = "%@ artık bir moderatör.";

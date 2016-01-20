@@ -39,6 +39,15 @@
     <string name="search_hint">搜索主播或游戏</string>
     <string name="profile_text_live">直播</string>
     <string name="profile_edit_profile">编辑个人资料</string>
+    <string name="profile_title_time">直播总时长</string>
+    <string name="profile_title_view">观看数</string>
+    <string name="profile_title_like">喜欢数</string>
+    <string name="profile_title_money">ShouCash</string>
+    <string name="profile_title_broadcast">视频</string>
+    <string name="profile_title_game">游戏</string>
+    <string name="profile_title_profile">编辑资料</string>
+    <string name="profile_title_black">拉黑</string>
+    <string name="profile_title_logout">退出</string>
     <string name="activity_landing_btn_sign_up">注册</string>
     <string name="activity_landing_btn_sign_in">登录</string>
     <string name="activity_landing_google_plus_sign_in_progress">正在用 Google 登录</string>
@@ -138,9 +147,11 @@
     <string name="activity_statistics_title_views">观看统计</string>
     <string name="activity_statistics_title_like">喜欢统计</string>
     <string name="activity_statistics_title_income">收入统计</string>
+    <string name="activity_statistics_title_time">播放时长统计</string>
     <string name="activity_statistics_views">总观看</string>
     <string name="activity_statistics_likes">总喜欢</string>
     <string name="activity_statistics_income">总收入</string>
+    <string name="activity_statistics_time">总时长</string>
     <string name="activity_statistics_views_unit">观看</string>
     <string name="activity_statistics_likes_unit">喜欢</string>
     <string name="action_delete">删除</string>
@@ -312,6 +323,9 @@
     <string name="toast_shou_cash_google_play_service_not_found">Google Play 服务找不到</string>
     <string name="toast_chat_textview_load_url_failure">无法加载链接</string>
     <string name="toast_msg_buy_shou_cash_status">购买 %s</string>
+    <string name="toast_msg_buy_shou_cash_status_google_play_error">从 Google Play 购买失败</string>
+    <string name="toast_msg_buy_shou_cash_status_consumed_error">ShouCash 消费失败，请反馈到 hello@shou.tv</string>
+    <string name="toast_msg_buy_shou_cash_status_server_error">ShouCash 购买失败，请重启应用</string>
     <string name="toast_msg_buy_shou_cash_status_value_error">失败</string>
     <string name="fragment_shou_cash_success_msg">购买成功！新获得 %1$d ShouCash，总计 %2$d ShouCash</string>
     <string name="fragment_shoucash_msg_count">%s个</string>
@@ -351,7 +365,7 @@
     <string name="permission_content">需要授权</string>
     <string name="permission_storage">储存空间</string>
     <string name="permission_audio">麦克风</string>
-    <string name="permission_camera">前置摄像头</string>
+    <string name="permission_camera">摄像头</string>
     <string name="permission_alet_window">悬浮窗口</string>
     <string name="action_open">打开</string>
     <string name="streaming_front_carema">摄像头</string>
@@ -377,4 +391,12 @@
     <string name="activity_statistics_show_cash">ShouCash</string>
     <string name="video_report_suceess">举报成功</string>
     <string name="activity_account_text_user_num_cash">%s cash</string>
+    <string name="activity_followers_title">粉丝</string>
+    <string name="activity_following_title">关注</string>
+    <string name="activity_videos_title">视频</string>
+    <string name="activity_account_upload_avatar">上传头像</string>
+    <string name="activity_account_text_username">你的用户名 @%s 是唯一的，可随时更改.</string>
+    <string name="activity_account_btn_skip">跳过</string>
+    <string name="activity_account_title_sign_up_edit_profile">完善个人资料</string>
+    <string name="permission_camera_denied">请允许 Shou 访问 CAMERA 权限</string>
 </resources>

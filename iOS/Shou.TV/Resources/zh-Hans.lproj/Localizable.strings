@@ -156,13 +156,15 @@ CFBundleDisplayName = "Shou.TV";
 "video_player_report_success" = "举报成功";
 "video_player_report_faild" = "举报失败";
 "video_player_info" = "信息";
-
+"video_player_over" = "播放结束";
 "video_player_report_sexual" = "色情内容";
 "video_player_report_violent" = "暴力或令人反感的内容";
 "video_player_report_hateful" = "仇恨或侮辱性的内容";
 "video_player_report_harmful" = "有害或危险行为";
 "video_player_report_misleading" = "垃圾内容或误导性内容";
 "video_player_report_playback" = "播放问题";
+
+"chat_room_title" = "聊天室";
 
 "find_friends_follow_all" = "全部关注";
 "find_friends_title" = "%@ 朋友";
@@ -265,7 +267,6 @@ CFBundleDisplayName = "Shou.TV";
 "VIDEO_CAMERA_STREAMING_STOP" = "停止直播";
 "DIALOG_FAILD_TO_CAMERA_GRANTED" = "获取摄像头权限失败";
 "DIALOG_FAILD_TO_MIC_GRANTED" = "获取麦克风权限失败";
-"VIDEO_PLAYBACK_OVER" = "播放结束";
 "msg_popup_moderate" = "管理员";
 "msg_popup_moderate_cancel" = "取消管理员";
 "msg_popup_moderate_description" = "%@ 已经设置为管理员";

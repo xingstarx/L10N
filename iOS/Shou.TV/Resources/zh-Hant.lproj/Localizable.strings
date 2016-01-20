@@ -51,7 +51,7 @@ CFBundleDisplayName = "Shou.TV";
 "profile_text_likes" = "喜歡";
 "profile_text_cash" = "ShouCash";
 "profile_text_games" = "遊戲";
-"profile_text_logout" = "退出";
+"profile_text_logout" = "登出";
 
 "landing_btn_twitter" = "透過 Twitter 登入";
 "landing_btn_facebook" = "透過 Facebook 登入";
@@ -155,13 +155,15 @@ CFBundleDisplayName = "Shou.TV";
 "video_player_report_success" = "檢舉成功";
 "video_player_report_faild" = "檢舉失敗";
 "video_player_info" = "資訊";
-
+"video_player_over" = "播放結束";
 "video_player_report_sexual" = "色情內容";
 "video_player_report_violent" = "暴力或令人反感的內容";
 "video_player_report_hateful" = "仇恨或侮辱性的內容";
 "video_player_report_harmful" = "有害或危險行為";
 "video_player_report_misleading" = "垃圾內容或誤導性內容";
 "video_player_report_playback" = "播放問題";
+
+"chat_room_title" = "聊天室";
 
 "find_friends_follow_all" = "全部跟隨";
 "find_friends_title" = "%@ 朋友";
@@ -264,7 +266,6 @@ CFBundleDisplayName = "Shou.TV";
 "VIDEO_CAMERA_STREAMING_STOP" = "停止直播";
 "DIALOG_FAILD_TO_CAMERA_GRANTED" = "取得攝像頭權限失敗";
 "DIALOG_FAILD_TO_MIC_GRANTED" = "取得麥克風權限失敗";
-"VIDEO_PLAYBACK_OVER" = "播放結束";
 "msg_popup_moderate" = "管理員";
 "msg_popup_moderate_cancel" = "取消管理員";
 "msg_popup_moderate_description" = "%@ 已經設定為管理員";
