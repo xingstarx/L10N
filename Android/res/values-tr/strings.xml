@@ -40,6 +40,15 @@
     <string name="profile_text_live">Canlı</string>
     <string name="profile_edit_profile">Profili düzenle</string>
     <string name="profile_archive_broadcasts">Canlı yayınları sunucuya kaydet</string>
+    <string name="profile_title_time">Yayın Süresi</string>
+    <string name="profile_title_view">Görüntüleme</string>
+    <string name="profile_title_like">Beğeni</string>
+    <string name="profile_title_money">ShouCash</string>
+    <string name="profile_title_broadcast">Canlı Yayın</string>
+    <string name="profile_title_game">Oyunlar</string>
+    <string name="profile_title_profile">Profili düzenle/Engelle</string>
+    <string name="profile_title_black">Engelle</string>
+    <string name="profile_title_logout">Çıkış Yap</string>
     <string name="activity_landing_btn_sign_up">Üye Ol</string>
     <string name="activity_landing_btn_sign_in">Giriş Yap</string>
     <string name="activity_landing_google_plus_sign_in_progress">Google Plus ile giriş yap</string>
@@ -139,11 +148,13 @@
     <string name="activity_statistics_title_views">İzlenme istatistikleri</string>
     <string name="activity_statistics_title_like">Beğeni istatistikleri</string>
     <string name="activity_statistics_title_income">Gelir istatistikleri</string>
+    <string name="activity_statistics_title_time">Süre istatistikleri</string>
     <string name="activity_statistics_views">İzlenme</string>
     <string name="activity_statistics_likes">Beğeni</string>
     <string name="activity_statistics_income">Gelir</string>
-    <string name="activity_statistics_views_unit">Görüntülenme</string>
-    <string name="activity_statistics_likes_unit">Beğeni</string>
+    <string name="activity_statistics_time">Süre</string>
+    <string name="activity_statistics_views_unit">görüntüleme</string>
+    <string name="activity_statistics_likes_unit">beğeni</string>
     <string name="activity_statistics_show_cash">ShouCash</string>
     <string name="action_delete">Sil</string>
     <string name="action_share">Paylaş</string>
@@ -314,6 +325,9 @@
     <string name="toast_shou_cash_google_play_service_not_found">Google Play servis kaynakları bulunamadı</string>
     <string name="toast_chat_textview_load_url_failure">Bağlantı yüklenemedi</string>
     <string name="toast_msg_buy_shou_cash_status">%s satın al</string>
+     <string name="toast_msg_buy_shou_cash_status_google_play_error">Satın alma başarısız, Google Play hatası</string>
+     <string name="toast_msg_buy_shou_cash_status_consumed_error">Satın alma başarısız, lütfen hello@shou.tv adresine geribildirimde bulunun</string>
+     <string name="toast_msg_buy_shou_cash_status_server_error">Satın alma sunucusu hatası, lütfen Shou\'yu yeniden başlatın</string>
     <string name="toast_msg_buy_shou_cash_status_value_error">Hata:</string>
     <string name="activity_account_text_user_num_cash">%s nakit</string>
     <string name="activity_account_text_user_score">%s skor</string>
@@ -377,4 +391,12 @@
     <string name="fragment_bottom_moderator_info">Moderatör Yap</string>
     <string name="pref_title_misc_instagram">Instagram</string>
     <string name="pref_summary_misc_instagram">shou_tv</string>
+    <string name="activity_followers_title">TAKİPÇİ</string>
+ +    <string name="activity_following_title">TAKİP EDİLEN</string>
+ +    <string name="activity_videos_title">Videolar</string>
+ +    <string name="activity_account_upload_avatar">Resim Yükle</string>
+ +    <string name="activity_account_text_username">@%s benzersizdir. Daha sonra tekrar değiştirebilirsiniz.</string>
+ +    <string name="activity_account_btn_skip">geç</string>
+ +    <string name="activity_account_title_sign_up_edit_profile">Profili düzenle</string>
+ +    <string name="permission_camera_denied">Kamera kullanma izni reddedildi, lütfen izin verin</string>
 </resources>
