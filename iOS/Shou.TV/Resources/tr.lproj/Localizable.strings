@@ -153,7 +153,6 @@ CFBundleDisplayName = "Shou.TV";
 "video_player_rotation" = "Döndür";
 "video_player_report" = "Bildir";
 "video_player_send" = "Gönder";
-"video_player_report_success" = "Bildiri Başarılı";
 "video_player_report_faild" = "Bildiri Gönderilemedi";
 "video_player_info" = "Bilgi";
 "video_player_over" = "Yayın Bitti";
