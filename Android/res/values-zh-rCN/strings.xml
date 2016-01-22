@@ -300,6 +300,8 @@
     <string name="root_access_link">什么是 Root 权限?</string>
     <string name="no_capture_screen_permission">需要截取屏幕的权限</string>
     <string name="get_capture_screen_permission">获取权限</string>
+    <string name="notification_push_text_multi_title">%1$s : %2$s</string>
+    <string name="notification_push_text_big_title">%s 条新消息</string>
     <string name="notification_push_live_multi_title">%1$s 正在直播 %2$s</string>
     <string name="notification_push_live_big_title">您关注的 %s 位主播正在直播</string>
     <string name="notification_push_follow_multi_title">%s 现在是您的新粉丝</string>

@@ -303,6 +303,8 @@
     <string name="root_access_link">What\'s rooting?</string>
     <string name="no_capture_screen_permission">Capture screen permission is required</string>
     <string name="get_capture_screen_permission">Get permission</string>
+    <string name="notification_push_text_multi_title">%1$s : %2$s</string>
+    <string name="notification_push_text_big_title">%s new messages</string>
     <string name="notification_push_live_multi_title">%1$s is broadcasting %2$s</string>
     <string name="notification_push_live_big_title">%s players are broadcasting</string>
     <string name="notification_push_follow_multi_title">%s followed you</string>
