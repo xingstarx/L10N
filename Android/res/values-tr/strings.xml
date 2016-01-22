@@ -395,7 +395,7 @@
  +    <string name="activity_following_title">TAKİP EDİLEN</string>
  +    <string name="activity_videos_title">Videolar</string>
  +    <string name="activity_account_upload_avatar">Resim Yükle</string>
- +    <string name="activity_account_text_username">@%s benzersizdir. Daha sonra tekrar değiştirebilirsiniz.</string>
+ +    <string name="activity_account_text_username">%s benzersizdir. Daha sonra tekrar değiştirebilirsiniz.</string>
  +    <string name="activity_account_btn_skip">geç</string>
  +    <string name="activity_account_title_sign_up_edit_profile">Profili düzenle</string>
  +    <string name="permission_camera_denied">Kamera kullanma izni reddedildi, lütfen izin verin</string>
