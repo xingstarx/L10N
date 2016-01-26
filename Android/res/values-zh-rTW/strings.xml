@@ -35,7 +35,7 @@
     <string name="menu_share">分享</string>
     <string name="menu_report">檢舉</string>
     <string name="menu_quality">清晰度</string>
-    <string name="menu_notifications">通知</string>
+    <string name="menu_notifications">私信</string>
     <string name="search_hint">搜尋主播/遊戲</string>
     <string name="profile_text_live">直播</string>
     <string name="profile_edit_profile">編輯個資</string>
@@ -133,8 +133,8 @@
     <string name="activity_accessibility_title">隱私保護功能</string>
     <string name="activity_accessibility_disable_label">到設定裡找到 Shou ，點它，並啟用它。您的密碼與隱私資訊就不會被錄影或直播了。</string>
     <string name="activity_accessibility_disable_setting">前往設定</string>
-    <string name="activity_notification_title">通知</string>
-    <string name="activity_no_notifications">無通知</string>
+    <string name="activity_notification_title">私信</string>
+    <string name="activity_no_notifications">無私信</string>
     <string name="activity_game_group_favorite">我跟隨的遊戲</string>
     <string name="activity_game_group_played">我直播過的遊戲</string>
     <string name="activity_statistics_title">統計</string>
