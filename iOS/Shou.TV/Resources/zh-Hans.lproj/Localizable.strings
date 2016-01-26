@@ -27,6 +27,7 @@ CFBundleDisplayName = "Shou.TV";
 "tab_videos" = "视频";
 "tab_explore" = "探索";
 "tab_me" = "我的";
+"tab_messages" = "消息";
 
 "explore_recommended" = "推荐";
 "explore_leaderboard" = "排行";
@@ -271,3 +272,9 @@ CFBundleDisplayName = "Shou.TV";
 "msg_popup_moderate_cancel" = "取消管理员";
 "msg_popup_moderate_description" = "%@ 已经设置为管理员";
 "msg_popup_moderate_cancel_description" = "%@ 已经被取消管理员";
+
+"message_like_me" = "你为 %@ 的直播点了一个赞";
+"message_like" = "%@ 为你的直播点了一个赞";
+"message_follow_me" = "你现在成为 %@ 的粉丝";
+"message_follow" = "%@ 是您的新粉丝";
+"message_new_placeholder" = "发消息...";

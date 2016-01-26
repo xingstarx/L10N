@@ -27,6 +27,7 @@ CFBundleDisplayName = "Shou.TV";
 "tab_videos" = "Videos";
 "tab_explore" = "Explore";
 "tab_me" = "Me";
+"tab_messages" = "Messages";
 
 "explore_recommended" = "Recommended";
 "explore_leaderboard" = "Leaderboard";
@@ -272,3 +273,10 @@ CFBundleDisplayName = "Shou.TV";
 "msg_popup_moderate_cancel" = "Cancel Moderate";
 "msg_popup_moderate_description" = "%@ is moderate in this room.";
 "msg_popup_moderate_cancel_description" = "%@ is cancel moderate in this room.";
+
+"message_like_me" = "You liked %@'s broadcast";
+"message_like" = "%@ liked your broadcast";
+"message_follow_me" = "You followed %@";
+"message_follow" = "%@ followed you";
+"message_new_placeholder" = "Write a message...";
+

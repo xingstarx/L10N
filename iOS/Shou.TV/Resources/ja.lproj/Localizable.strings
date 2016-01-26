@@ -252,3 +252,6 @@ CFBundleDisplayName = "Shou.TV";
 "VIDEO_CAMERA_LIVE_TITLE_HINT" = "What are you seeing now?";
 "VIDEO_CAMERA_STREAMING_READY" = "放送スタート";
 "VIDEO_CAMERA_STREAMING_STOP" = "放送中止";
+
+"message_like" = "%@ 人が、あなたのブロードキャストを、好きと評価しています";
+"message_follow" = "%@ があなたをフォローしました";
