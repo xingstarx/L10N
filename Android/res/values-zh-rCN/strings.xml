@@ -225,6 +225,8 @@
     <string name="pref_title_video_quality">播送质量</string>
     <string name="pref_title_video_show_touches">显示小白点</string>
     <string name="pref_summary_video_show_touches">打开选项在手指触摸屏幕时显示小白点</string>
+    <string name="pref_title_video_fullscreen">全屏画面</string>
+    <string name="pref_summary_video_fullscreen">视频全屏画面</string>
     <string name="pref_title_video_swap_uv">修复颜色不正</string>
     <string name="pref_summary_video_swap_uv">有些设备（如三星）硬编码的视频颜色不对</string>
     <string name="pref_title_audio_source">音频源</string>
