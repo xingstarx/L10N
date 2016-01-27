@@ -64,6 +64,7 @@
     <string name="activity_account_text_optional">optional</string>
     <string name="activity_account_choose_avatar">Choose avatar</string>
     <string name="activity_account_choose_avatar_failed">Failed to choose avatar</string>
+    <string name="activity_account_choose_cover_failed">Failed to choose cover</string>
     <string name="activity_account_btn_signing_up">Signing Up</string>
     <string name="activity_account_btn_signed_up">Signed Up</string>
     <string name="activity_account_btn_signing_in">Signing In</string>

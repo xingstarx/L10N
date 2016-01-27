@@ -62,6 +62,7 @@
     <string name="activity_account_text_optional">可以不填</string>
     <string name="activity_account_choose_avatar">选择头像</string>
     <string name="activity_account_choose_avatar_failed">头像选择失败了</string>
+    <string name="activity_account_choose_cover_failed">背景照选择失败了</string>
     <string name="activity_account_btn_signing_up">注册中</string>
     <string name="activity_account_btn_signed_up">注册成功</string>
     <string name="activity_account_btn_signing_in">登录中</string>
