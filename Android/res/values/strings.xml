@@ -409,4 +409,8 @@
     <string name="activity_account_btn_skip">skip</string>
     <string name="activity_account_title_sign_up_edit_profile">Edit profile</string>
     <string name="permission_camera_denied">Camera permission denied, please allow</string>
+    <string name="activity_moderatorlist_title">Moderators</string>
+    <string name="activity_no_moderatorlist">No moderated user</string>
+    <string name="activity_moderator_msg_moderator">Mod</string>
+    <string name="activity_moderator_msg_unmoderator">Unmod</string>
 </resources>
