@@ -137,8 +137,8 @@
     <string name="activity_accessibility_title">Privacy protection</string>
     <string name="activity_accessibility_disable_label">You need to find Shou from the settings, and tap it, then enable it. This will blur your password and privacy information when recording or broadcasting.</string>
     <string name="activity_accessibility_disable_setting">Go to settings</string>
-    <string name="activity_notification_title">Direct Messages</string>
-    <string name="activity_no_notifications">No Direct Message</string>
+    <string name="activity_notification_title">Messages</string>
+    <string name="activity_no_notifications">No messages</string>
     <string name="activity_game_group_favorite">Followed Games</string>
     <string name="activity_game_group_played">Broadcast Games</string>
     <string name="activity_find_friends_follow_all">Follow all</string>
