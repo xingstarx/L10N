@@ -269,6 +269,7 @@ CFBundleDisplayName = "Shou.TV";
 "VIDEO_CAMERA_STREAMING_STOP" = "Stop Broadcast";
 "DIALOG_FAILD_TO_CAMERA_GRANTED" = "Grant camera failed";
 "DIALOG_FAILD_TO_MIC_GRANTED" = "Grant mic failed";
+"msg_popup_mention" = "Mention";
 "msg_popup_moderate" = "Moderate";
 "msg_popup_moderate_cancel" = "Cancel Moderate";
 "msg_popup_moderate_description" = "%@ is moderate in this room.";

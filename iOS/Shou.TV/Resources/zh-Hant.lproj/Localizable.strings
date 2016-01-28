@@ -267,6 +267,7 @@ CFBundleDisplayName = "Shou.TV";
 "VIDEO_CAMERA_STREAMING_STOP" = "停止直播";
 "DIALOG_FAILD_TO_CAMERA_GRANTED" = "取得攝像頭權限失敗";
 "DIALOG_FAILD_TO_MIC_GRANTED" = "取得麥克風權限失敗";
+"msg_popup_mention" = "提及";
 "msg_popup_moderate" = "管理員";
 "msg_popup_moderate_cancel" = "取消管理員";
 "msg_popup_moderate_description" = "%@ 已經設定為管理員";
