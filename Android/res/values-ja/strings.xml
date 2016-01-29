@@ -32,7 +32,6 @@
     <string name="menu_share">共有</string>
     <string name="menu_notifications">通知</string>
     <string name="search_hint">プレイヤー/ゲームを検索</string>
-    <string name="profile_text_live">@string/description_live</string>
     <string name="profile_edit_profile">プロフィールを編集</string>
     <string name="profile_archive_broadcasts">自分のブロードキャストを自動的に保存</string>
     <string name="activity_landing_btn_sign_up">登録</string>

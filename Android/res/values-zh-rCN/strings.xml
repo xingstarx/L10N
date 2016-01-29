@@ -37,7 +37,6 @@
     <string name="menu_quality">清晰度</string>
     <string name="menu_notifications">通知</string>
     <string name="search_hint">搜索主播或游戏</string>
-    <string name="profile_text_live">直播</string>
     <string name="profile_edit_profile">编辑个人资料</string>
     <string name="profile_title_time">直播总时长</string>
     <string name="profile_title_view">观看数</string>
