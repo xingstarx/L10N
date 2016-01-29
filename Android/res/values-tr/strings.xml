@@ -321,10 +321,10 @@
     <string name="notification_push_cash_big_content">%1$s %2$s sana %3$s ShouCash verdi!</string>
     <string name="notification_push_recommended_description">Videonuz önerildi!</string>
     <string name="notification_push_follow_multi_title_me">%1$s, %2$s oyuncusunu takip etti</string>
-    <string name="notification_push_follow_description_me">%s oyuncusunu takip et</string>
+    <string name="notification_push_follow_description_me">%s oyuncusunu takip ettin</string>
     <string name="notification_push_like_multi_title_me">%1$s, %2$s oyuncusunun yayınını beğendi</string>
-    <string name="notification_push_like_description_me">%s oyuncusunun yayınını beğendi</string>
-    <string name="pref_title_notifications_text>Direk mesaj</string>
+    <string name="notification_push_like_description_me">%s oyuncusunun yayınını beğendin</string>
+    <string name="pref_title_notifications_text">Direk mesaj</string>
     <string name="shou_cash_info">ShouCash açığı!</string>
     <string name="send_cash_info">Yayıncıyı desteklemek için daha fazla ShouCash satın alın!</string>
     <string name="menu_statistic">İstatistikler</string>
