@@ -262,3 +262,6 @@ CFBundleDisplayName = "Shou.TV";
 "msg_popup_moderate_cancel" = "Cancel Moderate";
 "msg_popup_moderate_description" = "%@ is moderate in this room.";
 "msg_popup_moderate_cancel_description" = "%@ is cancel moderate in this room.";
+
+"message_like" = "%@ нравится ваша трансляция";
+"message_follow" = "%@ подписан(-а) на вас";

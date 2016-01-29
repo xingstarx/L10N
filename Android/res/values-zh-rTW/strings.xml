@@ -37,7 +37,6 @@
     <string name="menu_quality">清晰度</string>
     <string name="menu_notifications">通知</string>
     <string name="search_hint">搜尋主播/遊戲</string>
-    <string name="profile_text_live">直播</string>
     <string name="profile_edit_profile">編輯個資</string>
     <string name="profile_title_time">直播總時長</string>
     <string name="profile_title_view">觀看數</string>
@@ -62,6 +61,7 @@
     <string name="activity_account_text_optional">可以不填</string>
     <string name="activity_account_choose_avatar">選擇大頭貼照</string>
     <string name="activity_account_choose_avatar_failed">大頭貼照選擇失敗</string>
+    <string name="activity_account_choose_cover_failed">背景照選擇失敗</string>
     <string name="activity_account_btn_signing_up">註冊中</string>
     <string name="activity_account_btn_signed_up">註冊成功</string>
     <string name="activity_account_btn_signing_in">登入中</string>
@@ -396,4 +396,8 @@
     <string name="activity_account_btn_skip">略過</string>
     <string name="activity_account_title_sign_up_edit_profile">完善個資</string>
     <string name="permission_camera_denied">請允許 Shou 存取 CAMERA 權限</string>
+    <string name="activity_moderatorlist_title">管理員</string>
+    <string name="activity_no_moderatorlist">没有管理員</string>
+    <string name="activity_moderator_msg_moderator">授權</string>
+    <string name="activity_moderator_msg_unmoderator">取消授權</string>
 </resources>

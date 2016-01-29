@@ -37,7 +37,6 @@
     <string name="menu_quality">Качество</string>
     <string name="menu_notifications">Уведомления</string>
     <string name="search_hint">Поиск по игрокам или играм</string>
-    <string name="profile_text_live">В прямом эфире</string>
     <string name="profile_edit_profile">Изменить профиль</string>
     <string name="profile_archive_broadcasts">Автоматически сохранять мои трансляции</string>
     <string name="activity_landing_btn_sign_up">Зарегистрироваться</string>

@@ -37,7 +37,6 @@
     <string name="menu_quality">清晰度</string>
     <string name="menu_notifications">通知</string>
     <string name="search_hint">搜索主播或游戏</string>
-    <string name="profile_text_live">直播</string>
     <string name="profile_edit_profile">编辑个人资料</string>
     <string name="profile_title_time">直播总时长</string>
     <string name="profile_title_view">观看数</string>
@@ -62,6 +61,7 @@
     <string name="activity_account_text_optional">可以不填</string>
     <string name="activity_account_choose_avatar">选择头像</string>
     <string name="activity_account_choose_avatar_failed">头像选择失败了</string>
+    <string name="activity_account_choose_cover_failed">背景照选择失败了</string>
     <string name="activity_account_btn_signing_up">注册中</string>
     <string name="activity_account_btn_signed_up">注册成功</string>
     <string name="activity_account_btn_signing_in">登录中</string>
@@ -225,6 +225,8 @@
     <string name="pref_title_video_quality">播送质量</string>
     <string name="pref_title_video_show_touches">显示小白点</string>
     <string name="pref_summary_video_show_touches">打开选项在手指触摸屏幕时显示小白点</string>
+    <string name="pref_title_video_fullscreen">全屏画面</string>
+    <string name="pref_summary_video_fullscreen">视频全屏画面</string>
     <string name="pref_title_video_swap_uv">修复颜色不正</string>
     <string name="pref_summary_video_swap_uv">有些设备（如三星）硬编码的视频颜色不对</string>
     <string name="pref_title_audio_source">音频源</string>
@@ -300,6 +302,8 @@
     <string name="root_access_link">什么是 Root 权限?</string>
     <string name="no_capture_screen_permission">需要截取屏幕的权限</string>
     <string name="get_capture_screen_permission">获取权限</string>
+    <string name="notification_push_text_multi_title">%1$s : %2$s</string>
+    <string name="notification_push_text_big_title">%s 条新消息</string>
     <string name="notification_push_live_multi_title">%1$s 正在直播 %2$s</string>
     <string name="notification_push_live_big_title">您关注的 %s 位主播正在直播</string>
     <string name="notification_push_follow_multi_title">%s 现在是您的新粉丝</string>
@@ -399,4 +403,13 @@
     <string name="activity_account_btn_skip">跳过</string>
     <string name="activity_account_title_sign_up_edit_profile">完善个人资料</string>
     <string name="permission_camera_denied">请允许 Shou 访问 CAMERA 权限</string>
+    <string name="notification_push_follow_multi_title_me">%1$s 现在关注了 %2$s</string>
+    <string name="notification_push_follow_description_me">关注了 %s</string>
+    <string name="notification_push_like_multi_title_me">%1$s 为 %2$s 的视频点了一个赞</string>
+    <string name="notification_push_like_description_me">为 %s 的视频点了一个赞</string>
+    <string name="pref_title_notifications_direct_msg">私信</string>
+    <string name="activity_moderatorlist_title">管理员</string>
+    <string name="activity_no_moderatorlist">没有管理员</string>
+    <string name="activity_moderator_msg_moderator">授权</string>
+    <string name="activity_moderator_msg_unmoderator">取消授权</string>
 </resources>

@@ -37,7 +37,7 @@
     <string name="menu_quality">Quality</string>
     <string name="menu_notifications">Notifications</string>
     <string name="search_hint">Search player/game</string>
-    <string name="profile_text_live">Live</string>
+    <string name="profile_text_live" translatable="false">Live</string>
     <string name="profile_edit_profile">Edit profile</string>
     <string name="profile_archive_broadcasts">Automatically archive my broadcasts</string>
     <string name="profile_title_time">Duration</string>
@@ -64,6 +64,7 @@
     <string name="activity_account_text_optional">optional</string>
     <string name="activity_account_choose_avatar">Choose avatar</string>
     <string name="activity_account_choose_avatar_failed">Failed to choose avatar</string>
+    <string name="activity_account_choose_cover_failed">Failed to choose cover</string>
     <string name="activity_account_btn_signing_up">Signing Up</string>
     <string name="activity_account_btn_signed_up">Signed Up</string>
     <string name="activity_account_btn_signing_in">Signing In</string>
@@ -227,6 +228,8 @@
     <string name="pref_title_video_quality">Quality</string>
     <string name="pref_title_video_show_touches">Show touches</string>
     <string name="pref_summary_video_show_touches">Show visual feedback for touches</string>
+    <string name="pref_title_video_fullscreen">Fullscreen</string>
+    <string name="pref_summary_video_fullscreen">Fullscreen video</string>
     <string name="pref_title_video_swap_uv">Swap UV</string>
     <string name="pref_summary_video_swap_uv">Fix HW encoding inverted color</string>
     <string name="pref_title_audio_source">Audio source</string>
@@ -303,6 +306,8 @@
     <string name="root_access_link">What\'s rooting?</string>
     <string name="no_capture_screen_permission">Capture screen permission is required</string>
     <string name="get_capture_screen_permission">Get permission</string>
+    <string name="notification_push_text_multi_title">%1$s : %2$s</string>
+    <string name="notification_push_text_big_title">%s new messages</string>
     <string name="notification_push_live_multi_title">%1$s is broadcasting %2$s</string>
     <string name="notification_push_live_big_title">%s players are broadcasting</string>
     <string name="notification_push_follow_multi_title">%s followed you</string>
@@ -315,6 +320,11 @@
     <string name="notification_push_cash_content">donated %s</string>
     <string name="notification_push_cash_big_content">%1$s %2$s donated %3$s!</string>
     <string name="notification_push_recommended_description">Your video is recommended!</string>
+    <string name="notification_push_follow_multi_title_me">%1$s Followed %2$s</string>
+    <string name="notification_push_follow_description_me">Follow %s</string>
+    <string name="notification_push_like_multi_title_me">%1$s Liked %2$s\'s broadcast</string>
+    <string name="notification_push_like_description_me">Liked %s\'s broadcast</string>
+    <string name="pref_title_notifications_text">Direct message</string>
     <string name="shou_cash_info">ShouCash shortage!</string>
     <string name="send_cash_info">Buy more ShouCash to support the broadcaster</string>
     <string name="menu_statistic">Statistics</string>
@@ -399,4 +409,8 @@
     <string name="activity_account_btn_skip">skip</string>
     <string name="activity_account_title_sign_up_edit_profile">Edit profile</string>
     <string name="permission_camera_denied">Camera permission denied, please allow</string>
+    <string name="activity_moderatorlist_title">Moderators</string>
+    <string name="activity_no_moderatorlist">No moderated user</string>
+    <string name="activity_moderator_msg_moderator">Mod</string>
+    <string name="activity_moderator_msg_unmoderator">Unmod</string>
 </resources>
