@@ -27,7 +27,7 @@ CFBundleDisplayName = "Shou.TV";
 "tab_videos" = "影片";
 "tab_explore" = "探索";
 "tab_me" = "我的";
-"tab_messages" = "消息";
+"tab_messages" = "訊息";
 
 "explore_recommended" = "推薦";
 "explore_leaderboard" = "排行";
@@ -35,15 +35,15 @@ CFBundleDisplayName = "Shou.TV";
 
 "no_videos" = "無影片";
 "no_games" = "無遊戲";
-"no_following" = "未跟隨別人";
-"no_follower" = "無人跟隨";
+"no_following" = "未追隨別人";
+"no_follower" = "無人追隨";
 "search_no_peoples" = "無相關玩家";
 "search_no_games" = "無相關遊戲";
 "search_no_videos" = "無相關影片";
 
 "profile_text_videos" = "影片";
 "profile_text_followers" = "粉絲";
-"profile_text_following" = "跟隨";
+"profile_text_following" = "追隨";
 "profile_text_live" = "直播";
 "profile_edit_profile" = "編輯個人資料";
 "profile_archive_broadcasts" = "自動存檔我的直播";
@@ -121,9 +121,9 @@ CFBundleDisplayName = "Shou.TV";
 "account_btn_save_profile" = "儲存";
 "account_btn_saving_profile" = "儲存中";
 "account_btn_saved_profile" = "儲存成功";
-"account_btn_follow" = "跟隨";
-"account_btn_following" = "已跟隨";
-"account_toast_follow_failed" = "跟隨失敗了";
+"account_btn_follow" = "追隨";
+"account_btn_following" = "已追隨";
+"account_toast_follow_failed" = "追隨失敗了";
 "account_toast_invalid_email" = "無效的 Email";
 "account_toast_invalid_password_or_token" = "無效的密碼與連結";
 "account_toast_invalid_identify_or_password" = "無效的帳號與密碼";
@@ -141,7 +141,7 @@ CFBundleDisplayName = "Shou.TV";
 "account_toast_password_not_match" = "密碼不匹配";
 "account_dialog_sign_up_failed" = "註冊失敗";
 "account_invite_friends" = "邀請好友";
-"account_invite" = "我在 Shou.TV 叫 %@ ，請安裝此應用程式並跟隨我直播！";
+"account_invite" = "我在 Shou.TV 叫 %@ ，請安裝此應用程式並追隨我直播！";
 "account_user_video_delete_info" = "要刪除此影片嗎？";
 
 "video_player_welcome" = "歡迎來到我的聊天室！";
@@ -166,7 +166,7 @@ CFBundleDisplayName = "Shou.TV";
 
 "chat_room_title" = "聊天室";
 
-"find_friends_follow_all" = "全部跟隨";
+"find_friends_follow_all" = "全部追隨";
 "find_friends_title" = "%@ 朋友";
 "find_friends_text" = "您在 Shou.TV 有 %@ 位 %@ 朋友";
 "find_friends_no_people" = "無任何朋友";
