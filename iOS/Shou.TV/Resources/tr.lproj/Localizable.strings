@@ -27,6 +27,7 @@ CFBundleDisplayName = "Shou.TV";
 "tab_videos" = "Videolar";
 "tab_explore" = "Keşfet";
 "tab_me" = "Ben";
+"tab_messages" = "Mesajlar";
 
 "explore_recommended" = "Önerilen";
 "explore_leaderboard" = "Lider Tablosu";
@@ -268,7 +269,14 @@ CFBundleDisplayName = "Shou.TV";
 "VIDEO_CAMERA_STREAMING_STOP" = "Durdur";
 "DIALOG_FAILD_TO_CAMERA_GRANTED" = "Kamera izni alınamadı";
 "DIALOG_FAILD_TO_MIC_GRANTED" = "Mikrofon izni alınamadı";
+"msg_popup_mention" = "Cevap ver";
 "msg_popup_moderate" = "Moderatör yap";
 "msg_popup_moderate_cancel" = "Moderatör yetkisini kaldır";
 "msg_popup_moderate_description" = "%@ artık bir moderatör.";
 "msg_popup_moderate_cancel_description" = "%@ moderatörünün yetkisi alındı.";
+
+"message_like_me" = "%@ oyuncusunun yayınını beğendin";
+"message_like" = "%@ yayınını beğendi";
+"message_follow_me" = "%@ oyuncusunu takip ettin";
+"message_follow" = "%@ seni takip etti";
+"message_new_placeholder" = "Bir mesaj yaz...";
