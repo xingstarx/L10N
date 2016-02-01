@@ -37,7 +37,6 @@
     <string name="menu_quality">Kalite</string>
     <string name="menu_notifications">Bildirimler</string>
     <string name="search_hint">Oyuncu/oyun ara</string>
-    <string name="profile_text_live" translatable="false">Live</string>
     <string name="profile_edit_profile">Profili düzenle</string>
     <string name="profile_archive_broadcasts">Canlı yayınları sunucuya kaydet</string>
     <string name="profile_title_time">Yayın Süresi</string>
@@ -401,7 +400,7 @@
     <string name="fragment_bottom_moderator_info">Moderatör Yap</string>
     <string name="pref_title_misc_instagram">Instagram</string>
     <string name="pref_summary_misc_instagram">shou_tv</string>
-    <string name="activity_followers_title">TAKİPÇİ</string 
+    <string name="activity_followers_title">TAKİPÇİ</string>
     <string name="activity_following_title">TAKİP EDİLEN</string>
     <string name="activity_videos_title">Videolar</string>
     <string name="activity_account_upload_avatar">Resim Yükle</string>
