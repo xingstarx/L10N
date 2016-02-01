@@ -43,7 +43,6 @@ CFBundleDisplayName = "Shou.TV";
 "profile_text_videos" = "ビデオ";
 "profile_text_followers" = "ファン";
 "profile_text_following" = "フォロー";
-"profile_text_live" = "生放送";
 "profile_edit_profile" = "個人プロフィールをエディタ";
 "profile_archive_broadcasts" = "マイページ放送を自動的に保存";
 "profile_text_times" = "Times";

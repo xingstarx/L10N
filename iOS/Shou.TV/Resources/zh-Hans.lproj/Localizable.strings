@@ -44,7 +44,6 @@ CFBundleDisplayName = "Shou.TV";
 "profile_text_videos" = "视频";
 "profile_text_followers" = "粉丝";
 "profile_text_following" = "关注";
-"profile_text_live" = "直播";
 "profile_edit_profile" = "编辑个人资料";
 "profile_archive_broadcasts" = "自动存档我的直播";
 "profile_text_times" = "时长";
