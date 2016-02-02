@@ -257,6 +257,5 @@
     <string name="notification_push_like_multi_title">%s人が、あなたのブロードキャストを、好きと評価しています。</string>
     <string name="notification_push_like_description">あなたのブロードキャスト</string>
     <string name="notification_push_like_big_title">%s人が好き</string>
-    <string name="notification_push_recommended_description">あなたの動画がおすすめに入りました!</string>
-    
+
 </resources>

@@ -288,7 +288,6 @@
     <string name="notification_push_like_multi_title">%s gostaram da sua transmissão</string>
     <string name="notification_push_like_description">Gostou da sua trasmissão</string>
     <string name="notification_push_like_big_title">%s likes</string>
-    <string name="notification_push_recommended_description">Seu video foi recomendado!</string>
 
     <!-- terms to be careful about : Mirroring , Streaming, Broadcast, network -->
 

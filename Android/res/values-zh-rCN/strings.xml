@@ -315,7 +315,6 @@
     <string name="notification_push_cash_big_title">您收到 %s 笔赠送</string>
     <string name="notification_push_cash_content">赠送给您 %s ShouCash</string>
     <string name="notification_push_cash_big_content">%1$s %2$s 赠送给您 %3$s ShouCash</string>
-    <string name="notification_push_recommended_description">恭喜！您直播的视频已被推荐到首页！</string>
     <string name="profile_archive_broadcasts">自动存档我的直播</string>
     <string name="shou_cash_info">ShouCash 不足!</string>
     <string name="send_cash_info">请充值后再赠送!</string>
@@ -403,10 +402,10 @@
     <string name="activity_account_btn_skip">跳过</string>
     <string name="activity_account_title_sign_up_edit_profile">完善个人资料</string>
     <string name="permission_camera_denied">请允许 Shou 访问 CAMERA 权限</string>
-    <string name="notification_push_follow_multi_title_me">现在关注了 %s</string>
-    <string name="notification_push_follow_description_me">关注了 %s</string>
-    <string name="notification_push_like_multi_title_me">为 %s 的视频点了一个赞</string>
-    <string name="notification_push_like_description_me">为 %s 的视频点了一个赞</string>
+    <string name="notification_push_follow_multi_title_me">你关注了 %s</string>
+    <string name="notification_push_follow_description_me">你关注了 %s</string>
+    <string name="notification_push_like_multi_title_me">你为 %s 的视频点了一个赞</string>
+    <string name="notification_push_like_description_me">你为 %s 的视频点了一个赞</string>
     <string name="pref_title_notifications_direct_msg">私信</string>
     <string name="activity_moderatorlist_title">管理员</string>
     <string name="activity_no_moderatorlist">没有管理员</string>
