@@ -35,7 +35,7 @@
     <string name="menu_share">Share</string>
     <string name="menu_report">Report</string>
     <string name="menu_quality">Quality</string>
-    <string name="menu_notifications">Messages</string>
+    <string name="menu_message">Messages</string>
     <string name="search_hint">Search player/game</string>
     <string name="profile_text_live" translatable="false">Live</string>
     <string name="profile_edit_profile">Edit profile</string>
@@ -137,8 +137,8 @@
     <string name="activity_accessibility_title">Privacy protection</string>
     <string name="activity_accessibility_disable_label">You need to find Shou from the settings, and tap it, then enable it. This will blur your password and privacy information when recording or broadcasting.</string>
     <string name="activity_accessibility_disable_setting">Go to settings</string>
-    <string name="activity_notification_title">Messages</string>
-    <string name="activity_no_notifications">No message</string>
+    <string name="activity_message_title">Messages</string>
+    <string name="activity_no_message">No message</string>
     <string name="activity_game_group_favorite">Followed Games</string>
     <string name="activity_game_group_played">Broadcast Games</string>
     <string name="activity_find_friends_follow_all">Follow all</string>
@@ -323,7 +323,6 @@
     <string name="notification_push_follow_description_me">You followed %s</string>
     <string name="notification_push_like_multi_title_me">You liked %s\'s broadcast</string>
     <string name="notification_push_like_description_me">You liked %s\'s broadcast</string>
-    <string name="pref_title_notifications_text">Messages</string>
     <string name="shou_cash_info">ShouCash shortage!</string>
     <string name="send_cash_info">Buy more ShouCash to support the broadcaster</string>
     <string name="menu_statistic">Statistics</string>
@@ -356,6 +355,7 @@
     <string name="pref_title_notifications_new_followers">New followers</string>
     <string name="pref_title_notifications_likes">New likes</string>
     <string name="pref_title_notifications_new_broadcasts">New broadcasts</string>
+    <string name="pref_title_notifications_text">New messages</string>
     <string name="toast_settings_show_touches_unenable">Don\'t support Android 6.0+</string>
     <string name="toast_livefragment_screen_live_title">Please enter title</string>
     <string name="toast_livefragment_screen_live_game">Please select the game</string>

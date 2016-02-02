@@ -32,7 +32,6 @@
     <string name="menu_search">Pesquisa</string>
     <string name="menu_like">Gostar</string>
     <string name="menu_share">Compartilhar</string>
-    <string name="menu_notifications">Notificaçoes</string>
     <string name="search_hint">Pesquisar Jogador/game</string>
     <string name="profile_edit_profile">Editar perfil</string>
     <string name="profile_archive_broadcasts">Automaticamente salvar minha transmissao</string>
@@ -119,8 +118,6 @@
     <string name="activity_accessibility_disable_label">Você precisa acessar Shou pelas Configurações, e cliclar sobre ele, para o ativar. Isso irá embaçar sua senha e suas informações privadas enquanto você grava ou transmite.</string>
     <!-- From the settings? Or the Shou settings? I translated from, but I don't know if the english version is correct. -->
     <string name="activity_accessibility_disable_setting">Vá para configurações</string>
-    <string name="activity_notification_title">Notificações</string>
-    <string name="activity_no_notifications">Sem notificações</string>
     <string name="activity_app_like_success">Virou um seguidor!</string>
     <string name="activity_app_like_failed">Falha em virar um seguidor :(</string>
     <string name="activity_app_unlike_success">Parar de seguir</string>

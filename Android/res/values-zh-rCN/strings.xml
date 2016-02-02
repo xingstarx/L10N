@@ -35,7 +35,7 @@
     <string name="menu_share">分享</string>
     <string name="menu_report">举报</string>
     <string name="menu_quality">清晰度</string>
-    <string name="menu_notifications">私信</string>
+    <string name="menu_message">私信</string>
     <string name="search_hint">搜索主播或游戏</string>
     <string name="profile_edit_profile">编辑个人资料</string>
     <string name="profile_title_time">直播总时长</string>
@@ -135,8 +135,8 @@
     <string name="activity_accessibility_title">隐私保护功能</string>
     <string name="activity_accessibility_disable_label">到设置里找到 Shou，点它，启用它，然后你的密码和一些隐私类的应用就不会被录制和直播了。</string>
     <string name="activity_accessibility_disable_setting">前往设置</string>
-    <string name="activity_notification_title">私信</string>
-    <string name="activity_no_notifications">没有私信</string>
+    <string name="activity_message_title">私信</string>
+    <string name="activity_no_message">没有私信</string>
     <string name="activity_game_group_favorite">我关注的游戏</string>
     <string name="activity_game_group_played">我直播过的游戏</string>
     <string name="activity_find_friends_follow_all">全部关注</string>
