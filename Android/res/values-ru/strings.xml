@@ -35,7 +35,6 @@
     <string name="menu_share">Поделится</string>
     <string name="menu_report">Пожаловаться</string>
     <string name="menu_quality">Качество</string>
-    <string name="menu_notifications">Уведомления</string>
     <string name="search_hint">Поиск по игрокам или играм</string>
     <string name="profile_edit_profile">Изменить профиль</string>
     <string name="profile_archive_broadcasts">Автоматически сохранять мои трансляции</string>
@@ -126,8 +125,6 @@
     <string name="activity_accessibility_title">Защита конфиденциальности</string>
     <string name="activity_accessibility_disable_label">Вам необходимо найти Shou в Настройках, выбрать его и включить эту функцию. Это сделает невидимыми ваши пароли и конфиденциальную информацию во время записи или трансляции.</string>
     <string name="activity_accessibility_disable_setting">Перейдите в Настройки</string>
-    <string name="activity_notification_title">Уведомления</string>
-    <string name="activity_no_notifications">Нет уведомлений</string>
     <string name="activity_game_group_favorite">Отслеживаемые</string>
     <string name="activity_game_group_played">Транслируемые</string>
     <string name="activity_find_friends_follow_all">Подписаться на всех</string>
@@ -302,7 +299,6 @@
     <string name="notification_push_cash_big_title">%s подарки</string>
     <string name="notification_push_cash_content">пожертованно %s</string>
     <string name="notification_push_cash_big_content">%1$s %2$s пожертвовал(-а) %3$s!</string>
-    <string name="notification_push_recommended_description">Ваше видео было добавленно в "Рекомендуемые"!</string>
     <string name="shou_cash_info">Не достаточно ShouCash!</string>
     <string name="send_cash_info">Купите больше ShouCash</string>
     <string name="menu_statistic">Статистика</string>

@@ -30,7 +30,6 @@
     <string name="menu_search">検索</string>
     <string name="menu_like">いいね</string>
     <string name="menu_share">共有</string>
-    <string name="menu_notifications">通知</string>
     <string name="search_hint">プレイヤー/ゲームを検索</string>
     <string name="profile_edit_profile">プロフィールを編集</string>
     <string name="profile_archive_broadcasts">自分のブロードキャストを自動的に保存</string>
@@ -114,8 +113,6 @@
     <string name="activity_accessibility_title">プライバシー保護</string>
     <string name="activity_accessibility_disable_label">Shouをユーザー補助のリストから探し、タップして下さい。これにより、録画中もしくはブロードキャスト中に、パスワードや機密情報を隠蔽することが出来ます。</string>
     <string name="activity_accessibility_disable_setting">設定を開く</string>
-    <string name="activity_notification_title">通知</string>
-    <string name="activity_no_notifications">通知無し</string>
     <string name="action_delete">削除</string>
     <string name="action_share">共有</string>
     <string name="action_edit">編集</string>
@@ -257,6 +254,5 @@
     <string name="notification_push_like_multi_title">%s人が、あなたのブロードキャストを、好きと評価しています。</string>
     <string name="notification_push_like_description">あなたのブロードキャスト</string>
     <string name="notification_push_like_big_title">%s人が好き</string>
-    <string name="notification_push_recommended_description">あなたの動画がおすすめに入りました!</string>
-    
+
 </resources>
