@@ -345,7 +345,7 @@
     <string name="msg_description_like">Like</string>
     <string name="msg_description_reward">Reward</string>
     <string name="pref_title_category_notification">Notifications</string>
-    <string name="pref_summary_category_notification">Notifications are ON</string>
+    <string name="pref_summary_category_notification">Push notifications</string>
     <string name="pref_title_notifications_vibrate">Vibrate</string>
     <string name="pref_summary_notifications_vibrate">Vibrate on incoming notifications</string>
     <string name="pref_title_notifications_ringthone">Ringtone</string>

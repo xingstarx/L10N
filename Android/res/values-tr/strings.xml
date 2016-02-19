@@ -37,7 +37,6 @@
     <string name="menu_quality">Kalite</string>
     <string name="menu_message">Mesajlar</string>
     <string name="search_hint">Oyuncu/oyun ara</string>
-    <string name="profile_text_live" translatable="false">Lıve</string>
     <string name="profile_edit_profile">Profili düzenle</string>
     <string name="profile_archive_broadcasts">Canlı yayınları sunucuya kaydet</string>
     <string name="profile_title_time">Yayın Süresi</string>
@@ -354,7 +353,7 @@
     <string name="pref_summary_notifications_notification_light">Bildirim geldiğinde tuş arka ışığı veya LED ile bildir</string>
     <string name="pref_title_notifications_new_followers">Yeni takipçiler</string>
     <string name="pref_title_notifications_likes">Yeni beğeniler</string>
-    <string name="pref_title_notification1s_new_broadcasts">Yeni yayınlar</string>
+    <string name="pref_title_notifications_new_broadcasts">Yeni yayınlar</string>
     <string name="pref_title_notifications_text">Yeni mesajlar</string>
     <string name="toast_settings_show_touches_unenable">Android 6.0 ve üzeri desteklenmiyor</string>
     <string name="toast_livefragment_screen_live_title">Lütfen başlık giriniz</string>
