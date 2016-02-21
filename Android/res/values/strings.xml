@@ -323,6 +323,7 @@
     <string name="notification_push_follow_description_me">You followed %s</string>
     <string name="notification_push_like_multi_title_me">You liked %s\'s broadcast</string>
     <string name="notification_push_like_description_me">You liked %s\'s broadcast</string>
+    <string name="notification_push_cash_content_me">you donated %s</string>
     <string name="shou_cash_info">ShouCash shortage!</string>
     <string name="send_cash_info">Buy more ShouCash to support the broadcaster</string>
     <string name="menu_statistic">Statistics</string>
