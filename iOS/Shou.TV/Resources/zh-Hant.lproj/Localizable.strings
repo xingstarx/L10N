@@ -272,8 +272,10 @@ CFBundleDisplayName = "Shou.TV";
 "msg_popup_moderate_description" = "%@ 已經設定為管理員";
 "msg_popup_moderate_cancel_description" = "%@ 已經被取消管理員";
 
-"message_like_me" = "你為 %@ 的影片按了一個讚";
+"message_like_me" = "您為 %@ 的影片按了一個讚";
 "message_like" = "%@ 為您的影片按了一個讚";
-"message_follow_me" = "你現在成為 %@ 的粉絲";
+"message_follow_me" = "您現在成為 %@ 的粉絲";
 "message_follow" = "%@ 是您的新粉絲";
 "message_new_placeholder" = "傳訊息...";
+"message_tip_donate_me" = "您抖內了 %@ %@ ShouCash";
+"message_tip_donate" = "%@ 抖內了您 %@ ShouCash";
