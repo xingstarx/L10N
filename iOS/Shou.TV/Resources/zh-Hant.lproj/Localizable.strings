@@ -42,8 +42,8 @@ CFBundleDisplayName = "Shou.TV";
 "search_no_videos" = "無相關影片";
 
 "profile_text_videos" = "影片";
-"profile_text_followers" = "粉絲";
-"profile_text_following" = "追隨";
+"profile_text_followers" = "跟隨者";
+"profile_text_following" = "關注中";
 "profile_edit_profile" = "編輯個人資料";
 "profile_archive_broadcasts" = "自動存檔我的直播";
 "profile_text_times" = "時長";
@@ -120,9 +120,9 @@ CFBundleDisplayName = "Shou.TV";
 "account_btn_save_profile" = "儲存";
 "account_btn_saving_profile" = "儲存中";
 "account_btn_saved_profile" = "儲存成功";
-"account_btn_follow" = "追隨";
-"account_btn_following" = "已追隨";
-"account_toast_follow_failed" = "追隨失敗了";
+"account_btn_follow" = "跟隨";
+"account_btn_following" = "已跟隨";
+"account_toast_follow_failed" = "跟隨失敗了";
 "account_toast_invalid_email" = "無效的 Email";
 "account_toast_invalid_password_or_token" = "無效的密碼與連結";
 "account_toast_invalid_identify_or_password" = "無效的帳號與密碼";
@@ -165,7 +165,7 @@ CFBundleDisplayName = "Shou.TV";
 
 "chat_room_title" = "聊天室";
 
-"find_friends_follow_all" = "全部追隨";
+"find_friends_follow_all" = "全部跟隨";
 "find_friends_title" = "%@ 朋友";
 "find_friends_text" = "您在 Shou.TV 有 %@ 位 %@ 朋友";
 "find_friends_no_people" = "無任何朋友";
@@ -274,8 +274,8 @@ CFBundleDisplayName = "Shou.TV";
 
 "message_like_me" = "您為 %@ 的影片按了一個讚";
 "message_like" = "%@ 為您的影片按了一個讚";
-"message_follow_me" = "您現在成為 %@ 的粉絲";
-"message_follow" = "%@ 是您的新粉絲";
+"message_follow_me" = "您現在成為 %@ 的跟隨者";
+"message_follow" = "%@ 現在是您的跟隨者";
 "message_new_placeholder" = "傳訊息...";
 "message_tip_donate_me" = "您抖內了 %@ %@ ShouCash";
 "message_tip_donate" = "%@ 抖內了您 %@ ShouCash";
