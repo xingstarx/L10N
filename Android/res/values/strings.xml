@@ -323,7 +323,7 @@
     <string name="notification_push_follow_description_me">You followed %s</string>
     <string name="notification_push_like_multi_title_me">You liked %s\'s broadcast</string>
     <string name="notification_push_like_description_me">You liked %s\'s broadcast</string>
-    <string name="notification_push_cash_content_me">you donated %s ShouCash</string>
+    <string name="notification_push_cash_content_me">You donated %s ShouCash</string>
     <string name="shou_cash_info">ShouCash shortage!</string>
     <string name="send_cash_info">Buy more ShouCash to support the broadcaster</string>
     <string name="menu_statistic">Statistics</string>
@@ -413,5 +413,5 @@
     <string name="activity_no_moderatorlist">No moderated user</string>
     <string name="activity_moderator_msg_moderator">Mod</string>
     <string name="activity_moderator_msg_unmoderator">Unmod</string>
-    <string name="pref_title_notifications_tip">New ShouCash</string>
+    <string name="pref_title_notifications_tip">New donates</string>
 </resources>
