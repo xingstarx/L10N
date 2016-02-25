@@ -411,4 +411,6 @@
     <string name="activity_no_moderatorlist">没有管理员</string>
     <string name="activity_moderator_msg_moderator">授权</string>
     <string name="activity_moderator_msg_unmoderator">取消授权</string>
+    <string name="notification_push_cash_content_me">您赠送了 %s ShouCash</string>
+    <string name="pref_title_notifications_tip">新的打赏</string>
 </resources>
