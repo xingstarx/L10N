@@ -402,10 +402,10 @@
     <string name="activity_account_btn_skip">跳过</string>
     <string name="activity_account_title_sign_up_edit_profile">完善个人资料</string>
     <string name="permission_camera_denied">请允许 Shou 访问 CAMERA 权限</string>
-    <string name="notification_push_follow_multi_title_me">你关注了 %s</string>
-    <string name="notification_push_follow_description_me">你关注了 %s</string>
-    <string name="notification_push_like_multi_title_me">你为 %s 的视频点了一个赞</string>
-    <string name="notification_push_like_description_me">你为 %s 的视频点了一个赞</string>
+    <string name="notification_push_follow_multi_title_me">您关注了 %s</string>
+    <string name="notification_push_follow_description_me">您关注了 %s</string>
+    <string name="notification_push_like_multi_title_me">您为 %s 的视频点了一个赞</string>
+    <string name="notification_push_like_description_me">您为 %s 的视频点了一个赞</string>
     <string name="pref_title_notifications_direct_msg">私信</string>
     <string name="activity_moderatorlist_title">管理员</string>
     <string name="activity_no_moderatorlist">没有管理员</string>
