@@ -280,4 +280,6 @@ CFBundleDisplayName = "Shou.TV";
 "message_follow_me" = "You followed %@";
 "message_follow" = "%@ followed you";
 "message_new_placeholder" = "Write a message...";
+"message_tip_donate_me" = "You donated %@ %@ ShouCash";
+"message_tip_donate" = "%@ donated you %@ ShouCash";
 
