@@ -426,5 +426,5 @@
     <string name="activity_private_broadcast_head_select_title">MUTUALS</string>
     <string name="activity_private_broadcast_make_private_button">Make Private (%s)</string>
     <string name="pref_entries_video_broadcast_type">Private(%s)</string>
-    <string name="activity_private_broadcast_no_friends">No Friends</string>
+    <string name="activity_private_broadcast_no_friends">No Mutuals</string>
 </resources>

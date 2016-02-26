@@ -424,7 +424,7 @@
     <string name="pref_entries_video_broadcast_type">私密(%s)</string>
     <string name="activity_private_broadcast_title">私密直播</string>
     <string name="activity_private_broadcast_head_desc">私密直播不会显示在首页,它只通知你所选择的好友.</string>
-    <string name="activity_private_broadcast_head_select_title">好友</string>
+    <string name="activity_private_broadcast_head_select_title">相互关注</string>
     <string name="activity_private_broadcast_make_private_button">设置私密 (%s)</string>
-    <string name="activity_private_broadcast_no_friends">没有好友</string>
+    <string name="activity_private_broadcast_no_friends">没有相互关注</string>
 </resources>
