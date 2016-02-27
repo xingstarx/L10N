@@ -37,6 +37,7 @@
     <string name="menu_quality">Kalite</string>
     <string name="menu_message">Mesajlar</string>
     <string name="search_hint">Oyuncu/oyun ara</string>
+    <string name="profile_text_live" translatable="false">Live</string>
     <string name="profile_edit_profile">Profili düzenle</string>
     <string name="profile_archive_broadcasts">Canlı yayınları sunucuya kaydet</string>
     <string name="profile_title_time">Yayın Süresi</string>
@@ -323,6 +324,7 @@
     <string name="notification_push_like_multi_title_me">%s oyuncusunun yayınını beğendin</string>
     <string name="notification_push_like_description_me">%s oyuncusunun yayınını beğendin</string>
     <string name="shou_cash_info">ShouCash açığı!</string>
+    <string name="notification_push_cash_content_me">%s ShouCash bağış yaptın</string>
     <string name="send_cash_info">Yayıncıyı desteklemek için daha fazla ShouCash satın alın!</string>
     <string name="menu_statistic">İstatistikler</string>
     <string name="menu_charge">Satın Al</string>
@@ -411,4 +413,5 @@
     <string name="activity_no_moderatorlist">Moderatör kullanıcı yok</string>
     <string name="activity_moderator_msg_moderator">Moderatör yap</string>
     <string name="activity_moderator_msg_unmoderator">Moderatörlükten çıkar</string>
+    <string name="pref_title_notifications_tip">Yeni bağışlar</string>
 </resources>
