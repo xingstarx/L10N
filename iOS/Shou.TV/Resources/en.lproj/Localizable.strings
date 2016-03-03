@@ -42,8 +42,8 @@ CFBundleDisplayName = "Shou.TV";
 "search_no_videos" = "No videos";
 
 "profile_text_videos" = "Broadcasts";
-"profile_text_followers" = "Followers";
-"profile_text_following" = "Following";
+"profile_text_followers" = "FOLLOWERS";
+"profile_text_following" = "FOLLOWING";
 "profile_text_live" = "LIVE";
 "profile_edit_profile" = "EDIT PROFILE";
 "profile_archive_broadcasts" = "Automatically archive my broadcasts";
