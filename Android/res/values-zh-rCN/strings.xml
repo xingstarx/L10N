@@ -427,4 +427,8 @@
     <string name="activity_private_broadcast_head_select_title">相互关注</string>
     <string name="activity_private_broadcast_make_private_button">设置私密 (%s)</string>
     <string name="activity_private_broadcast_no_friends">没有相互关注</string>
+    <string name="activity_private_broadcast_share_button">分享 (%s)</string>
+    <string name="activity_share_broadcast_title">分享直播</string>
+    <string name="activity_share_broadcast_clipboard_title">拷贝链接</string>
+    <string name="activity_share_broadcast_clipboard_toast_copy_success">拷贝链接</string>
 </resources>
