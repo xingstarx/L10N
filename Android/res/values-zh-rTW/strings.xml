@@ -398,4 +398,6 @@
     <string name="activity_moderator_msg_unmoderator">取消授權</string>
     <string name="notification_push_cash_content_me">您抖內了 %s ShouCash</string>
     <string name="pref_title_notifications_tip">抖內</string>
+    <string name="activity_account_toast_invalid_identify">無效的電子信箱</string>
+    <string name="activity_account_toast_invalid_password">無效的密碼</string>
 </resources>

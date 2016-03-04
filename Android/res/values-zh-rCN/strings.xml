@@ -413,4 +413,6 @@
     <string name="activity_moderator_msg_unmoderator">取消授权</string>
     <string name="notification_push_cash_content_me">您赠送了 %s ShouCash</string>
     <string name="pref_title_notifications_tip">新的打赏</string>
+    <string name="activity_account_toast_invalid_identify">无效的账号</string>
+    <string name="activity_account_toast_invalid_password">无效的密码</string>
 </resources>
