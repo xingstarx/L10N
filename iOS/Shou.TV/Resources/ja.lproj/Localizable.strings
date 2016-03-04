@@ -232,20 +232,6 @@ CFBundleDisplayName = "Shou.TV";
 "statistics_likes" = "好きトータル %@";
 "statistics_Income" = "収入トータル %@";
 
-"broadcast_title" = "生放送";
-"broadcast_guide_sign_in" = "Shouへログイン";
-"broadcast_guide_download_title" = "あなたのゲームを放送";
-"broadcast_guide_download_summary" = "shou.tv/macでShouをインストール，OSX 10.10適用";
-"broadcast_guide_open_title" = "Shouへ登録";
-"broadcast_guide_open_summary" = "ShouとiOSは同じWifi環境の下で確認してください，その後は登録してください";
-"broadcast_guide_airplay_title" = "AirShouとiOSは同じWifi環境の下で確認してください，その後はAirPlayとShouのパソコンと連続してください";
-"broadcast_guide_lightning_title" = "Lightning　と USB　を使って放送する";
-"broadcast_guide_lightning_summary" = "Lightning　と USB　を使って　iOS 設備とパソコンと連続する";
-"broadcast_guide_sign_in_success" = "ログイン成功！";
-"broadcast_guide_tips_scanning" = "捜索中, ShouとiOSは同じWifi環境の下で確認してください";
-"broadcast_guide_tips_sign_in" = "放送してほしいパソコンを選択してください";
-"broadcast_sign_in_shou_for_mac" = "Shouへ登録?";
-
 "explore_search_game" = "\"%@\"というゲームを探す？";
 
 "VIDEO_CAMERA_LIVE_TITLE_HINT" = "What are you seeing now?";

@@ -199,8 +199,6 @@ CFBundleDisplayName = "Shou.TV";
 "toast_video_deleted" = "影片已被刪除";
 
 "about_title" = "關於";
-"about_title_download_recorder" = "下載 Shou 錄製端";
-"about_title_download_airshou" = "下載 AirShou";
 "about_title_faq" = "FAQ";
 "about_summary_faq" = "Shou FAQ";
 "about_title_website" = "官方網站";
@@ -241,23 +239,7 @@ CFBundleDisplayName = "Shou.TV";
 "statistics_Income" = "總收入 %@";
 
 "broadcast_title" = "直播";
-"broadcast_guide_sign_in" = "登入 Shou";
-"broadcast_guide_download_title" = "直播你的遊戲";
-"broadcast_guide_download_summary" = "透過 shou.tv/mac 安裝 Shou，適用於 OSX 10.10";
-"broadcast_guide_open_title" = "登入 Shou";
-"broadcast_guide_open_summary" = "開啟並確保 Shou 與 iOS 裝置在同一 Wifi 無線網路環境下，稍後點選下方登入按鈕";
-"broadcast_guide_airplay_title" = "透過 AirPlay 直播";
-"broadcast_guide_airplay_summary" = "確保 Shou 已經開啟並與 iOS 裝置在同一 Wifi 無線網路環境下，開啟 AirPlay 連線 Shou 所在的電腦";
-"broadcast_guide_lightning_title" = "透過 Lightning to USB 直播";
-"broadcast_guide_lightning_summary" = "將 iOS 裝置與電腦透過 Lightning to USB 連線";
-"broadcast_guide_sign_in_success" = "登入成功！";
-"broadcast_guide_tips_scanning" = "正在搜尋，請確保 Shou 已經開啟且與 iOS 裝置在同一個 Wifi 無線網路下";
-"broadcast_guide_tips_sign_in" = "選擇要直播的電腦進行登入操作";
-"broadcast_guide_airshou_title" = "AirShou";
-"broadcast_guide_airshou_summary" = "體驗第一個支援 iOS 9.X (9.0, 9.1, 9.2) 的非越獄錄製螢幕/直播應用程式 AirShou，下載: https://shou.tv/airshou";
-"broadcast_guide_jailbroken_title" = "越獄版";
-"broadcast_guide_jailbroken_summary" = "在 Cydia 中搜尋 Shou，預設 BigBoss 源。推薦用越獄版的 Shou 錄製或直播你的 iOS 螢幕，它有更好的效能與更多特色功能。";
-"broadcast_sign_in_shou_for_mac" = "登入 Shou Mac 版?";
+"broadcast_camera" = "攝像頭";
 
 "explore_search_game" = "搜尋 \"%@\" 遊戲？";
 
