@@ -141,7 +141,7 @@ CFBundleDisplayName = "Shou.TV";
 "account_toast_server_error" = "Server is under maintenance";
 "account_toast_not_found" = "Not found any message";
 "account_dialog_sign_up_failed" = "Failed to sign up";
-"account_invite_friends" = "Invite Friends";
+"account_invite_friends" = "Invite friends";
 "account_invite" = "I'm on Shou.TV as %@ . Install the app to follow my streamings.";
 "account_user_video_delete_info" = "Are you sure delete this video?";
 
