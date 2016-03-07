@@ -59,7 +59,7 @@
         <item>16 Мбит/с</item>
     </string-array>
     <string-array name="pref_entries_audio_source">
-        <item>Бесшумно</item>
+        <item>Без звука</item>
         <item>Микрофон</item>
     </string-array>
     <string-array name="pref_entries_network_type">
