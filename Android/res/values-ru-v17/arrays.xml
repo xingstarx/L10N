@@ -6,7 +6,7 @@
         <item>Внутренний звук</item>
     </string-array>
     <string-array name="pref_entries_video_source_engine">
-        <item>Фантомный источник</item>
-        <item>Аппаратное кодирование</item>
+        <item>Фантомный</item>
+        <item>Память</item>
     </string-array>
 </resources>
