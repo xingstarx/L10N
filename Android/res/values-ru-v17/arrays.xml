@@ -3,10 +3,10 @@
     <string-array name="pref_entries_audio_source">
         <item>Без звука</item>
         <item>Микрофон</item>
-        <item>Внутренний</item>
+        <item>Внутренний звук</item>
     </string-array>
     <string-array name="pref_entries_video_source_engine">
-        <item>Фантом</item>
-        <item>Память</item>
+        <item>Фантомный источник</item>
+        <item>Аппаратное кодирование</item>
     </string-array>
 </resources>
