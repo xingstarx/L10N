@@ -227,7 +227,7 @@ CFBundleDisplayName = "Shou.TV";
 
 
 
-
+"toast_api_error_forbidden" = "Доступ запрещён";
 "toast_api_error_no_connection" = "Нет сети";
 "toast_api_error_connection_timeout" = "Время ожидания сети истекло";
 "toast_api_error_server_5xx" = "Обнаружены неполадки на серверах Shou.TV";
