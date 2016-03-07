@@ -193,6 +193,7 @@ CFBundleDisplayName = "Shou.TV";
 "msg_send_faild_limit" = "您的消息发送过于频繁，请在 %@ 秒后重试";
 "msg_send_faild_same" = "请勿发送重复内容";
 
+"toast_api_error_forbidden" = "禁止访问";
 "toast_api_error_no_connection" = "无网络连接";
 "toast_api_error_connection_timeout" = "网络连接超时";
 "toast_api_error_server_5xx" = "Shou.TV 服务器出错";
