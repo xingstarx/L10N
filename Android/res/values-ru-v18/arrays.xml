@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="pref_entries_video_source_engine">
-        <item>Фантом</item>
-        <item>Память</item>
+        <item>Фантомный источник</item>
+        <item>Аппаратное кодирование</item>
     </string-array>
 </resources>
