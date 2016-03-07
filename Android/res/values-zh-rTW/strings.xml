@@ -156,7 +156,6 @@
     <string name="streaming_chat">聊天</string>
     <string name="streaming_pop_msg">寫訊息</string>
     <string name="streaming_btn_stop">停止</string>
-    <string name="streaming_chat_title">聊天室</string>
     <string name="alert_dialog_button_close">關閉</string>
     <string name="alert_dialog_audio_patch">修正</string>
     <string name="progress_dialog_connecting_to_airplay">連線至 AirPlay 裝置: %s</string>

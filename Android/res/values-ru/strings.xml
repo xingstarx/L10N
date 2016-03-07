@@ -149,7 +149,6 @@
     <string name="streaming_chat">Чат</string>
     <string name="streaming_pop_msg">Сообщение</string>
     <string name="streaming_btn_stop">СТОП</string>
-    <string name="streaming_chat_title">чат</string>
     <string name="alert_dialog_button_close">Закрыть</string>
     <string name="alert_dialog_audio_patch">Патч</string>
     <string name="progress_dialog_connecting_to_airplay">Подключение к устройству AirPlay: %s</string>

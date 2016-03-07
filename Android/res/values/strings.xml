@@ -173,7 +173,6 @@
     <string name="streaming_chat">Chat</string>
     <string name="streaming_pop_msg">Message</string>
     <string name="streaming_btn_stop">STOP</string>
-    <string name="streaming_chat_title">chat room</string>
     <string name="alert_dialog_button_close">Close</string>
     <string name="alert_dialog_audio_patch">Patch</string>
     <string name="progress_dialog_connecting_to_airplay">Connecting to AirPlay device: %s</string>

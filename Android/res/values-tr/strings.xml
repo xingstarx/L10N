@@ -174,7 +174,6 @@
     <string name="streaming_chat">Sohbet et</string>
     <string name="streaming_pop_msg">Mesaj</string>
     <string name="streaming_btn_stop">Durdur</string>
-    <string name="streaming_chat_title">Sohbet Odası</string>
     <string name="alert_dialog_button_close">Kapat</string>
     <string name="alert_dialog_audio_patch">Yamala</string>
     <string name="progress_dialog_connecting_to_airplay">AirPlay cihazına bağlanılıyor: %s</string>

@@ -121,7 +121,6 @@
     <string name="streaming_mirroring">ミラーリング中</string>
     <string name="streaming_chat">チャット</string>
     <string name="streaming_btn_stop">停止</string>
-    <string name="streaming_chat_title">チャットルーム</string>
     <string name="alert_dialog_button_close">閉じる</string>
     <string name="alert_dialog_audio_patch">パッチ適用</string>
     <string name="progress_dialog_connecting_to_airplay">AirPlayデバイスに接続中です: %s</string>
