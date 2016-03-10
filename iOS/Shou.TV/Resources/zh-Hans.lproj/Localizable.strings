@@ -193,6 +193,7 @@ CFBundleDisplayName = "Shou.TV";
 "msg_send_faild_limit" = "您的消息发送过于频繁，请在 %@ 秒后重试";
 "msg_send_faild_same" = "请勿发送重复内容";
 
+"toast_api_error_forbidden" = "禁止访问";
 "toast_api_error_no_connection" = "无网络连接";
 "toast_api_error_connection_timeout" = "网络连接超时";
 "toast_api_error_server_5xx" = "Shou.TV 服务器出错";
@@ -200,8 +201,6 @@ CFBundleDisplayName = "Shou.TV";
 "toast_video_deleted" = "视频已被删除";
 
 "about_title" = "关于";
-"about_title_download_recorder" = "下载 Shou 录制端";
-"about_title_download_airshou" = "下载 AirShou";
 "about_title_faq" = "FAQ";
 "about_summary_faq" = "Shou FAQ";
 "about_title_website" = "官方网站";
@@ -242,24 +241,7 @@ CFBundleDisplayName = "Shou.TV";
 "statistics_Income" = "总收入 %@";
 
 "broadcast_title" = "直播";
-"broadcast_guide_sign_in" = "登录 Shou";
-"broadcast_guide_download_title" = "直播你的游戏";
-"broadcast_guide_download_summary" = "通过 shou.tv/mac 安装 Shou，适用于 OSX 10.10";
-"broadcast_guide_open_title" = "登录 Shou";
-"broadcast_guide_open_summary" = "打开并确保 Shou 与 iOS 设备在同一 Wifi 无线网络环境下，稍后点击下方登录按钮";
-"broadcast_guide_airplay_title" = "通过 AirPlay 直播";
-"broadcast_guide_airplay_summary" = "确保 Shou 已经打开并与 iOS 设备在同一 Wifi 无线网络环境下，打开 AirPlay 连接 Shou 所在的电脑";
-"broadcast_guide_lightning_title" = "通过 Lightning to USB 直播";
-"broadcast_guide_lightning_summary" = "将 iOS 设备和电脑通过 Lightning to USB 连接";
-"broadcast_guide_sign_in_success" = "登录成功！";
-"broadcast_guide_tips_scanning" = "正在搜索, 请确保 Shou 已经打开且与 iOS 设备在同一个 Wifi 无线网络下";
-"broadcast_guide_tips_sign_in" = "选择要直播的电脑进行登录操作";
-"broadcast_guide_airshou_title" = "AirShou";
-"broadcast_guide_airshou_summary" = "体验第一个支持 iOS 9.X (9.0, 9.1, 9.2) 的非越狱录屏/直播应用 AirShou，下载: https://shou.tv/airshou";
-"broadcast_guide_jailbroken_title" = "越狱版";
-"broadcast_guide_jailbroken_summary" = "在 Cydia 中搜索 Shou，默认 BigBoss 源。推荐用越狱版的 Shou 录制或直播你的 iOS 屏幕，它有更好的性能更多特色功能。";
-"broadcast_sign_in_shou_for_mac" = "登录 Shou Mac 版?";
-
+"broadcast_camera" = "摄像头";
 "explore_search_game" = "搜索 \"%@\" 游戏？";
 
 "VIDEO_CAMERA_LIVE_TITLE_HINT" = "What are you seeing now?";

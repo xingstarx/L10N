@@ -37,7 +37,6 @@
     <string name="menu_quality">Quality</string>
     <string name="menu_message">Messages</string>
     <string name="search_hint">Search player/game</string>
-    <string name="profile_text_live" translatable="false">Live</string>
     <string name="profile_edit_profile">Edit profile</string>
     <string name="profile_archive_broadcasts">Automatically archive my broadcasts</string>
     <string name="profile_title_time">Duration</string>
@@ -177,6 +176,7 @@
     <string name="toast_api_error_connection_timeout">Network connection timeout</string>
     <string name="toast_api_error_server_5xx">Shou.TV server maintenance &#8230;</string>
     <string name="toast_api_error_not_found">Not found any message</string>
+    <string name="toast_api_error_forbidden">Forbidden access</string>
     <string name="toast_worker_start_failed_source">The capture screen failed, please try again!</string>
     <string name="toast_worker_start_failed_recorder">Cannot connect server, please check your network</string>
     <string name="toast_worker_stop_failed">The recorder cannot stop!</string>

@@ -202,8 +202,6 @@ CFBundleDisplayName = "Shou.TV";
 "toast_video_deleted" = "Bu video kullanıcı tarafından silindi";
 
 "about_title" = "Hakkında";
-"about_title_download_recorder" = "Shou Kaydediciyi İndirin";
-"about_title_download_airshou" = "AirShou\'u İndirin";
 "about_title_faq" = "SSS";
 "about_summary_faq" = "Shou SSS";
 "about_title_website" = "Website";
@@ -242,25 +240,6 @@ CFBundleDisplayName = "Shou.TV";
 "statistics_views" = "Görüntüleme %@";
 "statistics_likes" = "Beğeni %@";
 "statistics_Income" = "Gelir %@";
-
-"broadcast_title" = "Canlı yayınını başlat";
-"broadcast_guide_sign_in" = "Shou for Mac\'e Giriş Yapın";
-"broadcast_guide_download_title" = "OYNAYIŞINIZI YAYINLAYIN";
-"broadcast_guide_download_summary" = "shou.tv/mac adresinden Shou for Mac\'i yüklemeniz gerekmektedir, Mac\'inizin OSX versiyonu 10.10 ve üzeri olmalıdır";
-"broadcast_guide_open_title" = "Shou for Mac\'e Giriş Yapın";
-"broadcast_guide_open_summary" = "Shou for Mac\'i açın ve iOS cihazınızı Mac ile aynı Wi-Fi ağına bağlayın, sonra aşağıdaki giriş yap butonuna tıklayın";
-"broadcast_guide_airplay_title" = "AirPlay ile Yayın Yap";
-"broadcast_guide_airplay_summary" = "Shou for Mac ile iOS cihazınızın aynı LAN ağına bağlı olduğundan emin olun, sonra AirPlay\'i açın ve ekranınızı Shou for Mac\'e paylaşın";
-"broadcast_guide_lightning_title" = "Lightning to USB ile Yayın Yap";
-"broadcast_guide_lightning_summary" = "iOS cihazınızı Mac\'inize Lightning to USB ile bağlayınız";
-"broadcast_guide_sign_in_success" = "Başarıyla giriş yapıldı!";
-"broadcast_guide_tips_scanning" = "Arıyor, lütfen Shou for Mac\'i açtığınızdan emin olun!!";
-"broadcast_guide_tips_sign_in" = "Yayın yapmak için giriş yapmak istediğiniz bilgisayarı seçiniz";
-"broadcast_guide_airshou_title" = "AirShou";
-"broadcast_guide_airshou_summary" = "Jailbreak\'siz ilk iOS 9.X (9.0, 9.1, 9.2) ekran kaydedicisini deneyin #AirShou, indirmek için: https://shou.tv/airshou";
-"broadcast_guide_jailbroken_title" = "Jailbreak";
-"broadcast_guide_jailbroken_summary" = "Cydia\'da Shou\'yu varsayılan BigBoss Repo kaynağından arayın. iOS ekranınızı en iyi performans ve bir çok özellikle kaydetmek ve canlı yayın yapmak için önerilir.";
-"broadcast_sign_in_shou_for_mac" = "Shou for Mac\'e giriş yapmak istiyor musunuz?";
 
 "explore_search_game" = "\"%@\" oyunu ara?";
 

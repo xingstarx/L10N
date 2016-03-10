@@ -42,8 +42,8 @@ CFBundleDisplayName = "Shou.TV";
 "search_no_videos" = "No videos";
 
 "profile_text_videos" = "Broadcasts";
-"profile_text_followers" = "Followers";
-"profile_text_following" = "Following";
+"profile_text_followers" = "FOLLOWERS";
+"profile_text_following" = "FOLLOWING";
 "profile_text_live" = "LIVE";
 "profile_edit_profile" = "EDIT PROFILE";
 "profile_archive_broadcasts" = "Automatically archive my broadcasts";
@@ -141,7 +141,7 @@ CFBundleDisplayName = "Shou.TV";
 "account_toast_server_error" = "Server is under maintenance";
 "account_toast_not_found" = "Not found any message";
 "account_dialog_sign_up_failed" = "Failed to sign up";
-"account_invite_friends" = "Invite Friends";
+"account_invite_friends" = "Invite friends";
 "account_invite" = "I'm on Shou.TV as %@ . Install the app to follow my streamings.";
 "account_user_video_delete_info" = "Are you sure delete this video?";
 
@@ -194,7 +194,7 @@ CFBundleDisplayName = "Shou.TV";
 "msg_send_faild_limit" = "Your message not sent because you are sending messages too quickly. You will be able to talk in %@ seconds.";
 "msg_send_faild_same" = "Your message not sent because it is identical to the previous one you sent.";
 
-
+"toast_api_error_forbidden" = "Forbidden access";
 "toast_api_error_no_connection" = "No network connection";
 "toast_api_error_connection_timeout" = "Network connection timeout";
 "toast_api_error_server_5xx" = "Shou.TV server encounters errors";
@@ -202,8 +202,6 @@ CFBundleDisplayName = "Shou.TV";
 "toast_video_deleted" = "This video has been deleted by the broadcaster";
 
 "about_title" = "About";
-"about_title_download_recorder" = "Download Shou Recorder";
-"about_title_download_airshou" = "Download AirShou";
 "about_title_faq" = "FAQ";
 "about_summary_faq" = "Shou FAQ";
 "about_title_website" = "Website";
@@ -244,24 +242,7 @@ CFBundleDisplayName = "Shou.TV";
 "statistics_Income" = "Income %@";
 
 "broadcast_title" = "Broadcast";
-"broadcast_guide_sign_in" = "Log in Shou for Mac";
-"broadcast_guide_download_title" = "BROADCAST YOUR GAMEPLAY";
-"broadcast_guide_download_summary" = "You need to install Shou for Mac from shou.tv/mac, a Mac with OSX 10.10+";
-"broadcast_guide_open_title" = "Log in Shou for Mac";
-"broadcast_guide_open_summary" = "Open Shou for Mac and connect to the same Wi-Fi with your iOS device, then click the log in button below";
-"broadcast_guide_airplay_title" = "Broadcast with AirPlay";
-"broadcast_guide_airplay_summary" = "Ensure Shou for Mac is connecting to the same LAN with your iOS device, then open AirPlay and mirror your screen to Shou for Mac";
-"broadcast_guide_lightning_title" = "Broadcast with Lightning to USB";
-"broadcast_guide_lightning_summary" = "Connect your iOS device to the Mac with Lightning to USB";
-"broadcast_guide_sign_in_success" = "Log in successfully!";
-"broadcast_guide_tips_scanning" = "Searching, please make sure that you have open Shou for Mac!!";
-"broadcast_guide_tips_sign_in" = "Select the computer you want to broadcast to log in";
-"broadcast_guide_airshou_title" = "AirShou";
-"broadcast_guide_airshou_summary" = "Try the first non-jailbroken iOS 9.X (9.0, 9.1, 9.2) screen recorder #AirShou, download: https://shou.tv/airshou";
-"broadcast_guide_jailbroken_title" = "Jailbreak";
-"broadcast_guide_jailbroken_summary" = "Just search Shou in Cydia, with the default BigBoss Repo Source. This is the recommended approach to record or broadcast your iOS screen. With best performance and most features.";
-"broadcast_sign_in_shou_for_mac" = "Log in Shou for Mac?";
-
+"broadcast_camera" = "camera";
 "explore_search_game" = "Search \"%@\" game?";
 
 "VIDEO_CAMERA_LIVE_TITLE_HINT" = "What are you seeing now?";
