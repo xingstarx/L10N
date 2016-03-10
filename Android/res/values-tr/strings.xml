@@ -37,7 +37,6 @@
     <string name="menu_quality">Kalite</string>
     <string name="menu_message">Mesajlar</string>
     <string name="search_hint">Oyuncu/oyun ara</string>
-    <string name="profile_text_live" translatable="false">Live</string>
     <string name="profile_edit_profile">Profili düzenle</string>
     <string name="profile_archive_broadcasts">Canlı yayınları sunucuya kaydet</string>
     <string name="profile_title_time">Yayın Süresi</string>

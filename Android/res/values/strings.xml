@@ -37,7 +37,6 @@
     <string name="menu_quality">Quality</string>
     <string name="menu_message">Messages</string>
     <string name="search_hint">Search player/game</string>
-    <string name="profile_text_live" translatable="false">Live</string>
     <string name="profile_edit_profile">Edit profile</string>
     <string name="profile_archive_broadcasts">Automatically archive my broadcasts</string>
     <string name="profile_title_time">Duration</string>
