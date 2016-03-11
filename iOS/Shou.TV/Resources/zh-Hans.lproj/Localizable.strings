@@ -255,6 +255,7 @@ CFBundleDisplayName = "Shou.TV";
 "msg_popup_moderate_description" = "%@ 已经设置为管理员";
 "msg_popup_moderate_cancel_description" = "%@ 已经被取消管理员";
 
+"message_list_empty_placeholder" = "没有消息啦 /(ㄒoㄒ)/~~ ";
 "message_like_me" = "您为 %@ 的直播点了一个赞";
 "message_like" = "%@ 为您的直播点了一个赞";
 "message_follow_me" = "您现在成为 %@ 的粉丝";

@@ -256,6 +256,7 @@ CFBundleDisplayName = "Shou.TV";
 "msg_popup_moderate_description" = "%@ is moderate in this room.";
 "msg_popup_moderate_cancel_description" = "%@ is cancel moderate in this room.";
 
+"message_list_empty_placeholder" = "No messages to show.";
 "message_like_me" = "You liked %@'s broadcast";
 "message_like" = "%@ liked your broadcast";
 "message_follow_me" = "You followed %@";

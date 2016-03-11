@@ -255,6 +255,7 @@ CFBundleDisplayName = "Shou.TV";
 "msg_popup_moderate_description" = "%@ 已經設定為管理員";
 "msg_popup_moderate_cancel_description" = "%@ 已經被取消管理員";
 
+"message_list_empty_placeholder" = "沒有訊息 /(ㄒoㄒ)/~~ ";
 "message_like_me" = "您為 %@ 的影片按了一個讚";
 "message_like" = "%@ 為您的影片按了一個讚";
 "message_follow_me" = "您現在成為 %@ 的跟隨者";
