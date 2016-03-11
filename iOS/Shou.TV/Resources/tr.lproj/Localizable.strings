@@ -42,8 +42,8 @@ CFBundleDisplayName = "Shou.TV";
 "search_no_videos" = "Böyle bir video yok";
 
 "profile_text_videos" = "Yayınlar";
-"profile_text_followers" = "Takipçiler";
-"profile_text_following" = "Takip Edilen";
+"profile_text_followers" = "TAKİPÇİLER";
+"profile_text_following" = "TAKİP EDİLEN";
 "profile_text_live" = "LIVE";
 "profile_edit_profile" = "PROFİLİ DÜZENLE";
 "profile_archive_broadcasts" = "Yayınlarımı arşivle";
@@ -141,7 +141,7 @@ CFBundleDisplayName = "Shou.TV";
 "account_toast_server_error" = "Sunucu bakım altında";
 "account_toast_not_found" = "Mesaj bulunamadı";
 "account_dialog_sign_up_failed" = "Üye olunamadı";
-"account_invite_friends" = "Arkadaşlarınızı Davet Edin";
+"account_invite_friends" = "Arkadaşlarınızı davet edin";
 "account_invite" = "%@ olarak Shou.TV\'deyim. Yayınlarımı takip etmek için uygulamayı yükleyin.";
 "account_user_video_delete_info" = "Bu videoyu silmek istediğinizden emin misiniz?";
 
@@ -194,7 +194,7 @@ CFBundleDisplayName = "Shou.TV";
 "msg_send_faild_limit" = "Mesajınız gönderilmedi çünkü çok hızlı mesaj gönderiyorsunuz. %@ saniye içinde yeniden gönderebileceksiniz.";
 "msg_send_faild_same" = "Mesajınız gönderilmedi çünkü bir önceki mesajınız ile aynı.";
 
-
+"toast_api_error_forbidden" = "Erişim yasak";
 "toast_api_error_no_connection" = "Ağ bağlantısı yok";
 "toast_api_error_connection_timeout" = "Ağ bağlantısı zaman aşımına uğradı";
 "toast_api_error_server_5xx" = "Shou.TV sunucusu hatalar ile karşılaştı";
@@ -241,6 +241,7 @@ CFBundleDisplayName = "Shou.TV";
 "statistics_likes" = "Beğeni %@";
 "statistics_Income" = "Gelir %@";
 
+"broadcast_camera" = "kamera";
 "explore_search_game" = "\"%@\" oyunu ara?";
 
 "VIDEO_CAMERA_LIVE_TITLE_HINT" = "Ne görüyorsun?";
