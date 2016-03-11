@@ -241,6 +241,7 @@ CFBundleDisplayName = "Shou.TV";
 "statistics_likes" = "Beğeni %@";
 "statistics_Income" = "Gelir %@";
 
+"broadcast_title" = "Canlı Yayın";
 "broadcast_camera" = "kamera";
 "explore_search_game" = "\"%@\" oyunu ara?";
 
@@ -255,8 +256,11 @@ CFBundleDisplayName = "Shou.TV";
 "msg_popup_moderate_description" = "%@ artık bir moderatör.";
 "msg_popup_moderate_cancel_description" = "%@ moderatörünün yetkisi alındı.";
 
+"message_list_empty_placeholder" = "Gösterilecek mesaj yok.";
 "message_like_me" = "%@ oyuncusunun yayınını beğendin";
 "message_like" = "%@ yayınını beğendi";
 "message_follow_me" = "%@ oyuncusunu takip ettin";
 "message_follow" = "%@ seni takip etti";
 "message_new_placeholder" = "Bir mesaj yaz...";
+"message_tip_donate_me" = "%@ kişisine %@ ShouCash bağışladın";
+"message_tip_donate" = "%@ sana %@ ShouCash bağışladı";
