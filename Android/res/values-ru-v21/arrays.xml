@@ -2,7 +2,7 @@
 <resources>
 
     <string-array name="pref_entries_video_source_engine">
-        <item>Фантом</item>
+        <item>Фантомный</item>
     </string-array>
 
 </resources>

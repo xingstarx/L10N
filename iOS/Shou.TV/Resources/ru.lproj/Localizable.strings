@@ -1,245 +1,311 @@
 CFBundleDisplayName = "Shou.TV";
 
-"TIME_AGO_SECONDS" = "just now";
-"TIME_AGO_MINUTE" = "1 min";
-"TIME_AGO_MINUTES" = "%@ mins";
-"TIME_AGO_HOUR" = "1 hour";
-"TIME_AGO_HOURS" = "%@ hours";
-"TIME_AGO_DAY" = "1 day";
-"TIME_AGO_DAYS" = "%@ days";
-"TIME_AGO_MONTH" = "1 month";
-"TIME_AGO_MONTHS" = "%@ months";
-"TIME_AGO_YEAR" = "1 year";
-"TIME_AGO_YEARS" = "%@ years";
 
-"title_bar_done" = "Done";
+
+
+"TIME_AGO_SECONDS" = "только что";
+"TIME_AGO_MINUTE" = "1 минуту назад";
+"TIME_AGO_MINUTES" = "%@ минут(-ы) назад";
+"TIME_AGO_HOUR" = "1 час назад";
+"TIME_AGO_HOURS" = "%@ часа(-ов) назад";
+"TIME_AGO_DAY" = "1 день назад";
+"TIME_AGO_DAYS" = "%@ дня(-ей) назад";
+"TIME_AGO_MONTH" = "1 месяц назад";
+"TIME_AGO_MONTHS" = "%@ месяца(-ев) назад";
+"TIME_AGO_YEAR" = "1 год назад";
+"TIME_AGO_YEARS" = "%@ года назад";
+
+
+
+
+"title_bar_done" = "Готово";
+
+
+
 
 "dialog_button_ok" = "OK";
-"dialog_button_open" = "Open";
-"dialog_button_delete" = "Delete";
-"dialog_button_share" = "Share";
-"dialog_button_close" = "Close";
-"dialog_button_cancel" = "Cancel";
-
-"tab_home" = "Home";
-"tab_games" = "Games";
-"tab_players" = "Players";
-"tab_videos" = "Videos";
-"tab_explore" = "Explore";
-"tab_me" = "Me";
-
-"explore_recommended" = "Recommended";
-"explore_leaderboard" = "Leaderboard";
-"explore_leaderboard_text_score" = "score %@";
-
-"no_videos" = "No videos to show";
-"no_games" = "No games to show";
-"no_following" = "No following";
-"no_follower" = "No followers";
-"search_no_peoples" = "No people";
-"search_no_games" = "No game";
-"search_no_videos" = "No videos";
-
-"profile_text_videos" = "VIDEOS";
-"profile_text_followers" = "FOLLOWERS";
-"profile_text_following" = "FOLLOWING";
-"profile_edit_profile" = "EDIT PROFILE";
-"profile_archive_broadcasts" = "Automatically archive my broadcasts";
-
-"landing_btn_twitter" = "Log in with Twitter";
-"landing_btn_facebook" = "Log in with Facebook";
-"landing_btn_google" = "Log in with Google+";
-"landing_btn_sign_up" = "Sign up";
-"landing_btn_sign_in" = "Log in";
-"landing_btn_skip" = "Skip";
-"landing_google_plus_sign_in_progress" = "Log in with Google Plus";
-"landing_facebook_sign_in_progress" = "Log in with Facebook";
-"landing_twitter_sign_in_progress" = "Log in with Twitter";
-"landing_text_agree" = "By proceeding, you agree to the %@ and %@";
-"landing_text_agree_term" = "Terms of Service";
-"landing_text_agree_privacy" = "Privacy Policy";
-
-"account_text_user_views" = "%@ views";
-"account_text_user_likes" = "%@ likes";
-"account_text_user_shoucash" = "%@ cash";
-"account_text_user_viewers" = "%@ viewers";
-"account_text_game_casts" = "%@ videos";
-"account_text_game_players" = "%@ players";
-"account_text_user_view" = "%@ view";
-"account_text_user_like" = "%@ like";
-"account_text_user_viewer" = "%@ viewer";
-"account_text_user_score" = "%@ score";
-"account_text_game_cast" = "%@ video";
-"account_text_game_players" = "%@ players";
-"account_title_edit_profile" = "Edit profile";
-"account_title_change_password" = "Change your password";
-"account_label_username" = "Username";
-"account_label_password" = "Password";
-"account_label_email" = "Email";
-"account_label_full_name" = "Full Name";
-"account_label_biography" = "Biography";
-"account_label_avatar" = "Avatar";
-"account_label_cover" = "Cover";
-"account_label_upload_avatar"= "Upload Avatar";
-"account_hint_identify" = "Username or email";
-"account_hint_email" = "email";
-"account_hint_username" = "username";
-"account_hint_password" = "At least six characters";
-"account_hint_current_password" = "Current Password";
-"account_hint_new_password" = "New password";
-"account_hint_confirm_password" = "Confirm new password";
-"account_hint_name" = "name";
-"account_hint_biography" = "biography";
-"account_text_optional" = "optional";
-"account_text_username" = "Your @%@ is unique. You can always change it later.";
-"account_choose_avatar" = "Choose avatar";
-"account_choose_avatar_failed" = "Failed to choose avatar";
-"account_btn_signing_up" = "Signing Up";
-"account_btn_signed_up" = "Signed Up";
-"account_btn_signing_in" = "Logging In";
-"account_btn_signed_in" = "Logged In";
-"account_btn_sign_in_failed" = "Log in failed";
-"account_btn_sign_out" = "Sign out";
-"account_btn_forgot_password" = "Forgot your password?";
-"account_title_forget" = "Reset password";
-"account_btn_recover_password" = "Send me instruction";
-"account_btn_recovering_password" = "Sending instruction";
-"account_btn_recover_complete" = "Instruction sent";
-"account_btn_reset_password" = "Reset my password";
-"account_btn_reset_password_complete" = "Reset password complete";
-"account_btn_resetting_password" = "Reset my password";
-"account_btn_save_profile" = "Save";
-"account_btn_saving_profile" = "Saving";
-"account_btn_saved_profile" = "Saved";
-"account_btn_follow" = "FOLLOW";
-"account_btn_following" = "FOLLOWING";
-"account_toast_follow_failed" = "Error when following";
-"account_toast_invalid_email" = "Invalid email";
-"account_toast_invalid_password_or_token" = "Invalid password or token";
-"account_toast_invalid_identify_or_password" = "Invalid identify or password";
-"account_toast_invalid_password_empty" = "Please enter current password";
-"account_toast_invalid_password_again" = "Invalid password. Please enter again.";
-"account_toast_reset_password_success" = "We\'ve sent an email to you. Click the link in the email to reset your password.";
-"account_toast_reset_password_failed" = "Invalid email";
-"account_toast_profile_update_success" = "Update profile successfully!";
-"account_toast_profile_update_failed" = "Failed to update your profile";
-"account_toast_failed_to_sign_in_with_google_plus" = "Failed to log in with Google Plus :(";
-"account_toast_failed_to_sign_in_with_facebook" = "Failed to log in with Facebook :(";
-"account_toast_failed_to_sign_in_with_twitter" = "Failed to log in with Twitter :(";
-"account_toast_sign_up_failed" = "Failed to sign up with provided information";
-"account_toast_sign_in_required" = "Log in to continue";
-"account_toast_password_not_match" = "Password do not match";
-"account_toast_server_error" = "Server is under maintenance";
-"account_toast_not_found" = "Not found any message";
-"account_dialog_sign_up_failed" = "Failed to sign up";
-"account_invite_friends" = "Invite Friends";
-"account_invite" = "I'm on Shou.TV as %@ . Install the app to follow my streamings.";
-"account_user_video_delete_info" = "Are you sure delete this video?";
-
-"video_player_welcome" = "Welcome to the chat room!";
-"video_player_quality" = "Quality";
-"video_player_auto" = "Auto";
-"video_player_source" = "Source";
-"video_player_low" = "Low";
-"video_player_share" = "Share";
-"video_player_rotation" = "Rotation";
-"video_player_report" = "Report An Issue";
-"video_player_send" = "Send";
-"video_player_report_success" = "Report Success";
-"video_player_report_faild" = "Report Faild";
-"video_player_info" = "Info";
-"video_player_report_sexual" = "Sexual content";
-"video_player_report_violent" = "Violent or repulsive content";
-"video_player_report_hateful" = "Hateful or abusive content";
-"video_player_report_harmful" = "Harmful or dangerous acts";
-"video_player_report_misleading" = "Spam or misleading";
-"video_player_report_playback" = "Playback issue";
-
-"find_friends_follow_all" = "Follow all";
-"find_friends_title" = "%@ Friends";
-"find_friends_text" = "You have %@ %@ friends on Shou.TV.";
-"find_friends_no_people" = "No people found.";
-
-"action_open" = "Open";
-"action_delete" = "Delete";
-"action_share" = "Share";
-"action_edit" = "Edit";
-"action_edit_title" = "Rename";
-"action_edit_success" = "Rename success";
-"action_edit_failed" = "Rename failed";
-
-"msg_send_failed" = "Can\'t send this message";
-"msg_hint_send_msg" = "Send a message";
-"msg_hint_send_disable" = "No login sending disabled";
-"msg_ban_user" = "Ban";
-"msg_ban_user_description" = "%@ is banned in this room.";
-"msg_unban_user" = "Unban";
-"msg_unban_user_description" = "%@ is unbanned in this room.";
-"msg_popup_detail" = "Profile";
-"msg_new_message" = "New message";
-"msg_blacklist" = "Banned users";
-"msg_send_faild_too_quickly" = "Your message not sent because you are sending messages too quickly.";
-"msg_send_faild_limit" = "Your message not sent because you are sending messages too quickly. You will be able to talk in %@ seconds.";
-"msg_send_faild_same" = "Your message not sent because it is identical to the previous one you sent.";
+"dialog_button_open" = "Открыть";
+"dialog_button_delete" = "Удалить";
+"dialog_button_share" = "Поделиться";
+"dialog_button_close" = "Закрыть";
+"dialog_button_cancel" = "Отменить";
 
 
-"toast_api_error_no_connection" = "No network connection";
-"toast_api_error_connection_timeout" = "Network connection timeout";
-"toast_api_error_server_5xx" = "Shou.TV server encounters errors";
-"toast_api_error_not_found" = "Not found any message";
-"toast_video_deleted" = "This video has been deleted by the broadcaster";
 
-"about_title" = "About";
-"about_title_faq" = "FAQ";
-"about_summary_faq" = "Shou FAQ";
-"about_title_website" = "Website";
+
+"tab_home" = "Главная";
+"tab_games" = "Игры";
+"tab_players" = "Игроки";
+"tab_videos" = "Видео";
+"tab_explore" = "Просмотр";
+"tab_me" = "Я";
+
+
+
+
+"explore_recommended" = "Рекомендуемые";
+"explore_leaderboard" = "Доска лидеров";
+"explore_leaderboard_text_score" = "Очки: %@";
+
+
+
+
+"no_videos" = "Нет видео для просмотра";
+"no_games" = "Нет игр для просмотра";
+"no_following" = "Нет подписок";
+"no_follower" = "Нет подписчиков";
+"search_no_peoples" = "Нет людей";
+"search_no_games" = "Нет игр";
+"search_no_videos" = "Нет видео";
+
+
+
+
+"profile_text_videos" = "Трансляции";
+"profile_text_followers" = "ПОДПИСЧИКИ";
+"profile_text_following" = "ПОДПИСКИ";
+"profile_edit_profile" = "ИЗМЕНИТЬ ПРОФИЛЬ";
+"profile_archive_broadcasts" = "Архивировать мои трансляции";
+
+
+
+
+"landing_btn_twitter" = "Войти с помощью Twitter";
+"landing_btn_facebook" = "Войти с помощью Facebook";
+"landing_btn_google" = "Войти с помощью Google+";
+"landing_btn_sign_up" = "Зарегистрироваться";
+"landing_btn_sign_in" = "Войти";
+"landing_btn_skip" = "Пропустить";
+"landing_google_plus_sign_in_progress" = "Войти с помощью Google+";
+"landing_facebook_sign_in_progress" = "Войти с помощью Facebook";
+"landing_twitter_sign_in_progress" = "Войти с помощью Twitter";
+"landing_text_agree" = "Продолжая, вы соглашаетесь с %@ и %@";
+"landing_text_agree_term" = "Усл. использ. сервиса";
+"landing_text_agree_privacy" = "Политикой конфиденциальности";
+
+
+
+
+"account_text_user_views" = "%@ просмотры";
+"account_text_user_likes" = "%@ нравится";
+"account_text_user_shoucash" = "%@ деньги";
+"account_text_user_viewers" = "%@ зрители";
+"account_text_game_casts" = "%@ видео";
+"account_text_game_players" = "%@ игроки";
+"account_text_user_view" = "%@ просмотр";
+"account_text_user_like" = "%@ нравится";
+"account_text_user_viewer" = "%@ зритель";
+"account_text_user_score" = "%@ очки";
+"account_text_game_cast" = "%@ видео";
+"account_text_game_players" = "%@ игроки";
+"account_title_edit_profile" = "Изменение профиля";
+"account_title_change_password" = "Изменение пароля";
+"account_label_username" = "Имя пользователя";
+"account_label_password" = "Пароль";
+"account_label_email" = "Адрес эл. почты";
+"account_label_full_name" = "Имя";
+"account_label_biography" = "О себе";
+"account_label_avatar" = "Аватар";
+"account_label_cover" = "Обложка";
+"account_label_upload_avatar"= "Изменить аватар";
+"account_hint_identify" = "Имя пользователя или эл. почта";
+"account_hint_email" = "адрес эл. почта";
+"account_hint_username" = "имя пользователя";
+"account_hint_password" = "Пароль должен содержать не менее 6 символов";
+"account_hint_current_password" = "Текущий пароль";
+"account_hint_new_password" = "Новый пароль";
+"account_hint_confirm_password" = "Подтвердите новый пароль";
+"account_hint_name" = "имя";
+"account_hint_biography" = "расскажите о себе";
+"account_text_optional" = "дополнительно";
+"account_text_username" = "Имя @%@ доступно. Вы всегда сможете изменить его позже.";
+"account_choose_avatar" = "Выберите аватар";
+"account_choose_avatar_failed" = "Не удалось изменить аватар";
+"account_btn_signing_up" = "Регистрация";
+"account_btn_signed_up" = "Вход выполнен";
+"account_btn_signing_in" = "Вход";
+"account_btn_signed_in" = "Регистрация выполнена";
+"account_btn_sign_in_failed" = "Не удалось выполнить вход";
+"account_btn_sign_out" = "Выйти";
+"account_btn_forgot_password" = "Забыли пароль?";
+"account_title_forget" = "Сброс пароля";
+"account_btn_recover_password" = "Отправить мне инструкцию";
+"account_btn_recovering_password" = "Отправка инструкции";
+"account_btn_recover_complete" = "Инструкция была отправлена";
+"account_btn_reset_password" = "Сброс пароля";
+"account_btn_reset_password_complete" = "Сброс пароля выполнен";
+"account_btn_resetting_password" = "Сброс пароля";
+"account_btn_save_profile" = "Сохранить";
+"account_btn_saving_profile" = "Сохранение";
+"account_btn_saved_profile" = "Сохранено";
+"account_btn_follow" = "ПОДПИСАТЬСЯ";
+"account_btn_following" = "ПОДПИСКИ";
+"account_toast_follow_failed" = "Не удалось подписаться";
+"account_toast_invalid_email" = "Неверный адрес эл. почты";
+"account_toast_invalid_password_or_token" = "Неверный пароль или ключ доступа";
+"account_toast_invalid_identify_or_password" = "Неверный адрес эл. почты, имя пользователя или пароль";
+"account_toast_invalid_password_empty" = "Пожалуйста, введите ваш текущий пароль";
+"account_toast_invalid_password_again" = "Неверный пароль. Пожалуйста, повторите попытку.";
+"account_toast_reset_password_success" = "Мы отправили письмо с ссылкой для изменения пароля на ваш адрес эл. почты.";
+"account_toast_reset_password_failed" = "Неверный адрес эл. почты";
+"account_toast_profile_update_success" = "Профиль успешно обновлён";
+"account_toast_profile_update_failed" = "Не удалось обновить профиль";
+"account_toast_failed_to_sign_in_with_google_plus" = "Не удалось войти с помощью Google+ :(";
+"account_toast_failed_to_sign_in_with_facebook" = "Не удалось войти с помощью Facebook :(";
+"account_toast_failed_to_sign_in_with_twitter" = "Не удалось войти с помощью Twitter :(";
+"account_toast_sign_up_failed" = "Не удалось выполнить регистрацию с указанными данными";
+"account_toast_sign_in_required" = "Войдите, чтобы продолжить";
+"account_toast_password_not_match" = "Пароли не совпадают";
+"account_toast_server_error" = "Серверы находятся на техническом обслуживании";
+"account_toast_not_found" = "Сообщений не найдено";
+"account_dialog_sign_up_failed" = "Не удалось зарегистрироваться";
+"account_invite_friends" = "Пригласить друзей";
+"account_invite" = "Я на Shou.TV под именем %@. Установи приложение, чтобы следить за моими трансляциями.";
+"account_user_video_delete_info" = "Вы уверены, что хотите удалить это видео?";
+
+
+
+
+"video_player_welcome" = "Добро пожаловать в чат!";
+"video_player_quality" = "Качество";
+"video_player_auto" = "Автоматически";
+"video_player_source" = "Исходное";
+"video_player_low" = "Низкое";
+"video_player_share" = "Поделиться";
+"video_player_rotation" = "Поворот";
+"video_player_report" = "Сообщить о проблеме";
+"video_player_send" = "Отпр.";
+"video_player_report_success" = "Жалоба была отправлена";
+"video_player_report_faild" = "Не удалось отправить жалобу";
+"video_player_info" = "Информация";
+"video_player_report_sexual" = "Порнография";
+"video_player_report_violent" = "Насилие";
+"video_player_report_hateful" = "Оскорбление";
+"video_player_report_harmful" = "Экстремизм";
+"video_player_report_misleading" = "Спам";
+"video_player_report_playback" = "Проблемы с воспроизведением";
+
+
+
+
+"find_friends_follow_all" = "Подписаться на всех";
+"find_friends_title" = "%@ друзей";
+"find_friends_text" = "У вас %@ %@ друзей на Shou.TV.";
+"find_friends_no_people" = "Друзей не найдено.";
+
+
+
+
+"action_open" = "Открыть";
+"action_delete" = "Удалить";
+"action_share" = "Поделиться";
+"action_edit" = "Изменить";
+"action_edit_title" = "Переименовать";
+"action_edit_success" = "Успешно переименовано";
+"action_edit_failed" = "Не удалось переименовать";
+
+
+
+
+"msg_send_failed" = "Сообщение не удалось отправить";
+"msg_hint_send_msg" = "Отпр.";
+"msg_hint_send_disable" = "Не удалось отправить данные для входа";
+"msg_ban_user" = "Заблок.";
+"msg_ban_user_description" = "%@ заблокирован(-а) в этом чате.";
+"msg_unban_user" = "Разблок.";
+"msg_unban_user_description" = "%@ разблокирован(-а) в этом чате.";
+"msg_popup_detail" = "Профиль";
+"msg_new_message" = "Сообщение...";
+"msg_blacklist" = "Чёрный список";
+"msg_send_faild_too_quickly" = "Сообщение не было отправлено, так как вы отправляете сообщения слишком часто.";
+"msg_send_faild_limit" = "Сообщение не было отправлено, так как вы отправляете сообщения слишком часто. Повторите попытку через %@ секунд(-ы).";
+"msg_send_faild_same" = "Сообщение не было отправлено, так как оно похоже на предыдущее.";
+
+
+
+
+
+
+
+"toast_api_error_forbidden" = "Доступ запрещён";
+"toast_api_error_no_connection" = "Нет сети";
+"toast_api_error_connection_timeout" = "Время ожидания сети истекло";
+"toast_api_error_server_5xx" = "Обнаружены неполадки на серверах Shou.TV";
+"toast_api_error_not_found" = "Сообщений не найдено";
+"toast_video_deleted" = "Это видео было удалено пользователем";
+
+
+
+
+"about_title" = "О приложении";
+"about_title_faq" = "Вопросы и ответы";
+"about_summary_faq" = "Вопросы и ответы";
+"about_title_website" = "Сайт";
 "about_summary_website" = "Shou.TV";
 "about_title_facebook" = "Facebook";
 "about_summary_facebook" = "Shou.TV";
 "about_title_twitter" = "Twitter";
 "about_summary_twitter" = "@Shou_TV";
-"about_title_privacy_policy" = "Privacy policy";
-"about_title_terms_of_service" = "Terms of service";
-"about_title_version" = "Version";
-"about_title_copyright" = "Copyright";
-"about_title_rate" = "Rate this app";
-"about_title_feedback" = "Feedback";
+"about_title_privacy_policy" = "Политика конфиденциальности";
+"about_title_terms_of_service" = "Условия использование сервиса";
+"about_title_version" = "Версия";
+"about_title_copyright" = "Разработчик";
+"about_title_rate" = "Оценить приложение";
+"about_title_feedback" = "Обратная связь";
 "about_title_instagram" = "Instagram";
 
-"From Photo Library" = "From Photo Library";
-"From Camera" = "From Camera";
-"Choose Source" = "Choose Source";
-"imagePicker_failed"  = "Get Picture failed, please re-select pictures";
 
-"app_download" = "Install";
-"app_open" = "Open";
 
-"payment_title_label" = "Get More ShouCash!";
-"payment_faild" = "Purchase failed!";
-"payment_success" = "Purchase successfully! got %@ ShouCash, total %@ ShouCash";
-"payment_faild_not_allow" = " In-App Purchases is disabled. Settings > General > Restrictions > Turn on In-App Purchases";
-"lackmoney_title_label" = "ShouCash Shortage!";
-"lackmoney_topup_label" = "Buy more ShouCash to support the broadcaster";
-"lackmoney_buy_button" = "Buy";
-"statistics_title" = "Statistics";
-"statistics_title_views" = "Views";
-"statistics_title_likes" = "Likes";
-"statistics_title_Income" = "Income";
-"statistics_views" = "Views %@";
-"statistics_likes" = "Likes %@";
-"statistics_Income" = "Income %@";
 
-"explore_search_game" = "Search \"%@\" game?";
+"From Photo Library" = "Выбрать из Фотопленки";
+"From Camera" = "Сделать фото";
+"Choose Source" = "Выберите новую аватарку";
+"imagePicker_failed"  = "Не удалось выбрать фото, пожалуйста, повторите попытку";
 
-"VIDEO_CAMERA_LIVE_TITLE_HINT" = "What are you seeing now?";
-"VIDEO_CAMERA_STREAMING_READY" = "Start Broadcast";
-"VIDEO_CAMERA_STREAMING_STOP" = "Stop Broadcast";
-"DIALOG_FAILD_TO_CAMERA_GRANTED" = "Grant camera failed";
-"DIALOG_FAILD_TO_MIC_GRANTED" = "Grant mic failed";
-"msg_popup_moderate" = "Moderate";
-"msg_popup_moderate_cancel" = "Cancel Moderate";
-"msg_popup_moderate_description" = "%@ is moderate in this room.";
-"msg_popup_moderate_cancel_description" = "%@ is cancel moderate in this room.";
 
-"message_like" = "%@ нравится ваша трансляция";
-"message_follow" = "%@ подписан(-а) на вас";
+
+
+"app_download" = "Установить";
+"app_open" = "Открыть";
+
+
+
+
+"payment_title_label" = "Купите больше ShouCash!";
+"payment_faild" = "Не удалось выполнить покупку";
+"payment_success" = "Покупка успешно выполнена! Получено %@ ShouCash, всего %@ ShouCash";
+"payment_faild_not_allow" = "Встроенные покупки выключены. Перейдите в «Настройки» > «Основные» > «Ограничения» и передвиньте переключатель «Встроенные покупки» в «Вкл.»";
+"lackmoney_title_label" = "Недостаточно ShouCash!";
+"lackmoney_topup_label" = "Купите больше ShouCash";
+"lackmoney_buy_button" = "Купить";
+"statistics_title" = "Статистика";
+"statistics_title_views" = "Просмотры";
+"statistics_title_likes" = "Отметки «Нравится»";
+"statistics_title_Income" = "Доход";
+"statistics_views" = "Просмотры: %@";
+"statistics_likes" = "Отметки «Нравится»: %@";
+"statistics_Income" = "Доход: %@";
+
+
+
+
+"explore_search_game" = "Ищите игру «%@»?";
+
+
+
+
+"VIDEO_CAMERA_LIVE_TITLE_HINT" = "Что вы сейчас видите?";
+"VIDEO_CAMERA_STREAMING_READY" = "Начать трансляцию";
+"VIDEO_CAMERA_STREAMING_STOP" = "Остановить трансляцию";
+"DIALOG_FAILD_TO_CAMERA_GRANTED" = "Не удалось получить разрешение на доступ к камере";
+"DIALOG_FAILD_TO_MIC_GRANTED" = "Не удалось получить разрешение на доступ к микрофону";
+"msg_popup_moderate" = "Назначить модератором";
+"msg_popup_moderate_cancel" = "Удалить из модераторов";
+"msg_popup_moderate_description" = "%@ назначен(-а) модератором.";
+"msg_popup_moderate_cancel_description" = "%@ удален(-а) из модераторов.";
+
+
+
+
+"message_like" = "Пользователю %@ нравится ваша трансляция";
+"message_follow" = "Пользователь %@ подписался на вас";
