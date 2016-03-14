@@ -1,5 +1,3 @@
-CFBundleDisplayName = "Shou.TV";
-
 "TIME_AGO_SECONDS" = "剛剛";
 "TIME_AGO_MINUTE" = "1 分鍾前";
 "TIME_AGO_MINUTES" = "%@ 分鍾前";

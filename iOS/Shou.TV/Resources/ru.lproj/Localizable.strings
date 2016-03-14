@@ -1,8 +1,3 @@
-CFBundleDisplayName = "Shou.TV";
-
-
-
-
 "TIME_AGO_SECONDS" = "только что";
 "TIME_AGO_MINUTE" = "1 минуту назад";
 "TIME_AGO_MINUTES" = "%@ минут(-ы) назад";
@@ -15,13 +10,7 @@ CFBundleDisplayName = "Shou.TV";
 "TIME_AGO_YEAR" = "1 год назад";
 "TIME_AGO_YEARS" = "%@ года назад";
 
-
-
-
 "title_bar_done" = "Готово";
-
-
-
 
 "dialog_button_ok" = "OK";
 "dialog_button_open" = "Открыть";
@@ -30,9 +19,6 @@ CFBundleDisplayName = "Shou.TV";
 "dialog_button_close" = "Закрыть";
 "dialog_button_cancel" = "Отменить";
 
-
-
-
 "tab_home" = "Главная";
 "tab_games" = "Игры";
 "tab_players" = "Игроки";
@@ -40,15 +26,9 @@ CFBundleDisplayName = "Shou.TV";
 "tab_explore" = "Просмотр";
 "tab_me" = "Я";
 
-
-
-
 "explore_recommended" = "Рекомендуемые";
 "explore_leaderboard" = "Доска лидеров";
 "explore_leaderboard_text_score" = "Очки: %@";
-
-
-
 
 "no_videos" = "Нет видео для просмотра";
 "no_games" = "Нет игр для просмотра";
@@ -58,17 +38,11 @@ CFBundleDisplayName = "Shou.TV";
 "search_no_games" = "Нет игр";
 "search_no_videos" = "Нет видео";
 
-
-
-
 "profile_text_videos" = "Трансляции";
 "profile_text_followers" = "ПОДПИСЧИКИ";
 "profile_text_following" = "ПОДПИСКИ";
 "profile_edit_profile" = "ИЗМЕНИТЬ ПРОФИЛЬ";
 "profile_archive_broadcasts" = "Архивировать мои трансляции";
-
-
-
 
 "landing_btn_twitter" = "Войти с помощью Twitter";
 "landing_btn_facebook" = "Войти с помощью Facebook";
@@ -82,9 +56,6 @@ CFBundleDisplayName = "Shou.TV";
 "landing_text_agree" = "Продолжая, вы соглашаетесь с %@ и %@";
 "landing_text_agree_term" = "Усл. использ. сервиса";
 "landing_text_agree_privacy" = "Политикой конфиденциальности";
-
-
-
 
 "account_text_user_views" = "%@ просмотры";
 "account_text_user_likes" = "%@ нравится";
