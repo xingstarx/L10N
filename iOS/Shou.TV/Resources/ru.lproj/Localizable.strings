@@ -255,20 +255,13 @@ CFBundleDisplayName = "Shou.TV";
 "about_title_instagram" = "Instagram";
 
 
-
-
 "From Photo Library" = "Выбрать из Фотопленки";
 "From Camera" = "Сделать фото";
 "Choose Source" = "Выберите новую аватарку";
-"imagePicker_failed"  = "Не удалось выбрать фото, пожалуйста, повторите попытку";
-
-
-
+"imagePicker_failed" = "Не удалось выбрать фото, пожалуйста, повторите попытку";
 
 "app_download" = "Установить";
 "app_open" = "Открыть";
-
-
 
 
 "payment_title_label" = "Купите больше ShouCash!";
