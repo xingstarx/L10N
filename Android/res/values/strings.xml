@@ -422,6 +422,7 @@
     <string name="fragment_rating_interested">Not interested</string>
     <string name="pref_title_video_broadcast_type">Broadcast</string>
     <string name="activity_private_broadcast_title">Private Broadcast</string>
+    <string name="activity_public_broadcast_title">Public Broadcast</string>
     <string name="activity_private_broadcast_head_desc">Private Broadcast do not show up in the Globa section and only notify those who you select.</string>
     <string name="activity_private_broadcast_head_select_title">MUTUALS</string>
     <string name="activity_private_broadcast_make_private_button">Make Private (%s)</string>
@@ -431,4 +432,6 @@
     <string name="activity_share_broadcast_title">Share Broadcast</string>
     <string name="activity_share_broadcast_clipboard_title">Copy to clipboard</string>
     <string name="activity_share_broadcast_clipboard_toast_copy_success">Copy to clipboard</string>
+    <string name="toast_livefragment_screen_live_people">Please select the mutuals</string>
+    <string name="activity_screen_live_people_hint">Choose mutuals</string>
 </resources>

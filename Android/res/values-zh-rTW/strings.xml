@@ -405,6 +405,7 @@
     <string name="activity_private_broadcast_head_select_title">相互追蹤</string>
     <string name="activity_private_broadcast_make_private_button">設為私人 (%s)</string>
     <string name="activity_private_broadcast_no_friends">未相互追蹤</string>
+    <string name="activity_public_broadcast_title">公開直播</string>
     <string name="activity_private_broadcast_share_button">分享 (%s)</string>
     <string name="activity_share_broadcast_title">分享直播</string>
     <string name="activity_share_broadcast_clipboard_title">複製連結</string>
