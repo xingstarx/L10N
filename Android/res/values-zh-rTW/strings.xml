@@ -398,4 +398,15 @@
     <string name="activity_moderator_msg_unmoderator">取消授權</string>
     <string name="notification_push_cash_content_me">您抖內了 %s ShouCash</string>
     <string name="pref_title_notifications_tip">抖內</string>
+    <string name="pref_title_video_broadcast_type">直播類型</string>
+    <string name="pref_entries_video_broadcast_type">私人(%s)</string>
+    <string name="activity_private_broadcast_title">私人直播</string>
+    <string name="activity_private_broadcast_head_desc">私人直播不會顯示在首頁，它只通知你所選擇的朋友。</string>
+    <string name="activity_private_broadcast_head_select_title">相互追蹤</string>
+    <string name="activity_private_broadcast_make_private_button">設為私人 (%s)</string>
+    <string name="activity_private_broadcast_no_friends">未相互追蹤</string>
+    <string name="activity_private_broadcast_share_button">分享 (%s)</string>
+    <string name="activity_share_broadcast_title">分享直播</string>
+    <string name="activity_share_broadcast_clipboard_title">複製連結</string>
+    <string name="activity_share_broadcast_clipboard_toast_copy_success">複製連結</string>
 </resources>
