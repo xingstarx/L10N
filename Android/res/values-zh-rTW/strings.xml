@@ -41,10 +41,10 @@
     <string name="profile_title_view">觀看數</string>
     <string name="profile_title_like">喜歡數</string>
     <string name="profile_title_money">ShouCash</string>
-    <string name="profile_title_broadcast">視頻</string>
+    <string name="profile_title_broadcast">直播影片</string>
     <string name="profile_title_game">遊戲</string>
     <string name="profile_title_profile">編輯資料</string>
-    <string name="profile_title_black">拉黑</string>
+    <string name="profile_title_black">封鎖</string>
     <string name="profile_title_logout">登出</string>
     <string name="activity_landing_btn_sign_up">註冊</string>
     <string name="activity_landing_btn_sign_in">登入</string>
@@ -129,9 +129,9 @@
     <string name="activity_accessibility_enable">立即使用隱私保護</string>
     <string name="activity_accessibility_setting">設定隱私保護</string>
     <string name="activity_accessibility_title">隱私保護功能</string>
-    <string name="activity_accessibility_disable_label">到設定裡找到 Shou ，點它，並啟用它。您的密碼與隱私資訊就不會被錄影或直播了。</string>
+    <string name="activity_accessibility_disable_label">到設定裡找到 Shou，按一下它，並啟用它。您的密碼與隱私資訊就不會被錄影或直播了。</string>
     <string name="activity_accessibility_disable_setting">前往設定</string>
-    <string name="activity_game_group_favorite">我跟隨的遊戲</string>
+    <string name="activity_game_group_favorite">我追蹤的遊戲</string>
     <string name="activity_game_group_played">我直播過的遊戲</string>
     <string name="activity_statistics_title">統計</string>
     <string name="activity_statistics_title_views">觀看統計</string>
@@ -151,7 +151,7 @@
     <string name="streaming_recording">正在錄影</string>
     <string name="streaming_mirroring">正在螢幕投射</string>
     <string name="streaming_chat">聊天</string>
-    <string name="streaming_pop_msg">彈幕</string>
+    <string name="streaming_pop_msg">寫訊息</string>
     <string name="streaming_btn_stop">停止</string>
     <string name="streaming_chat_title">聊天室</string>
     <string name="alert_dialog_button_close">關閉</string>
@@ -224,7 +224,7 @@
     <string name="pref_summary_audio_restore_driver">如果你修正過音效驅動，這個操作可以讓驅動還原到初始狀態</string>
     <string name="pref_title_misc_auto_restart">自動重連</string>
     <string name="pref_title_misc_network_type">直播結束</string>
-    <string name="pref_summary_misc_auto_restart">在螢幕直播或螢幕投射失敗後自動重新連接</string>
+    <string name="pref_summary_misc_auto_restart">在螢幕直播或螢幕投射失敗後自動重新連線</string>
     <string name="pref_title_misc_bubble">啟用多功能浮動視窗</string>
     <string name="pref_summary_misc_bubble">在直播或螢幕投射時顯示多功能浮動視窗</string>
     <string name="pref_title_misc_server">直播伺服器選擇</string>
@@ -244,7 +244,7 @@
     <string name="pref_title_misc_open_source">開放原始碼軟體協定</string>
     <string name="pref_title_misc_privacy_policy">隱私政策</string>
     <string name="pref_title_misc_terms_of_service">服務條款</string>
-    <string name="pref_title_notifications_push">推送</string>
+    <string name="pref_title_notifications_push">推播</string>
     <string name="pref_summary_notifications_push">是否接收訊息推播</string>
     <string name="msg_description_send">寄送</string>
     <string name="msg_hint_send_msg">開始聊天</string>
@@ -253,7 +253,7 @@
     <string name="msg_ban_user_description">%s 已經被禁言</string>
     <string name="msg_unban_user">取消禁言</string>
     <string name="msg_unban_user_description">%s 已經被取消禁言</string>
-    <string name="msg_popup_detail">查看</string>
+    <string name="msg_popup_detail">個人資料</string>
     <string name="emoji_no_recent">最近沒有使用過表情</string>
     <string name="emoji_description_back_space">Back space</string>
     <string name="emoji_description_cell">格子</string>
@@ -316,7 +316,7 @@
     <string name="fragment_shou_cash_success_msg">購買成功！新獲得 %1$d ShouCash，總計 %2$d ShouCash</string>
     <string name="fragment_shoucash_msg_count">%s個</string>
     <string name="msg_description_like">喜歡</string>
-    <string name="msg_description_reward">打賞</string>
+    <string name="msg_description_reward">獎勵</string>
     <string name="pref_title_category_notification">通知</string>
     <string name="pref_summary_category_notification">在此裝置上顯示通知</string>
     <string name="pref_title_notifications_vibrate">振動</string>
@@ -336,7 +336,7 @@
     <string name="msg_popup_at">提及</string>
     <string name="fragment_bottom_toast_ban_info">禁言中 &#8230;</string>
     <string name="fragment_bottom_toast_unban_info">取消禁言 &#8230;</string>
-    <string name="msg_error_often">您的訊息傳送過於頻繁，請在%d秒后重試</string>
+    <string name="msg_error_often">您的訊息傳送過於頻繁，請在%d秒後重試</string>
     <string name="msg_error_quickly">您的訊息傳送過於頻繁，請稍後重試</string>
     <string name="msg_error_similar">請勿傳送重複內容</string>
     <string name="permission_title">權限</string>
