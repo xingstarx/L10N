@@ -410,8 +410,8 @@
     <string name="activity_share_broadcast_clipboard_title">複製連結</string>
     <string name="activity_share_broadcast_clipboard_toast_copy_success">複製連結</string>
     <string name="fragment_rating_happy">你開心我們快樂</string>
-    <string name="fragment_rating_initial">喜歡 Shou 嗎？</string>
-    <string name="fragment_rating_good">點擊“繼續”將您的好評分享到 Google Play ， 感謝您的支持！</string>
+    <string name="fragment_rating_initial">喜歡 Shou 嗎?</string>
+    <string name="fragment_rating_good">點擊“繼續”將您的好評分享到 Google Play, 感謝您的支持!</string>
     <string name="fragment_rating_general">點擊“繼續”將您的建議反饋給我們！</string>
     <string name="fragment_rating_continue">繼續</string>
     <string name="fragment_rating_interested">殘忍的拒絕</string>
