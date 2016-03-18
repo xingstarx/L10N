@@ -33,15 +33,15 @@
 
 "no_videos" = "無影片";
 "no_games" = "無遊戲";
-"no_following" = "未跟隨別人";
-"no_follower" = "無人跟隨";
+"no_following" = "未追蹤他人";
+"no_follower" = "無人追蹤";
 "search_no_peoples" = "無相關玩家";
 "search_no_games" = "無相關遊戲";
 "search_no_videos" = "無相關影片";
 
 "profile_text_videos" = "影片";
-"profile_text_followers" = "跟隨者";
-"profile_text_following" = "關注中";
+"profile_text_followers" = "粉絲";
+"profile_text_following" = "追蹤中";
 "profile_edit_profile" = "編輯個人檔案";
 "profile_archive_broadcasts" = "自動存檔我的直播";
 "profile_text_times" = "時長";
@@ -118,9 +118,9 @@
 "account_btn_save_profile" = "儲存";
 "account_btn_saving_profile" = "儲存中";
 "account_btn_saved_profile" = "儲存成功";
-"account_btn_follow" = "跟隨";
-"account_btn_following" = "已跟隨";
-"account_toast_follow_failed" = "跟隨失敗了";
+"account_btn_follow" = "追蹤";
+"account_btn_following" = "已追蹤";
+"account_toast_follow_failed" = "追蹤失敗了";
 "account_toast_invalid_email" = "無效的 Email";
 "account_toast_invalid_password_or_token" = "無效的密碼與連結";
 "account_toast_invalid_identify_or_password" = "無效的帳號與密碼";
@@ -138,7 +138,7 @@
 "account_toast_password_not_match" = "密碼不匹配";
 "account_dialog_sign_up_failed" = "註冊失敗";
 "account_invite_friends" = "邀請好友";
-"account_invite" = "我在 Shou.TV 叫 %@ ，請安裝此應用程式並跟隨我直播！";
+"account_invite" = "我在 Shou.TV 叫 %@ ，請安裝此應用程式並追蹤我直播！";
 "account_user_video_delete_info" = "要刪除此影片嗎？";
 
 "video_player_welcome" = "歡迎來到我的聊天室！";
@@ -163,7 +163,7 @@
 
 "chat_room_title" = "聊天室";
 
-"find_friends_follow_all" = "全部跟隨";
+"find_friends_follow_all" = "全部追蹤";
 "find_friends_title" = "%@ 朋友";
 "find_friends_text" = "您在 Shou.TV 有 %@ 位 %@ 朋友";
 "find_friends_no_people" = "無任何朋友";
@@ -256,8 +256,8 @@
 "message_list_empty_placeholder" = "沒有訊息 /(ㄒoㄒ)/~~ ";
 "message_like_me" = "您為 %@ 的影片按了一個讚";
 "message_like" = "%@ 為您的影片按了一個讚";
-"message_follow_me" = "您現在成為 %@ 的跟隨者";
-"message_follow" = "%@ 現在是您的跟隨者";
+"message_follow_me" = "您現在成為 %@ 的粉絲";
+"message_follow" = "%@ 現在是您的粉絲";
 "message_new_placeholder" = "寫訊息...";
 "message_tip_donate_me" = "您抖內了 %@ %@ ShouCash";
 "message_tip_donate" = "%@ 抖內了您 %@ ShouCash";
