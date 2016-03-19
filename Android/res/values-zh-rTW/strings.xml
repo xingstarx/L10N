@@ -288,7 +288,7 @@
     <string name="video_quality_low">流暢</string>
     <string name="video_duration_placement">0:00</string>
     <string name="root_access_title">需要 Root 系統權限</string>
-    <string name="root_access_link">什麼是 Root 權限?</string>
+    <string name="root_access_link">什麼是 Root 權限？</string>
     <string name="no_capture_screen_permission">需要截取螢幕的權限</string>
     <string name="get_capture_screen_permission">取得權限</string>
     <string name="notification_push_live_multi_title">%1$s 正在直播 %2$s</string>
@@ -303,12 +303,12 @@
     <string name="notification_push_cash_content">抖內給您 %s ShouCash</string>
     <string name="notification_push_cash_big_content">%1$s %2$s 抖內給您 %3$s ShouCash</string>
     <string name="profile_archive_broadcasts">自動收藏我的直播</string>
-    <string name="shou_cash_info">ShouCash 不足!</string>
-    <string name="send_cash_info">請充值后再抖內!</string>
+    <string name="shou_cash_info">ShouCash 不足！</string>
+    <string name="send_cash_info">請充值后再抖內！</string>
     <string name="menu_statistic">統計</string>
     <string name="menu_charge">充值</string>
-    <string name="msg_description_more_cash">取得更多的 ShouCash!</string>
-    <string name="toast_shou_cash_failure">ShouCash 失敗!</string>
+    <string name="msg_description_more_cash">取得更多的 ShouCash！</string>
+    <string name="toast_shou_cash_failure">ShouCash 失敗！</string>
     <string name="toast_shou_cash_google_play_service_not_found">找不到 Google Play 服務</string>
     <string name="toast_chat_textview_load_url_failure">無法載入連結</string>
     <string name="toast_msg_buy_shou_cash_status">購買 %s</string>
@@ -347,7 +347,7 @@
     <string name="action_open">開啟</string>
     <string name="activity_banlist_title">禁言清單</string>
     <string name="activity_no_banlist">無禁言清單</string>
-    <string name="fragment_video_delete_info">要刪除此影片嗎?</string>
+    <string name="fragment_video_delete_info">要刪除此影片嗎？</string>
     <string name="streaming_front_carema">攝像頭</string>
     <string name="streaming_privacy">隱私</string>
     <string name="streaming_privacy_option_auto">自動保護</string>
@@ -356,7 +356,7 @@
     <string name="streaming_privacy_protection_open">隱私保護已開啟</string>
     <string name="streaming_privacy_settings">設定</string>
     <string name="streaming_privacy_protection_close">關閉隱私保護</string>
-    <string name="streaming_privacy_toast_info">隱私保護已關閉,當您輸入使用者名稱、密碼等敏感資訊時請開啟手動保護!</string>
+    <string name="streaming_privacy_toast_info">隱私保護已關閉,當您輸入使用者名稱、密碼等敏感資訊時請開啟手動保護！</string>
     <string name="video_player_play_info_end">播放結束</string>
     <string name="video_player_living_play_info_end">直播結束</string>
     <string name="fragment_bottom_un_moderator_info">正在取消授權</string>
