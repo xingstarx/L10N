@@ -261,3 +261,5 @@
 "message_new_placeholder" = "寫訊息...";
 "message_tip_donate_me" = "您抖內了 %@ %@ ShouCash";
 "message_tip_donate" = "%@ 抖內了您 %@ ShouCash";
+
+"menu_copy" = "複製";

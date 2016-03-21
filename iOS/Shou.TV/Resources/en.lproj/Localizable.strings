@@ -263,3 +263,4 @@
 "message_tip_donate_me" = "You donated %@ %@ ShouCash";
 "message_tip_donate" = "%@ donated you %@ ShouCash";
 
+"menu_copy" = "Copy";
