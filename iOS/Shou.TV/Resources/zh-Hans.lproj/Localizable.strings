@@ -261,3 +261,5 @@
 "message_new_placeholder" = "发消息...";
 "message_tip_donate_me" = "您赠送了 %@ %@ ShouCash";
 "message_tip_donate" = "%@ 赠送给您 %@ ShouCash";
+
+"menu_copy" = "复制";
