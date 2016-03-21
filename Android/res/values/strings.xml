@@ -417,7 +417,7 @@
     <string name="fragment_rating_happy">We\'re happy you\'re happy</string>
     <string name="fragment_rating_initial">How do you like our app\?</string>
     <string name="fragment_rating_good">Please share this rating of our app on the Google Play Store by tapping \"Continue\"!</string>
-    <string name="fragment_rating_general">Please feedback your sugguest of our app by tapping \"Continue\"!</string>
+    <string name="fragment_rating_general">Please feedback your suggest of our app by tapping \"Continue\"!</string>
     <string name="fragment_rating_continue">Continue</string>
     <string name="fragment_rating_interested">Not interested</string>
 
