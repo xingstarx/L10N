@@ -316,6 +316,8 @@
     <string name="notification_push_cash_big_title">您收到 %s 笔赠送</string>
     <string name="notification_push_cash_content">赠送给您 %s ShouCash</string>
     <string name="notification_push_cash_big_content">%1$s %2$s 赠送给您 %3$s ShouCash</string>
+    <string name="notification_push_share_cast_multi_title">%1$s 正在分享直播 %2$s</string>
+    <string name="notification_push_share_cast_big_title">您关注的 %s 位好友正在分享直播</string>
     <string name="profile_archive_broadcasts">自动存档我的直播</string>
     <string name="shou_cash_info">ShouCash 不足!</string>
     <string name="send_cash_info">请充值后再赠送!</string>
@@ -420,4 +422,19 @@
     <string name="fragment_rating_general">点击“继续”将您的建议反馈给我们!</string>
     <string name="fragment_rating_continue">继续</string>
     <string name="fragment_rating_interested">残忍的拒绝</string>
+    <string name="pref_title_video_broadcast_type">直播类型</string>
+    <string name="pref_entries_video_broadcast_type">私密(%s)</string>
+    <string name="activity_private_broadcast_title">私密直播</string>
+    <string name="activity_public_broadcast_title">公开直播</string>
+    <string name="activity_private_broadcast_head_desc">私密直播不会显示在首页,它只通知你所选择的好友.</string>
+    <string name="activity_private_broadcast_head_select_title">相互关注</string>
+    <string name="activity_private_broadcast_make_private_button">设置私密 (%s)</string>
+    <string name="activity_private_broadcast_no_friends">没有相互关注</string>
+    <string name="activity_private_broadcast_share_button">分享 (%s)</string>
+    <string name="activity_share_broadcast_title">分享直播</string>
+    <string name="activity_share_broadcast_clipboard_title">拷贝链接</string>
+    <string name="activity_share_broadcast_clipboard_toast_copy_success">拷贝链接</string>
+    <string name="activity_share_broadcast_head_desc">给相互关注的好友分享直播</string>
+    <string name="activity_share_broadcast_share_success">分享成功</string>
+    <string name="activity_share_broadcast_more_title">更多</string>
 </resources>

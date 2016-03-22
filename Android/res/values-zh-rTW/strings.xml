@@ -302,6 +302,8 @@
     <string name="notification_push_cash_big_title">您收到 %s 筆抖內</string>
     <string name="notification_push_cash_content">抖內給您 %s ShouCash</string>
     <string name="notification_push_cash_big_content">%1$s %2$s 抖內給您 %3$s ShouCash</string>
+    <string name="notification_push_share_cast_multi_title">%1$s 正在分享直播 %2$s</string>
+    <string name="notification_push_share_cast_big_title">您关注的 %s 個好友正在分享直播</string>
     <string name="profile_archive_broadcasts">自動收藏我的直播</string>
     <string name="shou_cash_info">ShouCash 不足！</string>
     <string name="send_cash_info">請充值后再抖內！</string>
@@ -405,6 +407,7 @@
     <string name="activity_private_broadcast_head_select_title">相互追蹤</string>
     <string name="activity_private_broadcast_make_private_button">設為私人 (%s)</string>
     <string name="activity_private_broadcast_no_friends">未相互追蹤</string>
+    <string name="activity_public_broadcast_title">公開直播</string>
     <string name="activity_private_broadcast_share_button">分享 (%s)</string>
     <string name="activity_share_broadcast_title">分享直播</string>
     <string name="activity_share_broadcast_clipboard_title">複製連結</string>
@@ -415,4 +418,7 @@
     <string name="fragment_rating_general">輕觸「繼續」將您的建議回饋給我們！</string>
     <string name="fragment_rating_continue">繼續</string>
     <string name="fragment_rating_interested">殘忍的拒絕</string>
+    <string name="activity_share_broadcast_head_desc">給相互關注的好友分享直播</string>
+    <string name="activity_share_broadcast_share_success">分享成功</string>
+    <string name="activity_share_broadcast_more_title">更多</string>
 </resources>

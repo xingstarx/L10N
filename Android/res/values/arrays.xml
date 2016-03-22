@@ -66,5 +66,10 @@
         <item>players</item>
         <item>games</item>
     </string-array>
+    <string-array name="pref_entries_video_broadcast_type">
+        <item>Public</item>
+        <item>Private</item>
+    </string-array>
+
 
 </resources>
