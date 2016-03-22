@@ -433,7 +433,7 @@
     <string name="activity_private_broadcast_share_button">Share (%s)</string>
     <string name="activity_share_broadcast_title">Share Broadcast</string>
     <string name="activity_share_broadcast_clipboard_title">Copy to clipboard</string>
-    <string name="activity_share_broadcast_clipboard_toast_copy_success">Copy to clipboard</string>
+    <string name="activity_share_broadcast_clipboard_toast_copy_success">Copied to clipboard</string>
     <string name="toast_livefragment_screen_live_people">Please select the mutuals</string>
     <string name="activity_screen_live_people_hint">Choose mutuals</string>
     <string name="activity_share_broadcast_more_title">More</string>
