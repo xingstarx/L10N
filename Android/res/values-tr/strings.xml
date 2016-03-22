@@ -422,7 +422,7 @@
     <string name="fragment_rating_general">Lütfen \"Devam\" tuşuna basarak önerinizi bize yollayın!</string>
     <string name="fragment_rating_continue">Devam</string>
     <string name="fragment_rating_interested">İlgilenmiyorum</string>
-<string name="pref_title_video_broadcast_type">Canlı Yayın</string>
+    <string name="pref_title_video_broadcast_type">Canlı Yayın</string>
     <string name="activity_private_broadcast_title">Özel yayın</string>
     <string name="activity_public_broadcast_title">Herkese açık yayın</string>
     <string name="activity_private_broadcast_head_desc">Özel yayın Son Eklenenler sekmesinde gözükmez ve sadece seçtiğiniz kişiler bildirim alır.</string>
