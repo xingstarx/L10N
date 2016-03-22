@@ -319,6 +319,8 @@
     <string name="notification_push_cash_big_title">%s gifts</string>
     <string name="notification_push_cash_content">donated %s</string>
     <string name="notification_push_cash_big_content">%1$s %2$s donated %3$s!</string>
+    <string name="notification_push_share_cast_multi_title">%1$s is sharing cast %2$s</string>
+    <string name="notification_push_share_cast_big_title">%s players are sharing cast</string>
     <string name="notification_push_follow_multi_title_me">You followed %s</string>
     <string name="notification_push_follow_description_me">You followed %s</string>
     <string name="notification_push_like_multi_title_me">You liked %s\'s broadcast</string>
@@ -420,5 +422,21 @@
     <string name="fragment_rating_general">Please feedback your suggest of our app by tapping \"Continue\"!</string>
     <string name="fragment_rating_continue">Continue</string>
     <string name="fragment_rating_interested">Not interested</string>
-
+    <string name="pref_title_video_broadcast_type">Broadcast</string>
+    <string name="activity_private_broadcast_title">Private Broadcast</string>
+    <string name="activity_public_broadcast_title">Public Broadcast</string>
+    <string name="activity_private_broadcast_head_desc">Private Broadcast do not show up in the Home tab and only notify those who you select.</string>
+    <string name="activity_private_broadcast_head_select_title">MUTUALS</string>
+    <string name="activity_private_broadcast_make_private_button">Make Private (%s)</string>
+    <string name="pref_entries_video_broadcast_type">Private(%s)</string>
+    <string name="activity_private_broadcast_no_friends">No Mutuals</string>
+    <string name="activity_private_broadcast_share_button">Share (%s)</string>
+    <string name="activity_share_broadcast_title">Share Broadcast</string>
+    <string name="activity_share_broadcast_clipboard_title">Copy to clipboard</string>
+    <string name="activity_share_broadcast_clipboard_toast_copy_success">Copy to clipboard</string>
+    <string name="toast_livefragment_screen_live_people">Please select the mutuals</string>
+    <string name="activity_screen_live_people_hint">Choose mutuals</string>
+    <string name="activity_share_broadcast_more_title">More</string>
+    <string name="activity_share_broadcast_head_desc">send people a notification to join this broadcast, mutuals are people you follow that follow you back</string>
+    <string name="activity_share_broadcast_share_success">Share Success</string>
 </resources>

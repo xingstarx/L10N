@@ -358,7 +358,7 @@
     <string name="activity_no_banlist">Нет заблокированнных пользователей</string>
     <string name="fragment_video_delete_info">Вы уверены, что хоите удалить это видео?</string>
     <string name="streaming_front_carema">камера</string>
-    <string name="streaming_privacy">Конфиденциальность</string>
+    <string name="streaming_privacy">Защита</string>
     <string name="streaming_privacy_option_auto">Автоматически</string>
     <string name="streaming_privacy_option_manual">Вручную</string>
     <string name="streaming_privacy_option_close">Выключить</string>
