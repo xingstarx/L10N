@@ -114,7 +114,7 @@
     <string name="activity_screen_fab_mirror">鏡像</string>
     <string name="activity_screen_fab_record">錄製</string>
     <string name="activity_screen_fab_broadcast">直播</string>
-    <string name="activity_video_player_share">%1$s ：%2$s</string>
+    <string name="activity_video_player_share">%1$s: %2$s</string>
     <string name="activity_video_player_welcome">歡迎來到我的聊天室！</string>
     <string name="activity_no_medias">尚未拍攝影片</string>
     <string name="activity_no_videos">無影片</string>
@@ -156,7 +156,7 @@
     <string name="streaming_chat_title">聊天室</string>
     <string name="alert_dialog_button_close">關閉</string>
     <string name="alert_dialog_audio_patch">修正</string>
-    <string name="progress_dialog_connecting_to_airplay">連線至 AirPlay 裝置： %s</string>
+    <string name="progress_dialog_connecting_to_airplay">連線至 AirPlay 裝置: %s</string>
     <string name="toast_airplay_screen_mirror_not_supported">無法連線至此裝置，或者這個裝置不支援螢幕投射。</string>
     <string name="progress_dialog_connecting_to_browser">檢查 Wi-Fi 網路情況 &#8230;</string>
     <string name="toast_browser_screen_mirror_not_supported">未發現合適的 Wi-Fi 網路</string>
@@ -187,7 +187,7 @@
     <string name="ticker_airplay_mirroring_to">%s</string>
     <string name="ticker_live_started">直播開始&#8230;</string>
     <string name="ticker_live_stopped">直播停止&#8230;</string>
-    <string name="ticker_live_casting_to">直播： %s</string>
+    <string name="ticker_live_casting_to">直播: %s</string>
     <string name="ticker_browser_started">現在可以在瀏覽器裡觀看你的螢幕&#8230;</string>
     <string name="ticker_browser_stopped">瀏覽器投射停止&#8230;</string>
     <string name="ticker_browser_mirroring_to">%s</string>
@@ -234,7 +234,7 @@
     <string name="pref_summary_misc_reset">把所有設定重設為預設值</string>
     <string name="pref_title_misc_recording_dir">錄影影片的資料夾</string>
     <string name="pref_title_misc_about">關於</string>
-    <string name="pref_summary_misc_about">軟體版本： %s</string>
+    <string name="pref_summary_misc_about">軟體版本: %s</string>
     <string name="pref_title_misc_twitter">Twitter</string>
     <string name="pref_summary_misc_twitter">\@Shou_TV</string>
     <string name="pref_title_misc_google_plus">Google+</string>
@@ -268,7 +268,7 @@
     <string name="time_ago_months">%d 月</string>
     <string name="time_ago_year">1 年</string>
     <string name="time_ago_years">%d 年</string>
-    <string name="selected_folder_label">選擇的資料夾：</string>
+    <string name="selected_folder_label">選擇的資料夾:</string>
     <string name="create_folder_label">新資料夾名稱</string>
     <string name="create_folder_success">成功新增資料夾</string>
     <string name="create_folder_error_no_write_access">無法寫入這個資料夾</string>
@@ -316,7 +316,7 @@
     <string name="toast_msg_buy_shou_cash_status">購買 %s</string>
     <string name="toast_msg_buy_shou_cash_status_value_error">失敗</string>
     <string name="fragment_shou_cash_success_msg">購買成功！新獲得 %1$d ShouCash，總計 %2$d ShouCash</string>
-    <string name="fragment_shoucash_msg_count">%s個</string>
+    <string name="fragment_shoucash_msg_count">%s 個</string>
     <string name="msg_description_like">喜歡</string>
     <string name="msg_description_reward">獎勵</string>
     <string name="pref_title_category_notification">通知</string>
