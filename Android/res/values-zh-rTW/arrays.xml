@@ -82,7 +82,7 @@
     </string-array>
     <string-array name="pref_entries_video_broadcast_type">
         <item>公開</item>
-        <item>私密</item>
+        <item>私人</item>
     </string-array>
 
 </resources>
