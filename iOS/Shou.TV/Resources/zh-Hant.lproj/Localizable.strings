@@ -18,7 +18,7 @@
 "dialog_button_share" = "分享";
 "dialog_button_close" = "關閉";
 "dialog_button_cancel" = "取消";
-"dialog_title_open_safari" = "用 Safari 開啟鏈接?";
+"dialog_title_open_safari" = "用 Safari 開啟連結？";
 
 "tab_home" = "首頁";
 "tab_games" = "遊戲";
@@ -84,14 +84,14 @@
 "account_label_password" = "密碼";
 "account_label_password_new" = "新的密碼";
 "account_label_password_confirm" = "確認密碼";
-"account_label_email" = "Email";
+"account_label_email" = "電子郵件地址";
 "account_label_full_name" = "暱稱";
 "account_label_biography" = "個人簡介";
 "account_label_avatar" = "大頭貼照";
 "account_label_cover" = "封面";
 "account_label_upload_avatar" = "上傳大頭貼照";
-"account_hint_identify" = "使用者名稱或 Email";
-"account_hint_email" = "Email";
+"account_hint_identify" = "使用者名稱或電子郵件地址";
+"account_hint_email" = "電子郵件地址";
 "account_hint_username" = "使用者名稱";
 "account_hint_password" = "密碼長度不能少於 6 位";
 "account_hint_name" = "暱稱";
@@ -184,7 +184,7 @@
 "msg_ban_user_description" = "%@ 已經被禁言";
 "msg_unban_user" = "取消禁言";
 "msg_unban_user_description" = "%@ 已經被取消禁言";
-"msg_popup_detail" = "查看";
+"msg_popup_detail" = "設定檔";
 "msg_new_message" = "說點什麼...";
 "msg_blacklist" = "禁言使用者清單";
 "msg_send_faild_too_quickly" = "您傳送訊息過於頻繁，請稍後重試";
@@ -254,7 +254,7 @@
 "msg_popup_moderate_description" = "%@ 已經設定為管理員";
 "msg_popup_moderate_cancel_description" = "%@ 已經被取消管理員";
 
-"message_list_empty_placeholder" = "沒有訊息 /(ㄒoㄒ)/~~ ";
+"message_list_empty_placeholder" = "無訊息 /(ㄒoㄒ)/~~ ";
 "message_like_me" = "您為 %@ 的影片按了一個讚";
 "message_like" = "%@ 為您的影片按了一個讚";
 "message_follow_me" = "您現在成為 %@ 的粉絲";
