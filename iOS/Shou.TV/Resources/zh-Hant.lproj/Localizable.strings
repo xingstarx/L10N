@@ -18,6 +18,7 @@
 "dialog_button_share" = "分享";
 "dialog_button_close" = "關閉";
 "dialog_button_cancel" = "取消";
+"dialog_title_open_safari" = "用 Safari 開啟鏈接?";
 
 "tab_home" = "首頁";
 "tab_games" = "遊戲";
