@@ -151,7 +151,6 @@
 "video_player_share" = "Paylaş";
 "video_player_rotation" = "Döndür";
 "video_player_report" = "Bildir";
-"video_player_send" = "Gönder";
 "video_player_report_faild" = "Bildiri Gönderilemedi";
 "video_player_info" = "Bilgi";
 "video_player_over" = "Yayın Bitti";
@@ -178,6 +177,7 @@
 "action_edit_success" = "Yeniden adlandırma başarılı";
 "action_edit_failed" = "Yeniden adlandırma başarısız";
 
+"msg_send_button" = "Gönder";
 "msg_send_failed" = "Bu mesaj gönderilemiyor";
 "msg_hint_send_msg" = "Bir mesaj gönder";
 "msg_hint_send_disable" = "Giriş yapılmamış, gönderme devre dışı bırakıldı";

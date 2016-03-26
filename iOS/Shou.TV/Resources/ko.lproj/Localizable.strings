@@ -140,7 +140,6 @@
 "video_player_share" = "Share";
 "video_player_rotation" = "Rotation";
 "video_player_report" = "Report An Issue";
-"video_player_send" = "발송";
 "video_player_report_success" = "Report Success";
 "video_player_report_faild" = "Report Faild";
 "video_player_info" = "Info";
@@ -165,6 +164,7 @@
 "action_edit_success" = "Rename success";
 "action_edit_failed" = "Rename failed";
 
+"msg_send_button" = "발송";
 "msg_send_failed" = "Can\'t send this message";
 "msg_hint_send_msg" = "채팅 시작";
 "msg_hint_send_disable" = "No login sending disabled";

@@ -154,7 +154,6 @@
 "video_player_share" = "Поделиться";
 "video_player_rotation" = "Поворот";
 "video_player_report" = "Сообщить о проблеме";
-"video_player_send" = "Отпр.";
 "video_player_report_faild" = "Не удалось отправить жалобу";
 "video_player_info" = "Информация";
 "video_player_over" = "Трансляция завершена";
@@ -183,7 +182,7 @@
 "action_edit_success" = "Успешно переименовано";
 "action_edit_failed" = "Не удалось переименовать";
 
-
+"msg_send_button" = "Отпр.";
 "msg_send_failed" = "Сообщение не удалось отправить";
 "msg_hint_send_msg" = "Отпр.";
 "msg_hint_send_disable" = "Не удалось отправить данные для входа";

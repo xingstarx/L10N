@@ -150,7 +150,6 @@
 "video_player_share" = "分享";
 "video_player_rotation" = "方向";
 "video_player_report" = "回報問題";
-"video_player_send" = "傳送";
 "video_player_report_success" = "檢舉成功";
 "video_player_report_faild" = "檢舉失敗";
 "video_player_info" = "資訊";
@@ -177,6 +176,7 @@
 "action_edit_success" = "重新命名成功";
 "action_edit_failed" = "重新命名失败";
 
+"msg_send_button" = "傳送";
 "msg_send_failed" = "傳送失敗";
 "msg_hint_send_msg" = "傳送";
 "msg_hint_send_disable" = "載入中";

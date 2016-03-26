@@ -152,7 +152,6 @@
 "video_player_share" = "Share";
 "video_player_rotation" = "Rotation";
 "video_player_report" = "Report";
-"video_player_send" = "Send";
 "video_player_report_faild" = "Report faild";
 "video_player_info" = "Info";
 "video_player_over" = "Stream over";
@@ -179,6 +178,7 @@
 "action_edit_success" = "Rename success";
 "action_edit_failed" = "Rename failed";
 
+"msg_send_button" = "SEND";
 "msg_send_failed" = "Can\'t send this message";
 "msg_hint_send_msg" = "Send a message";
 "msg_hint_send_disable" = "No login sending disabled";
