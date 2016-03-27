@@ -121,8 +121,8 @@
     <string name="activity_recordings">Записи</string>
     <string name="activity_network_error">Ошибка подключения к сети ~</string>
     <string name="activity_accessibility_enable">Включить</string>
-    <string name="activity_accessibility_setting">Настроить защиту конфиденциальности</string>
-    <string name="activity_accessibility_title">Конфиденциальность</string>
+    <string name="activity_accessibility_setting">Настройка</string>
+    <string name="activity_accessibility_title">Защита конфиденциальности</string>
     <string name="activity_accessibility_disable_label">Вам необходимо найти Shou в Настройках, выбрать его и включить эту функцию. Это сделает невидимыми ваши пароли и конфиденциальную информацию во время записи или трансляции.</string>
     <string name="activity_accessibility_disable_setting">Перейдите в Настройки</string>
     <string name="activity_game_group_favorite">Отслеживаемые</string>
