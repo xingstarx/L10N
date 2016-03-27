@@ -419,7 +419,7 @@
     <string name="fragment_rating_happy">We\'re happy you\'re happy</string>
     <string name="fragment_rating_initial">How do you like our app\?</string>
     <string name="fragment_rating_good">Please share this rating of our app on the Google Play Store by tapping \"Continue\"!</string>
-    <string name="fragment_rating_general">Please feedback your sugguest of our app by tapping \"Continue\"!</string>
+    <string name="fragment_rating_general">Please feedback your suggest of our app by tapping \"Continue\"!</string>
     <string name="fragment_rating_continue">Continue</string>
     <string name="fragment_rating_interested">Not interested</string>
     <string name="pref_title_video_broadcast_type">Broadcast</string>
@@ -433,7 +433,7 @@
     <string name="activity_private_broadcast_share_button">Share (%s)</string>
     <string name="activity_share_broadcast_title">Share Broadcast</string>
     <string name="activity_share_broadcast_clipboard_title">Copy to clipboard</string>
-    <string name="activity_share_broadcast_clipboard_toast_copy_success">Copy to clipboard</string>
+    <string name="activity_share_broadcast_clipboard_toast_copy_success">Copied to clipboard</string>
     <string name="toast_livefragment_screen_live_people">Please select the mutuals</string>
     <string name="activity_screen_live_people_hint">Choose mutuals</string>
     <string name="activity_share_broadcast_more_title">More</string>
