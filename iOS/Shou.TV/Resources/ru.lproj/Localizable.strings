@@ -78,8 +78,8 @@
 "account_text_user_score" = "%@ очки";
 "account_text_game_cast" = "%@ видео";
 "account_text_game_players" = "%@ игроки";
-"account_text_joined" = "Присоединился(-ась) в %@";
-"account_title_edit_profile" = "Изменить профиль";
+"account_text_joined" = "Присоединился(-ась) %@";
+"account_title_edit_profile" = "Изменение профиля";
 "account_title_change_password" = "Изменить пароль";
 "account_label_username" = "Имя пользователя";
 "account_label_password" = "Пароль";
@@ -90,7 +90,7 @@
 "account_label_cover" = "Обложка";
 "account_label_upload_avatar"= "Добавить фото профиля";
 "account_hint_identify" = "Имя пользователя или эл. почта";
-"account_hint_email" = "адрес эл. почта";
+"account_hint_email" = "адрес эл. почты";
 "account_hint_username" = "имя пользователя";
 "account_hint_password" = "Пароль должен содержать не менее 6 символов";
 "account_hint_current_password" = "Текущий пароль";
@@ -137,8 +137,8 @@
 "account_toast_sign_up_failed" = "Не удалось выполнить регистрацию с указанными данными";
 "account_toast_sign_in_required" = "Войдите, чтобы продолжить";
 "account_toast_password_not_match" = "Пароли не совпадают";
-"account_toast_server_error" = "Серверы находятся на техническом обслуживании";
-"account_toast_not_found" = "Сообщений не найдено";
+"account_toast_server_error" = "Техническое обслуживание серверов";
+"account_toast_not_found" = "Не найдено";
 "account_dialog_sign_up_failed" = "Не удалось зарегистрироваться";
 "account_invite_friends" = "Пригласить друзей";
 "account_invite" = "Установи приложение Shou из App Store (https://shou.tv/ios) или Google Play (https://shou.tv/android), чтобы следить за моими игровыми трансляциями! Я на Shou — ";
@@ -184,12 +184,12 @@
 "action_edit_failed" = "Не удалось переименовать";
 
 "msg_send_button" = "Отпр.";
-"msg_send_failed" = "Сообщение не удалось отправить";
+"msg_send_failed" = "Не удалось отправить сообщение";
 "msg_hint_send_msg" = "Отпр.";
-"msg_hint_send_disable" = "Не удалось отправить данные для входа";
-"msg_ban_user" = "Заблок.";
+"msg_hint_send_disable" = "Отправка сообщений недоступна";
+"msg_ban_user" = "Заблокировать";
 "msg_ban_user_description" = "%@ заблокирован(-а) в этом чате.";
-"msg_unban_user" = "Разблок.";
+"msg_unban_user" = "Разблокировать";
 "msg_unban_user_description" = "%@ разблокирован(-а) в этом чате.";
 "msg_popup_detail" = "Профиль";
 "msg_new_message" = "Написать сообщение...";
@@ -200,11 +200,11 @@
 
 
 "toast_api_error_forbidden" = "Доступ запрещён";
-"toast_api_error_no_connection" = "Нет сети";
-"toast_api_error_connection_timeout" = "Время ожидания подключения истекло";
-"toast_api_error_server_5xx" = "Обнаружены неполадки на серверах Shou";
-"toast_api_error_not_found" = "Сообщений не найдено";
-"toast_video_deleted" = "Это видео было удалено пользователем";
+"toast_api_error_no_connection" = "Ошибка при загрузке даннах";
+"toast_api_error_connection_timeout" = "Время подключения истекло";
+"toast_api_error_server_5xx" = "Неполадки на серверах";
+"toast_api_error_not_found" = "Не найдено";
+"toast_video_deleted" = "Это видео было удалено";
 
 
 "about_title" = "О приложении";
@@ -236,7 +236,7 @@
 
 "payment_title_label" = "Купите больше ShouCash!";
 "payment_faild" = "Не удалось выполнить покупку";
-"payment_success" = "Покупка успешно выполнена! Приобретено %@ ShouCash, всего %@ ShouCash";
+"payment_success" = "Покупка успешно выполнена!\nПриобретено — %@ ShouCash, всего — %@ ShouCash";
 "payment_faild_not_allow" = "Встроенные покупки выключены. Перейдите в «Настройки» > «Основные» > «Ограничения» и передвиньте переключатель «Встроенные покупки» в «Вкл.»";
 "lackmoney_title_label" = "Недостаточно ShouCash!";
 "lackmoney_topup_label" = "Купите больше ShouCash";
