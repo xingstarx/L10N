@@ -319,6 +319,8 @@
     <string name="notification_push_cash_big_title">%s hediye</string>
     <string name="notification_push_cash_content">sana %s ShouCash verdi</string>
     <string name="notification_push_cash_big_content">%1$s %2$s sana %3$s ShouCash verdi!</string>
+    <string name="notification_push_share_cast_multi_title">%1$s, %2$s yayınını paylaştı</string>
+    <string name="notification_push_share_cast_big_title">%s oyuncu yayınlarını paylaştı</string>
     <string name="notification_push_follow_multi_title_me">%s oyuncusunu takip ettin</string>
     <string name="notification_push_follow_description_me">%s oyuncusunu takip ettin</string>
     <string name="notification_push_like_multi_title_me">%s oyuncusunun yayınını beğendin</string>
@@ -414,4 +416,27 @@
     <string name="activity_moderator_msg_moderator">Moderatör yap</string>
     <string name="activity_moderator_msg_unmoderator">Moderatörlükten çıkar</string>
     <string name="pref_title_notifications_tip">Yeni bağışlar</string>
+    <string name="fragment_rating_happy">Biz mutluyuz, siz mutlusunuz</string>
+    <string name="fragment_rating_initial">Uygulamamızı beğendiniz mi\?</string>
+    <string name="fragment_rating_good">Lütfen \"Devam\" tuşuna basarak bu değerlendirmeyi Google Play\'de paylaşın!</string>
+    <string name="fragment_rating_general">Lütfen \"Devam\" tuşuna basarak önerinizi bize yollayın!</string>
+    <string name="fragment_rating_continue">Devam</string>
+    <string name="fragment_rating_interested">İlgilenmiyorum</string>
+    <string name="pref_title_video_broadcast_type">Canlı Yayın</string>
+    <string name="activity_private_broadcast_title">Özel yayın</string>
+    <string name="activity_public_broadcast_title">Herkese açık yayın</string>
+    <string name="activity_private_broadcast_head_desc">Özel yayın Son Eklenenler sekmesinde gözükmez ve sadece seçtiğiniz kişiler bildirim alır.</string>
+    <string name="activity_private_broadcast_head_select_title">KATILIMCILAR</string>
+    <string name="activity_private_broadcast_make_private_button">Özel Yap (%s)</string>
+    <string name="pref_entries_video_broadcast_type">Özel(%s)</string>
+    <string name="activity_private_broadcast_no_friends">Katılımcı yok</string>
+    <string name="activity_private_broadcast_share_button">Paylaş (%s)</string>
+    <string name="activity_share_broadcast_title">Yayını Paylaş</string>
+    <string name="activity_share_broadcast_clipboard_title">Panoya kopyala</string>
+    <string name="activity_share_broadcast_clipboard_toast_copy_success">Panoya kopyalandı</string>
+    <string name="toast_livefragment_screen_live_people">Lütfen yayına katılacak kişileri seçin</string>
+    <string name="activity_screen_live_people_hint">Katılımcıları seçin</string>
+    <string name="activity_share_broadcast_more_title">Daha Fazla</string>
+    <string name="activity_share_broadcast_head_desc">yayına katılması için insanlara bildirim yollayın, katılımcılar takip ettiğiniz ve sizi takip eden kişilerdir</string>
+    <string name="activity_share_broadcast_share_success">Paylaşıldı</string>
 </resources>
