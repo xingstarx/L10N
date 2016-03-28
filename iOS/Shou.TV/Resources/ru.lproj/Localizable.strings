@@ -264,12 +264,12 @@
 "msg_popup_mention" = "Ответить";
 "msg_popup_moderate" = "Назначить модератором";
 "msg_popup_moderate_cancel" = "Удалить из модераторов";
-"msg_popup_moderate_description" = "Пользователь %@ назначен(-а) модератором";
-"msg_popup_moderate_cancel_description" = "Пользователь %@ удален(-а) из модераторов";
+"msg_popup_moderate_description" = "Пользователь %@ назначен модератором";
+"msg_popup_moderate_cancel_description" = "Пользователь %@ удален из модераторов";
 
 "message_list_empty_placeholder" = "Здесь ещё нет сообщений";
 "message_like_me" = "Вам понравилась трансляция пользователя %@";
-"message_like" = "Пользователю %@ нравится ваша трансляция";
+"message_like" = "Пользователю %@ понравилась ваша трансляция";
 "message_follow_me" = "Вы подписались на пользователя %@";
 "message_follow" = "Пользователь %@ подписался на вас";
 "message_new_placeholder" = "Написать сообщение...";
