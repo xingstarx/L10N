@@ -18,6 +18,7 @@
 "dialog_button_share" = "Поделиться";
 "dialog_button_close" = "Закрыть";
 "dialog_button_cancel" = "Отменить";
+"dialog_title_open_safari" = "Открыть в Safari?";
 
 "tab_home" = "Главная";
 "tab_games" = "Игры";
@@ -163,7 +164,7 @@
 "video_player_report_hateful" = "Оскорбление";
 "video_player_report_harmful" = "Экстремизм";
 "video_player_report_misleading" = "Спам";
-"video_player_report_playback" = "Проблемы с воспроизведением";
+"video_player_report_playback" = "Проблемы с просмотром";
 "video_player_report_success" = "Жалоба была отправлена";
 
 "chat_room_title" = "Чат";
@@ -172,7 +173,7 @@
 "find_friends_follow_all" = "Подписаться на всех";
 "find_friends_title" = "%@ друзей";
 "find_friends_text" = "У вас %@ друзей на Shou.";
-"find_friends_no_people" = "Друзья не найдены.";
+"find_friends_no_people" = "У вас ещё нет друзей на Shou";
 
 
 "action_open" = "Открыть";
@@ -196,7 +197,7 @@
 "msg_blacklist" = "Чёрный список";
 "msg_send_faild_too_quickly" = "Сообщение не было отправлено, так как вы отправляете сообщения слишком часто.";
 "msg_send_faild_limit" = "Сообщение не было отправлено, так как вы отправляете сообщения слишком часто. Повторите попытку через %@ сек.";
-"msg_send_faild_same" = "Сообщение не было отправлено, так как оно похоже на предыдущее.";
+"msg_send_faild_same" = "Сообщение не было отправлено, так как оно совпадает с предыдущим.";
 
 
 "toast_api_error_forbidden" = "Доступ запрещён";
@@ -204,7 +205,7 @@
 "toast_api_error_connection_timeout" = "Время ожидания подключения истекло";
 "toast_api_error_server_5xx" = "Обнаружены неполадки на серверах Shou";
 "toast_api_error_not_found" = "Сообщений не найдено";
-"toast_video_deleted" = "Это видео было удалено";
+"toast_video_deleted" = "Это видео было удалено пользователем";
 
 
 "about_title" = "О приложении";
@@ -236,7 +237,7 @@
 
 "payment_title_label" = "Купите больше ShouCash!";
 "payment_faild" = "Не удалось выполнить покупку";
-"payment_success" = "Покупка успешно выполнена! Получено %@ ShouCash, всего %@ ShouCash";
+"payment_success" = "Покупка успешно выполнена! Приобретено %@ ShouCash, всего %@ ShouCash";
 "payment_faild_not_allow" = "Встроенные покупки выключены. Перейдите в «Настройки» > «Основные» > «Ограничения» и передвиньте переключатель «Встроенные покупки» в «Вкл.»";
 "lackmoney_title_label" = "Недостаточно ShouCash!";
 "lackmoney_topup_label" = "Купите больше ShouCash";
@@ -263,12 +264,12 @@
 "msg_popup_mention" = "Ответить";
 "msg_popup_moderate" = "Назначить модератором";
 "msg_popup_moderate_cancel" = "Удалить из модераторов";
-"msg_popup_moderate_description" = "Пользователь %@ назначен модератором";
-"msg_popup_moderate_cancel_description" = "Пользователь %@ удален из модераторов";
+"msg_popup_moderate_description" = "Пользователь %@ назначен(-а) модератором";
+"msg_popup_moderate_cancel_description" = "Пользователь %@ удален(-а) из модераторов";
 
 "message_list_empty_placeholder" = "Здесь ещё нет сообщений";
 "message_like_me" = "Вам понравилась трансляция пользователя %@";
-"message_like" = "Пользователю %@ понравилась ваша трансляция";
+"message_like" = "Пользователю %@ нравится ваша трансляция";
 "message_follow_me" = "Вы подписались на пользователя %@";
 "message_follow" = "Пользователь %@ подписался на вас";
 "message_new_placeholder" = "Написать сообщение...";
