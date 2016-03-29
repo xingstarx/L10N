@@ -35,6 +35,11 @@
         <item>2 Mbps</item>
         <item>4 Mbps</item>
     </string-array>
+    <string-array name="pref_entries_video_quality">
+        <item>저화절</item>
+        <item>중화절</item>
+        <item>고화질</item>
+    </string-array>
     <string-array name="pref_entries_record_video_resolution">
         <item>240P</item>
         <item>320P</item>
