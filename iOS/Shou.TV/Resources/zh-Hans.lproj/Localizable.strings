@@ -18,6 +18,7 @@
 "dialog_button_share" = "分享";
 "dialog_button_close" = "关闭";
 "dialog_button_cancel" = "取消";
+"dialog_title_open_safari" = "用 Safari 打开链接?";
 
 "tab_home" = "首页";
 "tab_games" = "游戏";
@@ -150,7 +151,6 @@
 "video_player_share" = "分享";
 "video_player_rotation" = "方向";
 "video_player_report" = "报告问题";
-"video_player_send" = "发送";
 "video_player_report_success" = "举报成功";
 "video_player_report_faild" = "举报失败";
 "video_player_info" = "信息";
@@ -177,6 +177,7 @@
 "action_edit_success" = "重命名成功";
 "action_edit_failed" = "重命名失败";
 
+"msg_send_button" = "发送";
 "msg_send_failed" = "发送失败";
 "msg_hint_send_msg" = "发送";
 "msg_hint_send_disable" = "加载中";

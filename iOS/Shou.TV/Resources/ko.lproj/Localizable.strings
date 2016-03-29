@@ -13,11 +13,11 @@
 "title_bar_done" = "Done";
 
 "dialog_button_ok" = "OK";
-"dialog_button_open" = "Open";
+"dialog_button_open" = "열기";
 "dialog_button_delete" = "삭제";
 "dialog_button_share" = "공유";
-"dialog_button_close" = "Close";
-"dialog_button_cancel" = "Cancel";
+"dialog_button_close" = "닫기";
+"dialog_button_cancel" = "취소";
 
 "tab_home" = "홈";
 "tab_games" = "게임";
@@ -25,6 +25,7 @@
 "tab_videos" = "동영상";
 "tab_explore" = "Explore";
 "tab_me" = "Me";
+"tab_messages" = "쪽지";
 
 "explore_recommended" = "Recommended";
 "explore_leaderboard" = "Leaderboard";
@@ -133,14 +134,13 @@
 "account_user_video_delete_info" = "Are you sure delete this video?";
 
 "video_player_welcome" = "Welcome to the chat room!";
-"video_player_quality" = "Quality";
+"video_player_quality" = "품질";
 "video_player_auto" = "auto";
 "video_player_source" = "source";
 "video_player_low" = "low";
-"video_player_share" = "Share";
+"video_player_share" = "공유";
 "video_player_rotation" = "Rotation";
 "video_player_report" = "Report An Issue";
-"video_player_send" = "발송";
 "video_player_report_success" = "Report Success";
 "video_player_report_faild" = "Report Faild";
 "video_player_info" = "Info";
@@ -165,6 +165,7 @@
 "action_edit_success" = "Rename success";
 "action_edit_failed" = "Rename failed";
 
+"msg_send_button" = "발송";
 "msg_send_failed" = "Can\'t send this message";
 "msg_hint_send_msg" = "채팅 시작";
 "msg_hint_send_disable" = "No login sending disabled";
@@ -186,7 +187,7 @@
 "toast_api_error_not_found" = "메시지 찾지 못함";
 "toast_video_deleted" = "This video has been deleted by the broadcaster";
 
-"about_title" = "Shou.TV에 대해";
+"about_title" = "Shou에 대해";
 "about_title_faq" = "FAQ";
 "about_summary_faq" = "Shou FAQ";
 "about_title_website" = "Website";

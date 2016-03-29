@@ -145,7 +145,6 @@
 "video_player_share" = "共有";
 "video_player_rotation" = "方向";
 "video_player_report" = "トラブル報告";
-"video_player_send" = "発送";
 "video_player_report_success" = "報告成功";
 "video_player_report_faild" = "報告失敗";
 "video_player_info" = "インフォメーション";
@@ -172,6 +171,7 @@
 "action_edit_success" = "タイトルリセット成功";
 "action_edit_failed" = "タイトルリセット失敗";
 
+"msg_send_button" = "発送";
 "msg_send_failed" = "発送失敗";
 "msg_hint_send_msg" = "発送";
 "msg_hint_send_disable" = "ローディング";
