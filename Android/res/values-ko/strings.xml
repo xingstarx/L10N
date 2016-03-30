@@ -31,6 +31,7 @@
     <string name="menu_search">검색</string>
     <string name="menu_like">좋아요</string>
     <string name="menu_share">공유</string>
+    <string name="menu_quality">품질</string>
     <string name="search_hint">플레이어/게임 검색</string>
     <string name="profile_edit_profile">프로필 편집</string>
     <string name="activity_landing_btn_sign_up">가입</string>
@@ -91,6 +92,9 @@
     <string name="activity_screen_live_loading">로딩중</string>
     <string name="activity_screen_live_title_hint">제목</string>
     <string name="activity_screen_live_game_hint">게임 선택</string>
+    <string name="activity_screen_fab_mirror">미러링 중</string>
+    <string name="activity_screen_fab_record">녹화중</string>
+    <string name="activity_screen_fab_broadcast">방송중</string>
     <string name="activity_video_player_share">%1$s ：%2$s</string>
     <string name="activity_no_medias">동영상 없음</string>
     <string name="activity_no_videos">동영상 없음</string>
@@ -99,6 +103,7 @@
     <string name="activity_no_follower">팔로워 없음</string>
     <string name="activity_search_no_peoples">사람 없음</string>
     <string name="activity_search_no_games">게임 없음</string>
+    <string name="activity_message_title">쪽지</string>
     <string name="activity_search_no_videos">동영상 없음</string>
     <string name="activity_recordings">동영상</string>
     <string name="activity_network_error">인터넷 연결 문제</string>
@@ -116,6 +121,8 @@
     <string name="streaming_chat">채팅</string>
     <string name="streaming_btn_stop">정지</string>
     <string name="streaming_chat_title">채팅방</string>
+    <string name="streaming_pop_msg">쪽지</string>
+    <string name="streaming_privacy">개인 정보 보호</string>
     <string name="alert_dialog_button_close">닫기</string>
     <string name="alert_dialog_audio_patch">수정</string>
     <string name="progress_dialog_connecting_to_airplay">AirPlay 장치 연결： %s</string>
@@ -200,6 +207,7 @@
     <string name="pref_title_misc_open_source">오픈소스 라이센스</string>
     <string name="pref_title_misc_privacy_policy">개인정보보호정책</string>
     <string name="pref_title_misc_terms_of_service">서비스 조건</string>
+    <string name="pref_title_video_quality">품질</string>
     <string name="msg_description_send">발송</string>
     <string name="msg_hint_send_msg">채팅 시작</string>
     <string name="msg_description_emoji">이모티콘</string>
