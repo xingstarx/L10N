@@ -439,4 +439,8 @@
     <string name="activity_share_broadcast_more_title">More</string>
     <string name="activity_share_broadcast_head_desc">send people a notification to join this broadcast, mutuals are people you follow that follow you back</string>
     <string name="activity_share_broadcast_share_success">Share Success</string>
+    <string name="fragment_share_bottom_title">Share To</string>
+    <string name="fragment_share_bottom_cancel">Cancel</string>
+    <string name="fragment_share_bottom_share_twitter_title">Share To Twitter</string>
+    <string name="fragment_share_bottom_share_fb_title">Share To Facebook</string>
 </resources>

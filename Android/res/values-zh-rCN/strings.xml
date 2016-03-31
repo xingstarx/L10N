@@ -437,4 +437,8 @@
     <string name="activity_share_broadcast_head_desc">给相互关注的好友分享直播</string>
     <string name="activity_share_broadcast_share_success">分享成功</string>
     <string name="activity_share_broadcast_more_title">更多</string>
+    <string name="fragment_share_bottom_title">分享到</string>
+    <string name="fragment_share_bottom_cancel">取消</string>
+    <string name="fragment_share_bottom_share_twitter_title">分享到Twitter</string>
+    <string name="fragment_share_bottom_share_fb_title">分享到Facebook</string>
 </resources>
