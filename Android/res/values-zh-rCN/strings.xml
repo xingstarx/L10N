@@ -439,4 +439,5 @@
     <string name="fragment_share_bottom_cancel">取消</string>
     <string name="fragment_share_bottom_share_twitter_title">分享到Twitter</string>
     <string name="fragment_share_bottom_share_fb_title">分享到Facebook</string>
+    <string name="fragment_share_bottom_empty_data_desc">在你关注的用户中，我们找不到同时关注你的人.</string>
 </resources>
