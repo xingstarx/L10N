@@ -431,12 +431,14 @@
     <string name="pref_entries_video_broadcast_type">Özel(%s)</string>
     <string name="activity_private_broadcast_no_friends">Katılımcı yok</string>
     <string name="activity_private_broadcast_share_button">Paylaş (%s)</string>
-    <string name="activity_share_broadcast_title">Yayını Paylaş</string>
     <string name="activity_share_broadcast_clipboard_title">Panoya kopyala</string>
     <string name="activity_share_broadcast_clipboard_toast_copy_success">Panoya kopyalandı</string>
     <string name="toast_livefragment_screen_live_people">Lütfen yayına katılacak kişileri seçin</string>
     <string name="activity_screen_live_people_hint">Katılımcıları seçin</string>
     <string name="activity_share_broadcast_more_title">Daha Fazla</string>
-    <string name="activity_share_broadcast_head_desc">yayına katılması için insanlara bildirim yollayın, katılımcılar takip ettiğiniz ve sizi takip eden kişilerdir</string>
     <string name="activity_share_broadcast_share_success">Paylaşıldı</string>
+    <string name="fragment_share_bottom_title">Paylaş...</string>
+    <string name="fragment_share_bottom_cancel">İptal</string>
+    <string name="fragment_share_bottom_share_twitter_title">Twitter\'a Paylaş</string>
+    <string name="fragment_share_bottom_share_fb_title">Facebook\'a Paylaş</string>
 </resources>
