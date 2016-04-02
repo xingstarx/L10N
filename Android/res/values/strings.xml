@@ -441,4 +441,5 @@
     <string name="fragment_share_bottom_cancel">Cancel</string>
     <string name="fragment_share_bottom_share_twitter_title">Share To Twitter</string>
     <string name="fragment_share_bottom_share_fb_title">Share To Facebook</string>
+    <string name="fragment_share_bottom_empty_data_desc">No found people you followed each other </string>
 </resources>
