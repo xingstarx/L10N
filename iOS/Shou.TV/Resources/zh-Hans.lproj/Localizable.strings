@@ -264,3 +264,10 @@
 "message_tip_donate" = "%@ 赠送给您 %@ ShouCash";
 
 "menu_copy" = "复制";
+"menu_copy_url" = "复制链接";
+"menu_more" = "更多";
+"share_to_title" = "分享给";
+"share_search_placeholder" = "搜索";
+"share_to_successed" = "分享成功!";
+"share_no_found_mutual" = "没有相互关注的朋友";
+"share_to_twitter" = "%@ 正在 #Shou 直播: %@ %@";

@@ -265,3 +265,10 @@
 "message_tip_donate" = "%@ donated you %@ ShouCash";
 
 "menu_copy" = "Copy";
+"menu_copy_url" = "Copy Link";
+"menu_more" = "More";
+"share_to_title" = "SHARE TO";
+"share_search_placeholder" = "Search";
+"share_to_successed" = "Share successfully!";
+"share_no_found_mutual" = "No found people you followed each other";
+"share_to_twitter" = "Watch %@ LIVE on #Shou: %@ %@";
