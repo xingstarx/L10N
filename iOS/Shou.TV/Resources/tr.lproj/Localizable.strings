@@ -187,7 +187,6 @@
 "msg_unban_user_description" = "%@ buradan engeli kaldırıldı.";
 "msg_popup_detail" = "Profil";
 "msg_new_message" = "Yeni mesaj";
-"msg_blacklist" = "Kara liste";
 "msg_send_faild_too_quickly" = "Mesajınız gönderilmedi çünkü çok hızlı mesaj gönderiyorsunuz.";
 "msg_send_faild_limit" = "Mesajınız gönderilmedi çünkü çok hızlı mesaj gönderiyorsunuz. %@ saniye içinde yeniden gönderebileceksiniz.";
 "msg_send_faild_same" = "Mesajınız gönderilmedi çünkü bir önceki mesajınız ile aynı.";

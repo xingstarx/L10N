@@ -51,6 +51,8 @@
 "profile_text_cash" = "ShouCash";
 "profile_text_games" = "游戏";
 "profile_text_logout" = "退出";
+"profile_text_moderators" = "管理员列表";
+"profile_text_muted_users" = "屏蔽列表";
 
 "landing_btn_twitter" = "通过 Twitter 登录";
 "landing_btn_facebook" = "通过 Facebook 登录";
@@ -181,13 +183,17 @@
 "msg_send_failed" = "发送失败";
 "msg_hint_send_msg" = "发送";
 "msg_hint_send_disable" = "加载中";
-"msg_ban_user" = "禁言";
-"msg_ban_user_description" = "%@ 已经被禁言";
-"msg_unban_user" = "取消禁言";
-"msg_unban_user_description" = "%@ 已经被取消禁言";
+"msg_ban_user" = "屏蔽";
+"msg_ban_alert_title" = "屏蔽 %@ ？";
+"msg_ban_alert_message" = "%@ 发送给主播的私信和聊天室信息都将被屏蔽。";
+"msg_ban_alert_message_self" = "%@ 发送给您的私信和聊天室信息都将被屏蔽。";
+"msg_ban_user_description" = "%@ 已经被屏蔽";
+"msg_unban_user" = "取消屏蔽";
+"msg_unban_user_description" = "%@ 已经被取消屏蔽";
+"msg_mod_user" = "管理员";
+"msg_unmod_user" = "取消管理员";
 "msg_popup_detail" = "查看";
 "msg_new_message" = "请输入聊天信息";
-"msg_blacklist" = "禁言用户列表";
 "msg_send_faild_too_quickly" = "您的消息发送过于频繁，请稍后重试";
 "msg_send_faild_limit" = "您的消息发送过于频繁，请在 %@ 秒后重试";
 "msg_send_faild_same" = "请勿发送重复内容";

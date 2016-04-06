@@ -175,7 +175,6 @@
 "msg_unban_user_description" = "%@ is unbanned in this room.";
 "msg_popup_detail" = "Profile";
 "msg_new_message" = "New message";
-"msg_blacklist" = "Banned users";
 "msg_send_faild_too_quickly" = "Your message not sent because you are sending messages too quickly.";
 "msg_send_faild_limit" = "Your message not sent because you are sending messages too quickly. You will be able to talk in %@ seconds.";
 "msg_send_faild_same" = "Your message not sent because it is identical to the previous one you sent.";

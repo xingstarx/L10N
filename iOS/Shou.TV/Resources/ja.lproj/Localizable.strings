@@ -181,7 +181,6 @@
 "msg_unban_user_description" = "%@ ギャグキャンセルされた";
 "msg_popup_detail" = "歴史";
 "msg_new_message" = "メッセージを入力してください";
-"msg_blacklist" = "ギャグユーザーリスト";
 "msg_send_faild_too_quickly" = "メッセージが多すぎで，所々お待ちください";
 "msg_send_faild_limit" = "メッセージが多すぎで，%@ 秒をお待ちください";
 "msg_send_faild_same" = "同じメッセージを再び発送しないでください";

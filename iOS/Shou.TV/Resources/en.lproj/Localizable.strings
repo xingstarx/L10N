@@ -52,6 +52,8 @@
 "profile_text_cash" = "ShouCash";
 "profile_text_games" = "Games";
 "profile_text_logout" = "Logout";
+"profile_text_moderators" = "Moderators";
+"profile_text_muted_users" = "Muted users";
 
 "landing_btn_twitter" = "Log in with Twitter";
 "landing_btn_facebook" = "Log in with Facebook";
@@ -182,13 +184,17 @@
 "msg_send_failed" = "Can\'t send this message";
 "msg_hint_send_msg" = "Send a message";
 "msg_hint_send_disable" = "No login sending disabled";
-"msg_ban_user" = "Ban";
-"msg_ban_user_description" = "%@ is banned in this room.";
-"msg_unban_user" = "Unban";
-"msg_unban_user_description" = "%@ is unbanned in this room.";
+"msg_ban_user" = "Mute";
+"msg_ban_alert_title" = "Mute %@ ?";
+"msg_ban_alert_message" = "%@ can't chat and message with broadcaster.";
+"msg_ban_alert_message_self" = "%@ can't chat and message with you.";
+"msg_ban_user_description" = "%@ is muted.";
+"msg_unban_user" = "Unmute";
+"msg_unban_user_description" = "%@ is unmuted.";
+"msg_mod_user" = "Mod";
+"msg_unmod_user" = "Unmod";
 "msg_popup_detail" = "Profile";
 "msg_new_message" = "New message";
-"msg_blacklist" = "Banned users";
 "msg_send_faild_too_quickly" = "Your message not sent because you are sending messages too quickly.";
 "msg_send_faild_limit" = "Your message not sent because you are sending messages too quickly. You will be able to talk in %@ seconds.";
 "msg_send_faild_same" = "Your message not sent because it is identical to the previous one you sent.";
