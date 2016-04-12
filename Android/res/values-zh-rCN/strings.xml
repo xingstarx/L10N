@@ -424,8 +424,6 @@
     <string name="fragment_rating_interested">残忍的拒绝</string>
     <string name="pref_title_video_broadcast_type">直播类型</string>
     <string name="pref_entries_video_broadcast_type">私密(%s)</string>
-    <string name="activity_private_broadcast_title">私密直播</string>
-    <string name="activity_public_broadcast_title">公开直播</string>
     <string name="activity_private_broadcast_head_desc">私密直播不会显示在首页,它只通知你所选择的好友.</string>
     <string name="activity_private_broadcast_head_select_title">相互关注</string>
     <string name="activity_private_broadcast_make_private_button">设置私密 (%s)</string>
@@ -440,4 +438,17 @@
     <string name="fragment_share_bottom_share_twitter_title">分享到Twitter</string>
     <string name="fragment_share_bottom_share_fb_title">分享到Facebook</string>
     <string name="fragment_share_bottom_empty_data_desc">没有相互关注的朋友</string>
+    <string name="activity_screen_live_public_broadcast_hint">公开分享</string>
+    <string name="activity_screen_live_private_broadcast_hint">私密分享</string>
+    <string name="fragment_share_with_public_title">公开直播</string>
+    <string name="fragment_share_with_public_summary">与所有人分享</string>
+    <string name="fragment_share_with_only_me_title">个人直播</string>
+    <string name="fragment_share_with_only_me_summary">只限本人</string>
+    <string name="fragment_share_with_friends_title">私密直播</string>
+    <string name="fragment_share_with_friends_summary">与指定的好友分享</string>
+    <string name="fragment_share_with_friends_tips">您的 %d 位好友将观看你的直播</string>
+    <string name="fragment_share_with_friends_change">更改</string>
+    <string name="activity_share_with_title">分享</string>
+    <string name="activity_share_with_friends_title">分享给好友</string>
+
 </resources>

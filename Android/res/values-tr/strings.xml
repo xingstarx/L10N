@@ -423,8 +423,6 @@
     <string name="fragment_rating_continue">Devam</string>
     <string name="fragment_rating_interested">İlgilenmiyorum</string>
     <string name="pref_title_video_broadcast_type">Canlı Yayın</string>
-    <string name="activity_private_broadcast_title">Özel yayın</string>
-    <string name="activity_public_broadcast_title">Herkese açık yayın</string>
     <string name="activity_private_broadcast_head_desc">Özel yayın Son Eklenenler sekmesinde gözükmez ve sadece seçtiğiniz kişiler bildirim alır.</string>
     <string name="activity_private_broadcast_head_select_title">KATILIMCILAR</string>
     <string name="activity_private_broadcast_make_private_button">Özel Yap (%s)</string>
@@ -434,7 +432,6 @@
     <string name="activity_share_broadcast_clipboard_title">Panoya kopyala</string>
     <string name="activity_share_broadcast_clipboard_toast_copy_success">Panoya kopyalandı</string>
     <string name="toast_livefragment_screen_live_people">Lütfen yayına katılacak kişileri seçin</string>
-    <string name="activity_screen_live_people_hint">Katılımcıları seçin</string>
     <string name="activity_share_broadcast_more_title">Daha Fazla</string>
     <string name="activity_share_broadcast_share_success">Paylaşıldı</string>
     <string name="fragment_share_bottom_title">Paylaş...</string>

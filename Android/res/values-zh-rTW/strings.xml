@@ -402,12 +402,10 @@
     <string name="pref_title_notifications_tip">抖內</string>
     <string name="pref_title_video_broadcast_type">直播類型</string>
     <string name="pref_entries_video_broadcast_type">私人(%s)</string>
-    <string name="activity_private_broadcast_title">私人直播</string>
     <string name="activity_private_broadcast_head_desc">私人直播不會顯示在首頁，它只通知你所選擇的朋友。</string>
     <string name="activity_private_broadcast_head_select_title">相互追蹤</string>
     <string name="activity_private_broadcast_make_private_button">設為私人 (%s)</string>
     <string name="activity_private_broadcast_no_friends">未相互追蹤</string>
-    <string name="activity_public_broadcast_title">公開直播</string>
     <string name="activity_private_broadcast_share_button">分享 (%s)</string>
     <string name="activity_share_broadcast_clipboard_title">複製連結</string>
     <string name="activity_share_broadcast_clipboard_toast_copy_success">複製連結</string>
@@ -419,4 +417,16 @@
     <string name="fragment_rating_interested">殘忍的拒絕</string>
     <string name="activity_share_broadcast_share_success">分享成功</string>
     <string name="activity_share_broadcast_more_title">更多</string>
+    <string name="activity_screen_live_public_broadcast_hint">公開分享</string>
+    <string name="activity_screen_live_private_broadcast_hint">私密分享</string>
+    <string name="fragment_share_with_public_title">公開直播</string>
+    <string name="fragment_share_with_public_summary">與所有人分享</string>
+    <string name="fragment_share_with_only_me_title">個人直播</string>
+    <string name="fragment_share_with_only_me_summary">僅限本來</string>
+    <string name="fragment_share_with_friends_title">私密直播</string>
+    <string name="fragment_share_with_friends_summary">與指定的好友分享</string>
+    <string name="fragment_share_with_friends_tips">您的 %d 位好友將觀看你的直播</string>
+    <string name="fragment_share_with_friends_change">更改</string>
+    <string name="activity_share_with_title">分享</string>
+    <string name="activity_share_with_friends_title">分享給好友</string>
 </resources>

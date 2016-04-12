@@ -423,9 +423,7 @@
     <string name="fragment_rating_continue">Continue</string>
     <string name="fragment_rating_interested">Not interested</string>
     <string name="pref_title_video_broadcast_type">Broadcast</string>
-    <string name="activity_private_broadcast_title">Private Broadcast</string>
-    <string name="activity_public_broadcast_title">Public Broadcast</string>
-    <string name="activity_private_broadcast_head_desc">Private Broadcast do not show up in the Home tab and only notify those who you select.</string>
+    <string name="activity_private_broadcast_head_desc">Private broadcast only notify your friends.</string>
     <string name="activity_private_broadcast_head_select_title">MUTUALS</string>
     <string name="activity_private_broadcast_make_private_button">Make Private (%s)</string>
     <string name="pref_entries_video_broadcast_type">Private(%s)</string>
@@ -434,7 +432,6 @@
     <string name="activity_share_broadcast_clipboard_title">Copy to clipboard</string>
     <string name="activity_share_broadcast_clipboard_toast_copy_success">Copied to clipboard</string>
     <string name="toast_livefragment_screen_live_people">Please select the mutuals</string>
-    <string name="activity_screen_live_people_hint">Choose mutuals</string>
     <string name="activity_share_broadcast_more_title">More</string>
     <string name="activity_share_broadcast_share_success">Share Success</string>
     <string name="fragment_share_bottom_title">Share To</string>
@@ -442,4 +439,16 @@
     <string name="fragment_share_bottom_share_twitter_title">Share To Twitter</string>
     <string name="fragment_share_bottom_share_fb_title">Share To Facebook</string>
     <string name="fragment_share_bottom_empty_data_desc">No people found that you followed each other </string>
+    <string name="activity_screen_live_public_broadcast_hint">Share with public</string>
+    <string name="activity_screen_live_private_broadcast_hint">Share with private</string>
+    <string name="fragment_share_with_public_title">Public</string>
+    <string name="fragment_share_with_public_summary">Share with everyone</string>
+    <string name="fragment_share_with_only_me_title">Only Me</string>
+    <string name="fragment_share_with_only_me_summary">Only Me</string>
+    <string name="fragment_share_with_friends_title">Friends</string>
+    <string name="fragment_share_with_friends_summary">Share with the specified friends</string>
+    <string name="fragment_share_with_friends_tips">%d friends will watch your live stream</string>
+    <string name="fragment_share_with_friends_change">Change</string>
+    <string name="activity_share_with_title">Share with</string>
+    <string name="activity_share_with_friends_title">Share with friends</string>
 </resources>
