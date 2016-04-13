@@ -423,6 +423,7 @@
     <string name="fragment_rating_continue">Devam</string>
     <string name="fragment_rating_interested">İlgilenmiyorum</string>
     <string name="pref_title_video_broadcast_type">Canlı Yayın</string>
+    <string name="activity_private_broadcast_head_desc">Özel canlı yayın sadece arkadaşlarınıza bildirilir.</string>
     <string name="activity_private_broadcast_head_desc">Özel yayın Son Eklenenler sekmesinde gözükmez ve sadece seçtiğiniz kişiler bildirim alır.</string>
     <string name="activity_private_broadcast_head_select_title">KATILIMCILAR</string>
     <string name="activity_private_broadcast_make_private_button">Özel Yap (%s)</string>
@@ -439,4 +440,16 @@
     <string name="fragment_share_bottom_share_twitter_title">Twitter\'a Paylaş</string>
     <string name="fragment_share_bottom_share_fb_title">Facebook\'a Paylaş</string>
     <string name="fragment_share_bottom_empty_data_desc">Birbirinizi takip ettiğiniz bir kişi bulunamadı</string>
+    <string name="activity_screen_live_public_broadcast_hint">Herkes ile paylaş</string>
+    <string name="activity_screen_live_private_broadcast_hint">Özel olarak paylaş</string>
+    <string name="fragment_share_with_public_title">Herkese açık</string>
+    <string name="fragment_share_with_public_summary">Herkes ile paylaş</string>
+    <string name="fragment_share_with_only_me_title">Sadece ben</string>
+    <string name="fragment_share_with_only_me_summary">Sadece kendiniz görebilirsiniz</string>
+    <string name="fragment_share_with_friends_title">Arkadaşlar</string>
+    <string name="fragment_share_with_friends_summary">Belirli kişiler ile paylaş</string>
+    <string name="fragment_share_with_friends_tips">%d arkadaşın canlı yayınını izleyecek</string>
+    <string name="fragment_share_with_friends_change">Değiştir</string>
+    <string name="activity_share_with_title">Şununla paylaş</string>
+    <string name="activity_share_with_friends_title">Arkadaşlarınla paylaş</string>
 </resources>
