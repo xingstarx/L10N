@@ -54,10 +54,13 @@
 "profile_text_moderators" = "管理员列表";
 "profile_text_muted_users" = "屏蔽列表";
 
+"landing_slogan" = "Shou 是一个手机游戏直播社区";
 "landing_btn_twitter" = "通过 Twitter 登录";
 "landing_btn_facebook" = "通过 Facebook 登录";
 "landing_btn_google" = "通过 Google 登录";
 "landing_btn_email" = "通过 Email 登录";
+"landing_btn_log_in_tip" = "已经有账号了？ 登录";
+"landing_btn_more" = "更多";
 "landing_btn_sign_up" = "注册";
 "landing_btn_sign_in" = "登录";
 "landing_btn_skip" = "跳过";

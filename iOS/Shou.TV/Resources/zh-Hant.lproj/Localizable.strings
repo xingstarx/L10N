@@ -54,10 +54,13 @@
 "profile_text_moderators" = "管理員清單";
 "profile_text_muted_users" = "屏蔽者清單";
 
+"landing_slogan" = "Shou 是一個手機遊戲直播社區";
 "landing_btn_twitter" = "透過 Twitter 登入";
 "landing_btn_facebook" = "透過 Facebook 登入";
 "landing_btn_google" = "透過 Google 登入";
 "landing_btn_email" = "透過 Email 登入";
+"landing_btn_log_in_tip" = "已經有賬號了？登入";
+"landing_btn_more" = "更多";
 "landing_btn_sign_up" = "註冊";
 "landing_btn_sign_in" = "登入";
 "landing_btn_skip" = "略過";

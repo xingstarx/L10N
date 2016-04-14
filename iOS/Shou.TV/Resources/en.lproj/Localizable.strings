@@ -55,10 +55,13 @@
 "profile_text_moderators" = "Moderators";
 "profile_text_muted_users" = "Muted users";
 
+"landing_slogan" = "Shou is the \nmobile game streaming community.";
 "landing_btn_twitter" = "Continue with Twitter";
 "landing_btn_facebook" = "Continue with Facebook";
 "landing_btn_google" = "Continue with Google";
 "landing_btn_email" = "Continue with Email";
+"landing_btn_log_in_tip" = "Have an Account? Log in";
+"landing_btn_more" = "More";
 "landing_btn_sign_up" = "Sign up";
 "landing_btn_sign_in" = "Log in";
 "landing_btn_skip" = "Skip";
