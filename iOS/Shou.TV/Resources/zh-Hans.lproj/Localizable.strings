@@ -56,7 +56,8 @@
 
 "landing_btn_twitter" = "通过 Twitter 登录";
 "landing_btn_facebook" = "通过 Facebook 登录";
-"landing_btn_google" = "通过 Google+ 登录";
+"landing_btn_google" = "通过 Google 登录";
+"landing_btn_email" = "通过 Email 登录";
 "landing_btn_sign_up" = "注册";
 "landing_btn_sign_in" = "登录";
 "landing_btn_skip" = "跳过";

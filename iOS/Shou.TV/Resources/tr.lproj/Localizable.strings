@@ -54,7 +54,8 @@
 
 "landing_btn_twitter" = "Twitter ile giriş yap";
 "landing_btn_facebook" = "Facebook ile giriş yap";
-"landing_btn_google" = "Google+ ile giriş yap";
+"landing_btn_google" = "Google ile giriş yap";
+"landing_btn_email" = "Email ile giriş yap";
 "landing_btn_sign_up" = "Kaydol";
 "landing_btn_sign_in" = "Giriş Yap";
 "landing_btn_skip" = "Geç";

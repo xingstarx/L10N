@@ -52,7 +52,8 @@
 
 "landing_btn_twitter" = "Twitterで登録";
 "landing_btn_facebook" = "Facebookで登録";
-"landing_btn_google" = "Google+で登録";
+"landing_btn_google" = "Googleで登録";
+"landing_btn_email" = "Emailで登録";
 "landing_btn_sign_up" = "登録";
 "landing_btn_sign_in" = "ログイン";
 "landing_google_plus_sign_in_progress" = "Googleでログイン中";

@@ -55,7 +55,8 @@
 
 "landing_btn_twitter" = "Войти с помощью Twitter";
 "landing_btn_facebook" = "Войти с помощью Facebook";
-"landing_btn_google" = "Войти с помощью Google+";
+"landing_btn_google" = "Войти с помощью Google";
+"landing_btn_email" = "Войти с помощью Email";
 "landing_btn_sign_up" = "Зарегистрироваться";
 "landing_btn_sign_in" = "Войти";
 "landing_btn_skip" = "Пропустить";

@@ -47,7 +47,8 @@
 
 "landing_btn_twitter" = "Twitter으로 로그인";
 "landing_btn_facebook" = "Facebook으로 로그인";
-"landing_btn_google" = "Google+로 로그인";
+"landing_btn_google" = "Google으로 로그인";
+"landing_btn_email" = "Email으로 로그인";
 "landing_btn_sign_up" = "가입";
 "landing_btn_sign_in" = "로그인";
 "landing_google_plus_sign_in_progress" = "Google+로 로그인";
