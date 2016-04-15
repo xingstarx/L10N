@@ -423,10 +423,10 @@
     <string name="fragment_share_with_public_summary">與所有人分享</string>
     <string name="fragment_share_with_only_me_title">個人直播</string>
     <string name="fragment_share_with_only_me_summary">僅限本來</string>
-    <string name="fragment_share_with_friends_title">私密直播</string>
-    <string name="fragment_share_with_friends_summary">與指定的好友分享</string>
-    <string name="fragment_share_with_friends_tips">您的 %d 位好友將觀看你的直播</string>
-    <string name="fragment_share_with_friends_change">更改</string>
+    <string name="fragment_share_with_friends_title">私人直播</string>
+    <string name="fragment_share_with_friends_summary">與指定的朋友分享</string>
+    <string name="fragment_share_with_friends_tips">您的 %d 位朋友將觀看你的直播</string>
+    <string name="fragment_share_with_friends_change">變更</string>
     <string name="activity_share_with_title">分享</string>
-    <string name="activity_share_with_friends_title">分享給好友</string>
+    <string name="activity_share_with_friends_title">分享給朋友</string>
 </resources>
