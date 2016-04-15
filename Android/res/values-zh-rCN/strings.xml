@@ -47,6 +47,8 @@
     <string name="profile_title_profile">编辑资料</string>
     <string name="profile_title_black">拉黑</string>
     <string name="profile_title_logout">退出</string>
+    <string name="profile_title_moderators">管理员</string>
+    <string name="profile_title_muted_users">禁言列表</string>
     <string name="activity_landing_btn_sign_up">注册</string>
     <string name="activity_landing_btn_sign_in">登录</string>
     <string name="activity_landing_google_plus_sign_in_progress">正在用 Google 登录</string>

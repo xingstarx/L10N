@@ -424,7 +424,6 @@
     <string name="fragment_rating_interested">İlgilenmiyorum</string>
     <string name="pref_title_video_broadcast_type">Canlı Yayın</string>
     <string name="activity_private_broadcast_head_desc">Özel canlı yayın sadece arkadaşlarınıza bildirilir.</string>
-    <string name="activity_private_broadcast_head_desc">Özel yayın Son Eklenenler sekmesinde gözükmez ve sadece seçtiğiniz kişiler bildirim alır.</string>
     <string name="activity_private_broadcast_head_select_title">KATILIMCILAR</string>
     <string name="activity_private_broadcast_make_private_button">Özel Yap (%s)</string>
     <string name="pref_entries_video_broadcast_type">Özel(%s)</string>
