@@ -452,5 +452,7 @@
     <string name="fragment_share_with_friends_change">更改</string>
     <string name="activity_share_with_title">分享</string>
     <string name="activity_share_with_friends_title">分享给好友</string>
+    <string name="message_mark_read">全部标记为已读</string>
+    <string name="message_mark_read_success">所有私信标记为已读</string>
 
 </resources>

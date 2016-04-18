@@ -456,4 +456,6 @@
     <string name="fragment_share_with_friends_change">Change</string>
     <string name="activity_share_with_title">Share with</string>
     <string name="activity_share_with_friends_title">Share with friends</string>
+    <string name="message_mark_read">Mark all as read</string>
+    <string name="message_mark_read_success">All messages marked as read</string>
 </resources>
