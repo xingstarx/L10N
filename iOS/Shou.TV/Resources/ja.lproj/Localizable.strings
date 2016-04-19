@@ -18,6 +18,7 @@
 "dialog_button_share" = "共有";
 "dialog_button_close" = "閉める";
 "dialog_button_cancel" = "キャンセル";
+"dialog_title_open_safari" = "開く";
 
 "tab_home" = "ホームページ";
 "tab_games" = "ゲーム";
@@ -25,6 +26,7 @@
 "tab_videos" = "ビデオ";
 "tab_explore" = "探る";
 "tab_me" = "マイページ";
+"tab_messages" = "メッセージ";
 
 "explore_recommended" = "お勧め";
 "explore_leaderboard" = "ランキング";
@@ -41,21 +43,28 @@
 "profile_text_videos" = "ビデオ";
 "profile_text_followers" = "ファン";
 "profile_text_following" = "フォロー";
+"profile_text_live" = "LIVE";
 "profile_edit_profile" = "個人プロフィールをエディタ";
 "profile_archive_broadcasts" = "マイページ放送を自動的に保存";
-"profile_text_times" = "Times";
+"profile_text_times" = "デュレーション";
 "profile_text_views" = "見る";
 "profile_text_likes" = "好き";
 "profile_text_cash" = "ShouCash";
 "profile_text_games" = "ゲーム";
 "profile_text_logout" = "退出";
+"profile_text_moderators" = "モデレーター";
+"profile_text_muted_users" = "ミュートされているユーザー";
 
+"landing_slogan" = "Shou is the \nmobile game streaming community.";
 "landing_btn_twitter" = "Twitterで登録";
 "landing_btn_facebook" = "Facebookで登録";
 "landing_btn_google" = "Googleで登録";
 "landing_btn_email" = "Emailで登録";
+"landing_btn_log_in_tip" = "Have an Account? Log in";
+"landing_btn_more" = "その他";
 "landing_btn_sign_up" = "登録";
 "landing_btn_sign_in" = "ログイン";
+"landing_btn_skip" = "スキップする";
 "landing_google_plus_sign_in_progress" = "Googleでログイン中";
 "landing_facebook_sign_in_progress" = "Facebookでログイン中";
 "landing_twitter_sign_in_progress" = "Twitterでログイン中";
@@ -75,6 +84,7 @@
 "account_text_user_score" = "%@ スコア";
 "account_text_game_cast" = "%@ ビデオ";
 "account_text_game_player" = "%@ プレーヤー";
+"account_text_joined" = "Joined on %@";
 "account_title_edit_profile" = "個人プロフィールをエディタ";
 "account_title_change_password" = "パスワードの変更";
 "account_label_username" = "名前";
@@ -89,12 +99,13 @@
 "account_hint_email" = "メールアドレス";
 "account_hint_username" = "アカウント";
 "account_hint_password" = "パスワードは６字目以内";
-"account_hint_name" = "ニックネーム";
-"account_hint_biography" = "個人的サイン";
 "account_hint_current_password" = "現在のパスワード";
 "account_hint_new_password" = "新しいパスワード";
 "account_hint_confirm_password" = "パスワード確認";
+"account_hint_name" = "ニックネーム";
+"account_hint_biography" = "個人的サイン";
 "account_text_optional" = "オプショナル";
+"account_text_username" = "あなたの @%@ はユニークです。これは、後でいつでも変更していただけます。";
 "account_choose_avatar" = "個人写真を選択";
 "account_choose_avatar_failed" = "個人写真選択失敗";
 "account_btn_signing_up" = "登録中";
@@ -137,6 +148,7 @@
 "account_dialog_sign_up_failed" = "登録失敗";
 "account_invite_friends" = "友達を招待";
 "account_invite" = "マイページ名前は%@ ，ShouというAppをドンロードしてください！";
+"account_user_video_delete_info" = "本当にこの動画を削除しても宜しいですか？";
 
 "video_player_welcome" = "マイページルームへようこそ！";
 "video_player_quality" = "画面品質";
@@ -149,15 +161,15 @@
 "video_player_report_success" = "報告成功";
 "video_player_report_faild" = "報告失敗";
 "video_player_info" = "インフォメーション";
-
-"chat_room_title" = "聊天室";
-
+"video_player_over" = "放送中止";
 "video_player_report_sexual" = "性的なコンテンツ";
 "video_player_report_violent" = "暴力的または不快なコンテンツ";
 "video_player_report_hateful" = "差別的または攻撃的なコンテンツ";
 "video_player_report_harmful" = "有害または危険な行為";
 "video_player_report_misleading" = "スパムや誤解を招く動画";
 "video_player_report_playback" = "再生の問題";
+
+"chat_room_title" = "聊天室";
 
 "find_friends_follow_all" = "全部フォロー";
 "find_friends_title" = "%@ 友達";
@@ -176,23 +188,29 @@
 "msg_send_failed" = "発送失敗";
 "msg_hint_send_msg" = "発送";
 "msg_hint_send_disable" = "ローディング";
-"msg_ban_user" = "ギャグ";
-"msg_ban_user_description" = "%@ ギャグされた";
-"msg_unban_user" = "ギャグキャンセル";
-"msg_unban_user_description" = "%@ ギャグキャンセルされた";
+"msg_ban_user" = "ミュート";
+"msg_ban_alert_title" = "%@をミュートしますか？";
+"msg_ban_alert_message" = "%@ can't chat and message with broadcaster.";
+"msg_ban_alert_message_self" = "%@ can't chat and message with you.";
+"msg_ban_user_description" = "%@ is muted.";
+"msg_unban_user" = "ミュートを解除する";
+"msg_unban_user_description" = "%@ is unmuted.";
+"msg_mod_user" = "モデレート";
+"msg_unmod_user" = "モデレートされていません";
 "msg_popup_detail" = "歴史";
 "msg_new_message" = "メッセージを入力してください";
 "msg_send_faild_too_quickly" = "メッセージが多すぎで，所々お待ちください";
 "msg_send_faild_limit" = "メッセージが多すぎで，%@ 秒をお待ちください";
 "msg_send_faild_same" = "同じメッセージを再び発送しないでください";
 
+"toast_api_error_forbidden" = "Forbidden access";
 "toast_api_error_no_connection" = "インターネットなし";
 "toast_api_error_connection_timeout" = "インターネット　タイムアウト";
 "toast_api_error_server_5xx" = "Shou.TV サーバーエラー";
 "toast_api_error_not_found" = "関連インフォメーションなし";
+"toast_video_deleted" = "この動画は、ブロードキャスターによって削除されました";
 
 "about_title" = "関して";
-"about_title_download_recorder" = "Shou 録画端末をドンロードしてください";
 "about_title_faq" = "FAQ";
 "about_summary_faq" = "Shou FAQ";
 "about_title_website" = "公式サイト";
@@ -207,19 +225,21 @@
 "about_title_copyright" = "著作権";
 "about_title_rate" = "App Storeでレビュー";
 "about_title_feedback" = "意見";
+"about_title_instagram" = "Instagram";
 
 "From Photo Library" = "写真より";
 "From Camera" = "カメラより";
 "Choose Source" = "方式選択";
+"imagePicker_failed"  = "Get Picture failed, please re-select pictures";
 
 "app_download" = "インスタレーション";
 "app_open" = "開く";
 
 "payment_title_label" = "ShouCashを獲得!";
-"payment_faild_not_allow" = "App内購入禁止された。 設定 > 一般 > 機能制限 > App内購入許す";
 "payment_faild" = "購入失敗！";
 "payment_success" = "購入成功！ %@ 個 ShouCashを獲得，トータル %@ 個 ShouCash";
-"lackmoney_title_label" = "ShouCash　不足!";
+"payment_faild_not_allow" = "App内購入禁止された。 設定 > 一般 > 機能制限 > App内購入許す";
+"lackmoney_title_label" = "ShouCash 不足!";
 "lackmoney_topup_label" = "とりあえず購入してください!";
 "lackmoney_buy_button" = "購入";
 "statistics_title" = "統計";
@@ -230,11 +250,35 @@
 "statistics_likes" = "好きトータル %@";
 "statistics_Income" = "収入トータル %@";
 
+"broadcast_title" = "ブロードキャスト";
+"broadcast_camera" = "カメラ";
 "explore_search_game" = "\"%@\"というゲームを探す？";
 
 "VIDEO_CAMERA_LIVE_TITLE_HINT" = "What are you seeing now?";
 "VIDEO_CAMERA_STREAMING_READY" = "放送スタート";
 "VIDEO_CAMERA_STREAMING_STOP" = "放送中止";
+"DIALOG_FAILD_TO_CAMERA_GRANTED" = "Grant camera failed";
+"DIALOG_FAILD_TO_MIC_GRANTED" = "Grant mic failed";
+"msg_popup_mention" = "言及する";
+"msg_popup_moderate" = "モデレート";
+"msg_popup_moderate_cancel" = "モデレートをキャンセルする";
+"msg_popup_moderate_description" = "%@ is moderate in this room.";
+"msg_popup_moderate_cancel_description" = "%@ is cancel moderate in this room.";
 
+"message_list_empty_placeholder" = "メッセージはありません";
+"message_like_me" = "あなたは %@ のブロードキャストにいいね！しています You liked %@'s broadcast";
 "message_like" = "%@ 人が、あなたのブロードキャストを、好きと評価しています";
+"message_follow_me" = "あなたは %@ をフォローしています";
 "message_follow" = "%@ があなたをフォローしました";
+"message_new_placeholder" = "新しいメッセージ...";
+"message_tip_donate_me" = "You donated %@ %@ ShouCash";
+"message_tip_donate" = "%@ donated you %@ ShouCash";
+
+"menu_copy" = "クリップボードにコピーする";
+"menu_copy_url" = "Copy Link";
+"menu_more" = "その他";
+"share_to_title" = "シェア先";
+"share_search_placeholder" = "検索";
+"share_to_successed" = "シェアに成功しました!";
+"share_no_found_mutual" = "相互フォローしているユーザーが見つかりませんでした";
+"share_to_twitter" = "Watch %@ LIVE on #Shou: %@ %@";
