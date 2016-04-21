@@ -23,7 +23,7 @@
     <string name="description_video_cover">video resumo</string>
     <string name="description_play_pause">parar player</string>
     <string name="description_live">Ao vivo</string>
-    <string name="menu_next">Proxima</string>
+    <string name="menu_next">Próxima</string>
     <string name="menu_more">Mais</string>
     <string name="menu_recordings">Gravações</string>
     <string name="menu_settings">Configurações</string>
@@ -34,12 +34,12 @@
     <string name="menu_share">Compartilhar</string>
     <string name="search_hint">Pesquisar Jogador/game</string>
     <string name="profile_edit_profile">Editar perfil</string>
-    <string name="profile_archive_broadcasts">Automaticamente salvar minha transmissao</string>
+    <string name="profile_archive_broadcasts">Salvar minha transmissao automaticamente</string>
     <string name="activity_landing_btn_sign_up">Registre-se</string>
-    <string name="activity_landing_btn_sign_in">Entrer</string>
-    <string name="activity_landing_google_plus_sign_in_progress">Entre com Google Plus</string>
-    <string name="activity_landing_facebook_sign_in_progress">Entre com Facebook</string>
-    <string name="activity_landing_twitter_sign_in_progress">Entre com Twitter</string>
+    <string name="activity_landing_btn_sign_in">Entrar</string>
+    <string name="activity_landing_google_plus_sign_in_progress">Entrar com Google Plus</string>
+    <string name="activity_landing_facebook_sign_in_progress">Entrar com Facebook</string>
+    <string name="activity_landing_twitter_sign_in_progress">Entrar com Twitter</string>
     <string name="activity_account_title_edit_profile">Editar perfil</string>
     <string name="activity_account_hint_identify">nome do usuário ou email</string>
     <string name="activity_account_hint_email">email</string>
@@ -49,7 +49,7 @@
     <string name="activity_account_hint_biography">biografia</string>
     <string name="activity_account_text_optional">opcional</string>
     <string name="activity_account_choose_avatar">escolha o avatar</string>
-    <string name="activity_account_choose_avatar_failed">Falha em escolher o avatar</string>
+    <string name="activity_account_choose_avatar_failed">Falha ao escolher o avatar</string>
     <string name="activity_account_btn_signing_up">Cadastrando</string>
     <string name="activity_account_btn_signed_up">Cadastrado</string>
     <string name="activity_account_btn_signing_in">Acessando</string>
@@ -98,11 +98,11 @@
     <string name="activity_screen_device_browser_name">Refletir no navegador</string>
     <string name="activity_screen_choose_email">Feedback com o email</string>
     <string name="activity_screen_live_loading">Carregando</string>
-    <string name="activity_screen_live_title_hint">Titulo</string>
+    <string name="activity_screen_live_title_hint">Título</string>
     <string name="activity_screen_live_game_hint">selecione jogo</string>
     <string name="activity_video_player_share">%1$s : %2$s</string>
     <string name="activity_video_player_welcome">Bem vindo a sala de bate papo!</string>
-    <string name="activity_no_medias">Sem videos para mostrar, verifique  a barra de status para gravar tela.</string>
+    <string name="activity_no_medias">Sem videos para mostrar, verifique a barra de status para gravar tela.</string>
     <string name="activity_no_videos">Sem videos para mostrar</string>
     <string name="activity_no_games">Sem jogos para reproduzir</string>
     <string name="activity_no_following"> Sem atividade nos seguidos </string>
@@ -111,17 +111,17 @@
     <string name="activity_search_no_games">Sem jogo</string>
     <string name="activity_search_no_videos">Sem videos</string>
     <string name="activity_recordings">Gravaçoes</string>
-    <string name="activity_network_error">Erro na conecçao com a rede ~</string>
-    <string name="activity_accessibility_enable">Ligar proteçao de privacidade</string>
-    <string name="activity_accessibility_setting">Configurar proteçao de privacidade</string>
+    <string name="activity_network_error">Erro na conexão com a rede ~</string>
+    <string name="activity_accessibility_enable">Ligar proteção de privacidade</string>
+    <string name="activity_accessibility_setting">Configurar proteção de privacidade</string>
     <string name="activity_accessibility_title">Proteções de privacidade</string>
     <string name="activity_accessibility_disable_label">Você precisa acessar Shou pelas Configurações, e cliclar sobre ele, para o ativar. Isso irá embaçar sua senha e suas informações privadas enquanto você grava ou transmite.</string>
     <!-- From the settings? Or the Shou settings? I translated from, but I don't know if the english version is correct. -->
     <string name="activity_accessibility_disable_setting">Vá para configurações</string>
     <string name="activity_app_like_success">Virou um seguidor!</string>
-    <string name="activity_app_like_failed">Falha em virar um seguidor :(</string>
+    <string name="activity_app_like_failed">Falha ao seguir :(</string>
     <string name="activity_app_unlike_success">Parar de seguir</string>
-    <string name="activity_app_unlike_failed">Falha em parar de seguir :(</string>
+    <string name="activity_app_unlike_failed">Falha ao deixar de seguir :(</string>
     <string name="activity_game_group_favorite">Jogos seguidos</string>
     <!-- Here is all about context, followed games are the games that the user follows? Or the videos about the games? -->
     <string name="activity_game_group_played">Transmitir Jogos</string>
@@ -138,7 +138,7 @@
     <!-- I am guessing the meaning of mirroring as to reflect the image somewhere, so this is the translation I'm using -->
     <string name="streaming_chat">chat</string>
     <string name="streaming_btn_stop">Parar</string>
-    <string name="streaming_chat_title">Sala de bate papo</string>
+    <string name="streaming_chat_title">Sala de bate-papo</string>
     <string name="alert_dialog_button_close">Fechar</string>
     <string name="alert_dialog_audio_patch">Patch</string>
     <!-- This is something that will be showed to the end user? If so the translation may be "Correção" but depends of the context -->
@@ -146,13 +146,13 @@
     <!-- Don't know what is an AirPlay device -->
     <string name="toast_airplay_screen_mirror_not_supported">Não foi possível conectar com esse serviço AirPlay, ou o dispositivo não suporta espelhamento de tela.</string>
     <string name="progress_dialog_connecting_to_browser">Checando conexão de Wi-fi&#8230;</string>
-    <string name="toast_browser_screen_mirror_not_supported">Não foi possível encontrar rede Wi-Fi válida</string>
+    <string name="toast_browser_screen_mirror_not_supported">Não foi possível encontrar uma rede Wi-Fi válida</string>
     <string name="toast_api_error_no_connection">Sem conexão com a rede</string>
     <string name="toast_api_error_connection_timeout">Conexão com a rede expirou</string>
     <string name="toast_api_error_server_5xx">O servidor Shou.TV encontrou erros</string>
     <string name="toast_api_error_not_found">Nenhuma mensagem foi encontrada</string>
     <string name="toast_worker_start_failed_source">A captura de tela falhou, por favor tente novamente!</string>
-    <string name="toast_worker_start_failed_recorder">Não foi possível se conectar com o server, por favor cheque sua conexão com a rede</string>
+    <string name="toast_worker_start_failed_recorder">Não foi possível se conectar com o servidor, por favor cheque sua conexão com a rede</string>
     <string name="toast_worker_stop_failed">O gravador não pode parar!</string>
     <string name="toast_worker_error_occurred">Ocorreu um erro interno!</string>
     <string name="toast_worker_error_server_die">Ocorreu um erro no servidor!</string>
@@ -160,21 +160,21 @@
     <string name="toast_screencast_saved">Screencast salva: %s</string>
     <!-- There is no translation possible of "Screencast" to portuguese as a single term. It can be translated as "registro (gravação) da saída do vídeo gerado por computador em atividade" but I think that mantaining the original english word is OK -->
     <string name="toast_settings_reset">Agora você possui as configurações padrão!</string>
-    <string name="toast_settings_audio_source_internal_need_root">Gravar audio interno necessita de permissão Root.</string>
+    <string name="toast_settings_audio_source_internal_need_root">Gravar áudio interno necessita de permissão Root.</string>
     <string name="toast_settings_audio_source_internal_not_supported">Seu dispositivo parece NÃO ter suporte para essas funções.</string>
     <string name="toast_audio_driver_warning">Essa operação é perigosa, USE POR SUA PRÓPRIA CONTA E RISCO! E não é necessário corrigir o driver se a gravação de audio interno já possuí suporte.</string>
     <string name="toast_audio_driver_patch_success">Sucesso ao corrigir! REBOOT do dispositivo necessário!</string>
     <!-- There is no word in portuguese for REBOOT -->
-    <string name="toast_audio_driver_patch_fail">Houve uma falha ao concertar drive de audio!</string>
+    <string name="toast_audio_driver_patch_fail">Houve uma falha ao concertar o drive de audio!</string>
     <string name="toast_audio_driver_restore_success">restaurado com êxito!</string>
-    <string name="toast_audio_driver_restore_fail">Houve uma falha ao restaurar drive de audio!</string>
-    <string name="toast_network_only_wifi">Você configurou por transmitir apenas por Wi-Fi</string>
-    <string name="ticker_recording_started">Gravação de tela começou&#8230;</string>
-    <string name="ticker_recording_stopped">Gravação de tela terminou&#8230;</string>
-    <string name="ticker_airplay_started">Espelhamento de tela começou&#8230;</string>
-    <string name="ticker_airplay_stopped">Espelhamento de tela terminou&#8230;</string>
+    <string name="toast_audio_driver_restore_fail">Houve uma falha ao restaurar o drive de audio!</string>
+    <string name="toast_network_only_wifi">Você configurou para transmitir apenas pelo Wi-Fi</string>
+    <string name="ticker_recording_started">Gravação de tela iniciado&#8230;</string>
+    <string name="ticker_recording_stopped">Gravação de tela finalizada&#8230;</string>
+    <string name="ticker_airplay_started">Espelhamento de tela iniciado&#8230;</string>
+    <string name="ticker_airplay_stopped">Espelhamento de tela finalizada&#8230;</string>
     <string name="ticker_airplay_mirroring_to">%s</string>
-    <string name="ticker_live_started">Transmissão começou&#8230;</string>
+    <string name="ticker_live_started">Transmissão iniciada&#8230;</string>
     <string name="ticker_live_stopped">Encerrando transmissao&#8230;</string>
     <string name="ticker_live_casting_to">Ao vivo: %s</string>
     <string name="ticker_browser_started">Ver sua tela no browser&#8230;</string>
@@ -182,14 +182,14 @@
     <!-- What's the meaning of casting  in this situation? -->
     <string name="ticker_browser_mirroring_to">%s</string>
     <string name="permission_read_shou_composer_label">leia Shou compositor</string>
-    <string name="permission_read_shou_composer_description">Permite que o app grave sua tela ou tire uma screenshot. Todas as suas operações podem ser monitoradas, e.g. seu teclado, senha, etc.</string>
+    <string name="permission_read_shou_composer_description">Permite que o app grave sua tela ou tire uma screenshot. Todas as suas operações podem ser monitoradas, ex: seu teclado, senha, etc.</string>
     <string name="permission_group_shou_label">Shou</string>
-    <string name="permission_group_shou_description">Permite que o app grave sua tela ou tire uma screenshot. Todas as suas operações podem ser monitoradas, e.g. seu teclado, senha, etc.</string>
+    <string name="permission_group_shou_description">Permite que o app grave sua tela ou tire uma screenshot. Todas as suas operações podem ser monitoradas, ex: seu teclado, senha, etc.</string>
     <string name="permission_accessibility_description">Esse serviço irá lhe proteger de vazamentos de senha ou informações privadas quando gravar ou transmitir pelo Shou.TV</string>
     <string name="pref_title_category_video">Video</string>
-    <string name="pref_summary_category_video">fonte de video, decodificação,  etc.</string>
-    <string name="pref_title_category_audio">Audio</string>
-    <string name="pref_summary_category_audio">fonte de audio, driver, etc.</string>
+    <string name="pref_summary_category_video">fonte de video, decodificação, etc.</string>
+    <string name="pref_title_category_audio">Áudio</string>
+    <string name="pref_summary_category_audio">fonte de áudio, driver, etc.</string>
     <string name="pref_title_category_broadcast">Trasmissão</string>
     <string name="pref_summary_category_broadcast">Transmissão ou espelhamento ao vivo</string>
     <string name="pref_title_category_record">Gravar tela</string>
@@ -215,7 +215,7 @@
     <string name="pref_summary_audio_patch_driver">PERIGO! Patch se o gravador de áudio interno não funcionar.</string>
     <!-- In this case I prefer to keep the word Patch in the original english -->
     <string name="pref_title_audio_restore_driver">Restaurar drive de áudio</string>
-    <string name="pref_summary_audio_restore_driver">Restaurar drive de audio para versão anterior.</string>
+    <string name="pref_summary_audio_restore_driver">Restaurar drive de áudio para versão anterior.</string>
     <string name="pref_title_misc_auto_restart">Auto reiniciar</string>
     <string name="pref_title_misc_network_type">Transmissão encerrada</string>
     <string name="pref_summary_misc_auto_restart">Quanto se reiniciar transmissão ou espelhamento automaticamente depois que um erro ocorrer</string>
