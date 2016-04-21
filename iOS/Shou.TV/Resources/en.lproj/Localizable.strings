@@ -28,6 +28,7 @@
 "tab_me" = "Me";
 "tab_messages" = "Messages";
 
+"explore_broadcasters" = "Broadcasters";
 "explore_recommended" = "Recommended";
 "explore_leaderboard" = "Leaderboard";
 "explore_leaderboard_text_score" = "score %@";

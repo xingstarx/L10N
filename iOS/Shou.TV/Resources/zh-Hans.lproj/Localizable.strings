@@ -28,6 +28,7 @@
 "tab_me" = "我的";
 "tab_messages" = "消息";
 
+"explore_broadcasters" = "主播";
 "explore_recommended" = "推荐";
 "explore_leaderboard" = "排行";
 "explore_leaderboard_text_score" = "人气 %@";
