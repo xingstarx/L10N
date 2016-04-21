@@ -51,8 +51,8 @@
 "profile_text_cash" = "ShouCash";
 "profile_text_games" = "遊戲";
 "profile_text_logout" = "登出";
-"profile_text_moderators" = "管理員清單";
-"profile_text_muted_users" = "屏蔽者清單";
+"profile_text_moderators" = "管理人員";
+"profile_text_muted_users" = "被禁言人員";
 
 "landing_slogan" = "Shou 是一個手機遊戲直播社群";
 "landing_btn_twitter" = "透過 Twitter 登入";
@@ -186,15 +186,15 @@
 "msg_send_failed" = "傳送失敗";
 "msg_hint_send_msg" = "傳送";
 "msg_hint_send_disable" = "載入中";
-"msg_ban_user" = "屏蔽";
-"msg_ban_alert_title" = "屏蔽 %@ ？";
-"msg_ban_alert_message" = "%@ 傳送給實況主的私人訊息與聊天室訊息都將被屏蔽。";
-"msg_ban_alert_message_self" = "%@ 傳送給您的私人訊息與聊天室訊息都將被屏蔽。";
-"msg_ban_user_description" = "%@ 已經被屏蔽";
-"msg_unban_user" = "取消屏蔽";
-"msg_unban_user_description" = "%@ 已經被取消屏蔽";
-"msg_mod_user" = "管理員";
-"msg_unmod_user" = "取消管理員";
+"msg_ban_user" = "禁止發言";
+"msg_ban_alert_title" = "是否禁止 %@ 發言？";
+"msg_ban_alert_message" = "%@ 無法在聊天室中發言并私信主播。";
+"msg_ban_alert_message_self" = "%@ 將無法在聊天室中發言并私信您。";
+"msg_ban_user_description" = "%@ 被禁言中";
+"msg_unban_user" = "正常發言";
+"msg_unban_user_description" = "%@ 可正常發言";
+"msg_mod_user" = "管理者";
+"msg_unmod_user" = "非管理者";
 "msg_popup_detail" = "設定檔";
 "msg_new_message" = "說點什麼...";
 "msg_send_faild_too_quickly" = "您傳送訊息過於頻繁，請稍後重試";
@@ -274,10 +274,10 @@
 "message_tip_donate" = "%@ 抖內了您 %@ ShouCash";
 
 "menu_copy" = "複製";
-"menu_copy_url" = "複製連結";
+"menu_copy_url" = "拷貝連接";
 "menu_more" = "更多";
 "share_to_title" = "分享給";
 "share_search_placeholder" = "搜尋";
 "share_to_successed" = "分享成功!";
-"share_no_found_mutual" = "沒有相互追蹤的朋友";
-"share_to_twitter" = "%@ 正在 #Shou 直播: %@ %@";
+"share_no_found_mutual" = "未找到與您互為跟隨的人";
+"share_to_twitter" = "%@ 在Shou上直播，快來觀看吧: %@ %@";
