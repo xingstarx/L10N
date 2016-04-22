@@ -28,6 +28,7 @@
 "tab_me" = "Я";
 "tab_messages" = "Сообщения";
 
+"explore_broadcasters" = "Игроки";
 "explore_recommended" = "Рекомендуемые";
 "explore_leaderboard" = "Доска лидеров";
 "explore_leaderboard_text_score" = "Очки: %@";
@@ -52,20 +53,24 @@
 "profile_text_cash" = "ShouCash";
 "profile_text_games" = "Игры";
 "profile_text_logout" = "Выйти";
+"profile_text_moderators" = "Модераторы";
+"profile_text_muted_users" = "Чёрный список";
 
-"landing_slogan" = "Shou мобильное видеостриминговое сообщество.";
+"landing_slogan" = "Мобильное видеостриминговое сообщество";
+"landing_btn_log_in_tip" = "Уже есть аккаунт? Войдите";
+"landing_btn_more" = "Ещё";
 "landing_btn_twitter" = "Войти с помощью Twitter";
 "landing_btn_facebook" = "Войти с помощью Facebook";
 "landing_btn_google" = "Войти с помощью Google";
-"landing_btn_email" = "Войти с помощью Email";
+"landing_btn_email" = "Войти с аккаунтом Shou";
 "landing_btn_sign_up" = "Зарегистрироваться";
 "landing_btn_sign_in" = "Войти";
 "landing_btn_skip" = "Пропустить";
-"landing_google_plus_sign_in_progress" = "Вход с помощью Google+";
+"landing_google_plus_sign_in_progress" = "Вход с помощью Google";
 "landing_facebook_sign_in_progress" = "Вход с помощью Facebook";
 "landing_twitter_sign_in_progress" = "Вход с помощью Twitter";
 "landing_text_agree" = "Продолжая, вы соглашаетесь с %@ и %@";
-"landing_text_agree_term" = "Усл. использ. сервиса";
+"landing_text_agree_term" = "Правилами пользования";
 "landing_text_agree_privacy" = "Политикой конфиденциальности";
 
 "account_text_user_views" = "%@ просмотры";
@@ -88,9 +93,9 @@
 "account_label_email" = "Адрес эл. почты";
 "account_label_full_name" = "Полное имя";
 "account_label_biography" = "Биография";
-"account_label_avatar" = "Фото профиля";
+"account_label_avatar" = "Аватар";
 "account_label_cover" = "Обложка";
-"account_label_upload_avatar"= "Добавить фото профиля";
+"account_label_upload_avatar"= "Выберите аватар";
 "account_hint_identify" = "Имя пользователя или эл. почта";
 "account_hint_email" = "адрес эл. почты";
 "account_hint_username" = "имя пользователя";
@@ -102,8 +107,8 @@
 "account_hint_biography" = "кратко расскажите о себе";
 "account_text_optional" = "необязательно";
 "account_text_username" = "Имя @%@ доступно. Вы сможете изменить его позже в любое время.";
-"account_choose_avatar" = "Выберите фото профиля";
-"account_choose_avatar_failed" = "Не удалось обновить фото профиля";
+"account_choose_avatar" = "Добавить аватар";
+"account_choose_avatar_failed" = "Не удалось обновить аватар";
 "account_btn_signing_up" = "Регистрация";
 "account_btn_signed_up" = "Вход выполнен";
 "account_btn_signing_in" = "Вход";
@@ -112,7 +117,7 @@
 "account_btn_sign_out" = "Выйти";
 "account_btn_forgot_password" = "Забыли пароль?";
 "account_title_forget" = "Сброс пароля";
-"account_btn_recover_password" = "Отправить инструкцию";
+"account_btn_recover_password" = "Получить инструкцию";
 "account_btn_recovering_password" = "Отправка инструкции";
 "account_btn_recover_complete" = "Инструкция была отправлена";
 "account_btn_reset_password" = "Сброс пароля";
@@ -133,7 +138,7 @@
 "account_toast_reset_password_failed" = "Неверный адрес эл. почты";
 "account_toast_profile_update_success" = "Профиль успешно обновлён";
 "account_toast_profile_update_failed" = "Не удалось обновить профиль";
-"account_toast_failed_to_sign_in_with_google_plus" = "Не удалось войти с помощью Google+ :(";
+"account_toast_failed_to_sign_in_with_google_plus" = "Не удалось войти с помощью Google :(";
 "account_toast_failed_to_sign_in_with_facebook" = "Не удалось войти с помощью Facebook :(";
 "account_toast_failed_to_sign_in_with_twitter" = "Не удалось войти с помощью Twitter :(";
 "account_toast_sign_up_failed" = "Не удалось выполнить регистрацию с указанными данными";
@@ -190,9 +195,14 @@
 "msg_hint_send_msg" = "Отпр.";
 "msg_hint_send_disable" = "Отправка сообщений недоступна";
 "msg_ban_user" = "Заблокировать";
-"msg_ban_user_description" = "%@ заблокирован(-а) в этом чате.";
+"msg_ban_alert_title" = "Заблокировать %@?";
+"msg_ban_alert_message" = "Пользователь %@ больше не сможет отправлять сообщения в чат и личные сообщения этому игроку.";
+"msg_ban_alert_message_self" = "Пользователь %@ больше не сможет отправлять вам сообщения в чат и личные сообщения.";
+"msg_ban_user_description" = "%@ заблокирован(-а)";
 "msg_unban_user" = "Разблокировать";
-"msg_unban_user_description" = "%@ разблокирован(-а) в этом чате.";
+"msg_unban_user_description" = "%@ разблокирован(-а)";
+"msg_mod_user" = "Назначить";
+"msg_unmod_user" = "Удалить";
 "msg_popup_detail" = "Профиль";
 "msg_new_message" = "Написать сообщение...";
 "msg_send_faild_too_quickly" = "Сообщение не было отправлено, так как вы отправляете сообщения слишком часто.";
@@ -218,7 +228,7 @@
 "about_title_twitter" = "Twitter";
 "about_summary_twitter" = "@Shou_TV";
 "about_title_privacy_policy" = "Политика конфиденциальности";
-"about_title_terms_of_service" = "Условия использования сервиса";
+"about_title_terms_of_service" = "Правила пользования";
 "about_title_version" = "Версия";
 "about_title_copyright" = "Разработчик";
 "about_title_rate" = "Оценить приложение";
@@ -226,9 +236,9 @@
 "about_title_instagram" = "Instagram";
 
 
-"From Photo Library" = "Выбрать из Фотопленки";
+"From Photo Library" = "Медиатека";
 "From Camera" = "Сделать фото";
-"Choose Source" = "Выберите новое фото профиля или обложку";
+"Choose Source" = "Выберите новый аватар или обложку";
 "imagePicker_failed" = "Не удалось выбрать фото, пожалуйста, повторите попытку";
 
 "app_download" = "Установить";
@@ -278,3 +288,10 @@
 
 
 "menu_copy" = "Скопировать";
+"menu_copy_url" = "Скопировать ссылку";
+"menu_more" = "Ещё";
+"share_to_title" = "ПОДЕЛИТЬСЯ";
+"share_search_placeholder" = "Поиск";
+"share_to_successed" = "Успешно отправлено";
+"share_no_found_mutual" = "Нет пользователей с взаимной подпиской";
+"share_to_twitter" = "Смотрите мою трансляцию %@ на #Shou: %@ %@";
