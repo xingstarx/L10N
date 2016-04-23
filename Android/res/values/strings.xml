@@ -50,8 +50,14 @@
     <string name="profile_title_moderators">Moderators</string>
     <string name="profile_title_muted_users">Muted users</string>
     <string name="profile_title_logout">Logout</string>
+    <string name="activity_landing_more">More</string>
     <string name="activity_landing_btn_sign_up">Sign Up</string>
     <string name="activity_landing_btn_sign_in">Sign In</string>
+    <string name="activity_landing_sign_in">Have an Account? Sign in</string>
+    <string name="activity_landing_email">Continue with Email</string>
+    <string name="activity_landing_google">Continue with Google</string>
+    <string name="activity_landing_facebook">Continue with Facebook</string>
+    <string name="activity_landing_twitter">Continue with Twitter</string>
     <string name="activity_landing_google_plus_sign_in_progress">Sign in with Google Plus</string>
     <string name="activity_landing_facebook_sign_in_progress">Sign in with Facebook</string>
     <string name="activity_landing_twitter_sign_in_progress">Sign in with Twitter</string>
@@ -274,6 +280,9 @@
     <string name="msg_mute">Mute</string>
     <string name="msg_unmute">Unmute</string>
     <string name="msg_mute_title">Mute %s ?</string>
+    <string name="msg_mute_description">%s can\'t speak in your chat room and send message to you</string>
+    <string name="msg_mute_confirm">Mute</string>
+    <string name="msg_mute_cancel">Cancel</string>
     <string name="emoji_no_recent">No recent used emoji</string>
     <string name="emoji_description_back_space">Back space</string>
     <string name="emoji_description_cell">Cell</string>
