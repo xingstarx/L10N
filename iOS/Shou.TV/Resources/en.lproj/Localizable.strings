@@ -66,6 +66,7 @@
 "landing_btn_sign_up" = "Sign up";
 "landing_btn_sign_in" = "Log in";
 "landing_btn_skip" = "Skip";
+"landing_btn_next" = "Next";
 "landing_google_plus_sign_in_progress" = "Log in with Google Plus";
 "landing_facebook_sign_in_progress" = "Log in with Facebook";
 "landing_twitter_sign_in_progress" = "Log in with Twitter";

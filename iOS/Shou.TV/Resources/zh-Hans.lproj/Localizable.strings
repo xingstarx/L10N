@@ -65,6 +65,7 @@
 "landing_btn_sign_up" = "注册";
 "landing_btn_sign_in" = "登录";
 "landing_btn_skip" = "跳过";
+"landing_btn_next" = "下一步";
 "landing_google_plus_sign_in_progress" = "正在用 Google 登录";
 "landing_facebook_sign_in_progress" = "正在用 Facebook 登录";
 "landing_twitter_sign_in_progress" = "正在用 Twitter 登录";
