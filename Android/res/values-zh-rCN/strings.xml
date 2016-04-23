@@ -274,7 +274,7 @@
     <string name="msg_unban_user">取消禁言</string>
     <string name="msg_unban_user_description">%s 已经被取消禁言</string>
     <string name="msg_mute_title">屏蔽 %s ？</string>
-    <string name="msg_mute_description">%s 的聊天室信息和对您的私信都将被屏蔽</string>
+    <string name="msg_mute_description">%s 将无法和你聊天或发送私信。</string>
     <string name="msg_mute_confirm">屏蔽</string>
     <string name="msg_mute_cancel">取消</string>
     <string name="emoji_no_recent">最近没有使用过表情</string>
