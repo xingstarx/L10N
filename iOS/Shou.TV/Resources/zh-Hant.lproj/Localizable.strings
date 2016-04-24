@@ -143,7 +143,7 @@
 "account_toast_failed_to_sign_in_with_google_plus" = "使用 Google 登入失敗 :(";
 "account_toast_failed_to_sign_in_with_facebook" = "使用 Facebook 登入失敗 :(";
 "account_toast_failed_to_sign_in_with_twitter" = "使用 Twitter 登入失敗 :(";
-"account_toast_sign_up_failed" = "註冊失敗，注意使用者名稱、Email 或密碼";
+"account_toast_sign_up_failed" = "註冊失敗，注意使用者名稱、電子信箱或密碼";
 "account_toast_sign_in_required" = "請登入帳號";
 "account_toast_password_not_match" = "密碼不匹配";
 "account_dialog_sign_up_failed" = "註冊失敗";
