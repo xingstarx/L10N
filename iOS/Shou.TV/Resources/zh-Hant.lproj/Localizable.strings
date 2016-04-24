@@ -283,4 +283,5 @@
 "share_search_placeholder" = "搜尋";
 "share_to_successed" = "分享成功!";
 "share_no_found_mutual" = "未找到與您互為跟隨的人";
-"share_to_twitter" = "%@ 在Shou上直播，快來觀看吧: %@ %@";
+"share_to_twitter" = "%@ 在 Shou 上直播，快來觀看吧: %@ %@";
+"spotlight_content" = "在 Shou 觀看 %@ 的直播";

@@ -285,3 +285,5 @@
 "share_to_successed" = "Share successfully!";
 "share_no_found_mutual" = "No found people you followed each other";
 "share_to_twitter" = "Watch %@ LIVE on #Shou: %@ %@";
+
+"spotlight_content" = "Watch %@ LIVE on Shou";

@@ -284,3 +284,4 @@
 "share_to_successed" = "分享成功!";
 "share_no_found_mutual" = "没有相互关注的朋友";
 "share_to_twitter" = "%@ 正在 #Shou 直播: %@ %@";
+"spotlight_content" = "在 Shou 观看 %@ 的直播";
