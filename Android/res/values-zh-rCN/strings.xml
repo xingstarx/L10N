@@ -147,7 +147,6 @@
     <string name="activity_game_group_favorite">我关注的游戏</string>
     <string name="activity_game_group_played">我直播过的游戏</string>
     <string name="activity_find_friends_follow_all">全部关注</string>
-    <string name="activity_find_friends_title">%s 朋友</string>
     <string name="activity_find_friends_text">你在 Shou.TV 有 %1$s 个 %2$s 朋友</string>
     <string name="activity_find_friends_no_people">没有任何朋友</string>
     <string name="activity_statistics_title">统计</string>
@@ -462,5 +461,5 @@
     <string name="activity_share_with_friends_title">分享给好友</string>
     <string name="message_mark_read">全部标记为已读</string>
     <string name="message_mark_read_success">所有私信标记为已读</string>
-
+    <string name="activity_find_friends_suggest_title">推荐关注</string>
 </resources>

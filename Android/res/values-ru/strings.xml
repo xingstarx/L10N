@@ -128,7 +128,6 @@
     <string name="activity_game_group_favorite">Отслеживаемые</string>
     <string name="activity_game_group_played">Транслируемые</string>
     <string name="activity_find_friends_follow_all">Подписаться на всех</string>
-    <string name="activity_find_friends_title">%s друзей</string>
     <string name="activity_find_friends_text">У вас %1$s друзей на Shou.</string>
     <string name="activity_find_friends_no_people">У вас ещё нет друзей на Shou</string>
     <string name="activity_statistics_title">Статистика</string>

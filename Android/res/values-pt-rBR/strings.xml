@@ -126,7 +126,6 @@
     <!-- Here is all about context, followed games are the games that the user follows? Or the videos about the games? -->
     <string name="activity_game_group_played">Transmitir Jogos</string>
     <string name="activity_find_friends_follow_all">Seguir todos</string>
-    <string name="activity_find_friends_title">%s Amigos</string>
     <string name="activity_find_friends_text">Você tem %1$s %2$s amigos no Shou.TV.</string>
     <string name="activity_find_friends_no_people">Nenhuma pessoa foi encontrada.</string>
     <string name="action_delete">Deletar</string>
