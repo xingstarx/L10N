@@ -143,7 +143,6 @@
     <string name="activity_game_group_favorite">Takip Edilen Oyunlar</string>
     <string name="activity_game_group_played">Oynadığın Oyunlar</string>
     <string name="activity_find_friends_follow_all">Hepsini takip et</string>
-    <string name="activity_find_friends_title">%s Arkadaş</string>
     <string name="activity_find_friends_text">Shou.TV\'de %1$s %2$s arkadaşın var.</string>
     <string name="activity_find_friends_no_people">Oyuncu bulunmadı.</string>
     <string name="activity_statistics_title">İstatistikler</string>

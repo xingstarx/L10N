@@ -149,7 +149,6 @@
     <string name="activity_game_group_favorite">Followed Games</string>
     <string name="activity_game_group_played">Broadcast Games</string>
     <string name="activity_find_friends_follow_all">Follow all</string>
-    <string name="activity_find_friends_title">%s Friends</string>
     <string name="activity_find_friends_text">You have %1$s %2$s friends on Shou.TV.</string>
     <string name="activity_find_friends_no_people">No people found.</string>
     <string name="activity_statistics_title">Statistics</string>
@@ -467,4 +466,5 @@
     <string name="activity_share_with_friends_title">Share with friends</string>
     <string name="message_mark_read">Mark all as read</string>
     <string name="message_mark_read_success">All messages marked as read</string>
+    <string name="activity_find_friends_suggest_title">Suggested Follows</string>
 </resources>

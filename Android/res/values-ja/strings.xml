@@ -280,7 +280,6 @@
     <string name="activity_game_group_favorite">フォローされているゲーム</string>
     <string name="activity_game_group_played">ブロードキャスト ゲーム</string>
     <string name="activity_find_friends_follow_all">全てフォローする</string>
-    <string name="activity_find_friends_title">%s人の友達</string>
     <string name="activity_find_friends_text">あなたはShou.TV.で%1$s %2$s人の友達がいます</string>
     <string name="activity_find_friends_no_people">誰も見つかりませんでした</string>
     <string name="activity_statistics_title">統計</string>
