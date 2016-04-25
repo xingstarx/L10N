@@ -300,7 +300,6 @@
     <string name="menu_statistic">Статистика</string>
     <string name="menu_charge">Купить ShouCash</string>
     <string name="msg_buy_shou_cash">Купить</string>
-    <string name="msg_description_more_cash">Купите больше ShouCash!</string>
     <string name="toast_shou_cash_failure">Ошибка ShouCash!</string>
     <string name="toast_shou_cash_google_play_service_not_found">Не удалось найти сервисы Google Play</string>
     <string name="toast_chat_textview_load_url_failure">Не удалось загрузить ссылку</string>
