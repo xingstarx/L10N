@@ -148,7 +148,7 @@
     <string name="activity_no_message">No message</string>
     <string name="activity_game_group_favorite">Followed Games</string>
     <string name="activity_game_group_played">Broadcast Games</string>
-    <string name="activity_find_friends_follow_all">Follow all</string>
+    <string name="activity_find_friends_follow_all">FOLLOW ALL</string>
     <string name="activity_find_friends_text">You have %1$s %2$s friends on Shou.TV.</string>
     <string name="activity_find_friends_no_people">No people found.</string>
     <string name="activity_statistics_title">Statistics</string>
