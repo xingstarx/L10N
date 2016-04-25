@@ -50,8 +50,14 @@
     <string name="profile_title_moderators">Moderatörler</string>
     <string name="profile_title_muted_users">Engellenmiş Kullanıcılar</string>
     <string name="profile_title_logout">Çıkış Yap</string>
+	<string name="activity_landing_more">Daha Fazla</string>
     <string name="activity_landing_btn_sign_up">Üye Ol</string>
     <string name="activity_landing_btn_sign_in">Giriş Yap</string>
+	<string name="activity_landing_sign_in">Hesabınız var mı? Giriş Yapın</string>
+    <string name="activity_landing_email">Email ile devam et</string>
+    <string name="activity_landing_google">Google ile devam et</string>
+    <string name="activity_landing_facebook">Facebook ile devam et</string>
+    <string name="activity_landing_twitter">Twitter ile devam et</string>
     <string name="activity_landing_google_plus_sign_in_progress">Google Plus ile giriş yap</string>
     <string name="activity_landing_facebook_sign_in_progress">Facebook ile giriş yap</string>
     <string name="activity_landing_twitter_sign_in_progress">Twitter ile giriş yap</string>
@@ -273,6 +279,9 @@
     <string name="msg_mute">Sustur</string>
     <string name="msg_unmute">Konuşmasına izin ver</string>
     <string name="msg_mute_title">%s susturulsun mu?</string>
+	<string name="msg_mute_description">%s sohbet odanızda konuşamaz ve size mesaj gönderemez</string>
+    <string name="msg_mute_confirm">Sustur</string>
+    <string name="msg_mute_cancel">İptal</string>
     <string name="emoji_no_recent">Son kullanılan ifade yok</string>
     <string name="emoji_description_back_space">Sil</string>
     <string name="emoji_description_cell">Hücre</string>

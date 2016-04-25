@@ -28,6 +28,7 @@
 "tab_me" = "Ben";
 "tab_messages" = "Mesajlar";
 
+"explore_broadcasters" = "Yayıncılar";
 "explore_recommended" = "Önerilen";
 "explore_leaderboard" = "Lider Tablosu";
 "explore_leaderboard_text_score" = "skor %@";
@@ -65,12 +66,14 @@
 "landing_btn_sign_up" = "Kaydol";
 "landing_btn_sign_in" = "Giriş Yap";
 "landing_btn_skip" = "Geç";
+"landing_btn_next" = "Sonraki";
 "landing_google_plus_sign_in_progress" = "Google Plus ile giriş yap";
 "landing_facebook_sign_in_progress" = "Facebook ile giriş yap";
 "landing_twitter_sign_in_progress" = "Twitter ile giriş yap";
 "landing_text_agree" = "Devam etmekle, %@ ve %@\'nı kabul etmiş olursunuz";
 "landing_text_agree_term" = "Hizmet Şartları";
 "landing_text_agree_privacy" = "Gizlilik Politikası";
+"landing_suggest_title" = "Önerilen Takipler";
 
 "account_text_user_views" = "%@ görüntüleme";
 "account_text_user_likes" = "%@ beğeni";
