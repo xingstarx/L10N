@@ -251,9 +251,7 @@
     <string name="msg_description_send">寄送</string>
     <string name="msg_hint_send_msg">開始聊天</string>
     <string name="msg_description_emoji">Emoji</string>
-    <string name="msg_ban_user">禁言</string>
     <string name="msg_ban_user_description">%s 已經被禁言</string>
-    <string name="msg_unban_user">取消禁言</string>
     <string name="msg_unban_user_description">%s 已經被取消禁言</string>
     <string name="msg_popup_detail">個人資料</string>
     <string name="emoji_no_recent">最近沒有使用過表情</string>

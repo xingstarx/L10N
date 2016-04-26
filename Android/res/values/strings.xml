@@ -271,9 +271,7 @@
     <string name="msg_description_send">Send</string>
     <string name="msg_hint_send_msg">Send a message</string>
     <string name="msg_description_emoji">Emoji</string>
-    <string name="msg_ban_user">Mute</string>
     <string name="msg_ban_user_description">%s is banned in this room.</string>
-    <string name="msg_unban_user">Unmute</string>
     <string name="msg_unban_user_description">%s is unbanned in this room.</string>
     <string name="msg_popup_detail">Profile</string>
     <string name="msg_mute">Mute</string>

@@ -268,9 +268,7 @@
     <string name="msg_description_send">发送</string>
     <string name="msg_hint_send_msg">开始聊天</string>
     <string name="msg_description_emoji">表情</string>
-    <string name="msg_ban_user">禁言</string>
     <string name="msg_ban_user_description">%s 已经被禁言</string>
-    <string name="msg_unban_user">取消禁言</string>
     <string name="msg_unban_user_description">%s 已经被取消禁言</string>
     <string name="msg_mute_title">屏蔽 %s ？</string>
     <string name="msg_mute_description">%s 将无法和你聊天或发送私信。</string>

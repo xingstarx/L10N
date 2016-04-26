@@ -271,9 +271,7 @@
     <string name="msg_description_send">Gönder</string>
     <string name="msg_hint_send_msg">Bir mesaj gönder</string>
     <string name="msg_description_emoji">İfade</string>
-    <string name="msg_ban_user">Engelle</string>
     <string name="msg_ban_user_description">%s kullanıcısı engellendi.</string>
-    <string name="msg_unban_user">Engeli kaldır</string>
     <string name="msg_unban_user_description">%s kullanıcısının engeli kaldırıldı.</string>
     <string name="msg_popup_detail">Profil</string>
     <string name="msg_mute">Sustur</string>
