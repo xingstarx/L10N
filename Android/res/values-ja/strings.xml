@@ -315,7 +315,6 @@
     <string name="menu_statistic">統計</string>
     <string name="menu_charge">チャージする</string>
     <string name="msg_buy_shou_cash">購入する</string>
-    <string name="msg_description_more_cash">さらにShouCashをゲットする！</string>
     <string name="toast_shou_cash_failure">ShouCashエラー！</string>
     <string name="toast_shou_cash_google_play_service_not_found">Google Play サービスのリソースが見つかりませんでした</string>
     <string name="toast_chat_textview_load_url_failure">リンクを読み込めませんでした</string>

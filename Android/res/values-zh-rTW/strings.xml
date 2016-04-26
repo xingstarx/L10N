@@ -311,7 +311,6 @@
     <string name="send_cash_info">請充值後再抖內！</string>
     <string name="menu_statistic">統計</string>
     <string name="menu_charge">充值</string>
-    <string name="msg_description_more_cash">取得更多的 ShouCash！</string>
     <string name="toast_shou_cash_failure">ShouCash 失敗！</string>
     <string name="toast_shou_cash_google_play_service_not_found">找不到 Google Play 服務</string>
     <string name="toast_chat_textview_load_url_failure">無法載入連結</string>
