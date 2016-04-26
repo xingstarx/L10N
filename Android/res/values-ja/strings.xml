@@ -208,9 +208,7 @@
     <string name="msg_description_send">送信</string>
     <string name="msg_hint_send_msg">メッセージを送信</string>
     <string name="msg_description_emoji">絵文字</string>
-    <string name="msg_ban_user">追放(Ban)</string>
     <string name="msg_ban_user_description">%sの追放しました。</string>
-    <string name="msg_unban_user">追放を解除(Unban)</string>
     <string name="msg_unban_user_description">%sの追放を解除しました。</string>
     <string name="msg_popup_detail">詳細</string>
     <string name="emoji_no_recent">以前に使われた絵文字はありません。</string>

@@ -240,9 +240,7 @@
     <string name="msg_hint_send_msg">Enviar uma mensagem</string>
     <!-- What this action does? What is the meaning of No Login? -->
     <string name="msg_description_emoji">Emoji</string>
-    <string name="msg_ban_user">Banir</string>
     <string name="msg_ban_user_description">%s Já foi banido dessa sala.</string>
-    <string name="msg_unban_user">Desbanir</string>
     <string name="msg_unban_user_description">%s já foi desbanido dessa sala.</string>
     <!-- Desbanir is a informal term, from the therm Banir, that is the translation of banned -->
     <string name="msg_popup_detail">Perfil</string>

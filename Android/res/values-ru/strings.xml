@@ -242,9 +242,7 @@
  
     <string name="msg_hint_send_msg">Отправить сообщение</string>
     <string name="msg_description_emoji">Эмодзи</string>
-    <string name="msg_ban_user">Заблокировать</string>
     <string name="msg_ban_user_description">Пользователь %s заблокирован в этом чате</string>
-    <string name="msg_unban_user">Unban</string>
     <string name="msg_unban_user_description">Пользователь %s разблокирован в этом чате</string>
     <string name="msg_popup_detail">Профиль</string>
     <string name="emoji_no_recent">Нет недавно использованных эмодзи</string>
