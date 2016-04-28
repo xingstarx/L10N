@@ -5,6 +5,7 @@
     <string name="tab_feed">热门视频</string>
     <string name="tab_broadcast">录屏和直播</string>
     <string name="tab_games">游戏</string>
+    <string name="tab_explore">探索</string>
     <string name="card_record">录制屏幕到 SD 卡</string>
     <string name="description_notification_icon">Shou 图标</string>
     <string name="description_notification_record">开始或者停止录制</string>
@@ -459,4 +460,6 @@
     <string name="message_mark_read">全部标记为已读</string>
     <string name="message_mark_read_success">所有私信标记为已读</string>
     <string name="activity_find_friends_suggest_title">推荐关注</string>
+    <string name="fragment_app_game">游戏</string>
+    <string name="fragment_app_player">主播</string>
 </resources>

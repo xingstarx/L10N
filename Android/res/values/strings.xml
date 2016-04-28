@@ -5,6 +5,7 @@
     <string name="tab_feed">Home</string>
     <string name="tab_broadcast">Broadcast</string>
     <string name="tab_games">Games</string>
+    <string name="tab_explore">Explore</string>
     <string name="card_record">Record screen</string>
     <string name="description_notification_icon">Icon</string>
     <string name="description_notification_record">Start or stop recording</string>
@@ -464,4 +465,6 @@
     <string name="message_mark_read">Mark all as read</string>
     <string name="message_mark_read_success">All messages marked as read</string>
     <string name="activity_find_friends_suggest_title">Suggestions for You</string>
+    <string name="fragment_app_game">Games</string>
+    <string name="fragment_app_player">Broadcasters</string>
 </resources>

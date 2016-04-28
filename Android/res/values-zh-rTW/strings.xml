@@ -5,6 +5,7 @@
     <string name="tab_feed">熱門影片</string>
     <string name="tab_broadcast">錄影與直播</string>
     <string name="tab_games">遊戲</string>
+    <string name="tab_explore">探索</string>
     <string name="card_record">螢幕錄影</string>
     <string name="description_notification_icon">Shou 圖示</string>
     <string name="description_notification_record">開始或停止錄影</string>
