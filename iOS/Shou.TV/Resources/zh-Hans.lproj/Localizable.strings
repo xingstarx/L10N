@@ -213,6 +213,7 @@
 "toast_video_deleted" = "视频已被删除";
 
 "about_title" = "关于";
+"about_title_help" = "帮助";
 "about_title_faq" = "FAQ";
 "about_summary_faq" = "Shou FAQ";
 "about_title_website" = "官方网站";

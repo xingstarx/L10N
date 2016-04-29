@@ -214,6 +214,7 @@
 "toast_video_deleted" = "This video has been deleted by the broadcaster";
 
 "about_title" = "About";
+"about_title_help" = "Help";
 "about_title_faq" = "FAQ";
 "about_summary_faq" = "Shou FAQ";
 "about_title_website" = "Website";
