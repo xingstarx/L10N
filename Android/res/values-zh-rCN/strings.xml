@@ -322,7 +322,7 @@
     <string name="notification_push_like_description">为您的视频点了一个赞</string>
     <string name="notification_push_like_big_title">您新获得了 %s 个赞</string>
     <string name="notification_push_cash_big_title">您收到 %s 笔赠送</string>
-    <string name="notification_push_cash_content">赠送给您 %s ShouCash</string>
+    <string name="notification_push_cash_content">%1$s 赠送给您 %2$s ShouCash</string>
     <string name="notification_push_cash_big_content">%1$s %2$s 赠送给您 %3$s ShouCash</string>
     <string name="notification_push_share_cast_multi_title">%1$s 给你分享了一个直播 %2$s</string>
     <string name="notification_push_share_cast_big_title">您收到 %s 个来自好友分享的直播</string>
