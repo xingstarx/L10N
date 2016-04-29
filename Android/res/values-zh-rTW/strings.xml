@@ -301,7 +301,7 @@
     <string name="notification_push_like_description">為您的影片按了一個讚</string>
     <string name="notification_push_like_big_title">您新獲得了 %s 個讚</string>
     <string name="notification_push_cash_big_title">您收到 %s 筆抖內</string>
-    <string name="notification_push_cash_content">抖內給您 %s ShouCash</string>
+    <string name="notification_push_cash_content">%1$s 抖內給您 %2$s ShouCash</string>
     <string name="notification_push_cash_big_content">%1$s %2$s 抖內給您 %3$s ShouCash</string>
     <string name="notification_push_share_cast_multi_title">%1$s 正在分享直播 %2$s</string>
     <string name="notification_push_share_cast_big_title">您追蹤的 %s 位朋友正在分享直播</string>
