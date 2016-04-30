@@ -214,8 +214,9 @@
 "toast_video_deleted" = "Bu video kullanıcı tarafından silindi";
 
 "about_title" = "Hakkında";
+"about_title_help" = "Yardım";
 "about_title_faq" = "SSS";
-"about_summary_faq" = "Shou SSS";
+"about_summary_faq" = "Shou Sıkça Sorulan Sorular";
 "about_title_website" = "Website";
 "about_summary_website" = "Shou.TV";
 "about_title_facebook" = "Facebook";

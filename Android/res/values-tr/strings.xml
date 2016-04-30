@@ -5,6 +5,7 @@
     <string name="tab_feed">Yayınlar</string>
     <string name="tab_broadcast">Canlı Yayın</string>
     <string name="tab_games">Oyunlar</string>
+    <string name="tab_explore">Keşfet</string>
     <string name="card_record">Ekranı kaydet</string>
     <string name="description_notification_icon">Ikon</string>
     <string name="description_notification_record">Kaydı başlat ya da durdur</string>
@@ -463,4 +464,7 @@
     <string name="activity_share_with_friends_title">Arkadaşlarınla paylaş</string>
     <string name="message_mark_read">Hepsini okundu olarak işaretle</string>
     <string name="message_mark_read_success">Bütün mesajlar okundu olarak işaretlendi</string>
+    <string name="activity_find_friends_suggest_title">Sizin için öneriler</string>
+    <string name="fragment_app_game">Oyunlar</string>
+    <string name="fragment_app_player">Yayıncılar</string>
 </resources>
