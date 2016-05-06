@@ -212,7 +212,7 @@
 "toast_video_deleted" = "影片已被刪除";
 
 "about_title" = "關於";
-"about_title_help" = "幫助";
+"about_title_help" = "說明";
 "about_title_faq" = "FAQ";
 "about_summary_faq" = "Shou FAQ";
 "about_title_website" = "官方網站";
@@ -278,11 +278,11 @@
 "message_tip_donate" = "%@ 抖內了您 %@ ShouCash";
 
 "menu_copy" = "複製";
-"menu_copy_url" = "拷貝連接";
+"menu_copy_url" = "複製連結";
 "menu_more" = "更多";
 "share_to_title" = "分享給";
 "share_search_placeholder" = "搜尋";
 "share_to_successed" = "分享成功!";
-"share_no_found_mutual" = "未找到與您互為跟隨的人";
+"share_no_found_mutual" = "未找到與您互為追蹤的人";
 "share_to_twitter" = "%@ 在 Shou 上直播，快來觀看吧: %@ %@";
 "spotlight_content" = "在 Shou 觀看 %@ 的直播";
