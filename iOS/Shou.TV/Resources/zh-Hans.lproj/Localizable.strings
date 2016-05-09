@@ -59,7 +59,8 @@
 "landing_btn_twitter" = "通过 Twitter 登录";
 "landing_btn_facebook" = "通过 Facebook 登录";
 "landing_btn_google" = "通过 Google 登录";
-"landing_btn_email" = "通过 Email 登录";
+"landing_btn_email" = "通过 Email 注册";
+"landing_btn_email_log_in" = "通过 Email 登录";
 "landing_btn_log_in_tip" = "已经有账号了？ 登录";
 "landing_btn_more" = "更多";
 "landing_btn_sign_up" = "注册";
@@ -243,7 +244,7 @@
 "payment_faild" = "购买失败！";
 "payment_success" = "购买成功！新获得 %@ 个 ShouCash，总计 %@ 个 ShouCash";
 "lackmoney_title_label" = "ShouCash 不足!";
-"lackmoney_topup_label" = "请充值后再赠送!";
+"lackmoney_topup_label" = "ShouCash 是什么？";
 "lackmoney_buy_button" = "购买";
 "statistics_title" = "统计";
 "statistics_title_views" = "观看";

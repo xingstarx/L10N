@@ -60,7 +60,8 @@
 "landing_btn_twitter" = "Continue with Twitter";
 "landing_btn_facebook" = "Continue with Facebook";
 "landing_btn_google" = "Continue with Google";
-"landing_btn_email" = "Continue with Email";
+"landing_btn_email" = "Sign up with Email";
+"landing_btn_email_log_in" = "Log in with Email";
 "landing_btn_log_in_tip" = "Have an Account? Log in";
 "landing_btn_more" = "More";
 "landing_btn_sign_up" = "Sign up";
@@ -244,7 +245,7 @@
 "payment_success" = "Purchase successfully! got %@ ShouCash, total %@ ShouCash";
 "payment_faild_not_allow" = " In-App Purchases is disabled. Settings > General > Restrictions > Turn on In-App Purchases";
 "lackmoney_title_label" = "ShouCash Shortage!";
-"lackmoney_topup_label" = "Buy more ShouCash to support the broadcaster";
+"lackmoney_topup_label" = "What's the ShouCash?";
 "lackmoney_buy_button" = "Buy";
 "statistics_title" = "Statistics";
 "statistics_title_views" = "Views";
