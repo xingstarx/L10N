@@ -246,7 +246,6 @@
     <string name="pref_title_audio_restore_driver">Restore audio driver</string>
     <string name="pref_summary_audio_restore_driver">Restore the audio driver to stock.</string>
     <string name="pref_title_misc_auto_restart">Auto restart</string>
-    <string name="pref_title_misc_network_type">Broadcast over</string>
     <string name="pref_summary_misc_auto_restart">Whether to restart broadcast or mirroring automatically after error occurred</string>
     <string name="pref_title_misc_bubble">Floating window</string>
     <string name="pref_summary_misc_bubble">Display floating window on screen top when broadcast or mirroring</string>
@@ -467,4 +466,6 @@
     <string name="activity_find_friends_suggest_title">Suggestions for You</string>
     <string name="fragment_app_game">Games</string>
     <string name="fragment_app_player">Broadcasters</string>
+    <string name="fragment_streaming_broadcast_network_type_allowed">Using mobile networks allow broadcast</string>
+    <string name="fragment_streaming_broadcast_network_type_checkbox_text">Do not show</string>
 </resources>

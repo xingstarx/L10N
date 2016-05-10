@@ -246,7 +246,6 @@
     <string name="pref_title_audio_restore_driver">Ses sürücüsünü geri yükle</string>
     <string name="pref_summary_audio_restore_driver">Stok ses sürücüsünü geri yükleyin.</string>
     <string name="pref_title_misc_auto_restart">Otomatik yeniden başlatma</string>
-    <string name="pref_title_misc_network_type">Canlı yayını şundan yap</string>
     <string name="pref_summary_misc_auto_restart">Canlı yayında ya da ekran paylaşımında bir hata meydana geldiği zaman bu servisleri otomatik olarak yeniden başlatır</string>
     <string name="pref_title_misc_bubble">Kayan pencere</string>
     <string name="pref_summary_misc_bubble">Canlı yayın ya da ekran paylaşımı yaparken kayan pencereyi ekranda göster</string>

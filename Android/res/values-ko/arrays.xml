@@ -62,10 +62,6 @@
         <item>음소거</item>
         <item>마이크</item>
     </string-array>
-    <string-array name="pref_entries_network_type">
-        <item> Wi-Fi를 연결할 때만</item>
-        <item> Wi-Fi와 데이터 네트워크</item>
-    </string-array>
     <string-array name="profile_tabs">
         <item>비디오</item>
         <item>팔로잉</item>

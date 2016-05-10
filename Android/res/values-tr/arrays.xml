@@ -48,10 +48,6 @@
         <item>Sessiz</item>
         <item>Mikrofon</item>
     </string-array>
-    <string-array name="pref_entries_network_type">
-        <item>Sadece Wi-Fi</item>
-        <item>Herhangi bir ağ</item>
-    </string-array>
     <string-array name="profile_tabs">
         <item>video</item>
         <item>takip edilen</item>

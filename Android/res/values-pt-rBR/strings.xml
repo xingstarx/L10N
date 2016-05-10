@@ -216,7 +216,6 @@
     <string name="pref_title_audio_restore_driver">Restaurar drive de áudio</string>
     <string name="pref_summary_audio_restore_driver">Restaurar drive de áudio para versão anterior.</string>
     <string name="pref_title_misc_auto_restart">Auto reiniciar</string>
-    <string name="pref_title_misc_network_type">Transmissão encerrada</string>
     <string name="pref_summary_misc_auto_restart">Quanto se reiniciar transmissão ou espelhamento automaticamente depois que um erro ocorrer</string>
     <string name="pref_title_misc_bubble">Janela flutuante</string>
     <string name="pref_summary_misc_bubble">Exibir janela flutuante no topo da tela enquanto transmitindo ou refletindo</string>

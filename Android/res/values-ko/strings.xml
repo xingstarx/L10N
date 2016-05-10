@@ -188,7 +188,6 @@
     <string name="pref_summary_audio_restore_driver">기본 드라이버로 복원합니다.</string>
     <string name="pref_title_misc_auto_restart">자동으로 재시작</string>
     <string name="pref_summary_misc_auto_restart">방송이나 미러링 시 에러가 나면 자동으로 재시작합니다.</string>
-    <string name="pref_title_misc_network_type">방송</string>
     <string name="pref_title_misc_bubble">부동창</string>
     <string name="pref_summary_misc_bubble">방송이나 미러링 시 위쪽에 부동창을 표시합니다.</string>
     <string name="pref_title_misc_server">방송 서버</string>

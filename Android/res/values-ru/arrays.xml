@@ -62,10 +62,6 @@
         <item>Без звука</item>
         <item>Микрофон</item>
     </string-array>
-    <string-array name="pref_entries_network_type">
-        <item>Только по Wi-Fi</item>
-        <item>Любая сеть</item>
-    </string-array>
     <string-array name="profile_tabs">
         <item>видео</item>
         <item>подписки</item>

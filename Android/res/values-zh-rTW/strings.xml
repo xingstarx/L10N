@@ -226,7 +226,6 @@
     <string name="pref_title_audio_restore_driver">還原音效驅動</string>
     <string name="pref_summary_audio_restore_driver">如果你修正過音效驅動，這個操作可以讓驅動還原到初始狀態</string>
     <string name="pref_title_misc_auto_restart">自動重連</string>
-    <string name="pref_title_misc_network_type">直播結束</string>
     <string name="pref_summary_misc_auto_restart">在螢幕直播或螢幕投射失敗後自動重新連線</string>
     <string name="pref_title_misc_bubble">啟用多功能浮動視窗</string>
     <string name="pref_summary_misc_bubble">在直播或螢幕投射時顯示多功能浮動視窗</string>

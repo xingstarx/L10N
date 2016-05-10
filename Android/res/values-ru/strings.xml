@@ -219,7 +219,6 @@
     <string name="pref_title_audio_restore_driver">Восстановить драйвер звука</string>
     <string name="pref_summary_audio_restore_driver">Восстановление драйвера звука до исходного состояния.</string>
     <string name="pref_title_misc_auto_restart">Автоматический перезапуск</string>
-    <string name="pref_title_misc_network_type">Трансляция закончена</string>
     <string name="pref_summary_misc_auto_restart">Автоматически перезапускать трансляцию или видеоповтор после возникновение ошибки</string>
     <string name="pref_title_misc_bubble">Плавающее окно</string>
     <string name="pref_summary_misc_bubble">Отображение плавающего окна поверх экрана во время трансляций или видеоповтора</string>

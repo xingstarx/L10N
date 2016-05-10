@@ -48,10 +48,6 @@
         <item>Mute</item>
         <item>Mic</item>
     </string-array>
-    <string-array name="pref_entries_network_type">
-        <item>Wi-Fi only</item>
-        <item>Any network</item>
-    </string-array>
     <string-array name="profile_tabs">
         <item>videos</item>
         <item>following</item>

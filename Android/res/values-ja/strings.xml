@@ -190,7 +190,6 @@
     <string name="pref_title_audio_restore_driver">オーディオドライバを復元する</string>
     <string name="pref_summary_audio_restore_driver">オーディオドライバをストックに復元する</string>
     <string name="pref_title_misc_auto_restart">自動的に再開</string>
-    <string name="pref_title_misc_network_type">ブロードキャストするのに...</string>
     <string name="pref_summary_misc_auto_restart">エラーが発生したら、自動的にブロードキャストもしくはミラーリングを再開する</string>
     <string name="pref_title_misc_bubble">フローティングウィンドウ</string>
     <string name="pref_summary_misc_bubble">フローティングウィンドウを、ブロードキャストもしくはミラーリング中に表示する</string>
