@@ -274,6 +274,7 @@
     <string name="msg_mute_description">%s 将无法和你聊天或发送私信。</string>
     <string name="msg_mute_confirm">屏蔽</string>
     <string name="msg_mute_cancel">取消</string>
+    <string name="msg_mute_me">主播屏蔽了你，你无法发送私信</string>
     <string name="emoji_no_recent">最近没有使用过表情</string>
     <string name="emoji_description_back_space">回退</string>
     <string name="emoji_description_cell">格子</string>

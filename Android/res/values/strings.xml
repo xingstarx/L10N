@@ -280,6 +280,7 @@
     <string name="msg_mute_description">%s won\'t chat and message with you.</string>
     <string name="msg_mute_confirm">Mute</string>
     <string name="msg_mute_cancel">Cancel</string>
+    <string name="msg_mute_me">The broadcaster mute you, you cannot send messages</string>
     <string name="emoji_no_recent">No recent used emoji</string>
     <string name="emoji_description_back_space">Back space</string>
     <string name="emoji_description_cell">Cell</string>
