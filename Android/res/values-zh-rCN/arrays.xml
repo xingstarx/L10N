@@ -62,10 +62,6 @@
         <item>静音</item>
         <item>麦克风</item>
     </string-array>
-    <string-array name="pref_entries_network_type">
-        <item>只在连接 Wi-Fi 时直播</item>
-        <item>在 Wi-Fi 和手机联网时都直播</item>
-    </string-array>
     <string-array name="profile_tabs">
         <item>视频</item>
         <item>关注</item>

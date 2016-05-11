@@ -5,10 +5,6 @@
         <item>ミュート(無し)</item>
         <item>マイク</item>
     </string-array>
-    <string-array name="pref_entries_network_type">
-        <item>Wi-Fiのみ</item>
-        <item>全ネットワーク</item>
-    </string-array>
     <string-array name="profile_tabs">
         <item>動画</item>
         <item>フォロー中</item>

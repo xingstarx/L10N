@@ -244,7 +244,6 @@
     <string name="pref_summary_audio_restore_driver">如果你修正过音频驱动，这个操作可以让驱动还原到初始状态</string>
     <string name="pref_title_misc_auto_restart">自动重连</string>
     <string name="pref_summary_misc_auto_restart">在屏幕直播或镜像失败后自动重连</string>
-    <string name="pref_title_misc_network_type">直播网络选择</string>
     <string name="pref_title_misc_bubble">启用多功能浮动窗口</string>
     <string name="pref_summary_misc_bubble">在直播或镜像时显示多功能浮动窗口</string>
     <string name="pref_title_misc_server">直播服务器选择</string>
@@ -462,4 +461,6 @@
     <string name="activity_find_friends_suggest_title">推荐关注</string>
     <string name="fragment_app_game">游戏</string>
     <string name="fragment_app_player">主播</string>
+    <string name="fragment_streaming_broadcast_network_type_allowed">正在使用移动网络,是否允许直播</string>
+    <string name="fragment_streaming_broadcast_network_type_checkbox_text">不再显示</string>
 </resources>

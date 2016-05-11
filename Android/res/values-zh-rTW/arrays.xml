@@ -62,10 +62,6 @@
         <item>靜音</item>
         <item>麥克風</item>
     </string-array>
-    <string-array name="pref_entries_network_type">
-        <item>只有連線 Wi-Fi 時才直播</item>
-        <item>在 Wi-Fi 與行動網路都可以直播</item>
-    </string-array>
     <string-array name="profile_tabs">
         <item>影片</item>
         <item>追蹤</item>

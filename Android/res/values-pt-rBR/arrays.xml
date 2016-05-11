@@ -57,10 +57,6 @@
         <item>Mudo</item>
         <item>Mic</item>
     </string-array>
-    <string-array name="pref_entries_network_type">
-        <item>Wi-Fi apenas</item>
-        <item>Qualquer rede</item>
-    </string-array>
     <string-array name="profile_tabs">
         <item>videos</item>
         <item>Seguindo</item>
