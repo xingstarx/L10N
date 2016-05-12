@@ -62,7 +62,8 @@
 "landing_btn_twitter" = "Войти с помощью Twitter";
 "landing_btn_facebook" = "Войти с помощью Facebook";
 "landing_btn_google" = "Войти с помощью Google";
-"landing_btn_email" = "Войти с аккаунтом Shou";
++"landing_btn_email" = "Зарегистрироваться";
+ +"landing_btn_email_log_in" = "Войти с аккаунтом Shou";
 "landing_btn_sign_up" = "Зарегистрироваться";
 "landing_btn_sign_in" = "Войти";
 "landing_btn_skip" = "Пропустить";
@@ -250,7 +251,7 @@
 "payment_success" = "Покупка успешно выполнена!\nПриобретено — %@ ShouCash, всего — %@ ShouCash";
 "payment_faild_not_allow" = "Встроенные покупки выключены. Перейдите в «Настройки» > «Основные» > «Ограничения» и передвиньте переключатель «Встроенные покупки» в «Вкл.»";
 "lackmoney_title_label" = "Недостаточно ShouCash!";
-"lackmoney_topup_label" = "Купите больше ShouCash";
+"lackmoney_topup_label" = "Что такое ShouCash?";
 "lackmoney_buy_button" = "Купить";
 "statistics_title" = "Статистика";
 "statistics_title_views" = "Просмотры";
