@@ -60,7 +60,8 @@
 "landing_btn_twitter" = "Twitter ile devam et";
 "landing_btn_facebook" = "Facebook ile devam et";
 "landing_btn_google" = "Google ile devam et";
-"landing_btn_email" = "Email ile devam et";
+"landing_btn_email" = "Email ile kaydol";
+"landing_btn_email_log_in" = "Email ile giriş yap";
 "landing_btn_log_in_tip" = "Hesabınız mı var? Giriş yapın";
 "landing_btn_more" = "Daha fazla";
 "landing_btn_sign_up" = "Kaydol";
@@ -244,7 +245,7 @@
 "payment_success" = "Satın alma başarılı! %@ ShouCash alındı, toplamda %@ ShouCash\'iniz var";
 "payment_faild_not_allow" = " Uygulama içi satın alma devre dışı. Ayarlar > Genel > Kısıtlamalar > Uygulama içi satın almayı etkinleştir";
 "lackmoney_title_label" = "ShouCash Eksik!";
-"lackmoney_topup_label" = "Yayıncıları desteklemek için daha fazla ShouCash satın alın";
+"lackmoney_topup_label" = "ShouCash Nedir?";
 "lackmoney_buy_button" = "Satın Al";
 "statistics_title" = "İstatistikler";
 "statistics_title_views" = "Görüntüleme";
