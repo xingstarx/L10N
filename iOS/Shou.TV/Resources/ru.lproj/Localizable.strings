@@ -205,7 +205,7 @@
 "msg_mod_user" = "Назначить";
 "msg_unmod_user" = "Удалить";
 "msg_popup_detail" = "Профиль";
-"msg_new_message" = "Написать сообщение...";
+"msg_new_message" = "Написать сообщение";
 "msg_send_faild_too_quickly" = "Сообщение не было отправлено, так как вы отправляете сообщения слишком часто.";
 "msg_send_faild_limit" = "Сообщение не было отправлено, так как вы отправляете сообщения слишком часто. Повторите попытку через %@ сек.";
 "msg_send_faild_same" = "Сообщение не было отправлено, так как оно совпадает с предыдущим.";
@@ -278,12 +278,12 @@
 "msg_popup_moderate_description" = "Пользователь %@ назначен модератором";
 "msg_popup_moderate_cancel_description" = "Пользователь %@ удален из модераторов";
 
-"message_list_empty_placeholder" = "Здесь ещё нет сообщений";
+"message_list_empty_placeholder" = "У вас пока нет сообщений";
 "message_like_me" = "Вам понравилась трансляция пользователя %@";
 "message_like" = "Пользователю %@ понравилась ваша трансляция";
 "message_follow_me" = "Вы подписались на пользователя %@";
 "message_follow" = "Пользователь %@ подписался на вас";
-"message_new_placeholder" = "Написать сообщение...";
+"message_new_placeholder" = "Написать сообщение";
 "message_tip_donate_me" = "Вы подарили пользователю %@ %@ ShouCash";
 "message_tip_donate" = "Пользователь %@ подарил вам %@ ShouCash";
 
