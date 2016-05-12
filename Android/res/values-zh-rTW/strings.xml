@@ -374,7 +374,6 @@
     <string name="msg_buy_shou_cash">購買</string>
     <string name="activity_account_text_user_num_cash">%s cash</string>
     <string name="activity_account_text_user_score">%s 人氣</string>
-    <string name="activity_account_text_user_likes">%s 喜歡</string>
     <string name="toast_settings_show_touches_unenable">Android 6.0 不支援此功能</string>
     <string name="toast_need_permission_broadcast">直播功能需要 ROOT 權限</string>
     <string name="toast_no_broadcast">直播功能不支援 x86 CPU</string>

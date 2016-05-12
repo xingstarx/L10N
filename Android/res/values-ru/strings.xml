@@ -303,7 +303,6 @@
     <string name="toast_msg_buy_shou_cash_status_value_error">ошибка</string>
     <string name="activity_account_text_user_num_cash">%s деньги</string>
     <string name="activity_account_text_user_score">%s очки</string>
-    <string name="activity_account_text_user_likes">%s нравится</string>
     <string name="fragment_shou_cash_success_msg">Покупка успешно выполнена! Приобретено %1$d ShouCash, всего %2$d ShouCash</string>
     <string name="fragment_shoucash_msg_count">%s</string>
     <string name="msg_description_like">Нравится</string>
