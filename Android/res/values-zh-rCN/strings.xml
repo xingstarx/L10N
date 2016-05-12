@@ -53,7 +53,7 @@
     <string name="activity_landing_btn_sign_up">注册</string>
     <string name="activity_landing_btn_sign_in">登录</string>
     <string name="activity_landing_sign_in">已有账号？直接登录</string>
-    <string name="activity_landing_email">使用 Email 登录</string>
+    <string name="activity_landing_email">使用 Email 注册</string>
     <string name="activity_landing_google">使用 Google 登录</string>
     <string name="activity_landing_facebook">使用 Facebook 登录</string>
     <string name="activity_landing_twitter">使用 Twitter 登录</string>
@@ -464,4 +464,5 @@
     <string name="fragment_app_player">主播</string>
     <string name="fragment_streaming_broadcast_network_type_allowed">正在使用移动网络,是否允许直播</string>
     <string name="fragment_streaming_broadcast_network_type_checkbox_text">不再显示</string>
+    <string name="activity_landing_sign_in_email">使用 Email 登陆</string>
 </resources>

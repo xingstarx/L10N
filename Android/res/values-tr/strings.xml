@@ -55,7 +55,6 @@
     <string name="activity_landing_btn_sign_up">Üye Ol</string>
     <string name="activity_landing_btn_sign_in">Giriş Yap</string>
 	<string name="activity_landing_sign_in">Hesabınız var mı? Giriş Yapın</string>
-    <string name="activity_landing_email">Email ile devam et</string>
     <string name="activity_landing_google">Google ile devam et</string>
     <string name="activity_landing_facebook">Facebook ile devam et</string>
     <string name="activity_landing_twitter">Twitter ile devam et</string>

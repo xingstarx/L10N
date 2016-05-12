@@ -55,7 +55,7 @@
     <string name="activity_landing_btn_sign_up">Sign Up</string>
     <string name="activity_landing_btn_sign_in">Sign In</string>
     <string name="activity_landing_sign_in">Have an Account? Sign in</string>
-    <string name="activity_landing_email">Continue with Email</string>
+    <string name="activity_landing_email">Sign Up</string>
     <string name="activity_landing_google">Continue with Google</string>
     <string name="activity_landing_facebook">Continue with Facebook</string>
     <string name="activity_landing_twitter">Continue with Twitter</string>
@@ -469,4 +469,5 @@
     <string name="fragment_app_player">Broadcasters</string>
     <string name="fragment_streaming_broadcast_network_type_allowed">Allow broadcast using mobile network</string>
     <string name="fragment_streaming_broadcast_network_type_checkbox_text">Don\'t show again</string>
+    <string name="activity_landing_sign_in_email">Sign In</string>
 </resources>
