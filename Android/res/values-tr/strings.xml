@@ -51,13 +51,15 @@
     <string name="profile_title_moderators">Moderatörler</string>
     <string name="profile_title_muted_users">Engellenmiş Kullanıcılar</string>
     <string name="profile_title_logout">Çıkış Yap</string>
-	<string name="activity_landing_more">Daha Fazla</string>
+    <string name="activity_landing_more">Daha Fazla</string>
     <string name="activity_landing_btn_sign_up">Üye Ol</string>
     <string name="activity_landing_btn_sign_in">Giriş Yap</string>
-	<string name="activity_landing_sign_in">Hesabınız var mı? Giriş Yapın</string>
-    <string name="activity_landing_google">Google ile devam et</string>
-    <string name="activity_landing_facebook">Facebook ile devam et</string>
-    <string name="activity_landing_twitter">Twitter ile devam et</string>
+    <string name="activity_landing_sign_in">Hesabınız var mı? Giriş Yapın</string>
+    <string name="activity_landing_email">Email ile Kaydol</string>
+    <string name="activity_landing_sign_in_email">Email ile Giriş Yap</string>
+    <string name="activity_landing_google">Google ile Devam Et</string>
+    <string name="activity_landing_facebook">Facebook ile Devam Et</string>
+    <string name="activity_landing_twitter">Twitter ile Devam Et</string>
     <string name="activity_landing_google_plus_sign_in_progress">Google Plus ile giriş yap</string>
     <string name="activity_landing_facebook_sign_in_progress">Facebook ile giriş yap</string>
     <string name="activity_landing_twitter_sign_in_progress">Twitter ile giriş yap</string>
@@ -276,7 +278,7 @@
     <string name="msg_mute">Sustur</string>
     <string name="msg_unmute">Konuşmasına izin ver</string>
     <string name="msg_mute_title">%s susturulsun mu?</string>
-	<string name="msg_mute_description">%s sohbet odanızda konuşamaz ve size mesaj gönderemez</string>
+    <string name="msg_mute_description">%s sohbet odanızda konuşamaz ve size mesaj gönderemez</string>
     <string name="msg_mute_confirm">Sustur</string>
     <string name="msg_mute_cancel">İptal</string>
     <string name="msg_mute_me">Yayıncı sizi susturdu, mesaj gönderemezsiniz</string>
@@ -466,6 +468,6 @@
     <string name="activity_find_friends_suggest_title">Sizin için öneriler</string>
     <string name="fragment_app_game">Oyunlar</string>
     <string name="fragment_app_player">Yayıncılar</string>
-    <string name="fragment_streaming_broadcast_network_type_allowed">Mobil ağlar kullanırken yayın yapmaya izinli</string>
+    <string name="fragment_streaming_broadcast_network_type_allowed">Mobil veri ile yayın yapmaya izin ver</string>
     <string name="fragment_streaming_broadcast_network_type_checkbox_text">Gösterme</string>
 </resources>
