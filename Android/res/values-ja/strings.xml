@@ -321,7 +321,6 @@
     <string name="toast_msg_buy_shou_cash_status_value_error">エラー</string>
     <string name="activity_account_text_user_num_cash">%sキャッシュ</string>
     <string name="activity_account_text_user_score">%sスコア</string>
-    <string name="activity_account_text_user_likes">%sいいね！</string>
     <string name="fragment_shou_cash_success_msg">問題なく購入されました！ %1$d ShouCash、合計%2$d ShouCashをゲットしました</string>
     <string name="fragment_shoucash_msg_count">%s</string>
     <string name="msg_description_like">いいね！</string>
