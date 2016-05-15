@@ -54,6 +54,8 @@
 "profile_text_logout" = "退出";
 "profile_text_moderators" = "管理员列表";
 "profile_text_muted_users" = "屏蔽列表";
+"profile_text_options" = "账号设置";
+"profile_text_broadcast_camera" = "直播摄像头";
 
 "landing_slogan" = "Shou 是一个手机游戏直播社区";
 "landing_btn_twitter" = "通过 Twitter 登录";
@@ -98,6 +100,7 @@
 "account_label_avatar" = "头像";
 "account_label_cover" = "封面";
 "account_label_upload_avatar" = "上传头像";
+"account_label_phone" = "手机号码";
 "account_hint_identify" = "用户名或邮箱";
 "account_hint_email" = "邮箱";
 "account_hint_username" = "用户名";
@@ -107,6 +110,7 @@
 "account_hint_current_password" = "当前密码";
 "account_hint_new_password" = "新密码";
 "account_hint_confirm_password" = "确认密码";
+"account_hint_phone" = "未设置";
 "account_text_optional" = "可以不填";
 "account_text_username" = "你的用户名 @%@ 是唯一的，可随时更改。";
 "account_choose_avatar" = "选择头像";
@@ -214,7 +218,7 @@
 "toast_video_deleted" = "视频已被删除";
 
 "about_title" = "关于";
-"about_title_help" = "帮助";
+"about_title_help" = "帮助中心";
 "about_title_faq" = "FAQ";
 "about_summary_faq" = "Shou FAQ";
 "about_title_website" = "官方网站";

@@ -55,6 +55,8 @@
 "profile_text_logout" = "Logout";
 "profile_text_moderators" = "Moderators";
 "profile_text_muted_users" = "Muted users";
+"profile_text_options" = "Options";
+"profile_text_broadcast_camera" = "Broadcast camera";
 
 "landing_slogan" = "Shou is the \nmobile game streaming community.";
 "landing_btn_twitter" = "Continue with Twitter";
@@ -89,11 +91,12 @@
 "account_text_game_cast" = "%@ video";
 "account_text_game_players" = "%@ players";
 "account_text_joined" = "Joined on %@";
-"account_title_edit_profile" = "Edit profile";
-"account_title_change_password" = "Change your password";
+"account_title_edit_profile" = "Edit Profile";
+"account_title_change_password" = "Change Password";
 "account_label_username" = "Username";
 "account_label_password" = "Password";
 "account_label_email" = "Email";
+"account_label_phone" = "Phone Number";
 "account_label_full_name" = "Full Name";
 "account_label_biography" = "Biography";
 "account_label_avatar" = "Avatar";
@@ -108,6 +111,7 @@
 "account_hint_confirm_password" = "Confirm new password";
 "account_hint_name" = "name";
 "account_hint_biography" = "biography";
+"account_hint_phone" = "Not set";
 "account_text_optional" = "optional";
 "account_text_username" = "Your @%@ is unique. You can always change it later.";
 "account_choose_avatar" = "Choose avatar";
@@ -215,7 +219,7 @@
 "toast_video_deleted" = "This video has been deleted by the broadcaster";
 
 "about_title" = "About";
-"about_title_help" = "Help";
+"about_title_help" = "Help Center";
 "about_title_faq" = "FAQ";
 "about_summary_faq" = "Shou FAQ";
 "about_title_website" = "Website";
@@ -229,7 +233,7 @@
 "about_title_version" = "Version";
 "about_title_copyright" = "Copyright";
 "about_title_rate" = "Rate this app";
-"about_title_feedback" = "Feedback";
+"about_title_feedback" = "Report a Problem";
 "about_title_instagram" = "Instagram";
 
 "From Photo Library" = "From Photo Library";
