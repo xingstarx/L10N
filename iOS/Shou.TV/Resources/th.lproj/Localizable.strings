@@ -279,8 +279,8 @@
 "message_follow_me" = "คุณติดตาม %@";
 "message_follow" = "ติดตามคุณ %@ คน";
 "message_new_placeholder" = "ส่งข้อความ...";
-"message_tip_donate_me" = "You donated %@ %@ ShouCash";
-"message_tip_donate" = "%@ donated you %@ ShouCash";
+"message_tip_donate_me" = "คุณบริจาค %@ %@ ShouCash";
+"message_tip_donate" = "%@ บริจาค %@ ShouCash";
 
 "menu_copy" = "Copy";
 "menu_copy_url" = "Copy Link";
