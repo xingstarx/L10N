@@ -205,7 +205,6 @@
 "msg_unban_user_description" = "%@ is unmuted.";
 "msg_mod_user" = "Mod";
 "msg_unmod_user" = "Unmod";
-"msg_popup_detail" = "Profile";
 "msg_new_message" = "New message";
 "msg_send_faild_too_quickly" = "Your message not sent because you are sending messages too quickly.";
 "msg_send_faild_limit" = "Your message not sent because you are sending messages too quickly. You will be able to talk in %@ seconds.";
