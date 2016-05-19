@@ -239,3 +239,9 @@
 "msg_popup_moderate_cancel" = "Cancel Moderate";
 "msg_popup_moderate_description" = "%@ is moderate in this room.";
 "msg_popup_moderate_cancel_description" = "%@ is cancel moderate in this room.";
+
+"notification_push_donate" = "💰 %@ sent you %@ ShouCash";
+"notification_push_live" = "👾 %@ 생방송 중 %@";
+"notification_push_follow" = "💞 %@ followed you";
+"notification_push_share" = "💬 %@ want you to watch %@";
+"notification_push_like" = "❤️ %@ liked your broadcast";

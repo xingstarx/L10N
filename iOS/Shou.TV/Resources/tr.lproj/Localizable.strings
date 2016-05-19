@@ -287,3 +287,9 @@
 "share_to_successed" = "Paylaşıldı!";
 "share_no_found_mutual" = "Birbirinizi takip ettiğiniz bir kişi bulunamadı";
 "share_to_twitter" = "#Shou\'da CANLI olarak %@ izleyin: %@ %@";
+
+"notification_push_donate" = "💰 %@ sana %@ ShouCash verdi";
+"notification_push_live" = "👾 %@ canlı yayın yapıyor %@";
+"notification_push_follow" = "💞 %@ seni takip etti";
+"notification_push_share" = "💬 %@ want you to watch %@";
+"notification_push_like" = "❤️ %@ yayınını beğendi";

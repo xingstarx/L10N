@@ -51,7 +51,7 @@
 "profile_text_views" = "Visualizaçoes";
 "profile_text_likes" = "Likes";
 "profile_text_cash" = "ShouCash";
-"profile_text_games" = "Games";
+"profile_text_games" = "Jogos";
 "profile_text_logout" = "Sair";
 "profile_text_moderators" = "Moderators";
 "profile_text_muted_users" = "Muted users";
@@ -288,3 +288,9 @@
 "share_to_twitter" = "Watch %@ LIVE on #Shou: %@ %@";
 
 "spotlight_content" = "Watch %@ LIVE on Shou";
+
+"notification_push_donate" = "💰 %@ sent you %@ ShouCash";
+"notification_push_live" = "👾 %@ está transmitindo %@";
+"notification_push_follow" = "💞 %@ seguiram você";
+"notification_push_share" = "💬 %@ want you to watch %@";
+"notification_push_like" = "❤️ %@ gostaram da sua transmissão";

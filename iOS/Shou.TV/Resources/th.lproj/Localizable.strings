@@ -292,3 +292,9 @@
 "share_to_twitter" = "Watch %@ LIVE on #Shou: %@ %@";
 
 "spotlight_content" = "Watch %@ LIVE on Shou";
+
+"notification_push_donate" = "💰 %@ บริจาค %@ ShouCash";
+"notification_push_live" = "👾 %@ กำลังออกอากาศ %@";
+"notification_push_follow" = "💞 ติดตามคุณ %@ คน";
+"notification_push_share" = "💬 %@ want you to watch %@";
+"notification_push_like" = "❤️ %@ ถูกใจการออกอากาศของคุณ";

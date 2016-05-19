@@ -291,3 +291,9 @@
 "share_no_found_mutual" = "未找到與您互為追蹤的人";
 "share_to_twitter" = "%@ 在 Shou 上直播，快來觀看吧: %@ %@";
 "spotlight_content" = "在 Shou 觀看 %@ 的直播";
+
+"notification_push_donate" = "💰 %@ 抖內給您 %@ ShouCash";
+"notification_push_live" = "👾 %@ 正在直播 %@";
+"notification_push_follow" = "💞 %@ 現在是您的新粉絲";
+"notification_push_share" = "💬 %@ 邀您一起看直播 %@";
+"notification_push_like" = "❤️ %@ 讚了您的直播";
