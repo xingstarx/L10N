@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><resources>
 
-    <string-array name="pref_entries_video_source_engine">
+  <string-array name="pref_entries_video_output_format">
+    <item>MKV</item>
+    <item>MP4</item>
+    <item>MOV</item>
+    <item>MPEG-TS</item>
+    <item>FLV</item>
+    <item>AVI</item>
+  </string-array>
+  <string-array name="pref_entries_video_source_engine">
     <item>หน่วยความจำ</item>
   </string-array>
     <string-array name="pref_entries_video_encoding_engine">
