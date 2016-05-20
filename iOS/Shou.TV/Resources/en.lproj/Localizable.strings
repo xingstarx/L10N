@@ -52,7 +52,7 @@
 "profile_text_likes" = "Likes";
 "profile_text_cash" = "ShouCash";
 "profile_text_games" = "Games";
-"profile_text_logout" = "Logout";
+"profile_text_logout" = "Log Out";
 "profile_text_moderators" = "Moderators";
 "profile_text_muted_users" = "Muted users";
 "profile_text_options" = "Options";
@@ -121,7 +121,6 @@
 "account_btn_signing_in" = "Logging In";
 "account_btn_signed_in" = "Logged In";
 "account_btn_sign_in_failed" = "Failed to log in with provided information";
-"account_btn_sign_out" = "Sign out";
 "account_btn_forgot_password" = "Forgot your password?";
 "account_title_forget" = "Reset password";
 "account_btn_recover_password" = "Send me instruction";

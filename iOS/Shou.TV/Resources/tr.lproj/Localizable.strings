@@ -117,7 +117,6 @@
 "account_btn_signing_in" = "Giriş Yapılıyor";
 "account_btn_signed_in" = "Giriş Yapıldı";
 "account_btn_sign_in_failed" = "Giriş Başarısız";
-"account_btn_sign_out" = "Çıkış yap";
 "account_btn_forgot_password" = "Parolanızı mı unuttunuz?";
 "account_title_forget" = "Parolayı sıfırla";
 "account_btn_recover_password" = "Yönerge gönder";

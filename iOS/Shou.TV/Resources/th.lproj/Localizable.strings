@@ -121,7 +121,6 @@
 "account_btn_signing_in" = "กำลังลงชื่อเข้าใช้";
 "account_btn_signed_in" = "ลงชื่อเข้าใช้แล้ว";
 "account_btn_sign_in_failed" = "Failed to log in with provided information";
-"account_btn_sign_out" = "ออกจากระบบ";
 "account_btn_forgot_password" = "ลืมรหัสผ่าน?";
 "account_title_forget" = "ตั้งรหัสผ่านใหม่";
 "account_btn_recover_password" = "ส่งขั้นตอนการใช้งานมาให้ฉัน";

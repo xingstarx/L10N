@@ -116,7 +116,6 @@
 "account_btn_signing_in" = "Acessando";
 "account_btn_signed_in" = "Acessado";
 "account_btn_sign_in_failed" = "Failed to log in with provided information";
-"account_btn_sign_out" = "Sair";
 "account_btn_forgot_password" = "Esqueceu a senha?";
 "account_title_forget" = "Reset password";
 "account_btn_recover_password" = "Me envie instruçoes";

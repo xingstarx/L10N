@@ -115,7 +115,6 @@
 "account_btn_signing_in" = "Вход";
 "account_btn_signed_in" = "Регистрация выполнена";
 "account_btn_sign_in_failed" = "Не удалось выполнить вход";
-"account_btn_sign_out" = "Выйти";
 "account_btn_forgot_password" = "Забыли пароль?";
 "account_title_forget" = "Сброс пароля";
 "account_btn_recover_password" = "Получить инструкцию";

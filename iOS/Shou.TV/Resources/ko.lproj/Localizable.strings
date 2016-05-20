@@ -98,7 +98,6 @@
 "account_btn_signing_in" = "로그인 중";
 "account_btn_signed_in" = "로그인 성공";
 "account_btn_sign_in_failed" = "Log in failed";
-"account_btn_sign_out" = "로그아웃";
 "account_btn_forgot_password" = "비밀번호를 잊어버리셨습니까?";
 "account_title_forget" = "비밀번호 재설정";
 "account_btn_recover_password" = "메일 발송하기";

@@ -114,7 +114,6 @@
 "account_btn_signing_in" = "ログイン中";
 "account_btn_signed_in" = "ログイン成功";
 "account_btn_sign_in_failed" = "ログイン失敗";
-"account_btn_sign_out" = "アカウントログアウト";
 "account_btn_forgot_password" = "パスワードを忘れた？";
 "account_title_forget" = "パスワードを忘れた";
 "account_btn_recover_password" = "メールをください";

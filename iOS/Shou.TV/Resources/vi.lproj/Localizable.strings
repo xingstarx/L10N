@@ -121,7 +121,6 @@
 "account_btn_signing_in" = "Đang Đăng nhập";
 "account_btn_signed_in" = "Đã Đăng nhập";
 "account_btn_sign_in_failed" = "Failed to log in with provided information";
-"account_btn_sign_out" = "Đăng xuất";
 "account_btn_forgot_password" = "Quên mật khẩu?";
 "account_title_forget" = "Reset password";
 "account_btn_recover_password" = "Gửi cho tôi hướng dẫn";
