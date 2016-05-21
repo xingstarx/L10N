@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+
+  <string-array name="pref_entries_video_output_format">
+    <item>MKV</item>
+    <item>MP4</item>
+    <item>MOV</item>
+    <item>MPEG-TS</item>
+    <item>FLV</item>
+    <item>AVI</item>
+  </string-array>
+  <string-array name="pref_entries_video_source_engine">
+    <item>หน่วยความจำ</item>
+  </string-array>
+    <string-array name="pref_entries_video_encoding_engine">
+    <item>ฮาร์ดแวร์</item>
+    <item>ซอฟต์แวร์</item>
+  </string-array>
+    <string-array name="pref_entries_video_orientation">
+    <item>อัตโนมัติ</item>
+    <item>แนวนอน</item>
+    <item>แนวตั้ง</item>
+  </string-array>
+    <string-array name="pref_entries_video_quality">
+    <item>ต่ำ</item>
+    <item>ปานกลาง</item>
+    <item>สูง</item>
+  </string-array>
+    <string-array name="pref_entries_audio_source">
+    <item>ปิดเสียง</item>
+    <item>ไมค์</item>
+  </string-array>
+    <string-array name="profile_tabs">
+    <item>วิดีโอ</item>
+    <item>กำลังติดตาม</item>
+    <item>ผู้ติดตาม</item>
+  </string-array>
+    <string-array name="app_tabs">
+    <item>วิดีโอ</item>
+    <item>ผู้เล่น</item>
+    <item>เกม</item>
+  </string-array>
+    <string-array name="search_tabs">
+    <item>ผู้เล่น</item>
+    <item>เกม</item>
+  </string-array>
+    <string-array name="pref_entries_video_broadcast_type">
+    <item>สาธารณะ</item>
+    <item>ส่วนตัว</item>
+  </string-array>
+
+
+</resources>
