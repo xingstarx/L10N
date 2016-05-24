@@ -273,14 +273,14 @@
     <!-- What? -->
     <string name="no_capture_screen_permission">Permissão para captura de tela é necessária</string>
     <string name="get_capture_screen_permission">Conseguir permissão</string>
-    <string name="notification_push_live_multi_title">%1$s está transmitindo %2$s</string>
+    <string name="notification_push_live_multi_title">👾 %1$s está transmitindo %2$s</string>
     <string name="notification_push_live_big_title">%s jogadores estão transmitindo</string>
-    <string name="notification_push_follow_multi_title">%s seguiram você</string>
+    <string name="notification_push_follow_multi_title">💞 %s seguiram você</string>
     <string name="notification_push_follow_description">seguiu você</string>
     <string name="notification_push_follow_big_title">%s seguidores</string>
-    <string name="notification_push_like_multi_title">%s gostaram da sua transmissão</string>
+    <string name="notification_push_like_multi_title">❤️ %s gostaram da sua transmissão</string>
     <string name="notification_push_like_description">Gostou da sua trasmissão</string>
-    <string name="notification_push_like_big_title">%s likes</string>
+    <string name="notification_push_like_big_title">❤️ %s likes</string>
 
     <!-- terms to be careful about : Mirroring , Streaming, Broadcast, network -->
 

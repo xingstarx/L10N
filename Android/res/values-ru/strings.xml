@@ -281,12 +281,12 @@
     <string name="root_access_link">Что такое рутинг?</string>
     <string name="no_capture_screen_permission">Требуется разрешение на запись экрана</string>
     <string name="get_capture_screen_permission">Разрешить</string>
-    <string name="notification_push_live_multi_title">пользователь %1$s начал трансляцию %2$s</string>
+    <string name="notification_push_live_multi_title">👾 пользователь %1$s начал трансляцию %2$s</string>
     <string name="notification_push_live_big_title">трансляция от игрока %s</string>
-    <string name="notification_push_follow_multi_title">новые подписчики: %s</string>
+    <string name="notification_push_follow_multi_title">💞 новые подписчики: %s</string>
     <string name="notification_push_follow_description">этот пользователь подписался на вас</string>
     <string name="notification_push_follow_big_title">новые подписчики: %s</string>
-    <string name="notification_push_like_multi_title">новые отметки «Нравится»: %s</string>
+    <string name="notification_push_like_multi_title">❤️ новые отметки «Нравится»: %s</string>
     <string name="notification_push_like_description">этому пользователю понравилась ваша трансляция</string>
     <string name="notification_push_like_big_title">новые отметки «Нравится»: %s</string>
     <string name="notification_push_cash_big_title">подарено ShouCash: %s</string>
