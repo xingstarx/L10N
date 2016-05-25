@@ -12,6 +12,7 @@
 
 "title_bar_done" = "Done";
 
+"dialog_button_continue" = "Continue";
 "dialog_button_ok" = "OK";
 "dialog_button_open" = "Open";
 "dialog_button_delete" = "Delete";
@@ -298,3 +299,9 @@
 "notification_push_share" = "💬 %@ want you to watch %@";
 "notification_push_like" = "❤️ %@ liked your broadcast";
 "notification_push_message" = "💬 %@: %@";
+
+"rate_not_interested" = "Not interested";
+"rate_title" = "We're happy you're happy";
+"rate_tip" = "How do you like our app? Tap a star to rate.";
+"rate_feedback" = "Please feedback your sugguest of our app by tapping \"Continue\"";
+"rate_continue" = "Please share this rating of our app on App Store by tapping \"Continue\"";

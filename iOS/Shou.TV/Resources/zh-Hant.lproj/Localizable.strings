@@ -12,6 +12,7 @@
 
 "title_bar_done" = "完成";
 
+"dialog_button_continue" = "繼續";
 "dialog_button_ok" = "確定";
 "dialog_button_open" = "開啟";
 "dialog_button_delete" = "刪除";
@@ -296,3 +297,9 @@
 "notification_push_follow" = "💞 %@ 現在是您的新粉絲";
 "notification_push_share" = "💬 %@ 邀您一起看直播 %@";
 "notification_push_like" = "❤️ %@ 讚了您的直播";
+
+"rate_not_interested" = "殘忍的拒絕";
+"rate_title" = "你開心我們快樂";
+"rate_tip" = "喜歡 Shou 嗎？";
+"rate_feedback" = "輕觸「繼續」將您的建議回饋給我們！";
+"rate_continue" = "輕觸「繼續」將您的好評分享至 App Store, 感謝您的支持！";

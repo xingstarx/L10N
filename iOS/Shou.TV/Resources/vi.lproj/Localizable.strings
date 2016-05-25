@@ -12,6 +12,7 @@
 
 "title_bar_done" = "Done";
 
+"dialog_button_continue" = "Tiếp tục";
 "dialog_button_ok" = "OK";
 "dialog_button_open" = "Open";
 "dialog_button_delete" = "Xóa";
@@ -298,3 +299,9 @@
 "notification_push_share" = "💬 %@ want you to watch %@";
 "notification_push_like" = "❤️ %@ thích phát sóng của bạn";
 "notification_push_message" = "💬 %@: %@";
+
+"rate_not_interested" = "Không quan tâm";
+"rate_title" = "Chúng tôi vui bạn vui";
+"rate_tip" = "Bạn thích ứng dụng của chúng tôi chứ?";
+"rate_feedback" = "Vui lòng ​​gửi phản hồi góp ý của bạn về ứng dụng của chúng tôi bằng cách bấm \"Tiếp tục\"!";
+"rate_continue" = "Xin hãy chia sẻ việc đánh giá ứng dụng của chúng tôi trên App Store của bằng cách bấm \"Tiếp tục\"!";
