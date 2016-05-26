@@ -9,7 +9,7 @@
     <item>AVI</item>
   </string-array>
   <string-array name="pref_entries_video_source_engine">
-    <item>หน่วยความจำ</item>
+    <item>Memory</item>
   </string-array>
     <string-array name="pref_entries_video_encoding_engine">
     <item>ฮาร์ดแวร์</item>
@@ -25,9 +25,9 @@
     <item>ปานกลาง</item>
     <item>สูง</item>
   </string-array>
-    <string-array name="pref_entries_audio_source">
-    <item>ปิดเสียง</item>
-    <item>ไมค์</item>
+  <string-array name="pref_entries_audio_source">
+    <item>Mute</item>
+    <item>Mic</item>
   </string-array>
     <string-array name="profile_tabs">
     <item>วิดีโอ</item>
