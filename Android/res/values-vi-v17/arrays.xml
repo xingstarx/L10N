@@ -2,12 +2,12 @@
 <resources>
 
     <string-array name="pref_entries_audio_source">
-        <item>Tắt tiếng</item>
-        <item>Mic</item>
+        <item>Mute</item>
+        <item>MIC</item>
         <item>Internal</item>
     </string-array>
     <string-array name="pref_entries_video_source_engine">
         <item>Phantom</item>
-        <item>Bộ nhớ</item>
+        <item>Memory</item>
     </string-array>
 </resources>

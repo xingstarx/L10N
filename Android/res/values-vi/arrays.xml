@@ -1,44 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-
+    <string-array name="pref_entries_video_output_format">
+        <item>MKV</item>
+        <item>MP4</item>
+        <item>MOV</item>
+        <item>MPEG-TS</item>
+        <item>FLV</item>
+        <item>AVI</item>
+    </string-array>
     <string-array name="pref_entries_video_source_engine">
-        <item>Bộ nhớ</item>
+        <item>Memory</item>
     </string-array>
     <string-array name="pref_entries_video_encoding_engine">
-        <item>Phần cứng</item>
-        <item>Phần mềm</item>
+        <item>Hardware</item>
+        <item>Software</item>
     </string-array>
     <string-array name="pref_entries_video_orientation">
-        <item>Tự động</item>
-        <item>Phong cảnh</item>
-        <item>Chân dung</item>
+        <item>Auto</item>
+        <item>Landscape</item>
+        <item>Portrait</item>
     </string-array>
     <string-array name="pref_entries_video_quality">
-        <item>Thấp</item>
-        <item>Trung bình</item>
-        <item>Cao</item>
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+    </string-array>
+    <string-array name="pref_entries_record_video_resolution">
+        <item>240P</item>
+        <item>320P</item>
+        <item>480P</item>
+        <item>640P</item>
+        <item>720P</item>
+        <item>1080P</item>
+    </string-array>
+    <string-array name="pref_entries_record_video_bitrate">
+        <item>256 Kbps</item>
+        <item>512 Kbps</item>
+        <item>1 Mbps</item>
+        <item>2 Mbps</item>
+        <item>4 Mbps</item>
+        <item>8 Mbps</item>
+        <item>10 Mbps</item>
+        <item>16 Mbps</item>
     </string-array>
     <string-array name="pref_entries_audio_source">
-        <item>Tắt tiếng</item>
+        <item>Mute</item>
         <item>Mic</item>
     </string-array>
     <string-array name="profile_tabs">
-        <item>video</item>
-        <item>đang theo dõi</item>
-        <item>người theo dõi</item>
+        <item>videos</item>
+        <item>following</item>
+        <item>followers</item>
     </string-array>
     <string-array name="app_tabs">
-        <item>video</item>
-        <item>người chơi</item>
-        <item>Trò chơi</item>
+        <item>videos</item>
+        <item>players</item>
+        <item>Games</item>
     </string-array>
     <string-array name="search_tabs">
-        <item>người chơi</item>
-        <item>trò chơi</item>
+        <item>players</item>
+        <item>games</item>
     </string-array>
     <string-array name="pref_entries_video_broadcast_type">
-        <item>Công cộng</item>
-        <item>Riêng tư</item>
+        <item>Public</item>
+        <item>Private</item>
     </string-array>
 
 
