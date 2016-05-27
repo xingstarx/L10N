@@ -243,12 +243,12 @@
     <string name="root_access_link">Root化って何?</string>
     <string name="no_capture_screen_permission">画面キャプチャの権限が必要です。</string>
     <string name="get_capture_screen_permission">権限を取得</string>
-    <string name="notification_push_live_multi_title">👾 %1$sは%2$sをブロードキャストしています。</string>
+    <string name="notification_push_live_multi_title">%1$sは%2$sをブロードキャストしています。</string>
     <string name="notification_push_live_big_title">%s人のプレイヤーがブロードキャストしています。</string>
-    <string name="notification_push_follow_multi_title">💞 %sがあなたをフォローしました。</string>
+    <string name="notification_push_follow_multi_title">%sがあなたをフォローしました。</string>
     <string name="notification_push_follow_description">フォローされています</string>
     <string name="notification_push_follow_big_title">%s人のフォロワー</string>
-    <string name="notification_push_like_multi_title">❤️ %s人が、あなたのブロードキャストを、好きと評価しています。</string>
+    <string name="notification_push_like_multi_title">%s人が、あなたのブロードキャストを、好きと評価しています。</string>
     <string name="notification_push_like_description">あなたのブロードキャスト</string>
     <string name="notification_push_like_big_title">%s人が好き</string>
     <string name="menu_next">次へ</string>
@@ -299,7 +299,7 @@
     <string name="video_duration_placement">0:00</string>
     <string name="notification_push_cash_big_title">%s個のギフト</string>
     <string name="notification_push_cash_big_content">%1$s%2$sが%3$sを寄付しました！</string>
-    <string name="notification_push_share_cast_multi_title">💬 %1$sが%2$sで、あなたにブロードキャストを送信しました</string>
+    <string name="notification_push_share_cast_multi_title">%1$sが%2$sで、あなたにブロードキャストを送信しました</string>
     <string name="notification_push_share_cast_big_title">友達から共有されている%s個のブロードキャスト</string>
     <string name="notification_push_follow_multi_title_me">あなたは%sをフォローしています</string>
     <string name="notification_push_follow_description_me">あなたは%sをフォローしています</string>

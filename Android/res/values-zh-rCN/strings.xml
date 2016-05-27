@@ -310,20 +310,20 @@
     <string name="root_access_link">什么是 Root 权限?</string>
     <string name="no_capture_screen_permission">需要截取屏幕的权限</string>
     <string name="get_capture_screen_permission">获取权限</string>
-    <string name="notification_push_text_multi_title">💬 %1$s : %2$s</string>
+    <string name="notification_push_text_multi_title">%1$s : %2$s</string>
     <string name="notification_push_text_big_title">%s 条新消息</string>
-    <string name="notification_push_live_multi_title">👾 %1$s 正在直播 %2$s</string>
+    <string name="notification_push_live_multi_title">%1$s 正在直播 %2$s</string>
     <string name="notification_push_live_big_title">您关注的 %s 位主播正在直播</string>
-    <string name="notification_push_follow_multi_title">💞 %s 现在是您的新粉丝</string>
+    <string name="notification_push_follow_multi_title">%s 现在是您的新粉丝</string>
     <string name="notification_push_follow_description">是您的新粉丝</string>
     <string name="notification_push_follow_big_title">您有 %s 位新粉丝</string>
-    <string name="notification_push_like_multi_title">❤️ %s 为您的视频点了一个赞</string>
+    <string name="notification_push_like_multi_title">%s 为您的视频点了一个赞</string>
     <string name="notification_push_like_description">为您的视频点了一个赞</string>
     <string name="notification_push_like_big_title">您新获得了 %s 个赞</string>
     <string name="notification_push_cash_big_title">您收到 %s 笔赠送</string>
-    <string name="notification_push_cash_content">💰 %1$s 赠送给您 %2$s ShouCash</string>
+    <string name="notification_push_cash_content">%1$s 赠送给您 %2$s ShouCash</string>
     <string name="notification_push_cash_big_content">%1$s %2$s 赠送给您 %3$s ShouCash</string>
-    <string name="notification_push_share_cast_multi_title">💬 %1$s 给你分享了一个直播 %2$s</string>
+    <string name="notification_push_share_cast_multi_title">%1$s 给你分享了一个直播 %2$s</string>
     <string name="notification_push_share_cast_big_title">您收到 %s 个来自好友分享的直播</string>
     <string name="profile_archive_broadcasts">自动存档我的直播</string>
     <string name="shou_cash_info">ShouCash 不足!</string>
@@ -465,5 +465,4 @@
     <string name="fragment_streaming_broadcast_network_type_checkbox_text">不再显示</string>
     <string name="activity_landing_sign_in_email">使用 Email 登录</string>
     <string name="toast_textview_copy_clipboard">已复制到剪切板</string>
-    <string name="landing_token">Shou 是一个手机游戏直播社区</string>
 </resources>
