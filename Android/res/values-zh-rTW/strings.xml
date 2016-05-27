@@ -292,7 +292,7 @@
     <string name="no_capture_screen_permission">需要截取螢幕的權限</string>
     <string name="get_capture_screen_permission">取得權限</string>
     <string name="notification_push_live_multi_title">%1$s 正在直播 %2$s</string>
-    <string name="notification_push_live_big_title">%s 個觀眾正在觀看</string>
+    <string name="notification_push_live_big_title">%s 個觀眾正在直播</string>
     <string name="notification_push_follow_multi_title">%s 現在是您的新粉絲</string>
     <string name="notification_push_follow_description">是您的新粉絲</string>
     <string name="notification_push_follow_big_title">您有 %s 位新粉絲</string>
@@ -426,4 +426,5 @@
     <string name="fragment_share_with_friends_change">變更</string>
     <string name="activity_share_with_title">分享</string>
     <string name="activity_share_with_friends_title">分享給朋友</string>
+    <string name="landing_token">Shou 是一個手機遊戲直播社群</string>
 </resources>

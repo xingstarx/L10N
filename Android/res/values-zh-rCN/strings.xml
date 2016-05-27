@@ -465,4 +465,5 @@
     <string name="fragment_streaming_broadcast_network_type_checkbox_text">不再显示</string>
     <string name="activity_landing_sign_in_email">使用 Email 登录</string>
     <string name="toast_textview_copy_clipboard">已复制到剪切板</string>
+    <string name="landing_token">Shou 是一个手机游戏直播社区</string>
 </resources>

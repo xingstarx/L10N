@@ -470,4 +470,5 @@
     <string name="fragment_streaming_broadcast_network_type_checkbox_text">Don\'t show again</string>
     <string name="activity_landing_sign_in_email">Sign In with Email</string>
     <string name="toast_textview_copy_clipboard">Copied to clipboard</string>
+    <string name="landing_token">Shou is the \n mobile game streaming community.</string>
 </resources>
