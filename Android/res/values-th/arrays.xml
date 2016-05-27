@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><resources>
-
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
   <string-array name="pref_entries_video_output_format">
     <item>MKV</item>
     <item>MP4</item>
@@ -9,44 +9,60 @@
     <item>AVI</item>
   </string-array>
   <string-array name="pref_entries_video_source_engine">
-    <item>หน่วยความจำ</item>
+    <item>Memory</item>
   </string-array>
-    <string-array name="pref_entries_video_encoding_engine">
-    <item>ฮาร์ดแวร์</item>
-    <item>ซอฟต์แวร์</item>
+  <string-array name="pref_entries_video_encoding_engine">
+    <item>Hardware</item>
+    <item>Software</item>
   </string-array>
-    <string-array name="pref_entries_video_orientation">
-    <item>อัตโนมัติ</item>
-    <item>แนวนอน</item>
-    <item>แนวตั้ง</item>
+  <string-array name="pref_entries_video_orientation">
+    <item>Auto</item>
+    <item>Landscape</item>
+    <item>Portrait</item>
   </string-array>
-    <string-array name="pref_entries_video_quality">
-    <item>ต่ำ</item>
-    <item>ปานกลาง</item>
-    <item>สูง</item>
+  <string-array name="pref_entries_video_quality">
+    <item>Low</item>
+    <item>Medium</item>
+    <item>High</item>
   </string-array>
-    <string-array name="pref_entries_audio_source">
-    <item>ปิดเสียง</item>
-    <item>ไมค์</item>
+  <string-array name="pref_entries_record_video_resolution">
+    <item>240P</item>
+    <item>320P</item>
+    <item>480P</item>
+    <item>640P</item>
+    <item>720P</item>
+    <item>1080P</item>
   </string-array>
-    <string-array name="profile_tabs">
-    <item>วิดีโอ</item>
-    <item>กำลังติดตาม</item>
-    <item>ผู้ติดตาม</item>
+  <string-array name="pref_entries_record_video_bitrate">
+    <item>256 Kbps</item>
+    <item>512 Kbps</item>
+    <item>1 Mbps</item>
+    <item>2 Mbps</item>
+    <item>4 Mbps</item>
+    <item>8 Mbps</item>
+    <item>10 Mbps</item>
+    <item>16 Mbps</item>
   </string-array>
-    <string-array name="app_tabs">
-    <item>วิดีโอ</item>
-    <item>ผู้เล่น</item>
-    <item>เกม</item>
+  <string-array name="pref_entries_audio_source">
+    <item>Mute</item>
+    <item>Mic</item>
   </string-array>
-    <string-array name="search_tabs">
-    <item>ผู้เล่น</item>
-    <item>เกม</item>
+  <string-array name="profile_tabs">
+    <item>videos</item>
+    <item>following</item>
+    <item>followers</item>
   </string-array>
-    <string-array name="pref_entries_video_broadcast_type">
-    <item>สาธารณะ</item>
-    <item>ส่วนตัว</item>
+  <string-array name="app_tabs">
+    <item>videos</item>
+    <item>players</item>
+    <item>Games</item>
   </string-array>
-
-
+  <string-array name="search_tabs">
+    <item>players</item>
+    <item>games</item>
+  </string-array>
+  <string-array name="pref_entries_video_broadcast_type">
+    <item>Public</item>
+    <item>Private</item>
+  </string-array>
 </resources>
