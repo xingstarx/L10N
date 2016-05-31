@@ -150,8 +150,9 @@
 "account_invite_friends" = "Пригласить друзей";
 "account_invite" = "Установи приложение Shou из App Store (https://shou.tv/ios) или Google Play (https://shou.tv/android), чтобы следить за моими игровыми трансляциями! Я на Shou — ";
 "account_user_video_delete_info" = "Вы уверены, что хотите удалить это видео?";
-
-
+"account_title" = "АККАУНТ";
+"account_support" = "ПОДДЕРЖКА";
+"account_about" = "ИНФОРМАЦИЯ";
 
 
 "video_player_welcome" = "Добро пожаловать в чат!";
