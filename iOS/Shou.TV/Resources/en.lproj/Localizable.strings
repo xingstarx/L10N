@@ -12,6 +12,7 @@
 
 "title_bar_done" = "Done";
 
+"dialog_button_verify" = "Verify";
 "dialog_button_continue" = "Continue";
 "dialog_button_ok" = "OK";
 "dialog_button_open" = "Open";
@@ -157,6 +158,15 @@
 "account_invite_friends" = "Invite friends";
 "account_invite" = "I'm on Shou.TV as %@ . Install the app to follow my streamings.";
 "account_user_video_delete_info" = "Are you sure delete this video?";
+"account_check_password" = "For your security, please enter your password.";
+"account_email_bind" = "Please confirm your email address. Your email address is used to log in and to secure your Shou account.";
+"account_email_bind_change" = "By verifying a new email address, %@ will no longer be associated with your account.\n\n";
+"account_email_verify" = "Open the email and enter your code, let us know this email belongs to you.";
+"account_confirm_password" = "For your security, please enter your password.";
+"account_private_infomation" = "PRIVATE INFOMATION";
+"account_title" = "ACCOUNT";
+"account_support" = "SUPPORT";
+"account_about" = "ABOUT";
 
 "video_player_welcome" = "Welcome to the chat room!";
 "video_player_quality" = "Quality";

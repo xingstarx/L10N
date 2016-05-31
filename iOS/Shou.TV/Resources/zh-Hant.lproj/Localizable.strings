@@ -12,6 +12,7 @@
 
 "title_bar_done" = "完成";
 
+"dialog_button_verify" = "驗證";
 "dialog_button_continue" = "繼續";
 "dialog_button_ok" = "確定";
 "dialog_button_open" = "開啟";
@@ -155,6 +156,14 @@
 "account_invite_friends" = "邀請好友";
 "account_invite" = "我在 Shou.TV 叫 %@ ，請安裝此應用程式並追蹤我直播！";
 "account_user_video_delete_info" = "要刪除此影片嗎？";
+"account_email_bind" = "請確認您的電子郵箱地址，您的電子郵箱地址將用於登入和保護 Shou 賬戶安全。";
+"account_email_bind_change" = "驗證新的電子郵箱地址后，%@ 將不再與你的賬戶關聯。\n\n";
+"account_email_verify" = "輸入電子郵件中的驗證碼，讓我們知道這個電子郵箱屬於你。";
+"account_confirm_password" = "為了您的安全，請輸入您當前賬號的密碼。";
+"account_private_infomation" = "隱私訊息";
+"account_title" = "賬號";
+"account_support" = "支持";
+"account_about" = "關於";
 
 "video_player_welcome" = "歡迎來到我的聊天室！";
 "video_player_quality" = "清晰度";
