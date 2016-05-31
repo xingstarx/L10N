@@ -470,4 +470,14 @@
     <string name="activity_landing_vk">使用 VK 登录</string>
     <string name="activity_landing_vk_sign_in_progress">正在用 VK 登录</string>
     <string name="activity_account_toast_failed_to_sign_in_with_vk">使用 VK 登录失败 :(</string>
+    <string name="fragment_show_email_account_label_tip1">验证新的电子邮箱后, %s 将不再与您的账户关联.</string>
+    <string name="fragment_show_email_account_label_tip2">请确认您的电子邮箱地址. 您的电子邮箱地址将用于登录和保护 Shou 账户的安全.</string>
+    <string name="fragment_verify_label">输入邮件中的验证码,让我们知道这个电子邮箱属于您.</string>
+    <string name="fragment_verify_verify">验证</string>
+    <string name="fragment_verify_re_send_code">发送新的验证码</string>
+    <string name="activity_show_email_title">邮箱</string>
+    <string name="activity_verify_email_title">邮箱</string>
+    <string name="fragment_reset_password_label">为了您的安全,请输入您当前账号的密码</string>
+    <string name="fragment_vertify_dialog_title">检查你的电子邮箱!</string>
+    <string name="fragment_vertify_dialog_message">我们已向 %s 发送了验证电子邮箱</string>
 </resources>
