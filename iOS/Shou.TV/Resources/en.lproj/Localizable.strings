@@ -162,6 +162,8 @@
 "account_email_bind" = "Please confirm your email address. Your email address is used to log in and to secure your Shou account.";
 "account_email_bind_change" = "By verifying a new email address, %@ will no longer be associated with your account.\n\n";
 "account_email_verify" = "Open the email and enter your code, let us know this email belongs to you.";
+"account_email_sent" = "We have sent an email to %@ with the code";
+"account_code_resend" = "Re-send Code";
 "account_confirm_password" = "For your security, please enter your password.";
 "account_private_infomation" = "PRIVATE INFOMATION";
 "account_title" = "ACCOUNT";

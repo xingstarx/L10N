@@ -159,7 +159,9 @@
 "account_email_bind" = "請確認您的電子郵箱地址，您的電子郵箱地址將用於登入和保護 Shou 賬戶安全。";
 "account_email_bind_change" = "驗證新的電子郵箱地址后，%@ 將不再與你的賬戶關聯。\n\n";
 "account_email_verify" = "輸入電子郵件中的驗證碼，讓我們知道這個電子郵箱屬於你。";
+"account_email_sent" = "我們已向 %@ 發送了包含驗證碼的電子郵件";
 "account_confirm_password" = "為了您的安全，請輸入您當前賬號的密碼。";
+"account_code_resend" = "重新發送校驗證碼";
 "account_private_infomation" = "隱私訊息";
 "account_title" = "賬號";
 "account_support" = "支持";

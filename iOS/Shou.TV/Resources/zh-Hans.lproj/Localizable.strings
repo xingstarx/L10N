@@ -160,7 +160,9 @@
 "account_email_bind" = "请确认您的电子邮箱地址。您的电子邮箱地址将用于登录和保护 Shou 账户的安全。";
 "account_email_bind_change" = "验证新的电子邮箱后，%@ 将不再与您的账户关联。\n\n";
 "account_email_verify" = "输入邮件中的验证码，让我们知道这个电子邮箱属于您。";
+"account_email_sent" = "我们已向 %@ 发送了包含验证码的邮件";
 "account_confirm_password" = "为了您的安全，请输入您当前账号的密码。";
+"account_code_resend" = "重新发送验证码";
 "account_private_infomation" = "隐私信息";
 "account_title" = "账号";
 "account_support" = "支持";
