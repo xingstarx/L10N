@@ -328,7 +328,6 @@
     <string name="notification_push_share_cast_big_title">您收到 %s 个来自好友分享的直播</string>
     <string name="profile_archive_broadcasts">自动存档我的直播</string>
     <string name="shou_cash_info">ShouCash 不足!</string>
-    <string name="send_cash_info">请充值后再赠送!</string>
     <string name="menu_statistic">统计</string>
     <string name="menu_charge">充值</string>
     <string name="msg_buy_shou_cash">购买</string>
