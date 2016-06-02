@@ -505,4 +505,5 @@
     <string name="fragment_redeem_click_get_code">Get Code</string>
     <string name="fragment_show_phone_number_hint_phone_number">Your phone number</string>
     <string name="fragment_show_phone_number_confirm_label">Please confirm your country code and enter your phone number. Your phone number is used to redeem ShouCash and to secure your Shou accolunt.</string>
+    <string name="activity_show_phone_number_title">Phone Number</string>
 </resources>
