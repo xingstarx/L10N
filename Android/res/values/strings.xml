@@ -472,4 +472,7 @@
     <string name="activity_landing_sign_in_email">Sign In with Email</string>
     <string name="toast_textview_copy_clipboard">Copied to clipboard</string>
     <string name="landing_token">Shou is the \n mobile game streaming community.</string>
+    <string name="activity_landing_vk">Continue with VK</string>
+    <string name="activity_landing_vk_sign_in_progress">Sign in with VK</string>
+    <string name="activity_account_toast_failed_to_sign_in_with_vk">Failed to sign in with VK :(</string>
 </resources>

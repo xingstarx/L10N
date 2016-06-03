@@ -467,4 +467,7 @@
     <string name="activity_landing_sign_in_email">使用 Email 登录</string>
     <string name="toast_textview_copy_clipboard">已复制到剪切板</string>
     <string name="landing_token">Shou 是一个手机游戏直播社区</string>
+    <string name="activity_landing_vk">使用 VK 登录</string>
+    <string name="activity_landing_vk_sign_in_progress">正在用 VK 登录</string>
+    <string name="activity_account_toast_failed_to_sign_in_with_vk">使用 VK 登录失败 :(</string>
 </resources>
