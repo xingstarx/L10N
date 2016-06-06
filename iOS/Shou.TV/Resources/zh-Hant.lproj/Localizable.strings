@@ -227,6 +227,7 @@
 "toast_api_error_connection_timeout" = "網路連線逾時";
 "toast_api_error_server_5xx" = "Shou.TV 伺服器出錯";
 "toast_api_error_not_found" = "未找到相應的訊息";
+"toast_api_error_too_many_requests" = "您請求過於頻繁，請稍後重試";
 "toast_video_deleted" = "影片已被刪除";
 
 "about_title" = "關於";
