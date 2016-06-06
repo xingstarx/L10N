@@ -478,6 +478,6 @@
     <string name="activity_show_email_title">邮箱</string>
     <string name="activity_verify_email_title">邮箱</string>
     <string name="fragment_reset_password_label">为了您的安全,请输入您当前账号的密码</string>
-    <string name="fragment_vertify_dialog_title">检查你的电子邮箱!</string>
+    <string name="fragment_vertify_dialog_title">检查您的电子邮箱!</string>
     <string name="fragment_vertify_dialog_message">我们已向 %s 发送了验证电子邮箱</string>
 </resources>
