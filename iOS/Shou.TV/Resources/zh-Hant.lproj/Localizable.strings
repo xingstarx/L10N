@@ -206,7 +206,6 @@
 "msg_send_button" = "傳送";
 "msg_send_failed" = "傳送失敗";
 "msg_hint_send_msg" = "傳送";
-"msg_hint_send_disable" = "載入中";
 "msg_ban_user" = "禁止發言";
 "msg_ban_alert_title" = "是否禁止 %@ 發言？";
 "msg_ban_alert_message" = "%@ 無法在聊天室中發言并私信主播。";

@@ -152,7 +152,6 @@
 "account_toast_sign_in_required" = "ลงชื่อเข้าใช้เพื่อดำเนินการต่อ";
 "account_toast_password_not_match" = "Password do not match";
 "account_toast_server_error" = "Server is under maintenance";
-"account_toast_not_found" = "ไม่พบข้อความใด ๆ";
 "account_dialog_sign_up_failed" = "ล้มเหลวในการสมัครด้วยข้อมูลที่ให้ไว้";
 "account_invite_friends" = "Invite friends";
 "account_invite" = "I'm on Shou.TV as %@ . Install the app to follow my streamings.";
@@ -195,7 +194,6 @@
 "msg_send_button" = "ส่ง";
 "msg_send_failed" = "Can\'t send this message";
 "msg_hint_send_msg" = "ส่งข้อความ";
-"msg_hint_send_disable" = "No login sending disabled";
 "msg_ban_user" = "ปิดเสียง";
 "msg_ban_alert_title" = "ปิดเสียง %@ ?";
 "msg_ban_alert_message" = "%@ can't chat and message with broadcaster.";

@@ -161,7 +161,6 @@
 "account_toast_sign_in_required" = "Войдите, чтобы продолжить";
 "account_toast_password_not_match" = "Пароли не совпадают";
 "account_toast_server_error" = "Техническое обслуживание серверов";
-"account_toast_not_found" = "Не найдено";
 "account_dialog_sign_up_failed" = "Не удалось зарегистрироваться";
 "account_invite_friends" = "Пригласить друзей";
 "account_invite" = "Следи за моими трансляциями на Shou — ";
@@ -222,7 +221,6 @@
 "msg_send_button" = "Отпр.";
 "msg_send_failed" = "Не удалось отправить сообщение";
 "msg_hint_send_msg" = "Отпр.";
-"msg_hint_send_disable" = "Отправка сообщений недоступна";
 "msg_ban_user" = "Заблокировать";
 "msg_ban_alert_title" = "Заблокировать %@?";
 "msg_ban_alert_message" = "Пользователь %@ больше не сможет отправлять сообщения в чат и личные сообщения этому игроку.";

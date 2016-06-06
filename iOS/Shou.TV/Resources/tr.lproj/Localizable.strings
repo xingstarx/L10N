@@ -147,7 +147,6 @@
 "account_toast_sign_in_required" = "Devam etmek için giriş yapın";
 "account_toast_password_not_match" = "Parolalar eşleşmedi";
 "account_toast_server_error" = "Sunucu bakım altında";
-"account_toast_not_found" = "Mesaj bulunamadı";
 "account_dialog_sign_up_failed" = "Üye olunamadı";
 "account_invite_friends" = "Arkadaşlarınızı davet edin";
 "account_invite" = "%@ olarak Shou.TV\'deyim. Yayınlarımı takip etmek için uygulamayı yükleyin.";
@@ -190,7 +189,6 @@
 "msg_send_button" = "Gönder";
 "msg_send_failed" = "Bu mesaj gönderilemiyor";
 "msg_hint_send_msg" = "Bir mesaj gönder";
-"msg_hint_send_disable" = "Giriş yapılmamış, gönderme devre dışı bırakıldı";
 "msg_ban_user" = "Sustur";
 "msg_ban_alert_title" = "%@ engellensin mi ?";
 "msg_ban_alert_message" = "%@ yayıncı ile konuşamaz ve mesaj atamaz.";

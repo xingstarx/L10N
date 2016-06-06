@@ -128,7 +128,6 @@
 "account_toast_sign_in_required" = "계속하려면 로그인하세요";
 "account_toast_password_not_match" = "Password do not match";
 "account_toast_server_error" = "Shou.TV 서버 에러";
-"account_toast_not_found" = "메시지 찾지 못함";
 "account_dialog_sign_up_failed" = "로그인 실패，아이디와 비밀번호를 다시 확인해주세요";
 "account_invite_friends" = "Invite Friends";
 "account_invite" = "I'm on Shou.TV as %@ . Install the app to follow my streamings.";
@@ -169,7 +168,6 @@
 "msg_send_button" = "발송";
 "msg_send_failed" = "Can\'t send this message";
 "msg_hint_send_msg" = "채팅 시작";
-"msg_hint_send_disable" = "No login sending disabled";
 "msg_ban_user" = "Ban";
 "msg_ban_user_description" = "%@ is banned in this room.";
 "msg_unban_user" = "Unban";

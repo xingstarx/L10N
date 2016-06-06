@@ -152,7 +152,6 @@
 "account_toast_sign_in_required" = "Đăng nhập để tiếp tục";
 "account_toast_password_not_match" = "Password do not match";
 "account_toast_server_error" = "Server is under maintenance";
-"account_toast_not_found" = "Not found any message";
 "account_dialog_sign_up_failed" = "Failed to sign up";
 "account_invite_friends" = "Invite friends";
 "account_invite" = "I'm on Shou.TV as %@ . Install the app to follow my streamings.";
@@ -195,7 +194,6 @@
 "msg_send_button" = "Gửi";
 "msg_send_failed" = "Can\'t send this message";
 "msg_hint_send_msg" = "Gửi tin nhắn";
-"msg_hint_send_disable" = "No login sending disabled";
 "msg_ban_user" = "Tắt tiếng";
 "msg_ban_alert_title" = "Tắt tiếng %@ ?";
 "msg_ban_alert_message" = "%@ can't chat and message with broadcaster.";

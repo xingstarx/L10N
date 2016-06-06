@@ -144,7 +144,6 @@
 "account_toast_sign_in_required" = "アカウントログインしてください";
 "account_toast_password_not_match" = "パスワード間違い";
 "account_toast_server_error" = "サーバー修理中";
-"account_toast_not_found" = "関連インフォメーションなし";
 "account_dialog_sign_up_failed" = "登録失敗";
 "account_invite_friends" = "友達を招待";
 "account_invite" = "マイページ名前は%@ ，ShouというAppをドンロードしてください！";
@@ -187,7 +186,6 @@
 "msg_send_button" = "発送";
 "msg_send_failed" = "発送失敗";
 "msg_hint_send_msg" = "発送";
-"msg_hint_send_disable" = "ローディング";
 "msg_ban_user" = "ミュート";
 "msg_ban_alert_title" = "%@をミュートしますか？";
 "msg_ban_alert_message" = "%@ can't chat and message with broadcaster.";

@@ -152,7 +152,6 @@
 "account_toast_sign_in_required" = "请登录帐号";
 "account_toast_password_not_match" = "密码不匹配";
 "account_toast_server_error" = "服务器正在维护中";
-"account_toast_not_found" = "没有找到相应的信息";
 "account_dialog_sign_up_failed" = "注册失败";
 "account_invite_friends" = "邀请好友";
 "account_invite" = "我在 Shou.TV 叫 %@ ，请安装这个应用并关注我直播！";
@@ -207,7 +206,6 @@
 "msg_send_button" = "发送";
 "msg_send_failed" = "发送失败";
 "msg_hint_send_msg" = "发送";
-"msg_hint_send_disable" = "加载中";
 "msg_ban_user" = "屏蔽";
 "msg_ban_alert_title" = "屏蔽 %@ ？";
 "msg_ban_alert_message" = "%@ 发送给主播的私信和聊天室信息都将被屏蔽。";
