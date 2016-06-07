@@ -56,6 +56,7 @@
 "profile_text_muted_users" = "ミュートされているユーザー";
 
 "landing_slogan" = "Shou is the \nmobile game streaming community.";
+"landing_btn_vk" = "VKで登録";
 "landing_btn_twitter" = "Twitterで登録";
 "landing_btn_facebook" = "Facebookで登録";
 "landing_btn_google" = "Googleで登録";
@@ -137,6 +138,7 @@
 "account_toast_reset_password_failed" = "無効なパスワード";
 "account_toast_profile_update_success" = "個人プロフィール更新成功！";
 "account_toast_profile_update_failed" = "個人プロフィール更新失敗！";
+"account_toast_failed_to_sign_in_with_vk" = "VKアカウントでログイン失敗 :(";
 "account_toast_failed_to_sign_in_with_google_plus" = "Googleアカウントでログイン失敗 :(";
 "account_toast_failed_to_sign_in_with_facebook" = "Facebookアカウントでログイン失敗 :(";
 "account_toast_failed_to_sign_in_with_twitter" = "Twitterアカウントでログイン失敗 :(";

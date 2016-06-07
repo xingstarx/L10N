@@ -60,6 +60,7 @@
 "profile_text_broadcast_camera" = "直播攝像頭";
 
 "landing_slogan" = "Shou 是一個手機遊戲直播社群";
+"landing_btn_vk" = "透過 VK 登入";
 "landing_btn_twitter" = "透過 Twitter 登入";
 "landing_btn_facebook" = "透過 Facebook 登入";
 "landing_btn_google" = "透過 Google 登入";
@@ -146,6 +147,7 @@
 "account_toast_reset_password_failed" = "无效的密码";
 "account_toast_profile_update_success" = "成功更新個資！";
 "account_toast_profile_update_failed" = "更新個資失敗！";
+"account_toast_failed_to_sign_in_with_vk" = "使用 VK 登入失敗 :(";
 "account_toast_failed_to_sign_in_with_google_plus" = "使用 Google 登入失敗 :(";
 "account_toast_failed_to_sign_in_with_facebook" = "使用 Facebook 登入失敗 :(";
 "account_toast_failed_to_sign_in_with_twitter" = "使用 Twitter 登入失敗 :(";

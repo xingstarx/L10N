@@ -57,6 +57,7 @@
 "profile_text_muted_users" = "Muted users";
 
 "landing_slogan" = "Shou is the \nmobile game streaming community.";
+"landing_btn_vk" = "Continue with VK";
 "landing_btn_twitter" = "Continue with Twitter";
 "landing_btn_facebook" = "Continue with Facebook";
 "landing_btn_google" = "Continue with Google";

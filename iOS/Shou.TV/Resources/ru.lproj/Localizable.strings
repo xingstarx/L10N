@@ -68,6 +68,7 @@
 
 
 "landing_slogan" = "Мобильное видеостриминговое сообщество";
+"landing_btn_vk" = "Войти с помощью VK";
 "landing_btn_twitter" = "Войти с помощью Twitter";
 "landing_btn_facebook" = "Войти с помощью Facebook";
 "landing_btn_google" = "Войти с помощью Google";
@@ -154,6 +155,7 @@
 "account_toast_reset_password_failed" = "Неверный адрес эл. почты";
 "account_toast_profile_update_success" = "Профиль успешно обновлён";
 "account_toast_profile_update_failed" = "Не удалось обновить профиль";
+"account_toast_failed_to_sign_in_with_vk" = "Не удалось войти с помощью VK :(";
 "account_toast_failed_to_sign_in_with_google_plus" = "Не удалось войти с помощью Google :(";
 "account_toast_failed_to_sign_in_with_facebook" = "Не удалось войти с помощью Facebook :(";
 "account_toast_failed_to_sign_in_with_twitter" = "Не удалось войти с помощью Twitter :(";

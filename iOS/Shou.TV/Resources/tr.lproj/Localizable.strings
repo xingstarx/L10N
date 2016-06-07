@@ -57,6 +57,7 @@
 "profile_text_muted_users" = "Engellenmiş Kullanıcılar";
 
 "landing_slogan" = "Shou \nmobil oyun yayını topluluğu.";
+"landing_btn_vk" = "VK ile devam et";
 "landing_btn_twitter" = "Twitter ile devam et";
 "landing_btn_facebook" = "Facebook ile devam et";
 "landing_btn_google" = "Google ile devam et";
@@ -140,6 +141,7 @@
 "account_toast_reset_password_failed" = "Geçersiz e-posta";
 "account_toast_profile_update_success" = "Profil başarıyla güncellendi!";
 "account_toast_profile_update_failed" = "Profiliniz güncellenemedi";
+"account_toast_failed_to_sign_in_with_vk" = "VK ile giriş yapılamadı :(";
 "account_toast_failed_to_sign_in_with_google_plus" = "Google Plus ile giriş yapılamadı :(";
 "account_toast_failed_to_sign_in_with_facebook" = "Facebook ile giriş yapılamadı :(";
 "account_toast_failed_to_sign_in_with_twitter" = "Twitter ile giriş yapılamadı :(";

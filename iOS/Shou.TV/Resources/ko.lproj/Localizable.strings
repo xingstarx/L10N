@@ -46,6 +46,7 @@
 "profile_archive_broadcasts" = "Automatically archive my broadcasts";
 
 "landing_slogan" = "Shou는 모바일 게임 스트리밍 커뮤니티입니다.";
+"landing_btn_vk" = "VK으로 로그인";
 "landing_btn_twitter" = "Twitter으로 로그인";
 "landing_btn_facebook" = "Facebook으로 로그인";
 "landing_btn_google" = "Google으로 로그인";

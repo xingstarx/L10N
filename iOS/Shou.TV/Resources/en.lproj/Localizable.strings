@@ -61,6 +61,7 @@
 "profile_text_broadcast_camera" = "Broadcast camera";
 
 "landing_slogan" = "Shou is the \nmobile game streaming community.";
+"landing_btn_vk" = "Continue with VK";
 "landing_btn_twitter" = "Continue with Twitter";
 "landing_btn_facebook" = "Continue with Facebook";
 "landing_btn_google" = "Continue with Google";
@@ -146,6 +147,7 @@
 "account_toast_reset_password_failed" = "Invalid email";
 "account_toast_profile_update_success" = "Update profile successfully!";
 "account_toast_profile_update_failed" = "Failed to update your profile";
+"account_toast_failed_to_sign_in_with_vk" = "Failed to log in with VK :(";
 "account_toast_failed_to_sign_in_with_google_plus" = "Failed to log in with Google Plus :(";
 "account_toast_failed_to_sign_in_with_facebook" = "Failed to log in with Facebook :(";
 "account_toast_failed_to_sign_in_with_twitter" = "Failed to log in with Twitter :(";
