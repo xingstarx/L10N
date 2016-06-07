@@ -498,7 +498,7 @@
     <string name="fragment_redeem_hint_sms_verify">Code</string>
     <string name="fragment_redeem_sms_verify_label">SMS Verify</string>
     <string name="fragment_redeem_sms_verify_tip_label">Redeem ShouCash must verify your phone number.</string>
-    <string name="fragment_redeem_paypal_waring_label">Warning: Once redemption operating system immediately deducted from the current account 5000 ShouCash, and within 48 hours of the transfer of $ 100 to your PayPal account.</string>
+    <string name="fragment_redeem_paypal_waring_label">Warning: Once redemption operating system immediately deducted from the current account %1$s ShouCash, and within 48 hours of the transfer of $ %2$s to your PayPal account.</string>
     <string name="fragment_redeem_paypal_redeem_now">Redeem Now</string>
     <string name="activity_redeem_title">Redeem</string>
     <string name="activity_redeem_paypal_alert_dialog_message">Please make sure your PayPal account again: \ n% s, \ n NOTE: Once irrevocable redemption.</string>
@@ -510,4 +510,7 @@
     <string name="toast_fragment_dialog_shoucash_account_kit_verify_cancel">Verify cancel</string>
     <string name="toast_fragment_dialog_shoucash_account_kit_verify_unknown_error">Verify Unknown error</string>
     <string name="toast_fragment_dialog_shoucash_account_kit_verify_success">Verify phone number success</string>
+    <string name="toast_fragment_redeem_paypal_redeem_success">Redeem ShouCash successfully! remaining %d ShouCash</string>
+    <string name="toast_fragment_redeem_paypal_redeem_error">Redeem ShouCash error!</string>
+    <string name="fragment_redeem_paypal_redeem_loading">Redeem Now &#8230;</string>
 </resources>
