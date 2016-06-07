@@ -75,7 +75,7 @@
 "landing_google_plus_sign_in_progress" = "سجل الدهول بجوجل بلس";
 "landing_facebook_sign_in_progress" = "سجل الدخول بفيسبوك";
 "landing_twitter_sign_in_progress" = "سجل الدخول بتويتر";
-"landing_text_agree" = "By proceeding, you agree to the %@ and %@";
+"landing_text_agree" = " بالمتابعة،أن تتوافق على  %@  و %@";
 "landing_text_agree_term" = "شروط الخدمة";
 "landing_text_agree_privacy" = "سياسة الخصوصية";
 "landing_suggest_title" = "Suggested Follows";
