@@ -506,4 +506,8 @@
     <string name="fragment_show_phone_number_hint_phone_number">Your phone number</string>
     <string name="fragment_show_phone_number_confirm_label">Please confirm your country code and enter your phone number. Your phone number is used to redeem ShouCash and to secure your Shou accolunt.</string>
     <string name="activity_show_phone_number_title">Phone Number</string>
+    <string name="toast_fragment_dialog_shoucash_account_kit_verify_error">Verify error</string>
+    <string name="toast_fragment_dialog_shoucash_account_kit_verify_cancel">Verify cancel</string>
+    <string name="toast_fragment_dialog_shoucash_account_kit_verify_unknown_error">Verify Unknown error</string>
+    <string name="toast_fragment_dialog_shoucash_account_kit_verify_success">Verify phone number success</string>
 </resources>
