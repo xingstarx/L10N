@@ -488,5 +488,4 @@
     <string name="fragment_redeem_paypal_redeem_now">兑换</string>
     <string name="activity_redeem_title">兑换</string>
     <string name="activity_redeem_paypal_alert_dialog_message">请再次确认您的PayPal账号:\n %s ，\n 注意：兑换一旦开始不可取消。</string>
-    <string name="fragment_dialog_phone_country_chooser_list_serach_hint">搜索国家/地区 &#8230;</string>
 </resources>
