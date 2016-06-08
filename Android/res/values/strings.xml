@@ -79,7 +79,7 @@
     <string name="activity_account_btn_signed_in">Signed In</string>
     <string name="activity_account_btn_forgot_password">Forgot your password?</string>
     <string name="activity_account_btn_recover_password">Send me instruction</string>
-    <string name="activity_account_btn_recovering_password">Sending instruction</string>
+    <string name="activity_account_btn_recovering_password">Sending instruction&#8230;</string>
     <string name="activity_account_btn_recover_complete">Instruction sent</string>
     <string name="activity_account_btn_reset_password">Reset my password</string>
     <string name="activity_account_btn_reset_password_complete">Reset password complete</string>
@@ -485,4 +485,5 @@
     <string name="fragment_reset_password_label">For your security, please enter your password.</string>
     <string name="fragment_vertify_dialog_title">Check your email!</string>
     <string name="fragment_vertify_dialog_message">We have send a verification email to %s</string>
+    <string name="toast_fragment_vertify_email_binding_email_loading">Binding Email &#8230;</string>
 </resources>

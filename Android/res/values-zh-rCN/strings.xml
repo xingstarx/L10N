@@ -75,7 +75,7 @@
     <string name="activity_account_btn_signing_in">登录中</string>
     <string name="activity_account_btn_signed_in">登录成功</string>
     <string name="activity_account_btn_recover_password">给我发送邮件</string>
-    <string name="activity_account_btn_recovering_password">发送中...</string>
+    <string name="activity_account_btn_recovering_password">发送中&#8230;</string>
     <string name="activity_account_btn_recover_complete">邮件发送成功</string>
     <string name="activity_account_btn_forgot_password">忘记密码了？</string>
     <string name="activity_account_btn_reset_password">重置密码</string>
@@ -480,4 +480,5 @@
     <string name="fragment_reset_password_label">为了您的安全,请输入您当前账号的密码</string>
     <string name="fragment_vertify_dialog_title">检查您的电子邮箱!</string>
     <string name="fragment_vertify_dialog_message">我们已向 %s 发送了验证电子邮箱</string>
+    <string name="toast_fragment_vertify_email_binding_email_loading">正在绑定邮箱&#8230;</string>
 </resources>
