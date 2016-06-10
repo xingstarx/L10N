@@ -487,11 +487,12 @@
     <string name="fragment_redeem_paypal_waring_label">警告：兑换操作一旦开始，系统将从当前账号立即扣除 %1$s ShouCash，并在48小时内将%2$s美元转账至您的PayPal账号。</string>
     <string name="fragment_redeem_paypal_redeem_now">兑换</string>
     <string name="activity_redeem_title">兑换</string>
-    <string name="activity_redeem_paypal_alert_dialog_message">请再次确认您的PayPal账号:\n %s ，\n 注意：兑换一旦开始不可取消。</string>
+    <string name="activity_redeem_paypal_alert_dialog_message">请再次确认您的PayPal账号: %s ， 注意：兑换一旦开始不可取消。</string>
     <string name="fragment_redeem_paypal_account_label">您的PayPal帐号</string>
     <string name="fragment_redeem_hint_account">账号</string>
     <string name="fragment_redeem_hint_confirm_account">确认账号</string>
     <string name="fragment_redeem_shoucash_count_label">ShouCash</string>
     <string name="fragment_redeem_hint_redeem_shoucash_count">个</string>
-
+    <string name="activity_account_hint_phone">手机号</string>
+    <string name="toast_account_kit_vertify_phone_binding_phone_loading">正在绑定手机号&#8230;</string>
 </resources>

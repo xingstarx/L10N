@@ -501,16 +501,17 @@
     <string name="fragment_redeem_paypal_waring_label">Warning: Once redemption operating system immediately deducted from the current account %1$s ShouCash, and within 48 hours of the transfer of $ %2$s to your PayPal account.</string>
     <string name="fragment_redeem_paypal_redeem_now">Redeem Now</string>
     <string name="activity_redeem_title">Redeem</string>
-    <string name="activity_redeem_paypal_alert_dialog_message">Please make sure your PayPal account again: \ n% s, \ n NOTE: Once irrevocable redemption.</string>
+    <string name="activity_redeem_paypal_alert_dialog_message">Please make sure your PayPal account again: % s,  NOTE: Once irrevocable redemption.</string>
     <string name="fragment_redeem_click_get_code">Get Code</string>
     <string name="fragment_show_phone_number_hint_phone_number">Your phone number</string>
     <string name="fragment_show_phone_number_confirm_label">Please confirm your country code and enter your phone number. Your phone number is used to redeem ShouCash and to secure your Shou accolunt.</string>
     <string name="activity_show_phone_number_title">Phone Number</string>
-    <string name="toast_fragment_dialog_shoucash_account_kit_verify_error">Verify error</string>
-    <string name="toast_fragment_dialog_shoucash_account_kit_verify_cancel">Verify cancel</string>
-    <string name="toast_fragment_dialog_shoucash_account_kit_verify_unknown_error">Verify Unknown error</string>
-    <string name="toast_fragment_dialog_shoucash_account_kit_verify_success">Verify phone number success</string>
+    <string name="toast_fragment_dialog_shoucash_account_kit_verify_error">AccountKit Verify error</string>
+    <string name="toast_fragment_dialog_shoucash_account_kit_verify_unknown_error">AccountKit Verify Unknown error</string>
+    <string name="toast_fragment_dialog_shoucash_account_kit_verify_success">Binding phone number successfully!</string>
     <string name="toast_fragment_redeem_paypal_redeem_success">Redeem ShouCash successfully! remaining %d ShouCash</string>
-    <string name="toast_fragment_redeem_paypal_redeem_error">Redeem ShouCash error!</string>
+    <string name="toast_fragment_redeem_paypal_redeem_server_error">Server error! Redeem ShouCash fail!</string>
     <string name="fragment_redeem_paypal_redeem_loading">Redeem Now &#8230;</string>
+    <string name="activity_account_hint_phone">phone</string>
+    <string name="toast_account_kit_vertify_phone_binding_phone_loading">Binding Phone &#8230;</string>
 </resources>
