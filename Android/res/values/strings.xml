@@ -79,7 +79,7 @@
     <string name="activity_account_btn_signed_in">Signed In</string>
     <string name="activity_account_btn_forgot_password">Forgot your password?</string>
     <string name="activity_account_btn_recover_password">Send me instruction</string>
-    <string name="activity_account_btn_recovering_password">Sending instruction</string>
+    <string name="activity_account_btn_recovering_password">Sending instruction&#8230;</string>
     <string name="activity_account_btn_recover_complete">Instruction sent</string>
     <string name="activity_account_btn_reset_password">Reset my password</string>
     <string name="activity_account_btn_reset_password_complete">Reset password complete</string>
@@ -475,4 +475,15 @@
     <string name="activity_landing_vk">Continue with VK</string>
     <string name="activity_landing_vk_sign_in_progress">Sign in with VK</string>
     <string name="activity_account_toast_failed_to_sign_in_with_vk">Failed to sign in with VK :(</string>
+    <string name="fragment_show_email_account_label_tip1">By verifying a new email address, %s will no longer be associated with your account.</string>
+    <string name="fragment_show_email_account_label_tip2">Please confirm your email address. Your email address is used to log in and to secure your Shou account.</string>
+    <string name="fragment_verify_label">open the email and enter your code, let us know this email belongs to you.</string>
+    <string name="fragment_verify_verify">Verify</string>
+    <string name="fragment_verify_re_send_code">Re-send Code</string>
+    <string name="activity_show_email_title">Email</string>
+    <string name="activity_verify_email_title">Email</string>
+    <string name="fragment_reset_password_label">For your security, please enter your password.</string>
+    <string name="fragment_vertify_dialog_title">Check your email!</string>
+    <string name="fragment_vertify_dialog_message">We have send a verification email to %s</string>
+    <string name="toast_fragment_vertify_email_binding_email_loading">Binding Email &#8230;</string>
 </resources>
