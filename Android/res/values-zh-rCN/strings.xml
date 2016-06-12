@@ -488,4 +488,5 @@
     <string name="toast_fragment_dialog_shoucash_account_kit_verify_error">AccountKit校验失败</string>
     <string name="toast_fragment_dialog_shoucash_account_kit_verify_unknown_error">AccountKit校验出错</string>
     <string name="toast_fragment_dialog_shoucash_account_kit_verify_success">绑定手机号成功!</string>
+    <string name="fragment_account_kit_title">绑定手机</string>
 </resources>
