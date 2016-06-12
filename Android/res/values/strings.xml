@@ -475,4 +475,5 @@
     <string name="activity_landing_vk">Continue with VK</string>
     <string name="activity_landing_vk_sign_in_progress">Sign in with VK</string>
     <string name="activity_account_toast_failed_to_sign_in_with_vk">Failed to sign in with VK :(</string>
+    <string name="msg_mute_description_manager">%s won\'t chat and message with broadcaster.</string>
 </resources>

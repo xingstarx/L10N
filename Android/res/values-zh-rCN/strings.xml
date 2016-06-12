@@ -470,4 +470,5 @@
     <string name="activity_landing_vk">使用 VK 登录</string>
     <string name="activity_landing_vk_sign_in_progress">正在用 VK 登录</string>
     <string name="activity_account_toast_failed_to_sign_in_with_vk">使用 VK 登录失败 :(</string>
+    <string name="msg_mute_description_manager">%s 将无法和主播聊天或发送私信。</string>
 </resources>
