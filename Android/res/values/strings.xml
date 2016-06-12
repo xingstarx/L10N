@@ -509,9 +509,6 @@
     <string name="toast_fragment_dialog_shoucash_account_kit_verify_error">AccountKit Verify error</string>
     <string name="toast_fragment_dialog_shoucash_account_kit_verify_unknown_error">AccountKit Verify Unknown error</string>
     <string name="toast_fragment_dialog_shoucash_account_kit_verify_success">Binding phone number successfully!</string>
-    <string name="toast_fragment_redeem_paypal_redeem_success">Redeem ShouCash successfully! remaining %d ShouCash</string>
-    <string name="toast_fragment_redeem_paypal_redeem_server_error">Server error! Redeem ShouCash fail!</string>
-    <string name="fragment_redeem_paypal_redeem_loading">Redeem Now &#8230;</string>
     <string name="activity_account_hint_phone">phone</string>
     <string name="toast_account_kit_vertify_phone_binding_phone_loading">Binding Phone &#8230;</string>
 </resources>
