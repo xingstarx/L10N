@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><resources>
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
     <string name="tab_feed">الرئيسية</string>
     <string name="tab_broadcast">البث</string>
     <string name="tab_games">الألعاب</string>
@@ -216,7 +217,42 @@
     <string name="dialog_title_open_safari">فتح باستخدام سفاري؟</string>
     <string name="tab_me">أنا</string>
     <string name="profile_text_options">خيارات</string>
-    <string name="notification_push_share">%s يريدك أن تشاهد %s</string>
     <string name="spotlight_content">مشاهدة %s مباشرة على Shou</string>
     <string name="video_player_source">المصدر</string>
+    <string name="app_name">Shou</string>
+    <string name="profile_title_money">ShouCash</string>
+    <string name="profile_title_game">الألعاب</string>
+    <string name="activity_landing_more">المزيد</string>
+    <string name="activity_account_btn_open">فتح</string>
+    <string name="activity_image_cropper_btn_cancel">إلغاء</string>
+    <string name="activity_screen_streaming_ready">البث</string>
+    <string name="activity_screen_fab_broadcast">البث</string>
+    <string name="activity_recordings">التسجيلات</string>
+    <string name="activity_message_title">الرسائل</string>
+    <string name="activity_statistics_likes">إعجاب</string>
+    <string name="activity_statistics_views_unit">المشاهدات</string>
+    <string name="activity_statistics_likes_unit">إعجاب</string>
+    <string name="activity_statistics_show_cash">ShouCash</string>
+    <string name="action_share">مشاركة</string>
+    <string name="permission_group_shou_description">يمكن التطبيق من تسجيل شاشتك أو التقاط صورة للشاشة. يمكن مراقبة جميع العمليات، مثل لوحة المفاتيح، ,كلمة المرور، إلخ.</string>
+    <string name="msg_mute_confirm">كتم الصوت</string>
+    <string name="video_report_cancel">إلغاء</string>
+    <string name="notification_push_follow_description">يتابعونك</string>
+    <string name="notification_push_like_description">أعجب بالبث الخاص بك</string>
+    <string name="notification_push_follow_description_me">قمت بمتابعة %s</string>
+    <string name="notification_push_like_description_me">أعجبت بالبث الخاص بـ %s</string>
+    <string name="fragment_shoucash_msg_count">%s</string>
+    <string name="msg_description_like">إعجاب</string>
+    <string name="streaming_privacy_settings">الإعدادات</string>
+    <string name="streaming_privacy_protection_close">تعطيل</string>
+    <string name="video_player_living_play_info_end">البث على</string>
+    <string name="fragment_bottom_un_moderator_info">إلغاء المعتدل</string>
+    <string name="fragment_bottom_moderator_info">معتدل</string>
+    <string name="pref_title_misc_instagram">Instagram</string>
+    <string name="pref_summary_misc_instagram">shou_tv</string>
+    <string name="activity_following_title">متابع</string>
+    <string name="activity_moderatorlist_title">المدراء</string>
+    <string name="activity_share_broadcast_more_title">المزيد</string>
+    <string name="fragment_share_bottom_cancel">إلغاء</string>
+    <string name="fragment_app_game">الألعاب</string>
 </resources>
