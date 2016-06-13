@@ -483,8 +483,8 @@
     <string name="activity_show_email_title">Email</string>
     <string name="activity_verify_email_title">Email</string>
     <string name="fragment_reset_password_label">For your security, please enter your password.</string>
-    <string name="fragment_vertify_dialog_title">Check your email!</string>
-    <string name="fragment_vertify_dialog_message">We have send a verification email to %s</string>
+    <string name="fragment_vertify_dialog_title">Check Your Inbox</string>
+    <string name="fragment_vertify_dialog_message">We have sent an email to %s with the code</string>
     <string name="toast_fragment_vertify_email_binding_email_loading">Binding Email &#8230;</string>
     <string name="msg_mute_description_manager">%s won\'t chat and message with broadcaster.</string>
 </resources>
