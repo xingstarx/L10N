@@ -328,7 +328,6 @@
     <string name="notification_push_share_cast_big_title">您收到 %s 个来自好友分享的直播</string>
     <string name="profile_archive_broadcasts">自动存档我的直播</string>
     <string name="shou_cash_info">ShouCash 不足!</string>
-    <string name="send_cash_info">请充值后再赠送!</string>
     <string name="menu_statistic">统计</string>
     <string name="menu_charge">充值</string>
     <string name="msg_buy_shou_cash">购买</string>
@@ -483,4 +482,11 @@
     <string name="toast_fragment_vertify_email_binding_email_loading">正在绑定邮箱&#8230;</string>
     <string name="msg_mute_description_manager">%s 将无法和主播聊天或发送私信。</string>
     <string name="fragment_show_email_account_email_label_verified">您的电子邮箱地址已验证 %s</string>
+    <string name="fragment_dialog_shoucash_what_shoucash">什么是 ShouCash?</string>
+    <string name="activity_account_hint_phone">手机号</string>
+    <string name="toast_account_kit_vertify_phone_binding_phone_loading">正在绑定手机号&#8230;</string>
+    <string name="toast_fragment_dialog_shoucash_account_kit_verify_error">AccountKit校验失败</string>
+    <string name="toast_fragment_dialog_shoucash_account_kit_verify_unknown_error">AccountKit校验出错</string>
+    <string name="toast_fragment_dialog_shoucash_account_kit_verify_success">绑定手机号成功!</string>
+    <string name="fragment_account_kit_title">绑定手机</string>
 </resources>

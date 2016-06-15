@@ -157,7 +157,6 @@
     <string name="notification_push_follow_multi_title_me">Bạn đã theo dõi %s</string>
     <string name="notification_push_like_multi_title_me">Bạn thích chương trình phát sóng của %s</string>
     <string name="notification_push_cash_content_me">Bạn đã tặng %s ShouCash</string>
-    <string name="send_cash_info">ShouCash là gì?</string>
     <string name="menu_statistic">Thống kê</string>
     <string name="menu_charge">Thu phí</string>
     <string name="msg_buy_shou_cash">Mua</string>

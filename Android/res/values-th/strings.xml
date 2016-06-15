@@ -157,7 +157,6 @@
     <string name="notification_push_follow_multi_title_me">คุณติดตาม %s</string>
     <string name="notification_push_like_multi_title_me">คุณถูกใจการออกอากาศของ %s</string>
     <string name="notification_push_cash_content_me">คุณบริจาค %s ShouCash</string>
-    <string name="send_cash_info">ShouCash คืออะไร?</string>
     <string name="menu_statistic">สถิติ</string>
     <string name="menu_charge">ค่าธรรมเนียม</string>
     <string name="msg_buy_shou_cash">ซื้อ</string>

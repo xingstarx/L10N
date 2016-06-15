@@ -340,7 +340,6 @@
     <string name="notification_push_like_description_me">%s oyuncusunun yayınını beğendin</string>
     <string name="notification_push_cash_content_me">%s ShouCash bağış yaptın</string>
     <string name="shou_cash_info">Yeterli ShouCash yok!</string>
-    <string name="send_cash_info">Yayıncıları desteklemek için daha fazla ShouCash satın alın!</string>
     <string name="menu_statistic">İstatistikler</string>
     <string name="menu_charge">Satın Al</string>
     <string name="msg_buy_shou_cash">Satın Al</string>

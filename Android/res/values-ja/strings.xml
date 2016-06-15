@@ -307,7 +307,6 @@
     <string name="notification_push_like_description_me">あなたは%sのブロードキャストにいいね！しています</string>
     <string name="notification_push_cash_content_me">あなたは %s ShouCashを寄付しました</string>
     <string name="shou_cash_info">ShouCashが不足しています！</string>
-    <string name="send_cash_info">ブロードキャスターをサポートするために、より多くのShouCashを購入してください</string>
     <string name="menu_statistic">統計</string>
     <string name="menu_charge">チャージする</string>
     <string name="msg_buy_shou_cash">購入する</string>

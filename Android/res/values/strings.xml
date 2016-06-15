@@ -488,4 +488,11 @@
     <string name="toast_fragment_vertify_email_binding_email_loading">Binding Email &#8230;</string>
     <string name="msg_mute_description_manager">%s won\'t chat and message with broadcaster.</string>
     <string name="fragment_show_email_account_email_label_verified">Your email address is verified %s</string>
+    <string name="fragment_dialog_shoucash_what_shoucash">What is ShouCash?</string>
+    <string name="toast_fragment_dialog_shoucash_account_kit_verify_error">AccountKit Verify error</string>
+    <string name="toast_fragment_dialog_shoucash_account_kit_verify_unknown_error">AccountKit Verify Unknown error</string>
+    <string name="toast_fragment_dialog_shoucash_account_kit_verify_success">Binding phone number successfully!</string>
+    <string name="activity_account_hint_phone">phone</string>
+    <string name="toast_account_kit_vertify_phone_binding_phone_loading">Binding Phone &#8230;</string>
+    <string name="fragment_account_kit_title">Binding Phone</string>
 </resources>

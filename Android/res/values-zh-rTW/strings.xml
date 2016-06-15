@@ -306,7 +306,6 @@
     <string name="notification_push_share_cast_big_title">您追蹤的 %s 位朋友正在分享直播</string>
     <string name="profile_archive_broadcasts">自動收藏我的直播</string>
     <string name="shou_cash_info">ShouCash 不足！</string>
-    <string name="send_cash_info">請充值後再抖內！</string>
     <string name="menu_statistic">統計</string>
     <string name="menu_charge">充值</string>
     <string name="toast_shou_cash_failure">ShouCash 失敗！</string>
