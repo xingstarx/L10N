@@ -335,8 +335,6 @@
     <string name="msg_popup_moderate">管理員</string>
     <string name="msg_popup_moderate_cancel">取消管理員</string>
     <string name="msg_popup_at">提及</string>
-    <string name="fragment_bottom_toast_ban_info">禁言中 &#8230;</string>
-    <string name="fragment_bottom_toast_unban_info">取消禁言 &#8230;</string>
     <string name="msg_error_often">您的訊息傳送過於頻繁，請在%d秒後重試</string>
     <string name="msg_error_quickly">您的訊息傳送過於頻繁，請稍後重試</string>
     <string name="msg_error_similar">請勿傳送重複內容</string>

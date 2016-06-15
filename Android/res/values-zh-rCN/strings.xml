@@ -367,8 +367,6 @@
     <string name="msg_popup_moderate">管理员</string>
     <string name="msg_popup_moderate_cancel">取消管理员</string>
     <string name="msg_popup_at">提及</string>
-    <string name="fragment_bottom_toast_ban_info">禁言中 &#8230;</string>
-    <string name="fragment_bottom_toast_unban_info">取消禁言 &#8230;</string>
     <string name="permission_storage_denied">请允许 Shou 访问 SDCARD 权限</string>
     <string name="permission_audio_denied">请允许 Shou 获取录制麦克风权限</string>
     <string name="msg_error_often">您的信息发送过于频繁，请在%d秒后重试</string>

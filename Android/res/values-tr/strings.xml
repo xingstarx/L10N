@@ -382,8 +382,6 @@
     <string name="msg_popup_moderate">Moderatör yap</string>
     <string name="msg_popup_moderate_cancel">Moderatör yetkisini kaldır</string>
     <string name="msg_popup_at">Cevap Ver</string>
-    <string name="fragment_bottom_toast_ban_info">Engelle: &#8230;</string>
-    <string name="fragment_bottom_toast_unban_info">Engeli kaldır: &#8230;</string>
     <string name="permission_storage_denied">Dosya yazma izni verilmedi, lütfen izin verin</string>
     <string name="permission_audio_denied">Ses kaydetme izni verilmedi, lütfen izin verin</string>
     <string name="msg_error_often">Mesajınız gönderilmedi çünkü mesajlarınızı çok hızlı gönderiyorsunuz. %d saniye içerisinde tekrar konuşabileceksiniz.</string>

@@ -349,8 +349,6 @@
     <string name="msg_popup_moderate">モデレート</string>
     <string name="msg_popup_moderate_cancel">モデレートをキャンセルする</string>
     <string name="msg_popup_at">言及する</string>
-    <string name="fragment_bottom_toast_ban_info">ブロックする...</string>
-    <string name="fragment_bottom_toast_unban_info">ブロックを解除する...</string>
     <string name="permission_storage_denied">ストレージ ファイルの作成が拒否されました。許可してください</string>
     <string name="permission_audio_denied">音声録音権限が拒否されました。許可してください</string>
     <string name="msg_error_often">メッセージの送信処理の間隔が短すぎるため、一時的にメッセージが送信できなくなりました。%d秒後にまた、ご利用可能になります。</string>
