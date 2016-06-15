@@ -474,12 +474,13 @@
     <string name="fragment_show_email_account_label_tip2">请确认您的电子邮箱地址. 您的电子邮箱地址将用于登录和保护 Shou 账户的安全.</string>
     <string name="fragment_verify_label">输入邮件中的验证码,让我们知道这个电子邮箱属于您.</string>
     <string name="fragment_verify_verify">验证</string>
-    <string name="fragment_verify_re_send_code">发送新的验证码</string>
+    <string name="fragment_verify_re_send_code">重新发送验证码</string>
     <string name="activity_show_email_title">邮箱</string>
     <string name="activity_verify_email_title">邮箱</string>
     <string name="fragment_reset_password_label">为了您的安全,请输入您当前账号的密码</string>
-    <string name="fragment_vertify_dialog_title">检查您的电子邮箱!</string>
-    <string name="fragment_vertify_dialog_message">我们已向 %s 发送了验证电子邮箱</string>
+    <string name="fragment_vertify_dialog_title">检查您的收件箱</string>
+    <string name="fragment_vertify_dialog_message">我们已向 %s 发送了包含验证码的电子邮件</string>
     <string name="toast_fragment_vertify_email_binding_email_loading">正在绑定邮箱&#8230;</string>
     <string name="msg_mute_description_manager">%s 将无法和主播聊天或发送私信。</string>
+    <string name="fragment_show_email_account_email_label_verified">您的电子邮箱地址已验证 %s</string>
 </resources>
