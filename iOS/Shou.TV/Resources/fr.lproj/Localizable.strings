@@ -1,4 +1,4 @@
-"TIME_AGO_SECONDS" = "À l\'instant";
+"TIME_AGO_SECONDS" = "À l'instant";
 "TIME_AGO_MINUTE" = "1 min";
 "TIME_AGO_MINUTES" = "%@ mins";
 "TIME_AGO_HOUR" = "1 heure";
@@ -10,17 +10,17 @@
 "TIME_AGO_YEAR" = "1 an";
 "TIME_AGO_YEARS" = "%@ ans";
 
-"title_bar_done" = "Done";
+"title_bar_done" = "Saisir";
 
-"dialog_button_verify" = "Verify";
+"dialog_button_verify" = "Vérifier";
 "dialog_button_continue" = "Continuer";
 "dialog_button_ok" = "OK";
 "dialog_button_open" = "Ouvrir";
 "dialog_button_delete" = "Supprimer";
 "dialog_button_share" = "Partager à";
 "dialog_button_close" = "Fermer";
-"dialog_button_cancel" = "Cancel";
-"dialog_title_open_safari" = "Open in Safari?";
+"dialog_button_cancel" = "Annuler";
+"dialog_title_open_safari" = "Ouvrir sur Safari?";
 
 "tab_home" = "Accueil";
 "tab_games" = "Jeux";
@@ -35,15 +35,15 @@
 "explore_leaderboard" = "Leaderboard";
 "explore_leaderboard_text_score" = "score %@";
 
-"no_videos" = "Aucun vidéo ne s\'affiche";
-"no_games" = "Aucun jeu ne s\'affiche";
+"no_videos" = "Aucun vidéo ne s'affiche";
+"no_games" = "Aucun jeu ne s'affiche";
 "no_following" = "Pas d'abonnement";
 "no_follower" = "Pas d'abonné";
 "search_no_peoples" = "Aucun streamer a trouvé";
 "search_no_games" = "Aucun jeu mobile a trouvé";
 "search_no_videos" = "Aucun vidéo a trouvé";
 
-"profile_text_videos" = "Broadcasts";
+"profile_text_videos" = "Lives";
 "profile_text_followers" = "Abonnés";
 "profile_text_following" = "Abonnements";
 "profile_text_live" = "LIVE";
@@ -58,26 +58,26 @@
 "profile_text_moderators" = "Modérateurs";
 "profile_text_muted_users" = "Utilisateurs muets";
 "profile_text_options" = "Options";
-"profile_text_broadcast_camera" = "Broadcast camera";
+"profile_text_broadcast_camera" = "Live caméra";
 
-"landing_slogan" = "Shou is the \nmobile game streaming community.";
+"landing_slogan" = "Shou est une communauté pour live des jeux mobiles.";
 "landing_btn_vk" = "Continuer avec VK";
 "landing_btn_twitter" = "Continuer avec Twitter";
 "landing_btn_facebook" = "Continuer avec Facebook";
 "landing_btn_google" = "Continuer avec Google";
-"landing_btn_email" = "S\'inscrire par Email";
+"landing_btn_email" = "S'inscrire par Email";
 "landing_btn_email_log_in" = "Se connecter par Email";
 "landing_btn_log_in_tip" = "Avez-vous déjà un compte? Se connecter";
 "landing_btn_more" = "En plus";
-"landing_btn_sign_up" = "S\'inscrire";
+"landing_btn_sign_up" = "S'inscrire";
 "landing_btn_sign_in" = "Se connecter";
 "landing_btn_skip" = "Ignorer";
 "landing_btn_next" = "Suivante";
 "landing_google_plus_sign_in_progress" = "Se connecter avec Google Plus";
 "landing_facebook_sign_in_progress" = "Se connecter avec Facebook";
 "landing_twitter_sign_in_progress" = "Se connecter avec Twitter";
-"landing_text_agree" = "En Continuant à l\'utiliser， vous agréez  %@ and %@";
-"landing_text_agree_term" = "Terms of Service";
+"landing_text_agree" = "En Continuant à l'utiliser, vous agréez %@ and %@";
+"landing_text_agree_term" = "Conditions de service";
 "landing_text_agree_privacy" = "Protection de la vie privée";
 "landing_suggest_title" = "suggérée Abonnés";
 
@@ -95,30 +95,30 @@
 "account_text_game_players" = "%@ jeueurs";
 "account_text_joined" = "Joined on %@";
 "account_title_edit_profile" = "Editer profil";
-"account_title_change_password" = "Change Password";
+"account_title_change_password" = "Changer mot de passe";
 "account_label_username" = "Pseudo";
 "account_label_password" = "Mot de passe";
 "account_label_email" = "Email";
-"account_label_phone" = "Phone Number";
+"account_label_phone" = "Numéro de téléphone";
 "account_label_full_name" = "Nom";
 "account_label_biography" = "Biographie";
 "account_label_avatar" = "Avatar";
-"account_label_cover" = "Cover";
+"account_label_cover" = "Couverture";
 "account_label_upload_avatar"= "Télécharger Avata";
 "account_hint_identify" = "Pseudo or email";
 "account_hint_email" = "email";
 "account_hint_username" = "Pseudo";
 "account_hint_password" = "Mot de passe";
-"account_hint_current_password" = "Current Password";
-"account_hint_new_password" = "New password";
-"account_hint_confirm_password" = "Confirm new password";
+"account_hint_current_password" = "Mot de passe actuel";
+"account_hint_new_password" = "Nouveau mot de pass";
+"account_hint_confirm_password" = "Confirmer le nouveau mot de passe";
 "account_hint_name" = "Nom";
 "account_hint_biography" = "biographie";
 "account_hint_phone" = "Not set";
 "account_text_optional" = "optionnel";
 "account_text_username" = "Votre psuedo @%@ est unique. Vous pouvez le changer plus tard.";
 "account_choose_avatar" = "Choisir une photo";
-"account_choose_avatar_failed" = "e choix d\'une photo a échoué";
+"account_choose_avatar_failed" = "e choix d'une photo a échoué";
 "account_btn_signing_up" = "Inscription en cours";
 "account_btn_signed_up" = "Inscrit";
 "account_btn_signing_in" = "Connexion en cours";
@@ -135,7 +135,7 @@
 "account_btn_save_profile" = "Sauvegarder";
 "account_btn_saving_profile" = "Sauvegarde en cours";
 "account_btn_saved_profile" = "Sauvegardé";
-"account_btn_follow" = "S\'abonner";
+"account_btn_follow" = "S'abonner";
 "account_btn_following" = "Abonnement";
 "account_toast_follow_failed" = "Error when following";
 "account_toast_invalid_email" = "Email invalide";
@@ -143,7 +143,7 @@
 "account_toast_invalid_identify_or_password" = "Identité ou mode passe invalide";
 "account_toast_invalid_password_empty" = "Please enter current password";
 "account_toast_invalid_password_again" = "Invalid password. Please enter again.";
-"account_toast_reset_password_success" = "We\'ve sent an email to you. Click the link in the email to reset your password.";
+"account_toast_reset_password_success" = "We've sent an email to you. Click the link in the email to reset your password.";
 "account_toast_reset_password_failed" = "Email invalide";
 "account_toast_profile_update_success" = "Le changement du profil éffectué!";
 "account_toast_profile_update_failed" = "Echec lors du changement du profil";
@@ -169,9 +169,9 @@
 "account_code_resend" = "Re-send Code";
 "account_confirm_password" = "For your security, please enter your password.";
 "account_private_infomation" = "PRIVATE INFOMATION";
-"account_title" = "ACCOUNT";
-"account_support" = "SUPPORT";
-"account_about" = "ABOUT";
+"account_title" = "COMPTE";
+"account_support" = "SUPPORTER";
+"account_about" = "À PROPOSE";
 
 "video_player_welcome" = "Bienvenue au chat!";
 "video_player_quality" = "Qualité";
@@ -208,15 +208,15 @@
 "action_edit_failed" = "Rename failed";
 
 "msg_send_button" = "ENVOYER";
-"msg_send_failed" = "Can\'t send this message";
+"msg_send_failed" = "Can't send this message";
 "msg_hint_send_msg" = "Message envoyé";
-"msg_ban_user" = "Ignorer";
-"msg_ban_alert_title" = "Ignorer %@ ?";
-"msg_ban_alert_message" = "%@ can't chat and message with broadcaster.";
-"msg_ban_alert_message_self" = "%@ ne peut pas vous envoyer un message.";
-"msg_ban_user_description" = "%@ is muted.";
-"msg_unban_user" = "Désignorer";
-"msg_unban_user_description" = "%@ est levé son bannissement dans chat.";
+"msg_ban_user" = "Masquer";
+"msg_ban_alert_title" = "Masquer %@ ?";
+"msg_ban_alert_message" = "%@ ne pouvez pas envoyer des comment et des messages à streamer.";
+"msg_ban_alert_message_self" = "%@ ne pouvez pas vous envoyer des comment et des messages.";
+"msg_ban_user_description" = "%@ a été masqué.";
+"msg_unban_user" = "Ne plus masquer";
+"msg_unban_user_description" = "%@ n'est plus masqué.";
 "msg_mod_user" = "Activer Modérateur";
 "msg_unmod_user" = "Désactiver Modérateur";
 "msg_new_message" = "Nouveaux messages";
@@ -226,14 +226,14 @@
 
 "toast_api_error_forbidden" = "Accès interdit";
 "toast_api_error_no_connection" = "Pas de connexion";
-"toast_api_error_connection_timeout" = "Délai d\'attente de connexion";
+"toast_api_error_connection_timeout" = "Délai d'attente de connexion";
 "toast_api_error_server_5xx" = "Maintenance du serveur en Shou.TV &#8230;";
 "toast_api_error_not_found" = "Pas de message";
 "toast_api_error_too_many_requests" = "Rate limit exceeded";
 "toast_video_deleted" = "Ce live est supprimé par le streamer";
 
 "about_title" = "À propos";
-"about_title_help" = "Help Center";
+"about_title_help" = "Centre d'aide";
 "about_title_faq" = "FAQ";
 "about_summary_faq" = "Shou FAQ";
 "about_title_website" = "Website";
@@ -250,8 +250,8 @@
 "about_title_feedback" = "Report a Problem";
 "about_title_instagram" = "Instagram";
 
-"From Photo Library" = "From Photo Library";
-"From Camera" = "From Camera";
+"From Photo Library" = "Sélectionner une de mes photos";
+"From Camera" = "Prendre une photo";
 "Choose Source" = "Choose Source";
 "imagePicker_failed"  = "Get Picture failed, please re-select pictures";
 
@@ -285,15 +285,15 @@
 "msg_popup_mention" = "Mentionner";
 "msg_popup_moderate" = "Modérateur";
 "msg_popup_moderate_cancel" = "Annuler modérateur";
-"msg_popup_moderate_description" = "%@ is moderate in this room.";
-"msg_popup_moderate_cancel_description" = "%@ is cancel moderate in this room.";
+"msg_popup_moderate_description" = "%@ est le modérateur dans ce chat.";
+"msg_popup_moderate_cancel_description" = "%@ n'est pas plus de modérateur dans ce chat.";
 
-"message_list_empty_placeholder" = "Pas de message ne s\'affiche.";
+"message_list_empty_placeholder" = "Pas de message ne s'affiche.";
 "message_like_me" = "Vous aimez le live de %@";
 "message_like" = "%@ aime votre live";
 "message_follow_me" = "Vous ont suivi %@";
 "message_follow" = "%@ Vous sont suivi";
-"message_new_placeholder" = "Write a message...";
+"message_new_placeholder" = "Écrir un message…";
 "message_tip_donate_me" = "Vous offrez %@ %@ ShouCash";
 "message_tip_donate" = "%@ offrez Vous %@ ShouCash";
 
@@ -304,19 +304,19 @@
 "share_search_placeholder" = "Rechercher";
 "share_to_successed" = "Partager a réussi!";
 "share_no_found_mutual" = "Pas d'amis mutuel";
-"share_to_twitter" = "Watch %@ LIVE on #Shou: %@ %@";
+"share_to_twitter" = "Voyez %@ LIVE sur #Shou: %@ %@";
 
-"spotlight_content" = "Watch %@ LIVE on Shou";
+"spotlight_content" = "Voyez %@ LIVE sur Shou";
 
 "notification_push_donate" = "💰 %@ vous envoye %@ ShouCash";
 "notification_push_live" = "👾 %@ live %@";
 "notification_push_follow" = "💞 %@ vous ont suivi";
-"notification_push_share" = "💬 %@ want you to watch %@";
+"notification_push_share" = "💬 %@ vous demande de voir %@";
 "notification_push_like" = "❤️ %@ aime votre live";
 "notification_push_message" = "💬 %@: %@";
 
 "rate_not_interested" = "Pas d'intérêt";
 "rate_title" = "nous sommes heureux que vous êtes herueux";
-"rate_tip" = "Notez notre appli\? Tap a star to rate.";
+"rate_tip" = "Notez notre appli? Tap a star to rate.";
 "rate_feedback" = "S'il vous plait de règler votre avis en cliquant \"Continuer\"!";
 "rate_continue" = "S'il vous plait de partager votre avis sur Google Play en cliquant \"Continuer\"!";
