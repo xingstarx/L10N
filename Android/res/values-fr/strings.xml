@@ -273,10 +273,11 @@
     <string name="msg_ban_user_description">%s est banni dans chat.</string>
     <string name="msg_unban_user_description">%s est levé son bannissement dans chat.</string>
     <string name="msg_popup_detail">Profil</string>
-    <string name="msg_mute">Ignorer</string>
+    <string name="msg_mute">Masquer</string>
     <string name="msg_unmute">Désignorer</string>
-    <string name="msg_mute_title">Ignorer %s ?</string>
-    <string name="msg_mute_description">%s ne peut pas vous envoyer un message.</string>
+    <string name="msg_mute_title">Masquer %s ?</string>
+    <string name="msg_mute_description">%s ne pouvez pas vous envoyer des comment et des messages.</string>
+    <string name="msg_mute_description_manager">%@ ne pouvez pas envoyer des comment et des messages à streamer.</string>
     <string name="msg_mute_confirm">Ignorer</string>
     <string name="msg_mute_cancel">Annuler</string>
     <string name="msg_mute_me">Le streamer vous ignore, vous ne pouvez pas lui envoyer un messages.</string>
@@ -469,4 +470,5 @@
     <string name="fragment_streaming_broadcast_network_type_checkbox_text">Ne plus afficher</string>
     <string name="activity_landing_sign_in_email">Se connecter par Email</string>
     <string name="toast_textview_copy_clipboard">Copié</string>
+    <string name="landing_token">Shou est une communauté pour live des jeux mobiles.</string>
 </resources>
