@@ -278,7 +278,7 @@
     <string name="msg_mute_title">Masquer %s ?</string>
     <string name="msg_mute_description">%s ne pouvez pas vous envoyer des comment et des messages.</string>
     <string name="msg_mute_description_manager">%s ne pouvez pas envoyer des comment et des messages à streamer.</string>
-    <string name="msg_mute_confirm">Ignorer</string>
+    <string name="msg_mute_confirm">Masquer</string>
     <string name="msg_mute_cancel">Annuler</string>
     <string name="msg_mute_me">Le streamer vous ignore, vous ne pouvez pas lui envoyer un messages.</string>
     <string name="emoji_no_recent">Pas d\'emoji utilisé recemment</string>
