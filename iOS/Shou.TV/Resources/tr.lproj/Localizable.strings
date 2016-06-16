@@ -12,6 +12,8 @@
 
 "title_bar_done" = "Tamam";
 
+"dialog_button_verify" = "Doğrula";
+"dialog_button_continue" = "Devam Et";
 "dialog_button_ok" = "Tamam";
 "dialog_button_open" = "Aç";
 "dialog_button_delete" = "Sil";
@@ -42,12 +44,12 @@
 "search_no_videos" = "Böyle bir video yok";
 
 "profile_text_videos" = "Yayınlar";
-"profile_text_followers" = "TAKİPÇİLER";
+"profile_text_followers" = "TAKİPÇİ";
 "profile_text_following" = "TAKİP EDİLEN";
 "profile_text_live" = "LIVE";
 "profile_edit_profile" = "PROFİLİ DÜZENLE";
-"profile_archive_broadcasts" = "Yayınlarımı arşivle";
-"profile_text_times" = "Süre";
+"profile_archive_broadcasts" = "Canlı yayınları sunucuya kaydet";
+"profile_text_times" = "Yayın Süresi";
 "profile_text_views" = "Görüntüleme";
 "profile_text_likes" = "Beğeni";
 "profile_text_cash" = "ShouCash";
@@ -55,6 +57,8 @@
 "profile_text_logout" = "Çıkış Yap";
 "profile_text_moderators" = "Moderatörler";
 "profile_text_muted_users" = "Engellenmiş Kullanıcılar";
+"profile_text_options" = "Ayarlar";
+"profile_text_broadcast_camera" = "Kameradan yayın yap";
 
 "landing_slogan" = "Shou \nmobil oyun yayını topluluğu.";
 "landing_btn_vk" = "VK ile devam et";
@@ -79,7 +83,7 @@
 
 "account_text_user_views" = "%@ görüntüleme";
 "account_text_user_likes" = "%@ beğeni";
-"account_text_user_shoucash" = "%@ nakit";
+"account_text_user_shoucash" = "%@ ShouCash";
 "account_text_user_viewers" = "%@ izleyici";
 "account_text_game_casts" = "%@ video";
 "account_text_game_players" = "%@ oyuncu";
@@ -95,6 +99,7 @@
 "account_label_username" = "Kullanıcı Adı";
 "account_label_password" = "Şifre";
 "account_label_email" = "E-posta";
+"account_label_phone" = "Telefon Numarası";
 "account_label_full_name" = "Tam Ad";
 "account_label_biography" = "Hakkında";
 "account_label_avatar" = "Resim";
@@ -109,6 +114,7 @@
 "account_hint_confirm_password" = "Yeni parolayı onayla";
 "account_hint_name" = "isim";
 "account_hint_biography" = "hakkınızda";
+"account_hint_phone" = "ayarlanmamış";
 "account_text_optional" = "isteğe bağlı";
 "account_text_username" = "@%@ benzersizdir. İstediğiniz anda değiştirebilirsiniz.";
 "account_choose_avatar" = "Resim seçin";
@@ -153,6 +159,19 @@
 "account_invite_friends" = "Arkadaşlarınızı davet edin";
 "account_invite" = "%@ olarak Shou.TV\'deyim. Yayınlarımı takip etmek için uygulamayı yükleyin.";
 "account_user_video_delete_info" = "Bu videoyu silmek istediğinizden emin misiniz?";
+"account_check_password" = "Güvenliğiniz için, lütfen parolanızı giriniz.";
+"account_email_bind" = "Lütfen email adresinizi doğrulayınız. Email adresiniz giriş yapmak ve Shou hesabınızı korumak içindir.";
+"account_email_bind_change" = "Yeni bir email adresi doğruladığınızda, %@ artık hesabınızla ilişkilendirilmeyecek.\n\n";
+"account_email_verify" = "E-postanızı açın ve kodu girin, bu e-postanın size ait olduğunu bilelim.";
+"account_email_sent" = "%@ adresine kodla birlikte bir e-posta gönderdik";
+"account_email_sent_title" = "Gelen Kutunuzu Kontrol Edin";
+"account_email_verified" = "E-postanız doğrulandı 👌";
+"account_code_resend" = "Kodu Tekrar Gönder";
+"account_confirm_password" = "Güvenliğiniz için, lütfen parolanızı giriniz.";
+"account_private_infomation" = "ÖZEL BİLGİLER";
+"account_title" = "HESAP";
+"account_support" = "DESTEK";
+"account_about" = "HAKKINDA";
 
 "video_player_welcome" = "Sohbet odasına hoşgeldiniz!";
 "video_player_quality" = "Kalite";
@@ -162,7 +181,7 @@
 "video_player_share" = "Paylaş";
 "video_player_rotation" = "Döndür";
 "video_player_report" = "Bildir";
-"video_player_report_faild" = "Bildiri Gönderilemedi";
+"video_player_report_faild" = "Bildiri gönderilemedi";
 "video_player_info" = "Bilgi";
 "video_player_over" = "Yayın Bitti";
 "video_player_report_sexual" = "Cinsel içerik";
@@ -200,7 +219,6 @@
 "msg_unban_user_description" = "%@ engeli kaldırıldı.";
 "msg_mod_user" = "Moderatör yap";
 "msg_unmod_user" = "Moderatörlüğü kaldır";
-"msg_popup_detail" = "Profil";
 "msg_new_message" = "Yeni mesaj";
 "msg_send_faild_too_quickly" = "Mesajınız gönderilmedi çünkü çok hızlı mesaj gönderiyorsunuz.";
 "msg_send_faild_limit" = "Mesajınız gönderilmedi çünkü çok hızlı mesaj gönderiyorsunuz. %@ saniye içinde yeniden gönderebileceksiniz.";
@@ -211,24 +229,25 @@
 "toast_api_error_connection_timeout" = "Ağ bağlantısı zaman aşımına uğradı";
 "toast_api_error_server_5xx" = "Shou.TV sunucusu hatalar ile karşılaştı";
 "toast_api_error_not_found" = "Mesaj bulunamadı";
+"toast_api_error_too_many_requests" = "Değerlendirme sınırı aşıldı";
 "toast_video_deleted" = "Bu video kullanıcı tarafından silindi";
 
 "about_title" = "Hakkında";
-"about_title_help" = "Yardım";
+"about_title_help" = "Yardım Merkezi";
 "about_title_faq" = "SSS";
-"about_summary_faq" = "Shou Sıkça Sorulan Sorular";
+"about_summary_faq" = "Shou hakkında sıkça sorulan sorular";
 "about_title_website" = "Website";
 "about_summary_website" = "Shou.TV";
 "about_title_facebook" = "Facebook";
 "about_summary_facebook" = "Shou.TV";
 "about_title_twitter" = "Twitter";
 "about_summary_twitter" = "@Shou_TV";
-"about_title_privacy_policy" = "Gizlilik politikası";
-"about_title_terms_of_service" = "Hizmet şartları";
+"about_title_privacy_policy" = "Gizlilik Politikası";
+"about_title_terms_of_service" = "Hizmet Şartları";
 "about_title_version" = "Sürüm";
-"about_title_copyright" = "Telif hakkı";
+"about_title_copyright" = "Telif Hakkı";
 "about_title_rate" = "Bu uygulamayı değerlendirin";
-"about_title_feedback" = "Geri Bildirim";
+"about_title_feedback" = "Bir Sorun Bildirin";
 "about_title_instagram" = "Instagram";
 
 "From Photo Library" = "Galeriden";
@@ -287,8 +306,17 @@
 "share_no_found_mutual" = "Birbirinizi takip ettiğiniz bir kişi bulunamadı";
 "share_to_twitter" = "#Shou\'da CANLI olarak %@ izleyin: %@ %@";
 
+"spotlight_content" = "Shou\'da CANLI olarak %@ izleyin";
+
 "notification_push_donate" = "💰 %@ sana %@ ShouCash verdi";
 "notification_push_live" = "👾 %@ canlı yayın yapıyor %@";
 "notification_push_follow" = "💞 %@ seni takip etti";
-"notification_push_share" = "💬 %@ want you to watch %@";
+"notification_push_share" = "💬 %@ ,%@ izlemeni istiyor";
 "notification_push_like" = "❤️ %@ yayınını beğendi";
+"notification_push_message" = "💬 %@: %@";
+
+"rate_not_interested" = "İlgilenmiyorum";
+"rate_title" = "Memnun olduğunuza sevindik";
+"rate_tip" = "Uygulamamızı nasıl buldunuz? Bir yıldıza basarak değerlendirin.";
+"rate_feedback" = "\"Devam et\" butonuna basarak uygulamamız hakkında önerilerinizi belirtin";
+"rate_continue" = "\"Devam et\" butonuna basarak bu değerlendirmenizi AppStore\'da paylaşın"
