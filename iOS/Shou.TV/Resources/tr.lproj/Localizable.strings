@@ -20,7 +20,7 @@
 "dialog_button_share" = "Paylaş";
 "dialog_button_close" = "Kapat";
 "dialog_button_cancel" = "İptal";
-"dialog_title_open_safari" = "Safari\'de açılsın mı?";
+"dialog_title_open_safari" = "Safari'de açılsın mı?";
 
 "tab_home" = "Ana Sayfa";
 "tab_games" = "Oyunlar";
@@ -76,7 +76,7 @@
 "landing_google_plus_sign_in_progress" = "Google Plus ile giriş yap";
 "landing_facebook_sign_in_progress" = "Facebook ile giriş yap";
 "landing_twitter_sign_in_progress" = "Twitter ile giriş yap";
-"landing_text_agree" = "Devam etmekle, %@ ve %@\'nı kabul etmiş olursunuz";
+"landing_text_agree" = "Devam etmekle, %@ ve %@'nı kabul etmiş olursunuz";
 "landing_text_agree_term" = "Hizmet Şartları";
 "landing_text_agree_privacy" = "Gizlilik Politikası";
 "landing_suggest_title" = "Önerilen Takipler";
@@ -157,7 +157,7 @@
 "account_toast_server_error" = "Sunucu bakım altında";
 "account_dialog_sign_up_failed" = "Üye olunamadı";
 "account_invite_friends" = "Arkadaşlarınızı davet edin";
-"account_invite" = "%@ olarak Shou.TV\'deyim. Yayınlarımı takip etmek için uygulamayı yükleyin.";
+"account_invite" = "%@ olarak Shou.TV'deyim. Yayınlarımı takip etmek için uygulamayı yükleyin.";
 "account_user_video_delete_info" = "Bu videoyu silmek istediğinizden emin misiniz?";
 "account_check_password" = "Güvenliğiniz için, lütfen parolanızı giriniz.";
 "account_email_bind" = "Lütfen email adresinizi doğrulayınız. Email adresiniz giriş yapmak ve Shou hesabınızı korumak içindir.";
@@ -196,7 +196,7 @@
 
 "find_friends_follow_all" = "Hepsini takip et";
 "find_friends_title" = "%@ Arkadaş";
-"find_friends_text" = "Shou.TV\'de %@ %@ arkadaşınız var.";
+"find_friends_text" = "Shou.TV'de %@ %@ arkadaşınız var.";
 "find_friends_no_people" = "Kişi bulunamadı.";
 
 "action_open" = "Aç";
@@ -260,7 +260,7 @@
 
 "payment_title_label" = "Daha fazla ShouCash edinin!";
 "payment_faild" = "Satın alma başarısız!";
-"payment_success" = "Satın alma başarılı! %@ ShouCash alındı, toplamda %@ ShouCash\'iniz var";
+"payment_success" = "Satın alma başarılı! %@ ShouCash alındı, toplamda %@ ShouCash'iniz var";
 "payment_faild_not_allow" = " Uygulama içi satın alma devre dışı. Ayarlar > Genel > Kısıtlamalar > Uygulama içi satın almayı etkinleştir";
 "lackmoney_title_label" = "ShouCash Eksik!";
 "lackmoney_topup_label" = "ShouCash Nedir?";
@@ -304,9 +304,9 @@
 "share_search_placeholder" = "Ara";
 "share_to_successed" = "Paylaşıldı!";
 "share_no_found_mutual" = "Birbirinizi takip ettiğiniz bir kişi bulunamadı";
-"share_to_twitter" = "#Shou\'da CANLI olarak %@ izleyin: %@ %@";
+"share_to_twitter" = "#Shou'da CANLI olarak %@ izleyin: %@ %@";
 
-"spotlight_content" = "Shou\'da CANLI olarak %@ izleyin";
+"spotlight_content" = "Shou'da CANLI olarak %@ izleyin";
 
 "notification_push_donate" = "💰 %@ sana %@ ShouCash verdi";
 "notification_push_live" = "👾 %@ canlı yayın yapıyor %@";
@@ -319,4 +319,4 @@
 "rate_title" = "Memnun olduğunuza sevindik";
 "rate_tip" = "Uygulamamızı nasıl buldunuz? Bir yıldıza basarak değerlendirin.";
 "rate_feedback" = "\"Devam et\" butonuna basarak uygulamamız hakkında önerilerinizi belirtin";
-"rate_continue" = "\"Devam et\" butonuna basarak bu değerlendirmenizi AppStore\'da paylaşın"
+"rate_continue" = "\"Devam et\" butonuna basarak bu değerlendirmenizi AppStore'da paylaşın";
