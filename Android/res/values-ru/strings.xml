@@ -329,8 +329,6 @@
     <string name="msg_popup_moderate">Назначить модератором</string>
     <string name="msg_popup_moderate_cancel">Убрать из модераторов</string>
     <string name="msg_popup_at">Ответить</string>
-    <string name="fragment_bottom_toast_ban_info">Заблокировать&#8230;</string>
-    <string name="fragment_bottom_toast_unban_info">Разблокировать&#8230;</string>
     <string name="permission_storage_denied">Не удалось получить разрешение на запись файлов, пожалуйста, подтвердите разрешение</string>
     <string name="permission_audio_denied">Не удалось получить разрешение на запись звука, пожалуйста, подтвердите разрешение</string>
     <string name="msg_error_often">Сообщение не было отправлено, так как вы отправляете сообщения слишком часто. Повторите попытку через %d сек.</string>
