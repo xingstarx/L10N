@@ -339,7 +339,7 @@
     <string name="notification_push_like_description_me">Vous aimez le live de %s</string>
     <string name="notification_push_cash_content_me">Vous offrez %s ShouCash</string>
     <string name="shou_cash_info">ShouCash insuffisant!</string>
-    <string name="send_cash_info">Vous pourriez offrir après le chargement!</string>
+    <string name="send_cash_info">Qu\'est-ce que c\'est le ShouCash?</string>
     <string name="menu_statistic">Statistiques</string>
     <string name="menu_charge">Charger</string>
     <string name="msg_buy_shou_cash">Acheter</string>
@@ -471,4 +471,12 @@
     <string name="activity_landing_sign_in_email">Se connecter par Email</string>
     <string name="toast_textview_copy_clipboard">Copié</string>
     <string name="landing_token">Shou est une communauté pour live des jeux mobiles.</string>
+    <string name="fragment_show_email_account_label_tip1">Après avoir vérifié votre nouvelle adresse email,  %s n\'est plus associée à ce compte .\n\n</string>
+    <string name="fragment_show_email_account_label_tip2">S\'il vous plait de confirmer votre adresse email, car un compte existe déjà pour cette adresse email.</string>
+    <string name="fragment_show_email_account_email_label_verified">Votre adresse émail a été vérifiée %s</string>
+    <string name="fragment_vertify_dialog_title">Vérifiez votre boîte de réception.</string>
+    <string name="fragment_vertify_dialog_message">Les codes a été envoyé à %s</string>
+    <string name="fragment_verify_label">Entrez les codes envoyés par émail, pour verifier votre adresse émail.</string>
+    <string name="fragment_verify_verify">Verify</string>
+    <string name="fragment_verify_re_send_code">Réenvoyez les codes</string>
 </resources>
