@@ -123,7 +123,7 @@
 "account_btn_signed_up" = "Inscrit";
 "account_btn_signing_in" = "Connexion en cours";
 "account_btn_signed_in" = "Connecté";
-"account_btn_sign_in_failed" = "Failed to log in with provided information";
+"account_btn_sign_in_failed" = "Échec lors de connexion car les infos invalides";
 "account_btn_forgot_password" = "Mot de passe oublié?";
 "account_title_forget" = "Réinitialiser mon mot de passe";
 "account_btn_recover_password" = "Envoyez-moi une instruction";
@@ -159,16 +159,16 @@
 "account_invite_friends" = "Invite friends";
 "account_invite" = "I'm on Shou.TV as %@ . Install the app to follow my streamings.";
 "account_user_video_delete_info" = "Voulez-vous supprimer ce vidéo?";
-"account_check_password" = "For your security, please enter your password.";
-"account_email_bind" = "Please confirm your email address. Your email address is used to log in and to secure your Shou account.";
-"account_email_bind_change" = "By verifying a new email address, %@ will no longer be associated with your account.\n\n";
-"account_email_verify" = "Open the email and enter your code, let us know this email belongs to you.";
-"account_email_sent" = "We have sent an email to %@ with the code";
-"account_email_sent_title" = "Check Your Inbox";
-"account_email_verified" = "Your email address is verified 👌";
-"account_code_resend" = "Re-send Code";
-"account_confirm_password" = "For your security, please enter your password.";
-"account_private_infomation" = "PRIVATE INFOMATION";
+"account_check_password" = "Pour votre sécurité, il faut entrer votre mot de passe.";
+"account_email_bind" = "S'il vous plait de confirmer votre adresse email, car un compte existe déjà pour cette adresse email.";
+"account_email_bind_change" = "Après avoir vérifié votre nouvelle adresse email,  %@ n'est plus associée à ce compte.\n\n";
+"account_email_verify" = "Entrez les codes envoyés par émail, pour verifier votre adresse émail.";
+"account_email_sent" = "Les codes a été envoyé à %@";
+"account_email_sent_title" = "Vérifiez votre boîte de réception";
+"account_email_verified" = "Votre adresse émail a été vérifiée 👌";
+"account_code_resend" = "Réenvoyez les codes";
+"account_confirm_password" = "Pour votre sécurité, il faut entrer votre mot de passe.";
+"account_private_infomation" = "LES INFORMATIONS PERSONNELLES";
 "account_title" = "COMPTE";
 "account_support" = "SUPPORTER";
 "account_about" = "À PROPOSE";
@@ -227,7 +227,7 @@
 "toast_api_error_forbidden" = "Accès interdit";
 "toast_api_error_no_connection" = "Pas de connexion";
 "toast_api_error_connection_timeout" = "Délai d'attente de connexion";
-"toast_api_error_server_5xx" = "Maintenance du serveur en Shou.TV &#8230;";
+"toast_api_error_server_5xx" = "Maintenance du serveur en Shou.TV ...";
 "toast_api_error_not_found" = "Pas de message";
 "toast_api_error_too_many_requests" = "Rate limit exceeded";
 "toast_video_deleted" = "Ce live est supprimé par le streamer";
@@ -252,8 +252,8 @@
 
 "From Photo Library" = "Sélectionner une de mes photos";
 "From Camera" = "Prendre une photo";
-"Choose Source" = "Choose Source";
-"imagePicker_failed"  = "Get Picture failed, please re-select pictures";
+"Choose Source" = "Choisir source";
+"imagePicker_failed"  = "Échec de télécharger image, s'il vous plait de choisir une autre.";
 
 "app_download" = "INSTALLER";
 "app_open" = "OUVRIR";
@@ -261,9 +261,9 @@
 "payment_title_label" = "Get More ShouCash!";
 "payment_faild" = "votre achat a échoué!";
 "payment_success" = "Achat réussi! avez %@ ShouCash, %@ ShouCash au total";
-"payment_faild_not_allow" = " In-App Purchases is disabled. Settings > General > Restrictions > Turn on In-App Purchases";
+"payment_faild_not_allow" = "Achats intégrés sont désactivés, allez aux Réglages > Général > Restrictions > activer Achats intégrés";
 "lackmoney_title_label" = "ShouCash insuffisant!";
-"lackmoney_topup_label" = "What's the ShouCash?";
+"lackmoney_topup_label" = "Qu'est-ce que c'est le ShouCash?";
 "lackmoney_buy_button" = "Acheter";
 "statistics_title" = "Statistiques";
 "statistics_title_views" = "Vues";
