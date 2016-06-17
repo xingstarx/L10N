@@ -296,6 +296,7 @@
 "message_new_placeholder" = "Write a message...";
 "message_tip_donate_me" = "You donated %@ %@ ShouCash";
 "message_tip_donate" = "%@ donated you %@ ShouCash";
+"message_all_marked_read" = "All messages were marked as read";
 
 "menu_copy" = "Copy";
 "menu_copy_url" = "Copy Link";

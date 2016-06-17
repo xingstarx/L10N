@@ -296,6 +296,7 @@
 "message_new_placeholder" = "寫訊息...";
 "message_tip_donate_me" = "您抖內了 %@ %@ ShouCash";
 "message_tip_donate" = "%@ 抖內了您 %@ ShouCash";
+"message_all_marked_read" = "全部訊息已標記為已讀";
 
 "menu_copy" = "複製";
 "menu_copy_url" = "複製連結";

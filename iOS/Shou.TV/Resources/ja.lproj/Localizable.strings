@@ -273,6 +273,7 @@
 "message_new_placeholder" = "新しいメッセージ...";
 "message_tip_donate_me" = "You donated %@ %@ ShouCash";
 "message_tip_donate" = "%@ donated you %@ ShouCash";
+"message_all_marked_read" = "全てのメッセージは既読になりました";
 
 "menu_copy" = "クリップボードにコピーする";
 "menu_copy_url" = "Copy Link";
