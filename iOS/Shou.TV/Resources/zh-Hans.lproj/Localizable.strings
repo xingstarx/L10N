@@ -296,6 +296,7 @@
 "message_tip_donate_me" = "您赠送了 %@ %@ ShouCash";
 "message_tip_donate" = "%@ 赠送给您 %@ ShouCash";
 "message_notification_tip" = "🔔 点击打开推送通知";
+"message_all_marked_read" = "全部消息已标记为已读";
 
 "menu_copy" = "复制";
 "menu_copy_url" = "复制链接";

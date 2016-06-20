@@ -297,6 +297,7 @@
 "message_tip_donate_me" = "You donated %@ %@ ShouCash";
 "message_tip_donate" = "%@ donated you %@ ShouCash";
 "message_notification_tip" = "🔔 Click to turn on push notifications";
+"message_all_marked_read" = "All messages were marked as read";
 
 "menu_copy" = "Copy";
 "menu_copy_url" = "Copy Link";
