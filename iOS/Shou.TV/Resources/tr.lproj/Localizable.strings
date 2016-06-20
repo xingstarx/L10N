@@ -296,6 +296,8 @@
 "message_new_placeholder" = "Bir mesaj yaz...";
 "message_tip_donate_me" = "%@ kişisine %@ ShouCash bağışladın";
 "message_tip_donate" = "%@ sana %@ ShouCash bağışladı";
+"message_notification_tip" = "🔔 Anlık bildirimleri açmak için dokun";
+"message_all_marked_read" = "Bütün mesajlar okundu olarak işaretlendi";
 
 "menu_copy" = "Kopyala";
 "menu_copy_url" = "Bağlantıyı kopyala";
