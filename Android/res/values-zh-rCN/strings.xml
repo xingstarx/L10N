@@ -488,4 +488,7 @@
     <string name="toast_fragment_dialog_shoucash_account_kit_verify_success">绑定手机号成功!</string>
     <string name="fragment_account_kit_title">绑定手机</string>
     <string name="activity_show_email_progress_text">发送代码&#8230;</string>
+    <string name="airshou_activity_record_menu_video">录制的视频</string>
+    <string name="airshou_activity_record_menu_about">关于</string>
+    <string name="airshou_activity_record_menu_broadcast">想要直播?</string>
 </resources>
