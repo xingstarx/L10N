@@ -292,3 +292,6 @@
 "notification_push_follow" = "💞 %@ seguiram você";
 "notification_push_share" = "💬 %@ want you to watch %@";
 "notification_push_like" = "❤️ %@ gostaram da sua transmissão";
+
+"activity_screen_streaming_retry" = "Tentar novamente";
+"activity_network_error" = "Erro na conexão com a rede ~";

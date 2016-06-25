@@ -322,3 +322,6 @@
 "rate_tip" = "Uygulamamızı nasıl buldunuz? Bir yıldıza basarak değerlendirin.";
 "rate_feedback" = "\"Devam et\" butonuna basarak uygulamamız hakkında önerilerinizi belirtin";
 "rate_continue" = "\"Devam et\" butonuna basarak bu değerlendirmenizi AppStore'da paylaşın";
+
+"activity_screen_streaming_retry" = "Tekrar dene";
+"activity_network_error" = "Ağ hatası ~";

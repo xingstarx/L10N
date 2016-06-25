@@ -320,3 +320,7 @@
 "rate_tip" = "喜歡 Shou 嗎？";
 "rate_feedback" = "輕觸「繼續」將您的建議回饋給我們！";
 "rate_continue" = "輕觸「繼續」將您的好評分享至 App Store, 感謝您的支持！";
+
+"activity_screen_streaming_retry" = "重試";
+"activity_network_error" = "網路異常~";
+

@@ -304,3 +304,6 @@
 "rate_tip" = "Bạn thích ứng dụng của chúng tôi chứ?";
 "rate_feedback" = "Vui lòng ​​gửi phản hồi góp ý của bạn về ứng dụng của chúng tôi bằng cách bấm \"Tiếp tục\"!";
 "rate_continue" = "Xin hãy chia sẻ việc đánh giá ứng dụng của chúng tôi trên App Store của bằng cách bấm \"Tiếp tục\"!";
+
+"activity_screen_streaming_retry" = "Thử lại";
+"activity_network_error" = "Lỗi kết nối mạng ~";

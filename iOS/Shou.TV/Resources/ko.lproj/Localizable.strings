@@ -243,3 +243,6 @@
 "notification_push_follow" = "💞 %@ followed you";
 "notification_push_share" = "💬 %@ want you to watch %@";
 "notification_push_like" = "❤️ %@ liked your broadcast";
+
+"activity_screen_streaming_retry" = "재시도";
+"activity_network_error" = "인터넷 연결 문제";
