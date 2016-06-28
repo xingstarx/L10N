@@ -51,7 +51,7 @@
 "profile_archive_broadcasts" = "Sauvegarder vos lives automatiquement";
 "profile_text_times" = "Durée";
 "profile_text_views" = "Vues";
-"profile_text_likes" = "Aimés";
+"profile_text_likes" = "J'aime";
 "profile_text_cash" = "ShouCash";
 "profile_text_games" = "Jeux";
 "profile_text_logout" = "Déconnexion";
@@ -82,7 +82,7 @@
 "landing_suggest_title" = "suggérée Abonnés";
 
 "account_text_user_views" = "%@ Vues";
-"account_text_user_likes" = "%@ Aimés";
+"account_text_user_likes" = "%@ J'aime";
 "account_text_user_shoucash" = "%@ cash";
 "account_text_user_viewers" = "%@ spectateur";
 "account_text_game_casts" = "%@ Vue";
@@ -96,18 +96,18 @@
 "account_text_joined" = "Joined on %@";
 "account_title_edit_profile" = "Editer profil";
 "account_title_change_password" = "Changer mot de passe";
-"account_label_username" = "Pseudo";
+"account_label_username" = "Nom d'utilisateur";
 "account_label_password" = "Mot de passe";
 "account_label_email" = "Email";
 "account_label_phone" = "Numéro de téléphone";
-"account_label_full_name" = "Nom";
+"account_label_full_name" = "Pseudo";
 "account_label_biography" = "Biographie";
 "account_label_avatar" = "Avatar";
 "account_label_cover" = "Couverture";
 "account_label_upload_avatar"= "Télécharger Avata";
 "account_hint_identify" = "Pseudo or email";
 "account_hint_email" = "email";
-"account_hint_username" = "Pseudo";
+"account_hint_username" = "Nom d'utilisateur";
 "account_hint_password" = "Mot de passe";
 "account_hint_current_password" = "Mot de passe actuel";
 "account_hint_new_password" = "Nouveau mot de pass";
@@ -218,7 +218,7 @@
 "msg_unban_user" = "Ne plus masquer";
 "msg_unban_user_description" = "%@ n'est plus masqué.";
 "msg_mod_user" = "Activer Modérateur";
-"msg_unmod_user" = "Désactiver Modérateur";
+"msg_unmod_user" = "Ne plus modérateur";
 "msg_new_message" = "Nouveaux messages";
 "msg_send_faild_too_quickly" = "Vous ne pouvez pas envoyer un message assez vite.";
 "msg_send_faild_limit" = "Vous ne pouvez pas envoyer un message assez vite, vous pouvrez le réenvoyer dans %@ seconds.";
@@ -247,7 +247,7 @@
 "about_title_version" = "Version";
 "about_title_copyright" = "Copyright";
 "about_title_rate" = "Rate this app";
-"about_title_feedback" = "Report a Problem";
+"about_title_feedback" = "Rapporter un problème";
 "about_title_instagram" = "Instagram";
 
 "From Photo Library" = "Sélectionner une de mes photos";
@@ -267,10 +267,10 @@
 "lackmoney_buy_button" = "Acheter";
 "statistics_title" = "Statistiques";
 "statistics_title_views" = "Vues";
-"statistics_title_likes" = "Aimés";
+"statistics_title_likes" = "J'aime";
 "statistics_title_Income" = "Revenu";
 "statistics_views" = "Vues %@";
-"statistics_likes" = "Aimés %@";
+"statistics_likes" = "J'aime %@";
 "statistics_Income" = "Revenu %@";
 
 "broadcast_title" = "Live";
@@ -284,7 +284,7 @@
 "DIALOG_FAILD_TO_MIC_GRANTED" = "Grant mic failed";
 "msg_popup_mention" = "Mentionner";
 "msg_popup_moderate" = "Modérateur";
-"msg_popup_moderate_cancel" = "Annuler modérateur";
+"msg_popup_moderate_cancel" = "Ne plus modérateur";
 "msg_popup_moderate_description" = "%@ est le modérateur dans ce chat.";
 "msg_popup_moderate_cancel_description" = "%@ n'est pas plus de modérateur dans ce chat.";
 
@@ -296,6 +296,8 @@
 "message_new_placeholder" = "Écrir un message…";
 "message_tip_donate_me" = "Vous offrez %@ %@ ShouCash";
 "message_tip_donate" = "%@ offrez Vous %@ ShouCash";
+"message_notification_tip" = "🔔 Cliquer pour activer des notifications";
+"message_all_marked_read" = "Tout marquer comme lu";
 
 "menu_copy" = "Copier";
 "menu_copy_url" = "Copy Link";
@@ -320,3 +322,6 @@
 "rate_tip" = "Notez notre appli? Tap a star to rate.";
 "rate_feedback" = "S'il vous plait de règler votre avis en cliquant \"Continuer\"!";
 "rate_continue" = "S'il vous plait de partager votre avis sur Google Play en cliquant \"Continuer\"!";
+
+"activity_screen_streaming_retry" = "Réessayer";
+"activity_network_error" = "Erreur de connexion ~";
