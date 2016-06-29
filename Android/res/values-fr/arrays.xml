@@ -17,13 +17,13 @@
   </string-array>
   <string-array name="pref_entries_video_orientation">
     <item>Auto</item>
-    <item>Landscape</item>
+    <item>Horizontal</item>
     <item>Portrait</item>
   </string-array>
   <string-array name="pref_entries_video_quality">
-    <item>Low</item>
-    <item>Medium</item>
-    <item>High</item>
+    <item>Bas</item>
+    <item>Moyen</item>
+    <item>Haut</item>
   </string-array>
   <string-array name="pref_entries_record_video_resolution">
     <item>240P</item>
@@ -58,8 +58,8 @@
     <item>Games</item>
   </string-array>
   <string-array name="search_tabs">
-    <item>players</item>
-    <item>games</item>
+    <item>streamers</item>
+    <item>jeuxs</item>
   </string-array>
   <string-array name="pref_entries_video_broadcast_type">
     <item>Public</item>
