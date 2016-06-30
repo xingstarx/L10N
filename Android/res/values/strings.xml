@@ -494,4 +494,5 @@
     <string name="toast_account_kit_vertify_phone_binding_phone_loading">Binding Phone &#8230;</string>
     <string name="fragment_account_kit_title">Binding Phone</string>
     <string name="activity_show_email_progress_text">Send Code&#8230;</string>
+    <string name="toast_fragment_bottom_not_found_user">Not found the user</string>
 </resources>
