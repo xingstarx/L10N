@@ -258,7 +258,7 @@
 "app_download" = "INSTALLER";
 "app_open" = "OUVRIR";
 
-"payment_title_label" = "Get More ShouCash!";
+"payment_title_label" = "Get ShouCash";
 "payment_faild" = "votre achat a échoué!";
 "payment_success" = "Achat réussi! avez %@ ShouCash, %@ ShouCash au total";
 "payment_faild_not_allow" = "Achats intégrés sont désactivés, allez aux Réglages > Général > Restrictions > activer Achats intégrés";

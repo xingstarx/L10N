@@ -257,7 +257,8 @@
 "app_download" = "安裝";
 "app_open" = "開啟";
 
-"payment_title_label" = "獲得更多的 ShouCash!";
+"payment_title_label" = "獲得 ShouCash";
+"payment_tip" = "送禮物支持主播 🎉";
 "payment_faild_not_allow" = "應用內購買被禁止。 設定 > 一般 > 取用限制 > 允許 App 內購買";
 "payment_faild" = "購買失敗！";
 "payment_success" = "購買成功！";

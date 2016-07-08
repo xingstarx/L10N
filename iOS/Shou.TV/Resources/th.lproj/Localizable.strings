@@ -242,7 +242,7 @@
 "app_download" = "ติดตั้ง";
 "app_open" = "Open";
 
-"payment_title_label" = "Get More ShouCash!";
+"payment_title_label" = "Get ShouCash";
 "payment_faild" = "Purchase failed!";
 "payment_success" = "ซื้อเรียบร้อยแล้ว! ได้รับ %@ ShouCash ทั้งหมด %@ ShouCash";
 "payment_faild_not_allow" = " In-App Purchases is disabled. Settings > General > Restrictions > Turn on In-App Purchases";

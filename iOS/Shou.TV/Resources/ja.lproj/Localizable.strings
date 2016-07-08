@@ -235,7 +235,7 @@
 "app_download" = "インスタレーション";
 "app_open" = "開く";
 
-"payment_title_label" = "ShouCashを獲得!";
+"payment_title_label" = "ShouCashを獲得";
 "payment_faild" = "購入失敗！";
 "payment_success" = "購入成功！ %@ 個 ShouCashを獲得，トータル %@ 個 ShouCash";
 "payment_faild_not_allow" = "App内購入禁止された。 設定 > 一般 > 機能制限 > App内購入許す";

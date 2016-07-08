@@ -258,7 +258,7 @@
 "app_download" = "Yükle";
 "app_open" = "Aç";
 
-"payment_title_label" = "Daha fazla ShouCash edinin!";
+"payment_title_label" = "Daha fazla ShouCash edinin";
 "payment_faild" = "Satın alma başarısız!";
 "payment_success" = "Satın alma başarılı! %@ ShouCash alındı, toplamda %@ ShouCash'iniz var";
 "payment_faild_not_allow" = " Uygulama içi satın alma devre dışı. Ayarlar > Genel > Kısıtlamalar > Uygulama içi satın almayı etkinleştir";

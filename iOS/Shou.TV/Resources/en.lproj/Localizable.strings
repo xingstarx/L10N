@@ -258,7 +258,8 @@
 "app_download" = "Install";
 "app_open" = "Open";
 
-"payment_title_label" = "Get More ShouCash!";
+"payment_title_label" = "Get ShouCash";
+"payment_tip" = "Send gift to support the broadcaster 🎉";
 "payment_faild" = "Purchase failed!";
 "payment_success" = "Purchase successfully! got %@ ShouCash, total %@ ShouCash";
 "payment_faild_not_allow" = " In-App Purchases is disabled. Settings > General > Restrictions > Turn on In-App Purchases";
