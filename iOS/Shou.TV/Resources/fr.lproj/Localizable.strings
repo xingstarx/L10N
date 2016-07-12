@@ -292,7 +292,7 @@
 "message_like_me" = "Vous aimez le live de %@";
 "message_like" = "%@ aime votre live";
 "message_follow_me" = "Vous ont suivi %@";
-"message_follow" = "%@ Vous sont suivi";
+"message_follow" = "%@ vous a suivi";
 "message_new_placeholder" = "Écrir un message…";
 "message_tip_donate_me" = "Vous offrez %@ %@ ShouCash";
 "message_tip_donate" = "%@ offrez Vous %@ ShouCash";
