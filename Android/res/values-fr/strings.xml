@@ -323,7 +323,7 @@
     <string name="notification_push_live_multi_title">%1$s live %2$s</string>
     <string name="notification_push_live_big_title">%s streamers sont en live</string>
     <string name="notification_push_follow_multi_title">%s vous ont suivi</string>
-    <string name="notification_push_follow_description">vous ont suivi</string>
+    <string name="notification_push_follow_description">vous a suivi</string>
     <string name="notification_push_follow_big_title">%s abonnés</string>
     <string name="notification_push_like_multi_title">%s aime votre live</string>
     <string name="notification_push_like_description">aime votre live</string>
