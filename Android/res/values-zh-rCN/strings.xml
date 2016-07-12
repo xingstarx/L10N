@@ -490,4 +490,19 @@
     <string name="profile_title_gems">宝石</string>
     <string name="activity_landing_phone">使用手机号登录</string>
     <string name="activity_account_toast_failed_to_sign_in_with_phone">使用手机号登录失败 :(</string>
+    <string name="pref_title_category_account">账户</string>
+    <string name="pref_title_account_edit_profile">编辑个人资料</string>
+    <string name="pref_title_category_live_broadcast">直播</string>
+    <string name="pref_title_broadcast_moderators">管理员</string>
+    <string name="pref_title_broadcast_muted_users">禁言列表</string>
+    <string name="pref_title_category_settings">设置</string>
+    <string name="pref_title_settings_linked_account">Linked Accounts</string>
+    <string name="pref_title_settings_push_notifications">推送通知</string>
+    <string name="pref_title_category_support">SUPPORT</string>
+    <string name="pref_title_support_help_centre">Help Centre</string>
+    <string name="pref_title_support_feedback">反馈问题</string>
+    <string name="pref_title_category_about">关于</string>
+    <string name="pref_title_misc_shou_version">版本</string>
+    <string name="pref_title_category_logout">退出</string>
+    <string name="activity_settings_options">选项</string>
 </resources>
