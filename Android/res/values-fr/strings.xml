@@ -446,8 +446,6 @@
     <string name="activity_share_broadcast_share_success">Partagé</string>
     <string name="fragment_share_bottom_title">Partager à</string>
     <string name="fragment_share_bottom_cancel">Annuler</string>
-    <string name="fragment_share_bottom_share_twitter_title">Partager à Twitter</string>
-    <string name="fragment_share_bottom_share_fb_title">Partager à Facebook</string>
     <string name="fragment_share_bottom_empty_data_desc">Pas d\'amis mutuel</string>
     <string name="activity_screen_live_public_broadcast_hint">Publique</string>
     <string name="activity_screen_live_private_broadcast_hint">Privé</string>

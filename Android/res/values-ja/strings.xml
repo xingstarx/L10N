@@ -411,8 +411,6 @@
     <string name="activity_share_broadcast_share_success">シェアに成功しました</string>
     <string name="fragment_share_bottom_title">シェア先</string>
     <string name="fragment_share_bottom_cancel">キャンセルする</string>
-    <string name="fragment_share_bottom_share_twitter_title">Twitterで共有する</string>
-    <string name="fragment_share_bottom_share_fb_title">Facebookで共有する</string>
     <string name="fragment_share_bottom_empty_data_desc">相互フォローしているユーザーが見つかりませんでした</string>
     <string name="activity_screen_live_public_broadcast_hint">パブリックで共有する</string>
     <string name="activity_screen_live_private_broadcast_hint">プライベートで共有する</string>
