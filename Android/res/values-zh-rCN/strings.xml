@@ -439,8 +439,6 @@
     <string name="activity_share_broadcast_more_title">更多</string>
     <string name="fragment_share_bottom_title">分享到</string>
     <string name="fragment_share_bottom_cancel">取消</string>
-    <string name="fragment_share_bottom_share_twitter_title">分享到Twitter</string>
-    <string name="fragment_share_bottom_share_fb_title">分享到Facebook</string>
     <string name="fragment_share_bottom_empty_data_desc">没有相互关注的朋友</string>
     <string name="activity_screen_live_public_broadcast_hint">公开分享</string>
     <string name="activity_screen_live_private_broadcast_hint">私密分享</string>
