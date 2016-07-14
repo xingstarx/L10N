@@ -324,3 +324,6 @@
 
 "activity_screen_streaming_retry" = "重试";
 "activity_network_error" = "网络异常~";
+
+"today_btn_moreinshou" = "在Shou.TV显示更多";
+"today_btn_login" = "加入Shou.TV";

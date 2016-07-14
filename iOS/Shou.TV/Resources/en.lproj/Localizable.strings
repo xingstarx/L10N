@@ -326,3 +326,6 @@
 
 "activity_screen_streaming_retry" = "Retry";
 "activity_network_error" = "Network connection error ~";
+
+"today_btn_moreinshou" = "Show more in Shou.TV";
+"today_btn_login" = "Log in Shou.TV";
