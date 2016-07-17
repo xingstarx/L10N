@@ -258,7 +258,8 @@
 "app_download" = "Yükle";
 "app_open" = "Aç";
 
-"payment_title_label" = "Daha fazla ShouCash edinin";
+"payment_title_label" = "ShouCash edinin";
+"payment_tip" = "Yayıncıları desteklemek için bağış yapın 🎉";
 "payment_faild" = "Satın alma başarısız!";
 "payment_success" = "Satın alma başarılı! %@ ShouCash alındı, toplamda %@ ShouCash'iniz var";
 "payment_faild_not_allow" = " Uygulama içi satın alma devre dışı. Ayarlar > Genel > Kısıtlamalar > Uygulama içi satın almayı etkinleştir";
@@ -325,3 +326,6 @@
 
 "activity_screen_streaming_retry" = "Tekrar dene";
 "activity_network_error" = "Ağ hatası ~";
+
+"today_btn_moreinshou" = "Shou.TV\'de daha fazlasını göster";
+"today_btn_login" = "Shou.TV\'ye giriş yap";
