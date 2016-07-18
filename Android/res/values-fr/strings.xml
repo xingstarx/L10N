@@ -63,7 +63,7 @@
     <string name="activity_landing_facebook_sign_in_progress">Se connecter avec Facebook</string>
     <string name="activity_landing_twitter_sign_in_progress">Se connecter avec Twitter</string>
     <string name="activity_account_title_edit_profile">Editer profil</string>
-    <string name="activity_account_hint_identify">Pseudo or email</string>
+    <string name="activity_account_hint_identify">Nom d\'utilisateur ou émail</string>
     <string name="activity_account_hint_email">email</string>
     <string name="activity_account_hint_username">Nom d\'utilisateur</string>
     <string name="activity_account_hint_password">Mot de passe</string>
