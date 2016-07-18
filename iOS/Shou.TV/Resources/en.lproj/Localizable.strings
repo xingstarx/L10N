@@ -101,7 +101,7 @@
 "account_label_email" = "Email";
 "account_label_phone" = "Phone Number";
 "account_label_full_name" = "Full Name";
-"account_label_biography" = "Biography";
+"account_label_biography" = "Bio";
 "account_label_avatar" = "Avatar";
 "account_label_cover" = "Cover";
 "account_label_upload_avatar"= "Upload Avatar";

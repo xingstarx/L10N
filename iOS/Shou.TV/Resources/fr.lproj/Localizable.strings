@@ -105,7 +105,7 @@
 "account_label_avatar" = "Avatar";
 "account_label_cover" = "Couverture";
 "account_label_upload_avatar"= "Télécharger Avata";
-"account_hint_identify" = "Pseudo or email";
+"account_hint_identify" = "Nom d'utilisateur ou émail";
 "account_hint_email" = "email";
 "account_hint_username" = "Nom d'utilisateur";
 "account_hint_password" = "Mot de passe";
