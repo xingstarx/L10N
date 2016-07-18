@@ -61,11 +61,7 @@
 "profile_text_cash" = "ShouCash";
 "profile_text_games" = "Игры";
 "profile_text_logout" = "Выйти";
-"profile_text_moderators" = "Модераторы";
-"profile_text_muted_users" = "Чёрный список";
 "profile_text_options" = "Настройки";
-"profile_text_broadcast_camera" = "Транслировать через камеру";
-
 
 "landing_slogan" = "Мобильное видеостриминговое сообщество";
 "landing_btn_vk" = "Войти с помощью VK";
@@ -178,9 +174,9 @@
 "account_confirm_password" = "Введите пароль, чтобы продолжить.";
 "account_private_infomation" = "ЛИЧНЫЕ ДАННЫЕ";
 "account_title" = "АККАУНТ";
+"account_broadcast" = "ВЕЩАНИЯ";
 "account_support" = "ПОДДЕРЖКА";
 "account_about" = "ИНФОРМАЦИЯ";
-
 
 "video_player_welcome" = "Добро пожаловать в чат!";
 "video_player_quality" = "Качество";
@@ -245,6 +241,9 @@
 "toast_api_error_not_found" = "Не найдено";
 "toast_video_deleted" = "Это видео было удалено";
 
+"broadcast_title_moderators" = "Модераторы";
+"broadcast_title_muted_users" = "Чёрный список";
+"broadcast_title_broadcast_camera" = "Транслировать через камеру";
 
 "about_title" = "О приложении";
 "about_title_help" = "Справочный центр";

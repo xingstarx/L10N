@@ -55,10 +55,7 @@
 "profile_text_cash" = "ShouCash";
 "profile_text_games" = "Jeux";
 "profile_text_logout" = "Déconnexion";
-"profile_text_moderators" = "Modérateurs";
-"profile_text_muted_users" = "Utilisateurs muets";
 "profile_text_options" = "Options";
-"profile_text_broadcast_camera" = "Live caméra";
 
 "landing_slogan" = "Shou est une communauté \npour live des jeux mobiles.";
 "landing_btn_vk" = "Continuer avec VK";
@@ -170,6 +167,7 @@
 "account_confirm_password" = "Pour votre sécurité, il faut entrer votre mot de passe.";
 "account_private_infomation" = "LES INFORMATIONS PERSONNELLES";
 "account_title" = "COMPTE";
+"account_broadcast" = "BROADCAST";
 "account_support" = "SUPPORTER";
 "account_about" = "À PROPOSE";
 
@@ -231,6 +229,10 @@
 "toast_api_error_not_found" = "Pas de message";
 "toast_api_error_too_many_requests" = "Rate limit exceeded";
 "toast_video_deleted" = "Ce live est supprimé par le streamer";
+
+"broadcast_title_moderators" = "Modérateurs";
+"broadcast_title_muted_users" = "Utilisateurs muets";
+"broadcast_title_broadcast_camera" = "Live caméra";
 
 "about_title" = "À propos";
 "about_title_help" = "Centre d'aide";

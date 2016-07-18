@@ -54,10 +54,7 @@
 "profile_text_cash" = "ShouCash";
 "profile_text_games" = "遊戲";
 "profile_text_logout" = "登出";
-"profile_text_moderators" = "管理人員";
-"profile_text_muted_users" = "被禁言人員";
 "profile_text_options" = "帳號設定";
-"profile_text_broadcast_camera" = "直播攝像頭";
 
 "landing_slogan" = "Shou 是一個手機遊戲直播社群";
 "landing_btn_vk" = "透過 VK 登入";
@@ -168,6 +165,7 @@
 "account_code_resend" = "重新傳送校驗證碼";
 "account_private_infomation" = "隱私資訊";
 "account_title" = "帳號";
+"account_broadcast" = "直播";
 "account_support" = "支援";
 "account_about" = "關於";
 
@@ -230,6 +228,10 @@
 "toast_api_error_not_found" = "未找到相應的訊息";
 "toast_api_error_too_many_requests" = "您請求過於頻繁，請稍後重試";
 "toast_video_deleted" = "影片已被刪除";
+
+"broadcast_title_moderators" = "管理人員";
+"broadcast_title_muted_users" = "被禁言人員";
+"broadcast_title_broadcast_camera" = "直播攝像頭";
 
 "about_title" = "關於";
 "about_title_help" = "說明中心";

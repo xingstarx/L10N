@@ -54,10 +54,7 @@
 "profile_text_cash" = "ShouCash";
 "profile_text_games" = "เกม";
 "profile_text_logout" = "ออกจากระบบ";
-"profile_text_moderators" = "ผู้ดำเนินรายการ";
-"profile_text_muted_users" = "ผู้ใช้ที่ถูกปิดเสียง";
 "profile_text_options" = "Options";
-"profile_text_broadcast_camera" = "ออกอากาศ กล้อง";
 
 "landing_slogan" = "Shou is the \nmobile game streaming community.";
 "landing_btn_vk" = "ดำเนินการต่อด้วย VK";
@@ -215,6 +212,10 @@
 "toast_api_error_server_5xx" = "Shou.TV server encounters errors";
 "toast_api_error_not_found" = "ไม่พบข้อความใด ๆ";
 "toast_video_deleted" = "This video has been deleted by the broadcaster";
+
+"broadcast_title_moderators" = "ผู้ดำเนินรายการ";
+"broadcast_title_muted_users" = "ผู้ใช้ที่ถูกปิดเสียง";
+"broadcast_title_broadcast_camera" = "ออกอากาศ กล้อง";
 
 "about_title" = "About";
 "about_title_help" = "Help Center";

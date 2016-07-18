@@ -54,10 +54,7 @@
 "profile_text_cash" = "ShouCash";
 "profile_text_games" = "游戏";
 "profile_text_logout" = "退出";
-"profile_text_moderators" = "管理员列表";
-"profile_text_muted_users" = "屏蔽列表";
 "profile_text_options" = "账号设置";
-"profile_text_broadcast_camera" = "直播摄像头";
 
 "landing_slogan" = "Shou 是一个手机游戏直播社区";
 "landing_btn_vk" = "通过 VK 登录";
@@ -168,6 +165,7 @@
 "account_code_resend" = "重新发送验证码";
 "account_private_infomation" = "隐私信息";
 "account_title" = "账号";
+"account_broadcast" = "直播";
 "account_support" = "支持";
 "account_about" = "关于";
 
@@ -230,6 +228,10 @@
 "toast_api_error_not_found" = "没有找到相应的信息";
 "toast_api_error_too_many_requests" = "请求频率太快";
 "toast_video_deleted" = "视频已被删除";
+
+"broadcast_title_moderators" = "管理员列表";
+"broadcast_title_muted_users" = "屏蔽列表";
+"broadcast_title_broadcast_camera" = "直播摄像头";
 
 "about_title" = "关于";
 "about_title_help" = "帮助中心";

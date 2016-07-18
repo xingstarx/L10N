@@ -53,8 +53,6 @@
 "profile_text_cash" = "ShouCash";
 "profile_text_games" = "Jogos";
 "profile_text_logout" = "Sair";
-"profile_text_moderators" = "Moderators";
-"profile_text_muted_users" = "Muted users";
 
 "landing_slogan" = "Shou is the \nmobile game streaming community.";
 "landing_btn_vk" = "Continue with VK";
@@ -210,6 +208,9 @@
 "toast_api_error_server_5xx" = "O servidor Shou.TV encontrou erros";
 "toast_api_error_not_found" = "Nenhuma mensagem foi encontrada";
 "toast_video_deleted" = "This video has been deleted by the broadcaster";
+
+"broadcast_title_moderators" = "Moderators";
+"broadcast_title_muted_users" = "Muted users";
 
 "about_title" = "Sobre";
 "about_title_help" = "Help";
