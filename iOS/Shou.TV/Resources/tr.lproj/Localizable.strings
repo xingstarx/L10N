@@ -167,7 +167,7 @@
 "account_confirm_password" = "Güvenliğiniz için, lütfen parolanızı giriniz.";
 "account_private_infomation" = "ÖZEL BİLGİLER";
 "account_title" = "HESAP";
-"account_broadcast" = "BROADCAST";
+"account_broadcast" = "CANLI YAYIN";
 "account_support" = "DESTEK";
 "account_about" = "HAKKINDA";
 
@@ -329,5 +329,5 @@
 "activity_screen_streaming_retry" = "Tekrar dene";
 "activity_network_error" = "Ağ hatası ~";
 
-"today_btn_moreinshou" = "Shou.TV\'de daha fazlasını göster";
-"today_btn_login" = "Shou.TV\'ye giriş yap";
+"today_btn_moreinshou" = "Shou.TV'de daha fazlasını göster";
+"today_btn_login" = "Shou.TV'ye giriş yap";
