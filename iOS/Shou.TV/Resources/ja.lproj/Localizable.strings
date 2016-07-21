@@ -52,8 +52,6 @@
 "profile_text_cash" = "ShouCash";
 "profile_text_games" = "ゲーム";
 "profile_text_logout" = "退出";
-"profile_text_moderators" = "モデレーター";
-"profile_text_muted_users" = "ミュートされているユーザー";
 
 "landing_slogan" = "Shou is the \nmobile game streaming community.";
 "landing_btn_vk" = "VKで登録";
@@ -209,6 +207,9 @@
 "toast_api_error_server_5xx" = "Shou.TV サーバーエラー";
 "toast_api_error_not_found" = "関連インフォメーションなし";
 "toast_video_deleted" = "この動画は、ブロードキャスターによって削除されました";
+
+"broadcast_title_moderators" = "モデレーター";
+"broadcast_title_muted_users" = "ミュートされているユーザー";
 
 "about_title" = "関して";
 "about_title_faq" = "FAQ";

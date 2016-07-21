@@ -55,10 +55,7 @@
 "profile_text_cash" = "ShouCash";
 "profile_text_games" = "Oyunlar";
 "profile_text_logout" = "Çıkış Yap";
-"profile_text_moderators" = "Moderatörler";
-"profile_text_muted_users" = "Engellenmiş Kullanıcılar";
 "profile_text_options" = "Ayarlar";
-"profile_text_broadcast_camera" = "Kameradan yayın yap";
 
 "landing_slogan" = "Shou \nmobil oyun yayını topluluğu.";
 "landing_btn_vk" = "VK ile devam et";
@@ -170,6 +167,7 @@
 "account_confirm_password" = "Güvenliğiniz için, lütfen parolanızı giriniz.";
 "account_private_infomation" = "ÖZEL BİLGİLER";
 "account_title" = "HESAP";
+"account_broadcast" = "BROADCAST";
 "account_support" = "DESTEK";
 "account_about" = "HAKKINDA";
 
@@ -231,6 +229,10 @@
 "toast_api_error_not_found" = "Mesaj bulunamadı";
 "toast_api_error_too_many_requests" = "Değerlendirme sınırı aşıldı";
 "toast_video_deleted" = "Bu video kullanıcı tarafından silindi";
+
+"broadcast_title_moderators" = "Moderatörler";
+"broadcast_title_muted_users" = "Engellenmiş Kullanıcılar";
+"broadcast_title_broadcast_camera" = "Kameradan yayın yap";
 
 "about_title" = "Hakkında";
 "about_title_help" = "Yardım Merkezi";

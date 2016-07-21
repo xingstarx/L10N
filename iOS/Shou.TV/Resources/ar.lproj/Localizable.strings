@@ -55,10 +55,7 @@
 "profile_text_cash" = "ShouCash";
 "profile_text_games" = "الألعاب";
 "profile_text_logout" = "تسجيل الخروج";
-"profile_text_moderators" = "المدراء";
-"profile_text_muted_users" = "المستخدمون الذين تم كتم صوتهم";
 "profile_text_options" = "خيارات";
-"profile_text_broadcast_camera" = "Broadcast camera";
 
 "landing_slogan" = "Shou هو\nمجمتمع بث ألعاب الهاتف";
 "landing_btn_twitter" = "واصل مع تويتر";
@@ -168,6 +165,7 @@
 "account_confirm_password" = "For your security, please enter your password.";
 "account_private_infomation" = "PRIVATE INFOMATION";
 "account_title" = "ACCOUNT";
+"account_broadcast" = "BROADCAST";
 "account_support" = "SUPPORT";
 "account_about" = "ABOUT";
 
@@ -229,6 +227,10 @@
 "toast_api_error_not_found" = "لم يتم العثور على أي رسالة";
 "toast_api_error_too_many_requests" = "Rate limit exceeded";
 "toast_video_deleted" = "تم حذف الفيديو بواسطة المذيع";
+
+"broadcast_title_moderators" = "المدراء";
+"broadcast_title_muted_users" = "المستخدمون الذين تم كتم صوتهم";
+"broadcast_title_broadcast_camera" = "Broadcast camera";
 
 "about_title" = "About";
 "about_title_help" = "Help Center";

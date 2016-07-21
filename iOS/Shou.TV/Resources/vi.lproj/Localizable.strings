@@ -54,10 +54,7 @@
 "profile_text_cash" = "ShouCash";
 "profile_text_games" = "Trò chơi";
 "profile_text_logout" = "Đăng xuất";
-"profile_text_moderators" = "Người điều hành";
-"profile_text_muted_users" = "Tắt tiếng người sử dụng";
 "profile_text_options" = "Options";
-"profile_text_broadcast_camera" = "Broadcast camera";
 
 "landing_slogan" = "Shou is the \nmobile game streaming community.";
 "landing_btn_vk" = "Tiếp tục với VK";
@@ -215,6 +212,10 @@
 "toast_api_error_server_5xx" = "Shou.TV server encounters errors";
 "toast_api_error_not_found" = "Không tìm thấy bất kỳ tin nhắn nào";
 "toast_video_deleted" = "This video has been deleted by the broadcaster";
+
+"broadcast_title_moderators" = "Người điều hành";
+"broadcast_title_muted_users" = "Tắt tiếng người sử dụng";
+"broadcast_title_broadcast_camera" = "Broadcast camera";
 
 "about_title" = "About";
 "about_title_help" = "Help Center";

@@ -55,10 +55,7 @@
 "profile_text_cash" = "ShouCash";
 "profile_text_games" = "Games";
 "profile_text_logout" = "Log Out";
-"profile_text_moderators" = "Moderators";
-"profile_text_muted_users" = "Muted users";
 "profile_text_options" = "Options";
-"profile_text_broadcast_camera" = "Broadcast camera";
 
 "landing_slogan" = "Shou is the \nmobile game streaming community.";
 "landing_btn_vk" = "Continue with VK";
@@ -170,6 +167,7 @@
 "account_confirm_password" = "For your security, please enter your password.";
 "account_private_infomation" = "PRIVATE INFOMATION";
 "account_title" = "ACCOUNT";
+"account_broadcast" = "BROADCAST";
 "account_support" = "SUPPORT";
 "account_about" = "ABOUT";
 
@@ -231,6 +229,10 @@
 "toast_api_error_not_found" = "Not found any message";
 "toast_api_error_too_many_requests" = "Rate limit exceeded";
 "toast_video_deleted" = "This video has been deleted by the broadcaster";
+
+"broadcast_title_moderators" = "Moderators";
+"broadcast_title_muted_users" = "Muted users";
+"broadcast_title_broadcast_camera" = "Broadcast camera";
 
 "about_title" = "About";
 "about_title_help" = "Help Center";
