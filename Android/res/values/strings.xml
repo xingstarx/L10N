@@ -497,4 +497,6 @@
     <string name="toast_fragment_bottom_not_found_user">Not found the user</string>
     <string name="fragment_account_edit_private_information">private information</string>
     <string name="fragment_account_edit_other">other</string>
+    <string name="pay_support">Send gift to support the broadcaster</string>
+    <string name="pay_get">Get ShouCash</string>
 </resources>
