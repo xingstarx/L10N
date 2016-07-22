@@ -424,4 +424,5 @@
     <string name="activity_share_with_title">分享</string>
     <string name="activity_share_with_friends_title">分享給朋友</string>
     <string name="landing_token">Shou 是一個手機遊戲直播社群</string>
+    <string name="activity_landing_more">更多</string>
 </resources>
