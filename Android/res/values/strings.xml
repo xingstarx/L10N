@@ -499,4 +499,5 @@
     <string name="fragment_account_edit_other">other</string>
     <string name="pay_support">Send gift to support the broadcaster</string>
     <string name="pay_get">Get ShouCash</string>
+    <string name="donate_text">%s send you a gift </string>
 </resources>

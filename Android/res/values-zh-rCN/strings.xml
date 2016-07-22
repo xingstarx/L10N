@@ -492,4 +492,5 @@
     <string name="pay_support">发送礼物支持主播</string>
     <string name="pay_get">购买 ShouCash</string>
     <string name="activity_landing_more">更多</string>
+    <string name="donate_text">%s 送你一个 </string>
 </resources>
