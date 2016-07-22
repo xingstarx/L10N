@@ -517,4 +517,13 @@
     <string name="fragment_linked_account_facebook">Facebook</string>
     <string name="fragment_linked_account_youtube">Youtube</string>
     <string name="fragment_linked_account_twitch">Twitch</string>
+    <string name="pref_title_account_modify_password">Change password</string>
+    <string name="activity_account_btn_modify_pwd">Reset password</string>
+    <string name="activity_account_btn_modifying_pwd">Reset my password</string>
+    <string name="activity_account_btn_modified_pwd">Reset password complete</string>
+    <string name="activity_account_toast_invalid_password">Invalid password</string>
+    <string name="activity_account_hint_new_password">new password</string>
+    <string name="activity_account_hint_confirm_new_password">confirm new password</string>
+    <string name="activity_account_hint_current_password">current password</string>
+    <string name="activity_account_toast_invalid_new_password">The new password is inconsistent</string>
 </resources>

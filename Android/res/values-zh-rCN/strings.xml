@@ -505,4 +505,13 @@
     <string name="pref_title_misc_shou_version">版本</string>
     <string name="pref_title_category_logout">退出</string>
     <string name="activity_settings_options">选项</string>
+    <string name="activity_account_toast_invalid_password">无效的密码</string>
+    <string name="pref_title_account_modify_password">修改密码</string>
+    <string name="activity_account_btn_modify_pwd">重置密码</string>
+    <string name="activity_account_btn_modifying_pwd">正在重置中</string>
+    <string name="activity_account_btn_modified_pwd">重置密码成功</string>
+    <string name="activity_account_hint_new_password">新的密码</string>
+    <string name="activity_account_hint_confirm_new_password">确认新的密码</string>
+    <string name="activity_account_hint_current_password">当前的密码</string>
+    <string name="activity_account_toast_invalid_new_password">新密码前后不一致</string>
 </resources>
