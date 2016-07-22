@@ -490,5 +490,5 @@
     <string name="fragment_account_edit_private_information">私人信息</string>
     <string name="fragment_account_edit_other">其他</string>
     <string name="pay_support">发送礼物支持主播</string>
-    <string name="pay_get">购买ShouCash</string>
+    <string name="pay_get">购买 ShouCash</string>
 </resources>
