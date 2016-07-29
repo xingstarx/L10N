@@ -52,6 +52,7 @@
 "profile_text_views" = "观看";
 "profile_text_likes" = "喜欢";
 "profile_text_cash" = "ShouCash";
+"profile_text_gems" = "宝石";
 "profile_text_games" = "游戏";
 "profile_text_logout" = "退出";
 "profile_text_options" = "账号设置";

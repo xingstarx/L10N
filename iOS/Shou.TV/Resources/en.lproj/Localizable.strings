@@ -52,6 +52,7 @@
 "profile_text_times" = "Duration";
 "profile_text_views" = "Views";
 "profile_text_likes" = "Likes";
+"profile_text_gems" = "Gems";
 "profile_text_cash" = "ShouCash";
 "profile_text_games" = "Games";
 "profile_text_logout" = "Log Out";
