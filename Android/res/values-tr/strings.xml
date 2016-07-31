@@ -497,4 +497,7 @@
     <string name="toast_fragment_bottom_not_found_user">Kullanıcı bulunamadı</string>
     <string name="fragment_account_edit_private_information">özel bilgiler</string>
     <string name="fragment_account_edit_other">diğer</string>
+    <string name="pay_support">Yayıncıyı desteklemek için bağış yapın</string>
+    <string name="pay_get">ShouCash Edinin</string>
+    <string name="donate_text">%s sana bağış yaptı </string>
 </resources>
