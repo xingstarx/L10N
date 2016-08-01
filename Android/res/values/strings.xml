@@ -500,4 +500,6 @@
     <string name="pay_support">Send gift to support the broadcaster</string>
     <string name="pay_get">Get ShouCash</string>
     <string name="donate_text">%s send you a gift </string>
+    <string name="menu_air_record">Want to record?</string>
+    <string name="menu_air_mirror">Want to mirror?</string>
 </resources>

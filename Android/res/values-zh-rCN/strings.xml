@@ -493,4 +493,6 @@
     <string name="pay_get">购买 ShouCash</string>
     <string name="activity_landing_more">更多</string>
     <string name="donate_text">%s 送你一个 </string>
+    <string name="menu_air_record">想要录制?</string>
+    <string name="menu_air_mirror">想要镜像?</string>
 </resources>
