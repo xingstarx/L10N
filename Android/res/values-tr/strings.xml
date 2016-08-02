@@ -500,4 +500,6 @@
     <string name="pay_support">Yayıncıyı desteklemek için bağış yapın</string>
     <string name="pay_get">ShouCash Edinin</string>
     <string name="donate_text">%s sana bağış yaptı </string>
+    <string name="menu_air_record">Kayıt mı yapmak istiyorsunuz?</string>
+    <string name="menu_air_mirror">Ekranınızı mı paylaşmak istiyorsunuz?</string>
 </resources>
