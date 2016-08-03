@@ -10,6 +10,7 @@
         <item>AVI</item>
     </string-array>
     <string-array name="pref_entries_video_source_engine">
+        <item>Фантомный</item>
         <item>Память</item>
     </string-array>
     <string-array name="pref_entries_video_encoding_engine">
@@ -61,6 +62,7 @@
     <string-array name="pref_entries_audio_source">
         <item>Без звука</item>
         <item>Микрофон</item>
+        <item>Внутренний звук</item>
     </string-array>
     <string-array name="profile_tabs">
         <item>видео</item>

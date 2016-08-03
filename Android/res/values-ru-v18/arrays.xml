@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="pref_entries_video_source_engine">
-        <item>Фантомный</item>
-        <item>Память</item>
-    </string-array>
-</resources>
