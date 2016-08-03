@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-
-    <string-array name="pref_entries_video_source_engine">
-        <item>幻影（較快，較穩定）</item>
-        <item>記憶體（較慢，很穩定）</item>
-    </string-array>
-
-</resources>
