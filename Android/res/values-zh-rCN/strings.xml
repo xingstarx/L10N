@@ -498,8 +498,8 @@
     <string name="pref_title_category_settings">设置</string>
     <string name="pref_title_settings_linked_account">Linked Accounts</string>
     <string name="pref_title_settings_push_notifications">推送通知</string>
-    <string name="pref_title_category_support">SUPPORT</string>
-    <string name="pref_title_support_help_centre">Help Centre</string>
+    <string name="pref_title_category_support">支持</string>
+    <string name="pref_title_support_help_centre">帮助中心</string>
     <string name="pref_title_support_feedback">反馈问题</string>
     <string name="pref_title_category_about">关于</string>
     <string name="pref_title_misc_shou_version">版本</string>
@@ -514,4 +514,8 @@
     <string name="activity_account_hint_confirm_new_password">确认新的密码</string>
     <string name="activity_account_hint_current_password">当前的密码</string>
     <string name="activity_account_toast_invalid_new_password">新密码前后不一致</string>
+    <string name="fragment_message_item_header_following_title">关注</string>
+    <string name="fragment_message_item_header_strangers_title">陌生人</string>
+    <string name="message_following_mark_read_success">所有关注私信标记为已读</string>
+    <string name="message_strangers_mark_read_success">所有陌生人私信标记为已读</string>
 </resources>

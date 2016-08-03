@@ -526,4 +526,8 @@
     <string name="activity_account_hint_confirm_new_password">confirm new password</string>
     <string name="activity_account_hint_current_password">current password</string>
     <string name="activity_account_toast_invalid_new_password">The new password is inconsistent</string>
+    <string name="fragment_message_item_header_following_title">Following</string>
+    <string name="fragment_message_item_header_strangers_title">Strangers</string>
+    <string name="message_following_mark_read_success">All Following messages marked as read</string>
+    <string name="message_strangers_mark_read_success">All Strangers messages marked as read</string>
 </resources>
