@@ -30,7 +30,6 @@
     <string name="menu_settings">Settings</string>
     <string name="menu_feedback">Feedback</string>
     <string name="menu_how_to_record">How to broadcast?</string>
-    <string name="menu_sign_out">Sign out</string>
     <string name="menu_search">Search</string>
     <string name="menu_like">Like</string>
     <string name="menu_share">Share</string>
@@ -155,7 +154,6 @@
     <string name="activity_statistics_title">Statistics</string>
     <string name="activity_statistics_title_views">Watch statistics</string>
     <string name="activity_statistics_title_like">Like statistics</string>
-    <string name="activity_statistics_title_income">Income statistics</string>
     <string name="activity_statistics_title_time">Time statistics</string>
     <string name="activity_statistics_views">Watch</string>
     <string name="activity_statistics_likes">Likes</string>
@@ -341,8 +339,6 @@
     <string name="notification_push_cash_content_me">You donated %s ShouCash</string>
     <string name="shou_cash_info">ShouCash shortage!</string>
     <string name="send_cash_info">What\'s the ShouCash?</string>
-    <string name="menu_statistic">Statistics</string>
-    <string name="menu_charge">Charge</string>
     <string name="msg_buy_shou_cash">Purchase</string>
     <string name="toast_shou_cash_failure">ShouCash failure!</string>
     <string name="toast_shou_cash_google_play_service_not_found">Google Play services resources were not found</string>
@@ -502,4 +498,5 @@
     <string name="donate_text">%s send you a gift </string>
     <string name="menu_air_record">Record</string>
     <string name="menu_air_mirror">Mirror</string>
+    <string name="profile_title_gems">Gems</string>
 </resources>

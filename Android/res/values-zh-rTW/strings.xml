@@ -30,7 +30,6 @@
     <string name="menu_settings">設定</string>
     <string name="menu_feedback">回饋問題</string>
     <string name="menu_how_to_record">如何直播？</string>
-    <string name="menu_sign_out">登出帳號</string>
     <string name="menu_search">搜尋</string>
     <string name="menu_like">喜欢</string>
     <string name="menu_share">分享</string>
@@ -139,7 +138,6 @@
     <string name="activity_statistics_title">統計</string>
     <string name="activity_statistics_title_views">觀看統計</string>
     <string name="activity_statistics_title_like">喜歡統計</string>
-    <string name="activity_statistics_title_income">收入統計</string>
     <string name="activity_statistics_title_time">直播時長統計</string>
     <string name="activity_statistics_views">總觀看</string>
     <string name="activity_statistics_likes">總喜歡</string>
@@ -306,8 +304,6 @@
     <string name="notification_push_share_cast_big_title">您追蹤的 %s 位朋友正在分享直播</string>
     <string name="profile_archive_broadcasts">自動收藏我的直播</string>
     <string name="shou_cash_info">ShouCash 不足！</string>
-    <string name="menu_statistic">統計</string>
-    <string name="menu_charge">充值</string>
     <string name="toast_shou_cash_failure">ShouCash 失敗！</string>
     <string name="toast_shou_cash_google_play_service_not_found">找不到 Google Play 服務</string>
     <string name="toast_chat_textview_load_url_failure">無法載入連結</string>
@@ -425,4 +421,5 @@
     <string name="activity_share_with_friends_title">分享給朋友</string>
     <string name="landing_token">Shou 是一個手機遊戲直播社群</string>
     <string name="activity_landing_more">更多</string>
+    <string name="profile_title_gems">寶石</string>
 </resources>

@@ -10,7 +10,6 @@
     <string name="menu_settings">การตั้งค่า</string>
     <string name="menu_feedback">ข้อเสนอแนะ</string>
     <string name="menu_how_to_record">วิธีออกอากาศ?</string>
-    <string name="menu_sign_out">ออกจากระบบ</string>
     <string name="menu_search">ค้นหา</string>
     <string name="menu_like">ถูกใจ</string>
     <string name="menu_share">แชร์</string>
@@ -157,8 +156,6 @@
     <string name="notification_push_follow_multi_title_me">คุณติดตาม %s</string>
     <string name="notification_push_like_multi_title_me">คุณถูกใจการออกอากาศของ %s</string>
     <string name="notification_push_cash_content_me">คุณบริจาค %s ShouCash</string>
-    <string name="menu_statistic">สถิติ</string>
-    <string name="menu_charge">ค่าธรรมเนียม</string>
     <string name="msg_buy_shou_cash">ซื้อ</string>
     <string name="toast_msg_buy_shou_cash_status">ซื้อ %s</string>
     <string name="activity_account_text_user_num_cash">%s cash</string>

@@ -10,7 +10,6 @@
     <string name="menu_settings">Cài đặt</string>
     <string name="menu_feedback">Phản hồi</string>
     <string name="menu_how_to_record">Làm thế nào để phát sóng?</string>
-    <string name="menu_sign_out">Đăng xuất</string>
     <string name="menu_search">Tìm kiếm</string>
     <string name="menu_like">Thích</string>
     <string name="menu_share">Chia sẻ</string>
@@ -157,8 +156,6 @@
     <string name="notification_push_follow_multi_title_me">Bạn đã theo dõi %s</string>
     <string name="notification_push_like_multi_title_me">Bạn thích chương trình phát sóng của %s</string>
     <string name="notification_push_cash_content_me">Bạn đã tặng %s ShouCash</string>
-    <string name="menu_statistic">Thống kê</string>
-    <string name="menu_charge">Thu phí</string>
     <string name="msg_buy_shou_cash">Mua</string>
     <string name="toast_msg_buy_shou_cash_status">Mua %s</string>
     <string name="activity_account_text_user_num_cash">%s tiền mặt</string>

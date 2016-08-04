@@ -11,7 +11,6 @@
     <string name="menu_settings">الإعدادات</string>
     <string name="menu_feedback">التعليق</string>
     <string name="menu_how_to_record">كيفية البث؟</string>
-    <string name="menu_sign_out">تسجيل الخروج</string>
     <string name="menu_search">البحث</string>
     <string name="menu_like">إعجاب</string>
     <string name="menu_share">مشاركة</string>
@@ -156,8 +155,6 @@
     <string name="notification_push_like_multi_title_me">أعجبت بالبث الخاص بـ %s</string>
     <string name="notification_push_cash_content_me">تبرعت بـ %s ShouCash</string>
     <string name="send_cash_info">ما هو ShouCash؟</string>
-    <string name="menu_statistic">إحصائيات</string>
-    <string name="menu_charge">التكلفة</string>
     <string name="msg_buy_shou_cash">شراء</string>
     <string name="toast_msg_buy_shou_cash_status">شراء %s</string>
     <string name="activity_account_text_user_num_cash">%s نقدا</string>
