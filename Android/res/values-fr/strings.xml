@@ -124,9 +124,6 @@
     <string name="activity_screen_live_loading">Chargement en cours</string>
     <string name="activity_screen_live_title_hint">Titre</string>
     <string name="activity_screen_live_game_hint">Choisir un jeu</string>
-    <string name="activity_screen_record_name_hint">Titre</string>
-    <string name="activity_screen_fab_mirror">Miroir</string>
-    <string name="activity_screen_fab_record">Enregistreur</string>
     <string name="activity_screen_fab_broadcast">Live</string>
     <string name="activity_video_player_share">%1$s : %2$s</string>
     <string name="activity_video_player_welcome">Bienvenue au chat!</string>
@@ -295,7 +292,6 @@
     <string name="time_ago_months">%d mois</string>
     <string name="time_ago_year">1 an</string>
     <string name="time_ago_years">%d ans</string>
-    <string name="selected_folder_label">Dossier séléctionné:</string>
     <string name="create_folder_label">Nommer le nouveau dossier</string>
     <string name="create_folder_success">Créer un nouveau dossier</string>
     <string name="create_folder_error_no_write_access">Ne pas écrire dans ce dossier</string>

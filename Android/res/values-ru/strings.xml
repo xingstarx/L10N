@@ -104,9 +104,6 @@
     <string name="activity_screen_live_loading">Загрузка</string>
     <string name="activity_screen_live_title_hint">Название</string>
     <string name="activity_screen_live_game_hint">Выберите игру</string>
-    <string name="activity_screen_record_name_hint">Название</string>
-    <string name="activity_screen_fab_mirror">Видеоповтор</string>
-    <string name="activity_screen_fab_record">Запись</string>
     <string name="activity_screen_fab_broadcast">Трансляция</string>
     <string name="activity_video_player_share">%1$s : %2$s</string>
     <string name="activity_video_player_welcome">Добро пожаловать в чат!</string>
@@ -258,7 +255,6 @@
     <string name="time_ago_months">%d месяца(-ев) назад</string>
     <string name="time_ago_year">1 год назад</string>
     <string name="time_ago_years">%d года(-ов) назад</string>
-    <string name="selected_folder_label">Текущая папка:</string>
     <string name="create_folder_label">Название новой папки</string>
     <string name="create_folder_success">Новая папка была создана</string>
     <string name="create_folder_error_no_write_access">Запись в эту папку не доступна</string>

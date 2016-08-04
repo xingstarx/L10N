@@ -224,7 +224,6 @@
     <string name="time_ago_months">%dヶ月前</string>
     <string name="time_ago_year">1年前</string>
     <string name="time_ago_years">%d年前</string>
-    <string name="selected_folder_label">選択したフォルダ:</string>
     <string name="create_folder_label">新しいフォルダの名前</string>
     <string name="create_folder_success">新しいフォルダを作成しました。</string>
     <string name="create_folder_error_no_write_access">このフォルダに書き込めません。</string>
@@ -268,9 +267,6 @@
     <string name="profile_title_muted_users">ミュートされているユーザー</string>
     <string name="profile_title_logout">ログアウトする</string>
     <string name="activity_account_text_agree_term">続行すると、あなたは当社の%1$s利用規約%2$sおよび%3$sプライバシーポリシー %4$sに同意したとみなされます。</string>
-    <string name="activity_screen_record_name_hint">ファイル名</string>
-    <string name="activity_screen_fab_mirror">鏡</string>
-    <string name="activity_screen_fab_record">記録</string>
     <string name="activity_screen_fab_broadcast">ブロードキャスト</string>
     <string name="activity_message_title">メッセージ</string>
     <string name="activity_no_message">メッセージはありません</string>

@@ -80,9 +80,6 @@
     <string name="activity_screen_device_browser_name">Sao chép ra trình duyệt</string>
     <string name="activity_screen_live_loading">Đang tải</string>
     <string name="activity_screen_live_title_hint">Tiêu đề</string>
-    <string name="activity_screen_live_game_hint">Chọn trò chơi</string>
-    <string name="activity_screen_fab_mirror">Sao chép</string>
-    <string name="activity_screen_fab_record">Ghi lại</string>
     <string name="activity_video_player_share">%1$s: %2$s</string>
     <string name="activity_video_player_welcome">Chào mừng bạn đến phòng chat!</string>
     <string name="activity_network_error">Lỗi kết nối mạng ~</string>

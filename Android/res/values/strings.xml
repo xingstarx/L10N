@@ -124,9 +124,6 @@
     <string name="activity_screen_live_loading">Loading</string>
     <string name="activity_screen_live_title_hint">Title</string>
     <string name="activity_screen_live_game_hint">Choose game</string>
-    <string name="activity_screen_record_name_hint">File name</string>
-    <string name="activity_screen_fab_mirror">Mirror</string>
-    <string name="activity_screen_fab_record">Record</string>
     <string name="activity_screen_fab_broadcast">Broadcast</string>
     <string name="activity_video_player_share">%1$s : %2$s</string>
     <string name="activity_video_player_welcome">Welcome to the chat room!</string>
@@ -296,7 +293,6 @@
     <string name="time_ago_months">%d months</string>
     <string name="time_ago_year">1 year</string>
     <string name="time_ago_years">%d years</string>
-    <string name="selected_folder_label">Selected folder:</string>
     <string name="create_folder_label">New folder name</string>
     <string name="create_folder_success">Created new folder</string>
     <string name="create_folder_error_no_write_access">Cannot write to this folder</string>

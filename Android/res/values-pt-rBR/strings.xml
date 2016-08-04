@@ -259,7 +259,6 @@
     <string name="time_ago_months">%d mêses atrás</string>
     <string name="time_ago_year">1 ano atrás</string>
     <string name="time_ago_years">%d anos atrás</string>
-    <string name="selected_folder_label">Selecionar pasta:</string>
     <string name="create_folder_label">Novo nome da pasta</string>
     <string name="create_folder_success">Nova pasta criada</string>
     <string name="create_folder_error_no_write_access">Não é possível escrever nessa pasta</string>

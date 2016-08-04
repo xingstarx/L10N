@@ -113,9 +113,6 @@
     <string name="activity_screen_live_loading">載入中</string>
     <string name="activity_screen_live_title_hint">標題</string>
     <string name="activity_screen_live_game_hint">選擇直播的遊戲</string>
-    <string name="activity_screen_record_name_hint">檔案名稱</string>
-    <string name="activity_screen_fab_mirror">鏡像</string>
-    <string name="activity_screen_fab_record">錄製</string>
     <string name="activity_screen_fab_broadcast">直播</string>
     <string name="activity_video_player_share">%1$s: %2$s</string>
     <string name="activity_video_player_welcome">歡迎來到我的聊天室！</string>
@@ -268,7 +265,6 @@
     <string name="time_ago_months">%d 月</string>
     <string name="time_ago_year">1 年</string>
     <string name="time_ago_years">%d 年</string>
-    <string name="selected_folder_label">選擇的資料夾:</string>
     <string name="create_folder_label">新資料夾名稱</string>
     <string name="create_folder_success">成功新增資料夾</string>
     <string name="create_folder_error_no_write_access">無法寫入這個資料夾</string>

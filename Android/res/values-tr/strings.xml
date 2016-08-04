@@ -124,9 +124,6 @@
     <string name="activity_screen_live_loading">Yükleniyor...</string>
     <string name="activity_screen_live_title_hint">Başlık</string>
     <string name="activity_screen_live_game_hint">Oyun seç</string>
-    <string name="activity_screen_record_name_hint">Dosya adı</string>
-    <string name="activity_screen_fab_mirror">Ekranı Paylaş</string>
-    <string name="activity_screen_fab_record">Ekranı Kaydet</string>
     <string name="activity_screen_fab_broadcast">Canlı Yayın</string>
     <string name="activity_video_player_share">%1$s : %2$s</string>
     <string name="activity_video_player_welcome">Sohbet odasına hoşgeldiniz!</string>
@@ -296,7 +293,6 @@
     <string name="time_ago_months">%d ay</string>
     <string name="time_ago_year">1 yıl</string>
     <string name="time_ago_years">%d yıl</string>
-    <string name="selected_folder_label">Seçilen klasör:</string>
     <string name="create_folder_label">Yeni klasör adı</string>
     <string name="create_folder_success">Yeni klasör oluşturuldu</string>
     <string name="create_folder_error_no_write_access">Bu klasöre veri yazılamıyor</string>
@@ -440,7 +436,7 @@
     <string name="activity_private_broadcast_share_button">Paylaş (%s)</string>
     <string name="activity_share_broadcast_clipboard_title">Kopyala</string>
     <string name="activity_share_broadcast_clipboard_toast_copy_success">Panoya kopyalandı</string>
-    <string name="toast_livefragment_screen_live_people">Lütfen yayına katılacak kişileri seçin</string>
+    <string name="toast_livefragment_screen_live_people">Lütfen yayına katıla</string>
     <string name="activity_share_broadcast_more_title">Daha Fazla</string>
     <string name="activity_share_broadcast_share_success">Paylaşıldı</string>
     <string name="fragment_share_bottom_title">Paylaş...</string>

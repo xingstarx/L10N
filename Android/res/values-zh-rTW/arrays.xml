@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string-array name="pref_entries_video_output_format">
-        <item>MKV</item>
-        <item>MP4（不推薦）</item>
-        <item>MOV（不推薦）</item>
-        <item>MPEG-TS</item>
-        <item>FLV</item>
-        <item>AVI（不推薦）</item>
-    </string-array>
     <string-array name="pref_entries_video_source_engine">
         <item>幻影（較快，較穩定）</item>
         <item>記憶體（較慢，很穩定）</item>
@@ -77,10 +69,6 @@
     <string-array name="search_tabs">
         <item>玩家</item>
         <item>遊戲</item>
-    </string-array>
-    <string-array name="pref_entries_video_broadcast_type">
-        <item>公開</item>
-        <item>私人</item>
     </string-array>
 
 </resources>

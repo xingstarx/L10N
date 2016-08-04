@@ -81,8 +81,6 @@
     <string name="activity_screen_live_loading">تحميل</string>
     <string name="activity_screen_live_title_hint">العنوان</string>
     <string name="activity_screen_live_game_hint">اختر لعبة</string>
-    <string name="activity_screen_fab_mirror">مرآة</string>
-    <string name="activity_screen_fab_record">سجل</string>
     <string name="activity_video_player_share">%1$s: %2$s</string>
     <string name="activity_video_player_welcome">أهلا بك في غرفة الدردشة!</string>
     <string name="activity_network_error">خطأ اتصال الشبكة ~</string>

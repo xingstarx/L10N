@@ -121,9 +121,6 @@
     <string name="activity_screen_live_loading">加载中</string>
     <string name="activity_screen_live_title_hint">标题</string>
     <string name="activity_screen_live_game_hint">选择直播的游戏</string>
-    <string name="activity_screen_record_name_hint">文件名</string>
-    <string name="activity_screen_fab_mirror">镜像</string>
-    <string name="activity_screen_fab_record">录制</string>
     <string name="activity_screen_fab_broadcast">直播</string>
     <string name="activity_video_player_share">%1$s ：%2$s</string>
     <string name="activity_video_player_welcome">欢迎来到我的聊天室！</string>
@@ -251,7 +248,6 @@
     <string name="pref_summary_quality">中</string>
     <string name="pref_title_misc_reset">重置</string>
     <string name="pref_summary_misc_reset">把所有设置重置为默认的</string>
-    <string name="pref_title_misc_recording_dir">录制视频的文件夹</string>
     <string name="pref_title_misc_about">关于 Shou.TV</string>
     <string name="pref_summary_misc_about">软件版本： %s</string>
     <string name="pref_title_misc_twitter">Twitter</string>
@@ -289,7 +285,6 @@
     <string name="time_ago_months">%d 月</string>
     <string name="time_ago_year">1 年</string>
     <string name="time_ago_years">%d 年</string>
-    <string name="selected_folder_label">选择的文件夹：</string>
     <string name="create_folder_label">新文件夹名称</string>
     <string name="create_folder_success">成功创建文件夹</string>
     <string name="create_folder_error_no_write_access">无法写入这个文件夹</string>

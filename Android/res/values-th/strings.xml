@@ -80,9 +80,6 @@
     <string name="activity_screen_device_browser_name">สะท้อนภาพไปยังเบราว์เซอร์</string>
     <string name="activity_screen_live_loading">กำลังโหลด</string>
     <string name="activity_screen_live_title_hint">ชื่อเรื่อง</string>
-    <string name="activity_screen_live_game_hint">เลือกเกม</string>
-    <string name="activity_screen_fab_mirror">สะท้อนภาพ</string>
-    <string name="activity_screen_fab_record">บันทึกภาพ</string>
     <string name="activity_video_player_share">%1$s: %2$s</string>
     <string name="activity_video_player_welcome">ยินดีต้อนรับสู่ห้องสนทนา!</string>
     <string name="activity_network_error">ข้อผิดพลาดการเชื่อมต่อเครือข่าย ~</string>

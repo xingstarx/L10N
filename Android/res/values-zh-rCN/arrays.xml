@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string-array name="pref_entries_video_output_format">
-        <item>MKV</item>
-        <item>MP4（不推荐）</item>
-        <item>MOV（不推荐）</item>
-        <item>MPEG-TS</item>
-        <item>FLV</item>
-        <item>AVI（不推荐）</item>
-    </string-array>
     <string-array name="pref_entries_video_source_engine">
         <item>幻影（极快，较稳定）</item>
         <item>内存（较慢，很稳定）</item>
