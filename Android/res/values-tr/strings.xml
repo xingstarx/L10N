@@ -30,7 +30,6 @@
     <string name="menu_settings">Ayarlar</string>
     <string name="menu_how_to_record">Nasıl yayın yapılır?</string>
     <string name="menu_feedback">Geri Bildirim</string>
-    <string name="menu_sign_out">Çıkış Yap</string>
     <string name="menu_search">Ara</string>
     <string name="menu_like">Beğen</string>
     <string name="menu_share">Paylaş</string>
@@ -152,7 +151,6 @@
     <string name="activity_statistics_title">İstatistikler</string>
     <string name="activity_statistics_title_views">İzlenme istatistikleri</string>
     <string name="activity_statistics_title_like">Beğeni istatistikleri</string>
-    <string name="activity_statistics_title_income">Gelir istatistikleri</string>
     <string name="activity_statistics_title_time">Süre istatistikleri</string>
     <string name="activity_statistics_views">Görüntüleme</string>
     <string name="activity_statistics_likes">Beğeni</string>
@@ -337,8 +335,6 @@
     <string name="notification_push_cash_content_me">%s ShouCash bağış yaptın</string>
     <string name="shou_cash_info">Yeterli ShouCash yok!</string>
 	<string name="send_cash_info">ShouCash Nedir?</string>
-    <string name="menu_statistic">İstatistikler</string>
-    <string name="menu_charge">Satın Al</string>
     <string name="msg_buy_shou_cash">Satın Al</string>
     <string name="toast_shou_cash_failure">ShouCash alımı başarısız!</string>
     <string name="toast_shou_cash_google_play_service_not_found">Google Play servis kaynakları bulunamadı</string>

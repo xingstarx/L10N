@@ -27,7 +27,6 @@
     <string name="menu_recordings">녹화한 동영상</string>
     <string name="menu_settings">설정</string>
     <string name="menu_feedback">피드백</string>
-    <string name="menu_sign_out">로그아웃</string>
     <string name="menu_search">검색</string>
     <string name="menu_like">좋아요</string>
     <string name="menu_share">공유</string>

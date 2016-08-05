@@ -29,7 +29,6 @@
     <string name="menu_settings">Настройки</string>
     <string name="menu_feedback">Обратная связь</string>
     <string name="menu_how_to_record">Как транслировать?</string>
-    <string name="menu_sign_out">Выход</string>
     <string name="menu_search">Поиск</string>
     <string name="menu_like">Нравится</string>
     <string name="menu_share">Поделится</string>
@@ -130,7 +129,6 @@
     <string name="activity_statistics_title">Статистика</string>
     <string name="activity_statistics_title_views">Статистика по просмтрам</string>
     <string name="activity_statistics_title_like">Статистика по отметкам «Нравится»</string>
-    <string name="activity_statistics_title_income">Статистика по доходам</string>
     <string name="activity_statistics_views">Просмотры</string>
     <string name="activity_statistics_likes">Отметки «Нравится»</string>
     <string name="activity_statistics_income">Доход</string>
@@ -288,8 +286,6 @@
     <string name="notification_push_cash_big_title">подарено ShouCash: %s</string>
     <string name="notification_push_cash_big_content">%1$s %2$s подарила %3$s</string>
     <string name="shou_cash_info">Недостаточно ShouCash</string>
-    <string name="menu_statistic">Статистика</string>
-    <string name="menu_charge">Купить ShouCash</string>
     <string name="msg_buy_shou_cash">Купить</string>
     <string name="toast_shou_cash_failure">Ошибка ShouCash!</string>
     <string name="toast_shou_cash_google_play_service_not_found">Не удалось найти сервисы Google Play</string>

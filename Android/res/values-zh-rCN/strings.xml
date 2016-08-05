@@ -30,7 +30,6 @@
     <string name="menu_settings">设置</string>
     <string name="menu_feedback">反馈问题</string>
     <string name="menu_how_to_record">如何直播？</string>
-    <string name="menu_sign_out">退出帐号</string>
     <string name="menu_search">搜索</string>
     <string name="menu_like">喜欢</string>
     <string name="menu_share">分享</string>
@@ -149,7 +148,6 @@
     <string name="activity_statistics_title">统计</string>
     <string name="activity_statistics_title_views">观看统计</string>
     <string name="activity_statistics_title_like">喜欢统计</string>
-    <string name="activity_statistics_title_income">收入统计</string>
     <string name="activity_statistics_title_time">播放时长统计</string>
     <string name="activity_statistics_views">总观看</string>
     <string name="activity_statistics_likes">总喜欢</string>
@@ -323,8 +321,6 @@
     <string name="notification_push_share_cast_big_title">您收到 %s 个来自好友分享的直播</string>
     <string name="profile_archive_broadcasts">自动存档我的直播</string>
     <string name="shou_cash_info">ShouCash 不足!</string>
-    <string name="menu_statistic">统计</string>
-    <string name="menu_charge">充值</string>
     <string name="msg_buy_shou_cash">购买</string>
     <string name="toast_shou_cash_failure">ShouCash 失败!</string>
     <string name="toast_shou_cash_google_play_service_not_found">Google Play 服务找不到</string>
@@ -490,4 +486,5 @@
     <string name="donate_text">%s 送你一个 </string>
     <string name="menu_air_record">想要录制?</string>
     <string name="menu_air_mirror">想要镜像?</string>
+    <string name="profile_title_gems">宝石</string>
 </resources>
