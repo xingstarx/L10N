@@ -432,7 +432,7 @@
     <string name="activity_private_broadcast_share_button">Paylaş (%s)</string>
     <string name="activity_share_broadcast_clipboard_title">Kopyala</string>
     <string name="activity_share_broadcast_clipboard_toast_copy_success">Panoya kopyalandı</string>
-    <string name="toast_livefragment_screen_live_people">Lütfen yayına katıla</string>
+    <string name="toast_livefragment_screen_live_people">Lütfen yayına katılacak kişileri seçin</string>
     <string name="activity_share_broadcast_more_title">Daha Fazla</string>
     <string name="activity_share_broadcast_share_success">Paylaşıldı</string>
     <string name="fragment_share_bottom_title">Paylaş...</string>
@@ -492,6 +492,7 @@
     <string name="pay_support">Yayıncıyı desteklemek için bağış yapın</string>
     <string name="pay_get">ShouCash Edinin</string>
     <string name="donate_text">%s sana bağış yaptı </string>
-    <string name="menu_air_record">Kayıt mı yapmak istiyorsunuz?</string>
-    <string name="menu_air_mirror">Ekranınızı mı paylaşmak istiyorsunuz?</string>
+    <string name="menu_air_record">Kaydet</string>
+    <string name="menu_air_mirror">Ekranı Paylaş</string>
+    <string name="profile_title_gems">Mücevher</string>
 </resources>
