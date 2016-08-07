@@ -488,4 +488,6 @@
     <string name="menu_air_record">想要录制?</string>
     <string name="menu_air_mirror">想要镜像?</string>
     <string name="profile_title_gems">宝石</string>
+    <string name="activity_landing_phone">使用手机号登录</string>
+    <string name="activity_account_toast_failed_to_sign_in_with_phone">使用手机号登录失败 :(</string>
 </resources>
