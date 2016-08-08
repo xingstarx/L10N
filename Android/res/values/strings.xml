@@ -25,6 +25,7 @@
     <string name="description_play_pause">Play pause</string>
     <string name="description_live">Live</string>
     <string name="menu_next">Next</string>
+    <string name="menu_skip">Skip</string>
     <string name="menu_more">More</string>
     <string name="menu_recordings">Recordings</string>
     <string name="menu_settings">Settings</string>

@@ -25,6 +25,7 @@
     <string name="description_play_pause">开始停止</string>
     <string name="description_live">直播</string>
     <string name="menu_next">下一步</string>
+    <string name="menu_skip">跳过</string>
     <string name="menu_more">更多</string>
     <string name="menu_recordings">录制的视频</string>
     <string name="menu_settings">设置</string>
