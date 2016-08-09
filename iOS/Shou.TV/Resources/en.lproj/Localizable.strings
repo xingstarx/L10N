@@ -65,6 +65,7 @@
 "landing_btn_google" = "Continue with Google";
 "landing_btn_email" = "Sign up with Email";
 "landing_btn_email_log_in" = "Log in with Email";
+"landing_btn_phone" = "Continue with phone number";
 "landing_btn_log_in_tip" = "Have an Account? Log in";
 "landing_btn_more" = "More";
 "landing_btn_sign_up" = "Sign up";
@@ -74,6 +75,7 @@
 "landing_google_plus_sign_in_progress" = "Log in with Google Plus";
 "landing_facebook_sign_in_progress" = "Log in with Facebook";
 "landing_twitter_sign_in_progress" = "Log in with Twitter";
+"landing_phone_sign_in_progress" = "Log in with phone number";
 "landing_text_agree" = "By proceeding, you agree to the %@ and %@";
 "landing_text_agree_term" = "Terms of Service";
 "landing_text_agree_privacy" = "Privacy Policy";
@@ -149,6 +151,7 @@
 "account_toast_failed_to_sign_in_with_google_plus" = "Failed to log in with Google Plus :(";
 "account_toast_failed_to_sign_in_with_facebook" = "Failed to log in with Facebook :(";
 "account_toast_failed_to_sign_in_with_twitter" = "Failed to log in with Twitter :(";
+"account_toast_failed_to_sign_in_with_phone" = "Failed to log in with phone number :(";
 "account_toast_sign_up_failed" = "Failed to sign up with provided information";
 "account_toast_sign_in_required" = "Log in to continue";
 "account_toast_password_not_match" = "Password do not match";

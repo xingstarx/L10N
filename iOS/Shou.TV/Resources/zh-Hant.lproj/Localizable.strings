@@ -64,6 +64,7 @@
 "landing_btn_google" = "透過 Google 登入";
 "landing_btn_email" = "透過電子郵件註冊";
 "landing_btn_email_log_in" = "透過電子郵件登入";
+"landing_btn_phone" = "透過手機號碼登入";
 "landing_btn_log_in_tip" = "已經有帳號了？登入";
 "landing_btn_more" = "更多";
 "landing_btn_sign_up" = "註冊";
@@ -73,6 +74,7 @@
 "landing_google_plus_sign_in_progress" = "正在用 Google 登入";
 "landing_facebook_sign_in_progress" = "正在用 Facebook 登入";
 "landing_twitter_sign_in_progress" = "正在用 Twitter 登入";
+"landing_phone_sign_in_progress" = "正在用手機號碼登入";
 "landing_text_agree" = "繼續使用即表示你同意 %@ 與 %@";
 "landing_text_agree_term" = "服務條款";
 "landing_text_agree_privacy" = "隱私政策";
@@ -149,6 +151,7 @@
 "account_toast_failed_to_sign_in_with_google_plus" = "使用 Google 登入失敗 :(";
 "account_toast_failed_to_sign_in_with_facebook" = "使用 Facebook 登入失敗 :(";
 "account_toast_failed_to_sign_in_with_twitter" = "使用 Twitter 登入失敗 :(";
+"account_toast_failed_to_sign_in_with_phone" = "使用手機號碼登入失敗 :(";
 "account_toast_sign_up_failed" = "註冊失敗，注意使用者名稱、電子信箱或密碼";
 "account_toast_sign_in_required" = "請登入帳號";
 "account_toast_password_not_match" = "密碼不匹配";
