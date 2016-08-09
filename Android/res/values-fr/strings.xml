@@ -38,7 +38,6 @@
     <string name="menu_message">Messages</string>
     <string name="search_hint">Rechercher streamers/jeux mobile</string>
     <string name="profile_edit_profile">Editer profil</string>
-    <string name="profile_archive_broadcasts">Sauvegarder vos lives automatiquement</string>
     <string name="profile_title_time">Durées</string>
     <string name="profile_title_view">Vues</string>
     <string name="profile_title_like">J\'aime</string>

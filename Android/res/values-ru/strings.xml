@@ -36,7 +36,6 @@
     <string name="menu_quality">Качество</string>
     <string name="search_hint">Поиск по игрокам или играм</string>
     <string name="profile_edit_profile">Изменить профиль</string>
-    <string name="profile_archive_broadcasts">Архивировать мои трансляции</string>
     <string name="activity_landing_btn_sign_up">Зарегистрироваться</string>
     <string name="activity_landing_btn_sign_in">Войти</string>
     <string name="activity_landing_google_plus_sign_in_progress">Войти с помощью Google+</string>
