@@ -62,7 +62,7 @@
 
 "account_text_user_views" = "조회수: %@";
 "account_text_user_likes" = "%@ likes";
-"account_text_user_shoucash" = "%@ cash";
+"account_text_user_shoucash" = "%@ coins";
 "account_text_user_viewers" = "시청자: %@";
 "account_text_game_casts" = "%@ videos";
 "account_text_game_players" = "%@ players";
@@ -211,13 +211,14 @@
 "app_download" = "Install";
 "app_open" = "Open";
 
-"payment_title_label" = "Get ShouCash";
+"payment_title" = "Coins";
+"payment_button" = "Get Coins";
+"payment_help" = "What's the Coins?";
+"payment_tip" = "Send gift to support the broadcaster 🎉";
+"payment_success" = "Purchase successfully! got %@ Coins, total %@ Coins";
 "payment_faild" = "Purchase failed!";
-"payment_success" = "Purchase successfully! got %@ ShouCash, total %@ ShouCash";
 "payment_faild_not_allow" = " In-App Purchases is disabled. Settings > General > Restrictions > Turn on In-App Purchases";
-"lackmoney_title_label" = "ShouCash Shortage!";
-"lackmoney_topup_label" = "Buy more ShouCash to support the broadcaster";
-"lackmoney_buy_button" = "Buy";
+
 "statistics_title" = "Statistics";
 "statistics_title_views" = "Views";
 "statistics_title_likes" = "Likes";
@@ -238,7 +239,6 @@
 "msg_popup_moderate_description" = "%@ is moderate in this room.";
 "msg_popup_moderate_cancel_description" = "%@ is cancel moderate in this room.";
 
-"notification_push_donate" = "💰 %@ sent you %@ ShouCash";
 "notification_push_live" = "👾 %@ 생방송 중 %@";
 "notification_push_follow" = "💞 %@ followed you";
 "notification_push_share" = "💬 %@ want you to watch %@";

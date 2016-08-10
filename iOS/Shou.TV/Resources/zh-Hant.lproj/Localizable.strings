@@ -52,7 +52,7 @@
 "profile_text_views" = "觀看";
 "profile_text_likes" = "喜歡";
 "profile_text_gems" = "寶石";
-"profile_text_cash" = "ShouCash";
+"profile_text_cash" = "金幣";
 "profile_text_games" = "遊戲";
 "profile_text_logout" = "登出";
 "profile_text_options" = "帳號設定";
@@ -82,7 +82,7 @@
 
 "account_text_user_views" = "%@ 觀看";
 "account_text_user_likes" = "%@ 喜歡";
-"account_text_user_shoucash" = "%@ cash";
+"account_text_user_shoucash" = "%@ 金幣";
 "account_text_user_viewers" = "%@ 觀眾";
 "account_text_game_casts" = "%@ 影片";
 "account_text_game_players" = "%@ 玩家";
@@ -263,15 +263,14 @@
 "app_download" = "安裝";
 "app_open" = "開啟";
 
-"payment_title_label" = "獲得 ShouCash";
+"payment_title" = "金幣";
+"payment_button" = "獲得金幣";
+"payment_help" = "什么是金幣？";
 "payment_tip" = "送禮物支持主播 🎉";
+"payment_success" = "購買成功！新獲得 %@ 個金幣，總計 %@ 個金幣";
 "payment_faild_not_allow" = "應用內購買被禁止。 設定 > 一般 > 取用限制 > 允許 App 內購買";
 "payment_faild" = "購買失敗！";
-"payment_success" = "購買成功！";
-"payment_success" = "購買成功！新獲得 %@ 個 ShouCash，總計 %@ 個 ShouCash";
-"lackmoney_title_label" = "ShouCash 不足!";
-"lackmoney_topup_label" = "ShouCash 是什麼？";
-"lackmoney_buy_button" = "購買";
+
 "statistics_title_views" = "觀看";
 "statistics_title_likes" = "喜歡";
 "statistics_title_Income" = "收入";
@@ -301,8 +300,6 @@
 "message_follow_me" = "您現在成為 %@ 的粉絲";
 "message_follow" = "%@ 現在是您的粉絲";
 "message_new_placeholder" = "寫訊息...";
-"message_tip_donate_me" = "您抖內了 %@ %@ ShouCash";
-"message_tip_donate" = "%@ 抖內了您 %@ ShouCash";
 "message_notification_tip" = "🔔 點擊打開推送通知";
 "message_all_marked_read" = "全部訊息已標記為已讀";
 
@@ -316,7 +313,6 @@
 "share_to_twitter" = "%@ 在 Shou 上直播，快來觀看吧: %@ %@";
 "spotlight_content" = "在 Shou 觀看 %@ 的直播";
 
-"notification_push_donate" = "💰 %@ 抖內給您 %@ ShouCash";
 "notification_push_live" = "👾 %@ 正在直播 %@";
 "notification_push_follow" = "💞 %@ 現在是您的新粉絲";
 "notification_push_share" = "💬 %@ 邀您一起看直播 %@";

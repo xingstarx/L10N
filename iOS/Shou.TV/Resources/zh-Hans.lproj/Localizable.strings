@@ -51,7 +51,7 @@
 "profile_text_times" = "时长";
 "profile_text_views" = "观看";
 "profile_text_likes" = "喜欢";
-"profile_text_cash" = "ShouCash";
+"profile_text_cash" = "金币";
 "profile_text_gems" = "宝石";
 "profile_text_games" = "游戏";
 "profile_text_logout" = "退出";
@@ -82,7 +82,7 @@
 
 "account_text_user_views" = "%@ 观看";
 "account_text_user_likes" = "%@ 喜欢";
-"account_text_user_shoucash" = "%@ cash";
+"account_text_user_shoucash" = "%@ 金币";
 "account_text_user_viewers" = "%@ 观众";
 "account_text_game_casts" = "%@ 视频";
 "account_text_game_players" = "%@ 玩家";
@@ -263,14 +263,14 @@
 "app_download" = "安装";
 "app_open" = "打开";
 
-"payment_title_label" = "获得 ShouCash";
+"payment_title" = "金币";
+"payment_button" = "购买金币";
+"payment_help" = "什么是金币？";
 "payment_tip" = "送礼物支持主播 🎉";
+"payment_success" = "购买成功！新获得 %@ 个金币，总计 %@ 个金币";
 "payment_faild_not_allow" = "应用内购买被禁止。 设置 > 通用 > 访问限制 > 允许应用内购买";
 "payment_faild" = "购买失败！";
-"payment_success" = "购买成功！新获得 %@ 个 ShouCash，总计 %@ 个 ShouCash";
-"lackmoney_title_label" = "ShouCash 不足!";
-"lackmoney_topup_label" = "ShouCash 是什么？";
-"lackmoney_buy_button" = "购买";
+
 "statistics_title" = "统计";
 "statistics_title_views" = "观看";
 "statistics_title_likes" = "喜欢";
@@ -300,8 +300,6 @@
 "message_follow_me" = "您现在成为 %@ 的粉丝";
 "message_follow" = "%@ 是您的新粉丝";
 "message_new_placeholder" = "发消息...";
-"message_tip_donate_me" = "您赠送了 %@ %@ ShouCash";
-"message_tip_donate" = "%@ 赠送给您 %@ ShouCash";
 "message_notification_tip" = "🔔 点击打开推送通知";
 "message_all_marked_read" = "全部消息已标记为已读";
 
@@ -315,7 +313,6 @@
 "share_to_twitter" = "%@ 正在 #Shou 直播: %@ %@";
 "spotlight_content" = "在 Shou 观看 %@ 的直播";
 
-"notification_push_donate" = "💰 %@ 赠送 %@ ShouCash";
 "notification_push_live" = "👾 %@ 正在直播 %@";
 "notification_push_follow" = "💞 %@ 现在是您的新粉丝";
 "notification_push_share" = "💬 %@ 邀您一起看直播 %@";

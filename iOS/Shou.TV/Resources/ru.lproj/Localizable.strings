@@ -58,7 +58,7 @@
 "profile_text_times" = "Продолжительность";
 "profile_text_views" = "Просмотры";
 "profile_text_likes" = "Отметки «Нравится»";
-"profile_text_cash" = "ShouCash";
+"profile_text_cash" = "Coins";
 "profile_text_games" = "Игры";
 "profile_text_logout" = "Выйти";
 "profile_text_options" = "Настройки";
@@ -87,7 +87,7 @@
 
 "account_text_user_views" = "%@ просмотры";
 "account_text_user_likes" = "%@ нравится";
-"account_text_user_shoucash" = "%@ деньги";
+"account_text_user_shoucash" = "%@ coins";
 "account_text_user_viewers" = "%@ зрители";
 "account_text_game_casts" = "%@ видео";
 "account_text_game_players" = "%@ игроки";
@@ -273,14 +273,13 @@
 "app_download" = "Установить";
 "app_open" = "Открыть";
 
-
-"payment_title_label" = "Купите ShouCash";
+"payment_title" = "Coins";
+"payment_button" = "Get Coins";
+"payment_help" = "What's the Coins?";
+"payment_success" = "Purchase successfully! got %@ Coins, total %@ Coins";
 "payment_faild" = "Не удалось выполнить покупку";
-"payment_success" = "Покупка успешно выполнена!\nПриобретено — %@ ShouCash, всего — %@ ShouCash";
 "payment_faild_not_allow" = "Встроенные покупки выключены. Перейдите в «Настройки» > «Основные» > «Ограничения» и передвиньте переключатель «Встроенные покупки» в рабочее состояние.";
-"lackmoney_title_label" = "Недостаточно ShouCash!";
-"lackmoney_topup_label" = "Что такое ShouCash?";
-"lackmoney_buy_button" = "Купить";
+
 "statistics_title" = "Статистика";
 "statistics_title_views" = "Просмотры";
 "statistics_title_likes" = "Отметки «Нравится»";
@@ -288,7 +287,6 @@
 "statistics_views" = "Просмотры: %@";
 "statistics_likes" = "Отметки «Нравится»: %@";
 "statistics_Income" = "Доход: %@";
-
 
 "broadcast_title" = "Транслировать";
 "broadcast_camera" = "через камеру";
@@ -313,8 +311,6 @@
 "message_follow_me" = "Вы подписались на пользователя %@";
 "message_follow" = "Пользователь %@ подписался на вас";
 "message_new_placeholder" = "Написать сообщение";
-"message_tip_donate_me" = "Вы подарили пользователю %@ %@ ShouCash";
-"message_tip_donate" = "Пользователь %@ подарил вам %@ ShouCash";
 
 
 "menu_copy" = "Скопировать";
@@ -330,7 +326,6 @@
 "spotlight_content" = "Смотреть трансляцию «%@» на Shou";
 
 
-"notification_push_donate" = "💰 %@ подарил вам %@ ShouCash";
 "notification_push_live" = "👾 %@ начал трансляцию «%@»";
 "notification_push_follow" = "💞 %@ подписался на вас";
 "notification_push_share" = "💬 %@ поделился с вами трансляцией «%@»";

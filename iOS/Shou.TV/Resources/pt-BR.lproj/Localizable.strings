@@ -50,7 +50,7 @@
 "profile_text_times" = "Duration";
 "profile_text_views" = "Visualizaçoes";
 "profile_text_likes" = "Likes";
-"profile_text_cash" = "ShouCash";
+"profile_text_cash" = "Coins";
 "profile_text_games" = "Jogos";
 "profile_text_logout" = "Sair";
 
@@ -76,7 +76,7 @@
 
 "account_text_user_views" = "%@ visualizaçoes";
 "account_text_user_likes" = "%@ likes";
-"account_text_user_shoucash" = "%@ cash";
+"account_text_user_shoucash" = "%@ coins";
 "account_text_user_viewers" = "%@ espectadores";
 "account_text_game_casts" = "%@ videos";
 "account_text_game_players" = "%@ jogadoras";
@@ -238,13 +238,14 @@
 "app_download" = "Install";
 "app_open" = "Open";
 
-"payment_title_label" = "Get ShouCash";
+"payment_title" = "Coins";
+"payment_button" = "Get Coins";
+"payment_help" = "What's the Coins?";
+"payment_tip" = "Send gift to support the broadcaster 🎉";
+"payment_success" = "Purchase successfully! got %@ Coins, total %@ Coins";
 "payment_faild" = "Purchase failed!";
-"payment_success" = "Purchase successfully! got %@ ShouCash, total %@ ShouCash";
 "payment_faild_not_allow" = " In-App Purchases is disabled. Settings > General > Restrictions > Turn on In-App Purchases";
-"lackmoney_title_label" = "ShouCash Shortage!";
-"lackmoney_topup_label" = "Buy more ShouCash to support the broadcaster";
-"lackmoney_buy_button" = "Buy";
+
 "statistics_title" = "Statistics";
 "statistics_title_views" = "Views";
 "statistics_title_likes" = "Likes";
@@ -274,8 +275,6 @@
 "message_follow_me" = "You followed %@";
 "message_follow" = "%@ followed you";
 "message_new_placeholder" = "Write a message...";
-"message_tip_donate_me" = "You donated %@ %@ ShouCash";
-"message_tip_donate" = "%@ donated you %@ ShouCash";
 
 "menu_copy" = "Copy";
 "menu_copy_url" = "Copy Link";
@@ -288,7 +287,6 @@
 
 "spotlight_content" = "Watch %@ LIVE on Shou";
 
-"notification_push_donate" = "💰 %@ sent you %@ ShouCash";
 "notification_push_live" = "👾 %@ está transmitindo %@";
 "notification_push_follow" = "💞 %@ seguiram você";
 "notification_push_share" = "💬 %@ want you to watch %@";
