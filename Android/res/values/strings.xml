@@ -496,6 +496,6 @@
     <string name="menu_air_record">Record</string>
     <string name="menu_air_mirror">Mirror</string>
     <string name="profile_title_gems">Gems</string>
-    <string name="activity_landing_phone">Sign In with phone</string>
-    <string name="activity_account_toast_failed_to_sign_in_with_phone">Failed to sign in with Phone :(</string>
+    <string name="activity_landing_phone">Continue with Phone Number</string>
+    <string name="activity_account_toast_failed_to_sign_in_with_phone">Failed to sign in with Phone Number:(</string>
 </resources>
