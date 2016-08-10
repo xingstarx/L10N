@@ -243,7 +243,7 @@
 "payment_button" = "Get Coins";
 "payment_help" = "What's the Coins?";
 "payment_tip" = "Send gift to support the broadcaster 🎉";
-"payment_success" = "購入成功！ %@ 個 ShouCashを獲得，トータル %@ 個 ShouCash";
+"payment_success" = "Purchase successfully! got %@ Coins, total %@ Coins";
 "payment_faild" = "購入失敗！";
 "payment_faild_not_allow" = "App内購入禁止された。 設定 > 一般 > 機能制限 > App内購入許す";
 
