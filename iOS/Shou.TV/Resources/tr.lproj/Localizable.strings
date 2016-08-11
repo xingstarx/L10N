@@ -7,6 +7,7 @@
 "TIME_AGO_DAYS" = "%@ gün";
 "TIME_AGO_MONTH" = "1 ay";
 "TIME_AGO_MONTHS" = "%@ ay";
+"TIME_AGO_YEAR" = "1 yıl";
 "TIME_AGO_YEARS" = "%@ yıl";
 
 "title_bar_done" = "Tamam";
@@ -65,6 +66,7 @@
 "landing_btn_email" = "Email ile kaydol";
 "landing_btn_email_log_in" = "Email ile giriş yap";
 "landing_btn_log_in_tip" = "Hesabınız mı var? Giriş yapın";
+"landing_btn_phone" = "Telefon numarası ile devam et";
 "landing_btn_more" = "Daha fazla";
 "landing_btn_sign_up" = "Kaydol";
 "landing_btn_sign_in" = "Giriş Yap";
@@ -74,6 +76,7 @@
 "landing_facebook_sign_in_progress" = "Facebook ile giriş yap";
 "landing_twitter_sign_in_progress" = "Twitter ile giriş yap";
 "landing_text_agree" = "Devam etmekle, %@ ve %@'nı kabul etmiş olursunuz";
+"landing_text_agree" = "İlerleyerek, %@ ve %@ kabul etmiş oluyorsunuz";
 "landing_text_agree_term" = "Hizmet Şartları";
 "landing_text_agree_privacy" = "Gizlilik Politikası";
 "landing_suggest_title" = "Önerilen Takipler";
@@ -148,6 +151,7 @@
 "account_toast_failed_to_sign_in_with_google_plus" = "Google Plus ile giriş yapılamadı :(";
 "account_toast_failed_to_sign_in_with_facebook" = "Facebook ile giriş yapılamadı :(";
 "account_toast_failed_to_sign_in_with_twitter" = "Twitter ile giriş yapılamadı :(";
+"account_toast_failed_to_sign_in_with_phone" = "Telefon numarası ile giriş yapılamadı :(";
 "account_toast_sign_up_failed" = "Verilen bilgilerle üye olunamadı";
 "account_toast_sign_in_required" = "Devam etmek için giriş yapın";
 "account_toast_password_not_match" = "Parolalar eşleşmedi";

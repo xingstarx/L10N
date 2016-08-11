@@ -25,6 +25,7 @@
     <string name="description_play_pause">Oynat durdur</string>
     <string name="description_live">Canlı</string>
     <string name="menu_next">Sonraki</string>
+    <string name="menu_skip">Geç</string>
     <string name="menu_more">Daha fazla</string>
     <string name="menu_recordings">Kayıtlar</string>
     <string name="menu_settings">Ayarlar</string>
@@ -495,4 +496,6 @@
     <string name="menu_air_record">Kaydet</string>
     <string name="menu_air_mirror">Ekranı Paylaş</string>
     <string name="profile_title_gems">Mücevher</string>
+    <string name="activity_landing_phone">Telefon numarası ile devam edin</string>
+    <string name="activity_account_toast_failed_to_sign_in_with_phone">Telefon numarası ile giriş yapılamadı:(</string>
 </resources>
