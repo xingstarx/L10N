@@ -417,7 +417,6 @@
     <string name="activity_no_moderatorlist">Pas de modérateur</string>
     <string name="activity_moderator_msg_moderator">Activer Modérateur</string>
     <string name="activity_moderator_msg_unmoderator">Ne Plus Modérateur</string>
-    <string name="pref_title_notifications_tip">Nouvelles offres</string>
     <string name="fragment_rating_happy">nous sommes heureux que vous êtes herueux</string>
     <string name="fragment_rating_initial">Notez notre appli\?</string>
     <string name="fragment_rating_good">S\'il vous plait de partager votre avis sur Google Play en cliquant \"Continuer\"!</string>

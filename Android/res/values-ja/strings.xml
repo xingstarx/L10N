@@ -382,7 +382,6 @@
     <string name="activity_no_moderatorlist">モデレートされたユーザーがいません</string>
     <string name="activity_moderator_msg_moderator">モデレート</string>
     <string name="activity_moderator_msg_unmoderator">モデレートされていません</string>
-    <string name="pref_title_notifications_tip">新しい寄贈</string>
     <string name="fragment_rating_happy">気に入っていただけると幸いです</string>
     <string name="fragment_rating_initial">アプリは気に入っていただけましたか？</string>
     <string name="fragment_rating_good">「続行する」をタップし、Google Play Storeで当社アプリの評価をしていただけると幸いです！</string>

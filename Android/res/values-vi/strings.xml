@@ -190,7 +190,6 @@
     <string name="activity_account_title_sign_up_edit_profile">Sửa hồ sơ cá nhân</string>
     <string name="activity_moderator_msg_moderator">sửa</string>
     <string name="activity_moderator_msg_unmoderator">Hủy sửa</string>
-    <string name="pref_title_notifications_tip">Tặng mới</string>
     <string name="fragment_rating_happy">Chúng tôi vui bạn vui</string>
     <string name="fragment_rating_initial">Bạn thích ứng dụng của chúng tôi chứ?</string>
     <string name="fragment_rating_good">Xin hãy chia sẻ việc đánh giá ứng dụng của chúng tôi trên Play Store của Google bằng cách bấm \"Tiếp tục\"!</string>
