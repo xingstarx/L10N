@@ -417,7 +417,6 @@
     <string name="activity_no_moderatorlist">No moderated user</string>
     <string name="activity_moderator_msg_moderator">Mod</string>
     <string name="activity_moderator_msg_unmoderator">Unmod</string>
-    <string name="pref_title_notifications_tip">New donates</string>
     <string name="fragment_rating_happy">We\'re happy you\'re happy</string>
     <string name="fragment_rating_initial">How do you like our app\?</string>
     <string name="fragment_rating_good">Please share this rating of our app on the Google Play Store by tapping \"Continue\"!</string>

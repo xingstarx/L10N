@@ -190,7 +190,6 @@
     <string name="activity_account_title_sign_up_edit_profile">แก้ไขโปรไฟล์</string>
     <string name="activity_moderator_msg_moderator">ดำเนินรายการ</string>
     <string name="activity_moderator_msg_unmoderator">ยกเลิกดำเนินรายการ</string>
-    <string name="pref_title_notifications_tip">มีการบริจาคใหม่</string>
     <string name="fragment_rating_happy">เรามีความสุขที่คุณมีความสุข</string>
     <string name="fragment_rating_initial">คิดยังไงกับแอปของเรา?</string>
     <string name="fragment_rating_good">โปรดแชร์คะแนนที่คุณให้แอปของเราใน Google Play Store โดยการแตะที่ \"ดำเนินการต่อ\"!</string>

@@ -189,7 +189,6 @@
     <string name="activity_account_btn_skip">تخطي</string>
     <string name="activity_moderator_msg_moderator">معتدل</string>
     <string name="activity_moderator_msg_unmoderator">غير معتدل</string>
-    <string name="pref_title_notifications_tip">تبرعات جديدة</string>
     <string name="fragment_rating_happy">نحن سعداء لكونك سعيدا</string>
     <string name="fragment_rating_initial">ما رأيك في تطبيقنا؟</string>
     <string name="fragment_rating_good">من فضلك شارك تقييمك للتطبيق على متجر جوجل بلاي بالضغط على \"مواصلة\"!</string>
