@@ -145,17 +145,13 @@
     <string name="notification_push_follow_big_title">%s người theo dõi</string>
     <string name="notification_push_like_multi_title">%s thích phát sóng của bạn</string>
     <string name="notification_push_like_big_title">%s thích</string>
-    <string name="notification_push_cash_content">%1$s đã tặng %2$s ShouCash</string>
     <string name="notification_push_cash_big_content">%1$s %2$s đã tặng %3$s!</string>
     <string name="notification_push_share_cast_multi_title">%1$s gửi cho bạn một phát sóng bởi %2$s</string>
     <string name="notification_push_share_cast_big_title">%s chương trình phát sóng từ bạn bè đang chia sẻ</string>
     <string name="notification_push_follow_multi_title_me">Bạn đã theo dõi %s</string>
     <string name="notification_push_like_multi_title_me">Bạn thích chương trình phát sóng của %s</string>
-    <string name="notification_push_cash_content_me">Bạn đã tặng %s ShouCash</string>
     <string name="msg_buy_shou_cash">Mua</string>
     <string name="toast_msg_buy_shou_cash_status">Mua %s</string>
-    <string name="activity_account_text_user_num_cash">%s tiền mặt</string>
-    <string name="fragment_shou_cash_success_msg">Mua thành công! nhận được %1$d ShouCash, tổng cộng có %2$d ShouCash</string>
     <string name="msg_description_reward">Giải thưởng</string>
     <string name="toast_livefragment_screen_live_title">Vui lòng nhập tiêu đề</string>
     <string name="toast_livefragment_screen_live_game">Vui lòng chọn trò chơi</string>
@@ -206,7 +202,6 @@
     <string name="fragment_streaming_broadcast_network_type_checkbox_text">Không hiển thị lần nữa</string>
     <string name="activity_landing_sign_in_email">Đăng nhập với Email</string>
     <string name="app_name">Shou</string>
-    <string name="profile_title_money">ShouCash</string>
     <string name="profile_title_game">Trò chơi</string>
     <string name="activity_landing_more">Thêm</string>
     <string name="activity_account_btn_open">Mở</string>
@@ -218,7 +213,6 @@
     <string name="activity_statistics_likes">Thích</string>
     <string name="activity_statistics_views_unit">Lượt xem</string>
     <string name="activity_statistics_likes_unit">Thích</string>
-    <string name="activity_statistics_show_cash">ShouCash</string>
     <string name="action_share">Chia sẻ</string>
     <string name="ticker_airplay_mirroring_to">%s</string>
     <string name="ticker_browser_mirroring_to">%s</string>

@@ -133,7 +133,6 @@
     <string name="activity_statistics_income">Доход</string>
     <string name="activity_statistics_views_unit">Просмторы</string>
     <string name="activity_statistics_likes_unit">Отметки «Нравится»</string>
-    <string name="activity_statistics_show_cash">ShouCash</string>
     <string name="action_delete">Удалить</string>
     <string name="action_share">Поделиться</string>
     <string name="action_edit">Изменить</string>
@@ -282,18 +281,13 @@
     <string name="notification_push_like_multi_title">новые отметки «Нравится»: %s</string>
     <string name="notification_push_like_description">этому пользователю понравилась ваша трансляция</string>
     <string name="notification_push_like_big_title">новые отметки «Нравится»: %s</string>
-    <string name="notification_push_cash_big_title">подарено ShouCash: %s</string>
     <string name="notification_push_cash_big_content">%1$s %2$s подарила %3$s</string>
-    <string name="shou_cash_info">Недостаточно ShouCash</string>
     <string name="msg_buy_shou_cash">Купить</string>
-    <string name="toast_shou_cash_failure">Ошибка ShouCash!</string>
     <string name="toast_shou_cash_google_play_service_not_found">Не удалось найти сервисы Google Play</string>
     <string name="toast_chat_textview_load_url_failure">Не удалось загрузить ссылку</string>
     <string name="toast_msg_buy_shou_cash_status">Купить %s</string>
     <string name="toast_msg_buy_shou_cash_status_value_error">ошибка</string>
-    <string name="activity_account_text_user_num_cash">%s деньги</string>
     <string name="activity_account_text_user_score">%s очки</string>
-    <string name="fragment_shou_cash_success_msg">Покупка успешно выполнена! Приобретено %1$d ShouCash, всего %2$d ShouCash</string>
     <string name="fragment_shoucash_msg_count">%s</string>
     <string name="msg_description_like">Нравится</string>
     <string name="msg_description_reward">Подарить</string>

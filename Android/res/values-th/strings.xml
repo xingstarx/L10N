@@ -145,17 +145,13 @@
     <string name="notification_push_follow_big_title">ผู้ติดตาม %s คน</string>
     <string name="notification_push_like_multi_title">%s ถูกใจการออกอากาศของคุณ</string>
     <string name="notification_push_like_big_title">%s ถูกใจ</string>
-    <string name="notification_push_cash_content">%1$s บริจาค %2$s ShouCash</string>
     <string name="notification_push_cash_big_content">%1$s %2$s บริจาค %3$s!</string>
     <string name="notification_push_share_cast_multi_title">%1$s ส่งการออกอากาศโดย %2$s มาให้คุณ</string>
     <string name="notification_push_share_cast_big_title">%s การออกอากาศจากที่เพื่อน ๆ แชร์</string>
     <string name="notification_push_follow_multi_title_me">คุณติดตาม %s</string>
     <string name="notification_push_like_multi_title_me">คุณถูกใจการออกอากาศของ %s</string>
-    <string name="notification_push_cash_content_me">คุณบริจาค %s ShouCash</string>
     <string name="msg_buy_shou_cash">ซื้อ</string>
     <string name="toast_msg_buy_shou_cash_status">ซื้อ %s</string>
-    <string name="activity_account_text_user_num_cash">%s cash</string>
-    <string name="fragment_shou_cash_success_msg">ซื้อเรียบร้อยแล้ว! ได้รับ %1$d ShouCash ทั้งหมด %2$d ShouCash</string>
     <string name="msg_description_reward">รางวัล</string>
     <string name="toast_livefragment_screen_live_title">กรุณาใส่ชื่อเรื่อง</string>
     <string name="toast_livefragment_screen_live_game">กรุณาเลือกเกม</string>
@@ -206,7 +202,6 @@
     <string name="fragment_streaming_broadcast_network_type_checkbox_text">ไม่ต้องแสดงอีก</string>
     <string name="activity_landing_sign_in_email">ลงชื่อเข้าใช้ด้วยอีเมล์</string>
     <string name="app_name">Shou</string>
-    <string name="profile_title_money">ShouCash</string>
     <string name="profile_title_game">เกม</string>
     <string name="activity_landing_more">เพิ่มเติม</string>
     <string name="activity_account_btn_open">เปิด</string>
@@ -218,7 +213,6 @@
     <string name="activity_statistics_likes">ถูกใจ</string>
     <string name="activity_statistics_views_unit">จำนวนการเข้าชม</string>
     <string name="activity_statistics_likes_unit">ถูกใจ</string>
-    <string name="activity_statistics_show_cash">ShouCash</string>
     <string name="action_share">แชร์</string>
     <string name="permission_group_shou_description">อนุญาตให้แอปบันทึกหรือถ่ายภาพหน้าจอได้ การกระทำทั้งหมดของคุณสามารถถูกสังเกตการณ์ได้ เช่น แป้นพิมพ์ รหัสผ่าน อื่น ๆ</string>
     <string name="msg_mute_confirm">ปิดเสียง</string>
