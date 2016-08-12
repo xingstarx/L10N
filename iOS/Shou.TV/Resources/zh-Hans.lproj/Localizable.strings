@@ -294,6 +294,8 @@
 "msg_popup_moderate_description" = "%@ 已经设置为管理员";
 "msg_popup_moderate_cancel_description" = "%@ 已经被取消管理员";
 
+"message_section_title_following" = "已关注";
+"message_section_title_strangers" = "未关注";
 "message_list_empty_placeholder" = "没有消息啦 /(ㄒoㄒ)/~~ ";
 "message_like_me" = "您为 %@ 的直播点了一个赞";
 "message_like" = "%@ 为您的直播点了一个赞";
@@ -301,7 +303,8 @@
 "message_follow" = "%@ 是您的新粉丝";
 "message_new_placeholder" = "发消息...";
 "message_notification_tip" = "🔔 点击打开推送通知";
-"message_all_marked_read" = "全部消息已标记为已读";
+"message_from_following_all_marked_read" = "已关注人的消息均被标为已读";
+"message_from_strangers_marked_read" = "未关注人的消息均被标为已读";
 
 "menu_copy" = "复制";
 "menu_copy_url" = "复制链接";

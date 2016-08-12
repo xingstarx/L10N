@@ -270,13 +270,16 @@
 "msg_popup_moderate_description" = "%@ is moderate in this room.";
 "msg_popup_moderate_cancel_description" = "%@ is cancel moderate in this room.";
 
+"message_section_title_following" = "フォローした人";
+"message_section_title_strangers" = "フォローしてない人";
 "message_list_empty_placeholder" = "メッセージはありません";
 "message_like_me" = "あなたは %@ のブロードキャストにいいね！しています You liked %@'s broadcast";
 "message_like" = "%@ 人が、あなたのブロードキャストを、好きと評価しています";
 "message_follow_me" = "あなたは %@ をフォローしています";
 "message_follow" = "%@ があなたをフォローしました";
 "message_new_placeholder" = "新しいメッセージ...";
-"message_all_marked_read" = "全てのメッセージは既読になりました";
+"message_from_following_all_marked_read" = "フォローした人からのメッセージは既読になりました";
+"message_from_strangers_marked_read" = "フォローしてない人からのメッセージは既読になりました";
 
 "menu_copy" = "クリップボードにコピーする";
 "menu_copy_url" = "Copy Link";
