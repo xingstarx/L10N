@@ -265,7 +265,7 @@
 
 "payment_title" = "金幣";
 "payment_button" = "獲得金幣";
-"payment_help" = "什么是金幣？";
+"payment_help" = "什麼是金幣？";
 "payment_tip" = "送禮物支持主播 🎉";
 "payment_success" = "購買成功！新獲得 %@ 個金幣，總計 %@ 個金幣";
 "payment_faild_not_allow" = "應用內購買被禁止。 設定 > 一般 > 取用限制 > 允許 App 內購買";
