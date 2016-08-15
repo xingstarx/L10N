@@ -31,7 +31,6 @@
     <string name="menu_share">共有</string>
     <string name="search_hint">プレイヤー/ゲームを検索</string>
     <string name="profile_edit_profile">プロフィールを編集</string>
-    <string name="profile_archive_broadcasts">自分のブロードキャストを自動的に保存</string>
     <string name="activity_landing_btn_sign_up">登録</string>
     <string name="activity_landing_btn_sign_in">サインイン</string>
     <string name="activity_landing_google_plus_sign_in_progress">Google+でサインイン</string>

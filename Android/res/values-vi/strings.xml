@@ -18,7 +18,6 @@
     <string name="menu_message">Tin nhắn</string>
     <string name="search_hint">Tìm kiếm người chơi/trò chơi</string>
     <string name="profile_edit_profile">Sửa hồ sơ cá nhân</string>
-    <string name="profile_archive_broadcasts">Tự động lưu trữ chương trình phát sóng của tôi</string>
     <string name="profile_title_time">Thời lượng</string>
     <string name="profile_title_view">Lượt xem</string>
     <string name="profile_title_like">Lượt thích</string>

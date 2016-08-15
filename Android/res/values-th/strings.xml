@@ -18,7 +18,6 @@
     <string name="menu_message">ข้อความ</string>
     <string name="search_hint">ค้นหา ผู้เล่น/เกม</string>
     <string name="profile_edit_profile">แก้ไขโปรไฟล์</string>
-    <string name="profile_archive_broadcasts">บันทึกการออกอากาศของฉันโดยอัตโนมัติ</string>
     <string name="profile_title_time">ระยะเวลา</string>
     <string name="profile_title_view">จำนวนการเข้าชม</string>
     <string name="profile_title_like">ถูกใจ</string>

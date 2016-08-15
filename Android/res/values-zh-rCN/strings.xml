@@ -320,7 +320,6 @@
     <string name="notification_push_cash_big_content">%1$s %2$s 赠送给您 %3$s ShouCash</string>
     <string name="notification_push_share_cast_multi_title">%1$s 给你分享了一个直播 %2$s</string>
     <string name="notification_push_share_cast_big_title">您收到 %s 个来自好友分享的直播</string>
-    <string name="profile_archive_broadcasts">自动存档我的直播</string>
     <string name="shou_cash_info">ShouCash 不足!</string>
     <string name="msg_buy_shou_cash">购买</string>
     <string name="toast_shou_cash_failure">ShouCash 失败!</string>
@@ -479,7 +478,6 @@
     <string name="activity_show_email_progress_text">发送代码&#8230;</string>
     <string name="toast_fragment_bottom_not_found_user">找不到该用户</string>
     <string name="fragment_account_edit_private_information">私人信息</string>
-    <string name="fragment_account_edit_other">其他</string>
     <string name="pay_support">发送礼物支持主播</string>
     <string name="pay_get">购买 ShouCash</string>
     <string name="activity_landing_more">更多</string>

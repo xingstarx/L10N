@@ -39,7 +39,6 @@
     <string name="menu_message">Mesajlar</string>
     <string name="search_hint">Oyuncu/oyun ara</string>
     <string name="profile_edit_profile">Profili düzenle</string>
-    <string name="profile_archive_broadcasts">Canlı yayınları sunucuya kaydet</string>
     <string name="profile_title_time">Yayın Süresi</string>
     <string name="profile_title_view">Görüntüleme</string>
     <string name="profile_title_like">Beğeni</string>
@@ -488,7 +487,6 @@
     <string name="activity_show_email_progress_text">Kod Gönder&#8230;</string>
     <string name="toast_fragment_bottom_not_found_user">Kullanıcı bulunamadı</string>
     <string name="fragment_account_edit_private_information">özel bilgiler</string>
-    <string name="fragment_account_edit_other">diğer</string>
     <string name="pay_support">Yayıncıyı desteklemek için bağış yapın</string>
     <string name="pay_get">ShouCash Edinin</string>
     <string name="donate_text">%s sana bağış yaptı </string>

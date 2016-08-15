@@ -33,7 +33,6 @@
     <string name="menu_share">Compartilhar</string>
     <string name="search_hint">Pesquisar Jogador/game</string>
     <string name="profile_edit_profile">Editar perfil</string>
-    <string name="profile_archive_broadcasts">Salvar minha transmissao automaticamente</string>
     <string name="activity_landing_btn_sign_up">Registre-se</string>
     <string name="activity_landing_btn_sign_in">Entrar</string>
     <string name="activity_landing_google_plus_sign_in_progress">Entrar com Google Plus</string>
