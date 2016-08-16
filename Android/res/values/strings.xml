@@ -527,4 +527,9 @@
     <string name="fragment_message_item_header_strangers_title">Strangers</string>
     <string name="message_following_mark_read_success">All Following messages marked as read</string>
     <string name="message_strangers_mark_read_success">All Strangers messages marked as read</string>
+    <string name="camera_error">The device does not have a front-facing camera</string>
+    <string name="verify_account_title">Verify your account</string>
+    <string name="verify_account_content">You must confirm your email address or phone number to continue this operation.</string>
+    <string name="verify_account_verify">Verify</string>
+    <string name="verify_account_cancel">Cancel</string>
 </resources>

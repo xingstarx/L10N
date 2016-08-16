@@ -515,4 +515,10 @@
     <string name="fragment_message_item_header_strangers_title">陌生人</string>
     <string name="message_following_mark_read_success">所有关注私信标记为已读</string>
     <string name="message_strangers_mark_read_success">所有陌生人私信标记为已读</string>
+    <string name="camera_error">此设备没有前置摄像头</string>
+    <string name="verify_account_title">验证你的账号</string>
+    <string name="verify_account_content">您必须验证您的邮箱或者手机才可以开始直播.</string>
+    <string name="verify_account_verify">验证</string>
+    <string name="verify_account_cancel">取消</string>
 </resources>
+
