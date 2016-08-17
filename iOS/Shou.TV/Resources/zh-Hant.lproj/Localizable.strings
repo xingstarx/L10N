@@ -329,3 +329,8 @@
 
 "today_btn_moreinshou" = "在Shou.TV顯示更多";
 "today_btn_login" = "加入Shou.TV";
+
+"ad_fyber_rewarded_button" = "免費";
+"ad_fyber_rewarded_success" = "您獲得了 %@ 個金幣！";
+"ad_fyber_rewarded_faild" = "金幣稍後打入您的賬戶";
+
