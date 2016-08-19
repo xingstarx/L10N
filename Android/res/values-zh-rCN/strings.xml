@@ -320,11 +320,6 @@
     <string name="notification_push_cash_big_content">%1$s %2$s 赠送给您 %3$s ShouCash</string>
     <string name="notification_push_share_cast_multi_title">%1$s 给你分享了一个直播 %2$s</string>
     <string name="notification_push_share_cast_big_title">您收到 %s 个来自好友分享的直播</string>
-<<<<<<< 69b58160ad9ce2e7cd3d1dd0b86af1230ad122f4
-    <string name="shou_cash_info">ShouCash 不足!</string>
-=======
-    <string name="profile_archive_broadcasts">自动存档我的直播</string>
->>>>>>> remove unused strings that contains "shoucash"
     <string name="msg_buy_shou_cash">购买</string>
     <string name="toast_shou_cash_google_play_service_not_found">Google Play 服务找不到</string>
     <string name="toast_chat_textview_load_url_failure">无法加载链接</string>
