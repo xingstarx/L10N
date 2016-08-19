@@ -41,7 +41,7 @@
     <string name="profile_title_time">Durées</string>
     <string name="profile_title_view">Vues</string>
     <string name="profile_title_like">J\'aime</string>
-    <string name="profile_title_money">ShouCash</string>
+    <string name="profile_title_money">Monnaie</string>
     <string name="profile_title_broadcast">Lives</string>
     <string name="profile_title_game">Jeux</string>
     <string name="profile_title_profile">Editer profile/Bloquer</string>
@@ -157,7 +157,6 @@
     <string name="activity_statistics_time">Durée</string>
     <string name="activity_statistics_views_unit">vues</string>
     <string name="activity_statistics_likes_unit">J\'aimes</string>
-    <string name="activity_statistics_show_cash">ShouCash</string>
     <string name="action_delete">Supprimer</string>
     <string name="action_share">Partager à</string>
     <string name="action_edit">Renommer</string>
@@ -322,7 +321,7 @@
     <string name="notification_push_like_description">aime votre live</string>
     <string name="notification_push_like_big_title">%s aime</string>
     <string name="notification_push_cash_big_title">%s gateau</string>
-    <string name="notification_push_cash_content">%1$s offre %2$s ShouCash</string>
+    <string name="notification_push_cash_content">%1$s offre %2$s Monnaie</string>
     <string name="notification_push_cash_big_content">%1$s %2$s donated %3$s!</string>
     <string name="notification_push_share_cast_multi_title">%1$s  vous envoye un live par %2$s</string>
     <string name="notification_push_share_cast_big_title">Vous avez %s live partagé par vos amis</string>
@@ -330,21 +329,17 @@
     <string name="notification_push_follow_description_me">Vous sont suivi %s</string>
     <string name="notification_push_like_multi_title_me">Vous aimez le live de %s</string>
     <string name="notification_push_like_description_me">Vous aimez le live de %s</string>
-    <string name="notification_push_cash_content_me">Vous offrez %s ShouCash</string>
-    <string name="shou_cash_info">ShouCash insuffisant!</string>
-    <string name="send_cash_info">Qu\'est-ce que c\'est le ShouCash?</string>
+    <string name="notification_push_cash_content_me">Vous offrez %s Monnaie</string>
+    <string name="send_cash_info">Qu\'est ce que c\'est la Monnaie?</string>
     <string name="msg_buy_shou_cash">Acheter</string>
-    <string name="toast_shou_cash_failure">ShouCash échoué!</string>
     <string name="toast_shou_cash_google_play_service_not_found">Ne pas trouver le service du Google Play</string>
     <string name="toast_chat_textview_load_url_failure">Le lien ne se charge pas</string>
     <string name="toast_msg_buy_shou_cash_status">Acheter %s</string>
     <string name="toast_msg_buy_shou_cash_status_google_play_error">À cause d\'une erreur du Google Play, votre achat a échoué</string>
-    <string name="toast_msg_buy_shou_cash_status_consumed_error">Votre consommation a échoué, s\'il vous plait de nous contacter par hello@shou.tv</string>
     <string name="toast_msg_buy_shou_cash_status_server_error">À cause d\'une erreur de serveur, votre achat a échoué, s\'il vous plait de redémarrer Shou</string>
     <string name="toast_msg_buy_shou_cash_status_value_error">erreur</string>
-    <string name="activity_account_text_user_num_cash">%s cash</string>
     <string name="activity_account_text_user_score">%s score</string>
-    <string name="fragment_shou_cash_success_msg">Achat réussi! avez %1$d ShouCash, %2$d ShouCash au total</string>
+    <string name="fragment_shou_cash_success_msg">Achat réussi! avez %1$d Monnaie, %2$d Monnaie au total</string>
     <string name="fragment_shoucash_msg_count">%s</string>
     <string name="msg_description_like">Aimer</string>
     <string name="msg_description_reward">Encourager</string>
@@ -467,4 +462,6 @@
     <string name="fragment_verify_label">Entrez les codes envoyés par émail, pour verifier votre adresse émail.</string>
     <string name="fragment_verify_verify">Verify</string>
     <string name="fragment_verify_re_send_code">Réenvoyez les codes</string>
+    <string name="pay_get">Gagner plus de Monnaie</string>
+    <string name="pay_support">Envoyez un cadeau pour soutenir le streamer</string>
 </resources>

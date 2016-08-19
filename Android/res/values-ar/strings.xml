@@ -144,18 +144,13 @@
     <string name="notification_push_follow_big_title">%s متابعين</string>
     <string name="notification_push_like_multi_title">%s أعجب بالبث الخاص بك</string>
     <string name="notification_push_like_big_title">%s إعجابات</string>
-    <string name="notification_push_cash_content">%1$s تبرع بـ %2$s ShouCash</string>
     <string name="notification_push_cash_big_content">%1$s %2$s تبرع %3$s!</string>
     <string name="notification_push_share_cast_multi_title">%1$s أرسل إليك بث بواسطة %2$s</string>
     <string name="notification_push_share_cast_big_title">%s عمليات بث يشاركها الأصدقاء</string>
     <string name="notification_push_follow_multi_title_me">قمت بمتابعة %s</string>
     <string name="notification_push_like_multi_title_me">أعجبت بالبث الخاص بـ %s</string>
-    <string name="notification_push_cash_content_me">تبرعت بـ %s ShouCash</string>
-    <string name="send_cash_info">ما هو ShouCash؟</string>
     <string name="msg_buy_shou_cash">شراء</string>
     <string name="toast_msg_buy_shou_cash_status">شراء %s</string>
-    <string name="activity_account_text_user_num_cash">%s نقدا</string>
-    <string name="fragment_shou_cash_success_msg">تم الشراء بنجاح! حصلت على %1$d ShouCash، الإجمالي %2$d ShouCash</string>
     <string name="msg_description_reward">جائزة</string>
     <string name="toast_livefragment_screen_live_title">يرجى إدخال العنوان</string>
     <string name="toast_livefragment_screen_live_game">يرجى تحديد اللعبة</string>
@@ -213,7 +208,6 @@
     <string name="spotlight_content">مشاهدة %s مباشرة على Shou</string>
     <string name="video_player_source">المصدر</string>
     <string name="app_name">Shou</string>
-    <string name="profile_title_money">ShouCash</string>
     <string name="profile_title_game">الألعاب</string>
     <string name="activity_landing_more">المزيد</string>
     <string name="activity_account_btn_open">فتح</string>
@@ -225,7 +219,6 @@
     <string name="activity_statistics_likes">إعجاب</string>
     <string name="activity_statistics_views_unit">المشاهدات</string>
     <string name="activity_statistics_likes_unit">إعجاب</string>
-    <string name="activity_statistics_show_cash">ShouCash</string>
     <string name="action_share">مشاركة</string>
     <string name="permission_group_shou_description">يمكن التطبيق من تسجيل شاشتك أو التقاط صورة للشاشة. يمكن مراقبة جميع العمليات، مثل لوحة المفاتيح، ,كلمة المرور، إلخ.</string>
     <string name="msg_mute_confirm">كتم الصوت</string>
