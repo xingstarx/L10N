@@ -514,4 +514,9 @@
     <string name="fragment_message_item_header_strangers_title">Yabancılar</string>
     <string name="message_following_mark_read_success">Tüm takip edilen mesajları okundu olarak işaretlendi</string>
     <string name="message_strangers_mark_read_success">Tüm yabancı mesajları okundu olarak işaretlendi</string>
+    <string name="camera_error">Cihazınızın ön kamerası yok</string>
+    <string name="verify_account_title">Hesabınızı doğrulayın</string>
+    <string name="verify_account_content">Bu işlemi devam ettirmek için telefon numaranızı ya da e-posta adresinizi doğrulamanız gerekmektedir.</string>
+    <string name="verify_account_verify">Doğrula</string>
+    <string name="verify_account_cancel">İptal</string>
 </resources>

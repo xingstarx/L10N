@@ -332,3 +332,7 @@
 
 "today_btn_moreinshou" = "Shou.TV'de daha fazlasını göster";
 "today_btn_login" = "Shou.TV'ye giriş yap";
+
+"ad_fyber_rewarded_button" = "Ücretsiz";
+"ad_fyber_rewarded_success" = "%@ Coin kazandınız!";
+"ad_fyber_rewarded_faild" = "Coin'leriniz birkaç dakika içinde hesabınıza aktarılacaktır.";
