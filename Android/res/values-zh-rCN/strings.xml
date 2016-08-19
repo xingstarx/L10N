@@ -325,8 +325,8 @@
     <string name="toast_chat_textview_load_url_failure">无法加载链接</string>
     <string name="toast_msg_buy_shou_cash_status">购买 %s</string>
     <string name="toast_msg_buy_shou_cash_status_google_play_error">从 Google Play 购买失败</string>
-    <string name="toast_msg_buy_shou_cash_status_server_error">金币购买失败，请重启应用</string>
-    <string name="toast_msg_buy_shou_cash_status_value_error">失败</string>
+    <string name="toast_msg_buy_shou_cash_status_retry_consumed_error">购买失败，请重试或者反馈到 hello@shou.tv</string>
+    <string name="toast_msg_buy_shou_cash_status_retry_server_error">服务器购买出错, 请重试或者反馈到 hello@shou.tv</string>
     <string name="fragment_shou_cash_success_msg">购买成功！新获得 %1$d ShouCash，总计 %2$d ShouCash</string>
     <string name="fragment_shoucash_msg_count">%s个</string>
     <string name="msg_description_like">喜欢</string>

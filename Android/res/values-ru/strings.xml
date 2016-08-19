@@ -286,7 +286,6 @@
     <string name="toast_shou_cash_google_play_service_not_found">Не удалось найти сервисы Google Play</string>
     <string name="toast_chat_textview_load_url_failure">Не удалось загрузить ссылку</string>
     <string name="toast_msg_buy_shou_cash_status">Купить %s</string>
-    <string name="toast_msg_buy_shou_cash_status_value_error">ошибка</string>
     <string name="activity_account_text_user_score">%s очки</string>
     <string name="fragment_shoucash_msg_count">%s</string>
     <string name="msg_description_like">Нравится</string>

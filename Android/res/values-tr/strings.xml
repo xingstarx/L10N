@@ -333,8 +333,6 @@
     <string name="toast_chat_textview_load_url_failure">Bağlantı yüklenemedi</string>
     <string name="toast_msg_buy_shou_cash_status">%s satın al</string>
     <string name="toast_msg_buy_shou_cash_status_google_play_error">Satın alma başarısız, Google Play hatası</string>
-    <string name="toast_msg_buy_shou_cash_status_server_error">Satın alma sunucusu hatası, lütfen Shou\'yu yeniden başlatın</string>
-    <string name="toast_msg_buy_shou_cash_status_value_error">Hata:</string>
     <string name="activity_account_text_user_score">%s skor</string>
     <string name="fragment_shoucash_msg_count">%s</string>
     <string name="msg_description_like">Beğen</string>

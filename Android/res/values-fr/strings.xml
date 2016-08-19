@@ -336,8 +336,6 @@
     <string name="toast_chat_textview_load_url_failure">Le lien ne se charge pas</string>
     <string name="toast_msg_buy_shou_cash_status">Acheter %s</string>
     <string name="toast_msg_buy_shou_cash_status_google_play_error">À cause d\'une erreur du Google Play, votre achat a échoué</string>
-    <string name="toast_msg_buy_shou_cash_status_server_error">À cause d\'une erreur de serveur, votre achat a échoué, s\'il vous plait de redémarrer Shou</string>
-    <string name="toast_msg_buy_shou_cash_status_value_error">erreur</string>
     <string name="activity_account_text_user_score">%s score</string>
     <string name="fragment_shou_cash_success_msg">Achat réussi! avez %1$d Monnaie, %2$d Monnaie au total</string>
     <string name="fragment_shoucash_msg_count">%s</string>
