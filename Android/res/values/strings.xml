@@ -499,7 +499,7 @@
     <string name="pref_title_settings_linked_account">Linked Accounts</string>
     <string name="pref_title_settings_push_notifications">Push notifications</string>
     <string name="pref_title_category_support">Support</string>
-    <string name="pref_title_support_help_centre">Help Centre</string>
+    <string name="pref_title_support_help_centre">Help Center</string>
     <string name="pref_title_support_feedback">Feedback</string>
     <string name="pref_title_category_about">About us</string>
     <string name="pref_title_misc_shou_version">Version</string>
