@@ -304,8 +304,8 @@
 "message_follow" = "%@ followed you";
 "message_new_placeholder" = "Write a message...";
 "message_notification_tip" = "🔔 Click to turn on push notifications";
-"message_from_following_all_marked_read" = "All messages from following were marked as read.";
-"message_from_strangers_marked_read" = "All messages from strangers were marked as read.";
+"message_from_following_all_marked_read" = "All following messages marked as read.";
+"message_from_strangers_marked_read" = "All strangers messages marked as read.";
 
 "menu_copy" = "Copy";
 "menu_copy_url" = "Copy Link";

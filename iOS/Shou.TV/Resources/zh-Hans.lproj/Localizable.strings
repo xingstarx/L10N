@@ -303,8 +303,8 @@
 "message_follow" = "%@ 是您的新粉丝";
 "message_new_placeholder" = "发消息...";
 "message_notification_tip" = "🔔 点击打开推送通知";
-"message_from_following_all_marked_read" = "已关注人的消息均被标为已读";
-"message_from_strangers_marked_read" = "未关注人的消息均被标为已读";
+"message_from_following_all_marked_read" = "所有关注私信标记为已读";
+"message_from_strangers_marked_read" = "所有陌生人私信标记为已读";
 
 "menu_copy" = "复制";
 "menu_copy_url" = "复制链接";

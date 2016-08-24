@@ -303,8 +303,8 @@
 "message_follow" = "%@ 現在是您的粉絲";
 "message_new_placeholder" = "寫訊息...";
 "message_notification_tip" = "🔔 點擊打開推送通知";
-"message_from_following_all_marked_read" = "已追蹤人的訊息均被標為已讀";
-"message_from_strangers_marked_read" = "未追蹤人的訊息均被標為已讀";
+"message_from_following_all_marked_read" = "所有追蹤者訊息被標為已讀";
+"message_from_strangers_marked_read" = "所有未追蹤者訊息被標為已讀";
 
 "menu_copy" = "複製";
 "menu_copy_url" = "複製連結";
