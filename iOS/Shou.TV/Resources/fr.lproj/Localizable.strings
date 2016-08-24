@@ -298,7 +298,6 @@
 "message_follow" = "%@ vous a suivi";
 "message_new_placeholder" = "Écrir un message…";
 "message_notification_tip" = "🔔 Cliquer pour activer des notifications";
-"message_all_marked_read" = "Tout marquer comme lu";
 
 "menu_copy" = "Copier";
 "menu_copy_url" = "Copy Link";
