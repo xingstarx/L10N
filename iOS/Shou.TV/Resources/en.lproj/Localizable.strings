@@ -23,14 +23,14 @@
 "dialog_title_open_safari" = "Open in Safari?";
 
 "tab_home" = "Home";
-"tab_games" = "Games";
+"tab_games" = "GAMES";
 "tab_players" = "Players";
 "tab_videos" = "Videos";
 "tab_explore" = "Explore";
 "tab_me" = "Me";
 "tab_messages" = "Messages";
 
-"explore_broadcasters" = "Broadcasters";
+"explore_broadcasters" = "BROADCASTERS";
 "explore_recommended" = "Recommended";
 "explore_leaderboard" = "Leaderboard";
 "explore_leaderboard_text_score" = "score %@";
@@ -295,8 +295,8 @@
 "msg_popup_moderate_description" = "%@ is moderate in this room.";
 "msg_popup_moderate_cancel_description" = "%@ is cancel moderate in this room.";
 
-"message_section_title_following" = "Following";
-"message_section_title_strangers" = "Strangers";
+"message_section_title_following" = "FOLLOWING";
+"message_section_title_strangers" = "STRANGERS";
 "message_list_empty_placeholder" = "No messages to show.";
 "message_like_me" = "You liked %@'s broadcast";
 "message_like" = "%@ liked your broadcast";
