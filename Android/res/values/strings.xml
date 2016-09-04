@@ -449,8 +449,8 @@
     <string name="message_mark_read">Mark all as read</string>
     <string name="message_mark_read_success">All messages marked as read</string>
     <string name="activity_find_friends_suggest_title">Suggestions for You</string>
-    <string name="fragment_app_game">Games</string>
-    <string name="fragment_app_player">Broadcasters</string>
+    <string name="fragment_app_game">GAMES</string>
+    <string name="fragment_app_player">BROADCASTERS</string>
     <string name="fragment_streaming_broadcast_network_type_allowed">Allow broadcast using mobile network</string>
     <string name="fragment_streaming_broadcast_network_type_checkbox_text">Don\'t show again</string>
     <string name="activity_landing_sign_in_email">Sign In with Email</string>
