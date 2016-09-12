@@ -516,5 +516,7 @@
     <string name="verify_account_verify">验证</string>
     <string name="verify_account_cancel">取消</string>
     <string name="send_cash_info">什么是金币?</string>
+    <string name="more_sheet_more_viewers">更多观众</string>
+    <string name="more_sheet_more_likers">更多喜欢的人</string>
 </resources>
 
