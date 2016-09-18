@@ -193,6 +193,8 @@
 "video_player_report_misleading" = "Spam or misleading";
 "video_player_report_playback" = "Playback issue";
 "video_player_report_success" = "Report successfully!";
+"video_player_info_more_watched" = "More Watched";
+"video_player_info_more_liked" = "More Liked";
 
 "chat_room_title" = "Chat";
 

@@ -191,6 +191,8 @@
 "video_player_report_harmful" = "有害或危險行為";
 "video_player_report_misleading" = "垃圾內容或誤導性內容";
 "video_player_report_playback" = "播放問題";
+"video_player_info_more_watched" = "更多觀眾";
+"video_player_info_more_liked" = "更多喜歡";
 
 "chat_room_title" = "聊天室";
 
