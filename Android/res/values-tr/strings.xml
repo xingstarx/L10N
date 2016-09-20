@@ -479,6 +479,7 @@
     <string name="activity_account_hint_phone">telefon</string>
     <string name="toast_account_kit_vertify_phone_binding_phone_loading">Telefon Hesaba Bağlanıyor &#8230;</string>
     <string name="fragment_account_kit_title">Telefonu Hesaba Bağlama</string>
+    <string name="activity_show_email_progress_text">Doğrulama kodu gönderiliyor&#8230;</string>
     <string name="toast_fragment_bottom_not_found_user">Kullanıcı bulunamadı</string>
     <string name="fragment_account_edit_private_information">özel bilgiler</string>
     <string name="pay_support">Yayıncıyı desteklemek için bağış yapın</string>
@@ -526,4 +527,6 @@
     <string name="verify_account_content">Bu işlemi devam ettirmek için telefon numaranızı ya da e-posta adresinizi doğrulamanız gerekmektedir.</string>
     <string name="verify_account_verify">Doğrula</string>
     <string name="verify_account_cancel">İptal</string>
+    <string name="more_sheet_more_viewers">Daha fazla izlenen</string>
+    <string name="more_sheet_more_likers">Daha fazla beğenen</string>
 </resources>
