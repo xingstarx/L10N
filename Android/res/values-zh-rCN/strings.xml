@@ -399,7 +399,6 @@
     <string name="notification_push_follow_description_me">您关注了 %s</string>
     <string name="notification_push_like_multi_title_me">您为 %s 的视频点了一个赞</string>
     <string name="notification_push_like_description_me">您为 %s 的视频点了一个赞</string>
-    <string name="pref_title_notifications_direct_msg">私信</string>
     <string name="activity_moderatorlist_title">管理员</string>
     <string name="activity_no_moderatorlist">没有管理员</string>
     <string name="activity_moderator_msg_moderator">授权</string>
