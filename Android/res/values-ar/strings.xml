@@ -200,13 +200,6 @@
     <string name="activity_landing_sign_in_email">تسجيل الدخول بالبريد الإلكتروني</string>
     <string name="landing_token">Shou هو\nمجمتمع بث ألعاب الهاتف</string>
     <string name="toast_video_deleted">تم حذف الفيديو بواسطة المذيع</string>
-    <string name="title_bar_done">تم</string>
-    <string name="dialog_button_ok">حسنا</string>
-    <string name="dialog_title_open_safari">فتح باستخدام سفاري؟</string>
-    <string name="tab_me">أنا</string>
-    <string name="profile_text_options">خيارات</string>
-    <string name="spotlight_content">مشاهدة %s مباشرة على Shou</string>
-    <string name="video_player_source">المصدر</string>
     <string name="app_name">Shou</string>
     <string name="profile_title_game">الألعاب</string>
     <string name="activity_landing_more">المزيد</string>

@@ -307,12 +307,9 @@
     <string name="notification_push_cash_big_content">%1$s %2$s 抖內給您 %3$s 金幣</string>
     <string name="notification_push_share_cast_multi_title">%1$s 正在分享直播 %2$s</string>
     <string name="notification_push_share_cast_big_title">您追蹤的 %s 位朋友正在分享直播</string>
-    <string name="toast_shou_cash_failure">ShouCash 失敗！</string>
-    <string name="profile_archive_broadcasts">自動收藏我的直播</string>
     <string name="toast_shou_cash_google_play_service_not_found">找不到 Google Play 服務</string>
     <string name="toast_chat_textview_load_url_failure">無法載入連結</string>
     <string name="toast_msg_buy_shou_cash_status">購買 %s</string>
-    <string name="toast_msg_buy_shou_cash_status_value_error">失敗</string>
     <string name="fragment_shou_cash_success_msg">購買成功！新獲得 %1$d 金幣，總計 %2$d 金幣</string>
     <string name="fragment_shoucash_msg_count">%s 個</string>
     <string name="msg_description_like">喜歡</string>

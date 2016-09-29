@@ -116,10 +116,6 @@
     <string name="activity_accessibility_disable_label">Você precisa acessar Shou pelas Configurações, e cliclar sobre ele, para o ativar. Isso irá embaçar sua senha e suas informações privadas enquanto você grava ou transmite.</string>
     <!-- From the settings? Or the Shou settings? I translated from, but I don't know if the english version is correct. -->
     <string name="activity_accessibility_disable_setting">Vá para configurações</string>
-    <string name="activity_app_like_success">Virou um seguidor!</string>
-    <string name="activity_app_like_failed">Falha ao seguir :(</string>
-    <string name="activity_app_unlike_success">Parar de seguir</string>
-    <string name="activity_app_unlike_failed">Falha ao deixar de seguir :(</string>
     <string name="activity_game_group_favorite">Jogos seguidos</string>
     <!-- Here is all about context, followed games are the games that the user follows? Or the videos about the games? -->
     <string name="activity_game_group_played">Transmitir Jogos</string>

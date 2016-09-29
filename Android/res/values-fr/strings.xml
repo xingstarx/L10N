@@ -365,8 +365,6 @@
     <string name="msg_popup_moderate">Modérateur</string>
     <string name="msg_popup_moderate_cancel">Ne plus modérateur</string>
     <string name="msg_popup_at">Mentionner</string>
-    <string name="fragment_bottom_toast_ban_info">Bannir &#8230;</string>
-    <string name="fragment_bottom_toast_unban_info">Unban &#8230;</string>
     <string name="permission_storage_denied">S\'il vous plait de verifier que Shou peut accéder à la carte SD</string>
     <string name="permission_audio_denied">S\'il vous plait de verifier que Shou peut accéder à la Micro</string>
     <string name="msg_error_often">Vous ne pouvez pas envoyer un message assez vite, vous pouvrez le réenvoyer dans %d seconds.</string>
