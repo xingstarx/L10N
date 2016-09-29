@@ -239,6 +239,8 @@
 "broadcast_title_muted_users" = "屏蔽列表";
 "broadcast_title_broadcast_camera" = "直播摄像头";
 
+"broadcast_guide_tips" = "我们支持以下这些游戏直播，很快有更多游戏支持！";
+
 "about_title" = "关于";
 "about_title_help" = "帮助中心";
 "about_title_faq" = "FAQ";

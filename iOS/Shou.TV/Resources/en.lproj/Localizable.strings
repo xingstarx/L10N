@@ -240,6 +240,8 @@
 "broadcast_title_muted_users" = "Muted users";
 "broadcast_title_broadcast_camera" = "Broadcast camera";
 
+"broadcast_guide_tips" = "Now we support ReplayKit LIVE, you can broadcast LIVE directly just from the games below. More games support coming soon!";
+
 "about_title" = "About";
 "about_title_help" = "Help Center";
 "about_title_faq" = "FAQ";
