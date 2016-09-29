@@ -47,7 +47,6 @@
 "profile_text_followers" = "粉絲";
 "profile_text_following" = "追蹤中";
 "profile_edit_profile" = "編輯個人檔案";
-"profile_archive_broadcasts" = "自動存檔我的直播";
 "profile_text_times" = "時長";
 "profile_text_views" = "觀看";
 "profile_text_likes" = "喜歡";
@@ -309,6 +308,7 @@
 "message_notification_tip" = "🔔 點擊打開推送通知";
 "message_from_following_all_marked_read" = "所有追蹤者訊息被標為已讀";
 "message_from_strangers_marked_read" = "所有未追蹤者訊息被標為已讀";
+"message_delete_tips" = "📢 訊息將在 24 小時后被刪除";
 
 "menu_copy" = "複製";
 "menu_copy_url" = "複製連結";
@@ -341,3 +341,5 @@
 "ad_fyber_rewarded_success" = "您獲得了 %@ 個金幣！";
 "ad_fyber_rewarded_faild" = "金幣稍後將存入您的帳號中";
 
+"broadcasts_time_remaining" = "剩餘 %@ 小時";
+"broadcasts_tips" = "📢 視頻將在 24 小時后被刪除";

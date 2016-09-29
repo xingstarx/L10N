@@ -48,7 +48,6 @@
 "profile_text_following" = "FOLLOWING";
 "profile_text_live" = "LIVE";
 "profile_edit_profile" = "EDIT PROFILE";
-"profile_archive_broadcasts" = "Automatically archive my broadcasts";
 "profile_text_times" = "Duration";
 "profile_text_views" = "Views";
 "profile_text_likes" = "Likes";
@@ -310,6 +309,7 @@
 "message_notification_tip" = "🔔 Click to turn on push notifications";
 "message_from_following_all_marked_read" = "All following messages marked as read.";
 "message_from_strangers_marked_read" = "All strangers messages marked as read.";
+"message_delete_tips" = "📢 Messages will be deleted after 24 hours";
 
 "menu_copy" = "Copy";
 "menu_copy_url" = "Copy Link";
@@ -343,3 +343,6 @@
 "ad_fyber_rewarded_button" = "Free";
 "ad_fyber_rewarded_success" = "You have earned %@ Coins!";
 "ad_fyber_rewarded_faild" = "The Coins will be credited to your account in a few minutes.";
+
+"broadcasts_time_remaining" = "%@ hours remaining";
+"broadcasts_tips" = "📢 Broadcasts will be deleted after 24 hours";
