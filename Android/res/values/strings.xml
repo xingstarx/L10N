@@ -401,6 +401,7 @@
     <string name="pref_summary_misc_instagram">shou_tv</string>
     <string name="activity_followers_title">FOLLOWERS</string>
     <string name="activity_following_title">FOLLOWING</string>
+    <string name="activity_top_followers_title">TOP FOLLOWERS</string>
     <string name="activity_videos_title">Videos</string>
     <string name="activity_account_upload_avatar">Upload Avatar</string>
     <string name="activity_account_text_username">Your @%s is unique. You can always change it later.</string>
@@ -492,6 +493,8 @@
     <string name="activity_account_toast_failed_to_sign_in_with_phone">Failed to sign in with Phone Number:(</string>
     <string name="pref_title_category_account">Account</string>
     <string name="pref_title_account_edit_profile">Edit Profile</string>
+    <string name="pref_title_account_coins">Coins</string>
+    <string name="pref_title_account_gems">Gems</string>
     <string name="pref_title_category_live_broadcast">Broadcast</string>
     <string name="pref_title_broadcast_moderators">Moderators</string>
     <string name="pref_title_broadcast_muted_users">Muted users</string>
@@ -529,4 +532,6 @@
     <string name="verify_account_cancel">Cancel</string>
     <string name="more_sheet_more_viewers">More Watched</string>
     <string name="more_sheet_more_likers">More Likers</string>
+    <string name="profile_achievements">ACHIEVEMENTS</string>
+    <string name="profile_top_followers">TOP FOLLOWERS</string>
 </resources>

@@ -389,6 +389,7 @@
     <string name="video_report_suceess">举报成功</string>
     <string name="activity_followers_title">粉丝</string>
     <string name="activity_following_title">关注</string>
+    <string name="activity_top_followers_title">粉丝榜</string>
     <string name="activity_videos_title">视频</string>
     <string name="activity_account_upload_avatar">上传头像</string>
     <string name="activity_account_text_username">你的用户名 @%s 是唯一的，可随时更改.</string>
@@ -483,6 +484,8 @@
     <string name="activity_account_toast_failed_to_sign_in_with_phone">使用手机号登录失败 :(</string>
     <string name="pref_title_category_account">账户</string>
     <string name="pref_title_account_edit_profile">编辑个人资料</string>
+    <string name="pref_title_account_coins">金币</string>
+    <string name="pref_title_account_gems">宝石</string>
     <string name="pref_title_category_live_broadcast">直播</string>
     <string name="pref_title_broadcast_moderators">管理员</string>
     <string name="pref_title_broadcast_muted_users">禁言列表</string>
@@ -517,5 +520,7 @@
     <string name="send_cash_info">什么是金币?</string>
     <string name="more_sheet_more_viewers">更多观众</string>
     <string name="more_sheet_more_likers">更多喜欢的人</string>
+    <string name="profile_achievements">成就</string>
+    <string name="profile_top_followers">粉丝榜</string>
 </resources>
 
