@@ -522,5 +522,6 @@
     <string name="more_sheet_more_likers">更多喜欢的人</string>
     <string name="profile_achievements">成就</string>
     <string name="profile_top_followers">粉丝榜</string>
+    <string name="fragment_message_list_footer_view_text">私信将在24小时后被删除</string>
 </resources>
 
