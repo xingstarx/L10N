@@ -55,6 +55,8 @@
 "profile_text_games" = "游戏";
 "profile_text_logout" = "退出";
 "profile_text_options" = "账号设置";
+"profile_text_achievements" = "成就";
+"profile_text_top_followers" = "粉丝榜";
 
 "landing_slogan" = "Shou 是一个手机游戏直播社区";
 "landing_btn_vk" = "通过 VK 登录";

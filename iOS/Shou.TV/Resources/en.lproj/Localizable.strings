@@ -56,6 +56,8 @@
 "profile_text_games" = "Games";
 "profile_text_logout" = "Log Out";
 "profile_text_options" = "Options";
+"profile_text_achievements" = "ACHIEVEMENTS";
+"profile_text_top_followers" = "TOP FOLLOWERS";
 
 "landing_slogan" = "Shou is the \nmobile game streaming community.";
 "landing_btn_vk" = "Continue with VK";
