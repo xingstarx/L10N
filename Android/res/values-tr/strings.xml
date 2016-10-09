@@ -432,8 +432,6 @@
     <string name="activity_share_broadcast_share_success">Paylaşıldı</string>
     <string name="fragment_share_bottom_title">Paylaş...</string>
     <string name="fragment_share_bottom_cancel">İptal</string>
-    <string name="fragment_share_bottom_share_twitter_title" translatable="false">Twitter</string>
-    <string name="fragment_share_bottom_share_fb_title" translatable="false">Facebook</string>
     <string name="fragment_share_bottom_empty_data_desc">Birbirinizi takip ettiğiniz bir kişi bulunamadı</string>
     <string name="activity_screen_live_public_broadcast_hint">Yayınınızı herkes görecektir</string>
     <string name="activity_screen_live_private_broadcast_hint">Özel olarak paylaşılacaktır</string>
@@ -532,6 +530,6 @@
     <string name="verify_account_cancel">İptal</string>
     <string name="more_sheet_more_viewers">Daha fazla izlenen</string>
     <string name="more_sheet_more_likers">Daha fazla beğenen</string>
-    <string name="profile_achievement">BAŞARILAR</string>
+    <string name="profile_achievements">BAŞARILAR</string>
     <string name="profile_top_followers">EN İYİ TAKİPÇLİLER</string>
 </resources>
