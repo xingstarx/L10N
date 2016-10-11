@@ -56,6 +56,8 @@
 "profile_text_games" = "Oyunlar";
 "profile_text_logout" = "Çıkış Yap";
 "profile_text_options" = "Ayarlar";
+"profile_text_achievements" = "BAŞARILAR";
+"profile_text_top_followers" = "EN İYİ TAKİPÇİLER";
 
 "landing_slogan" = "Shou \nmobil oyun yayını topluluğu.";
 "landing_btn_vk" = "VK ile devam et";
@@ -192,6 +194,8 @@
 "video_player_report_misleading" = "Spam ya da yanıltıcı";
 "video_player_report_playback" = "Oynatma sorunu";
 "video_player_report_playback" = "Başarıyla bildirildi!";
+"video_player_info_more_watched" = "Daha Çok İzlenen";
+"video_player_info_more_liked" = "Daha Çok Beğenilen";
 
 "chat_room_title" = "Sohbet";
 
@@ -236,6 +240,8 @@
 "broadcast_title_moderators" = "Moderatörler";
 "broadcast_title_muted_users" = "Engellenmiş Kullanıcılar";
 "broadcast_title_broadcast_camera" = "Kameradan yayın yap";
+
+"broadcast_guide_tips" = "Artık ReplayKit LIVE'i destekliyoruz, doğrudan oyundan CANLI olarak yayın yapabileceksiniz. Yakında daha fazla oyunun desteği olacak!";
 
 "about_title" = "Hakkında";
 "about_title_help" = "Yardım Merkezi";
@@ -294,6 +300,9 @@
 "msg_popup_moderate_description" = "%@ artık bir moderatör.";
 "msg_popup_moderate_cancel_description" = "%@ moderatörünün yetkisi alındı.";
 
+
+"message_section_title_following" = "TAKİP EDİLEN";
+"message_section_title_strangers" = "YABANCILAR";
 "message_list_empty_placeholder" = "Gösterilecek mesaj yok.";
 "message_like_me" = "%@ oyuncusunun yayınını beğendin";
 "message_like" = "%@ yayınını beğendi";
@@ -301,7 +310,9 @@
 "message_follow" = "%@ seni takip etti";
 "message_new_placeholder" = "Bir mesaj yaz...";
 "message_notification_tip" = "🔔 Anlık bildirimleri açmak için dokun";
-
+"message_from_following_all_marked_read" = "Tüm takip edilen mesajları okundu olarak işaretlendi.";
+"message_from_strangers_marked_read" = "Tüm yabancı mesajları okundu olarak işaretlendi.";
+"message_delete_tips" = "📢 Mesajlar 24 saat sonra silinecektir";
 "menu_copy" = "Kopyala";
 "menu_copy_url" = "Bağlantıyı kopyala";
 "menu_more" = "Daha fazla";
@@ -334,3 +345,6 @@
 "ad_fyber_rewarded_button" = "Ücretsiz";
 "ad_fyber_rewarded_success" = "%@ Coin kazandınız!";
 "ad_fyber_rewarded_faild" = "Coin'leriniz birkaç dakika içinde hesabınıza aktarılacaktır.";
+
+"broadcasts_time_remaining" = "%@ saat kaldı";
+"broadcasts_tips" = "📢 Yayınlar 24 saat sonra silinecektir";
