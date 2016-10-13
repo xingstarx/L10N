@@ -535,4 +535,6 @@
     <string name="profile_achievements">ACHIEVEMENTS</string>
     <string name="profile_top_followers">TOP FOLLOWERS</string>
     <string name="fragment_message_list_footer_view_text">Messages will be deleted after 24 hours</string>
+    <string name="fragment_videos_list_item_remaining">%s remaining</string>
+    <string name="fragment_video_list_footer_view_text">Broadcasts will expire after 24 hours</string>
 </resources>

@@ -421,4 +421,5 @@
     <string name="activity_landing_more">更多</string>
     <string name="profile_title_gems">寶石</string>
     <string name="send_cash_info">什麼是金幣?</string>
+    <string name="fragment_videos_list_item_remaining">剩餘 %s</string>
 </resources>
