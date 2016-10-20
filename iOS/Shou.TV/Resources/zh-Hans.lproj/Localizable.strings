@@ -326,6 +326,9 @@
 "notification_push_follow" = "💞 %@ 现在是您的新粉丝";
 "notification_push_share" = "💬 %@ 邀您一起看直播 %@";
 "notification_push_like" = "❤️ %@ 为您的直播点了一个赞";
+"notification_permission_tips" = "允许收到你喜欢的主播开始直播的通知";
+"notification_permission_cancel" = "暂不";
+"notification_permission_enable" = "允许通知";
 
 "rate_not_interested" = "残忍的拒绝";
 "rate_title" = "你开心我们快乐";

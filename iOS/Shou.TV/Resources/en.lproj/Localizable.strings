@@ -329,6 +329,9 @@
 "notification_push_share" = "💬 %@ want you to watch %@";
 "notification_push_like" = "❤️ %@ liked your broadcast";
 "notification_push_message" = "💬 %@: %@";
+"notification_permission_tips" = "Enable notifications to get notified whenever your favorite broadcaster goes LIVE";
+"notification_permission_cancel" = "Not now";
+"notification_permission_enable" = "Enable Notifications";
 
 "rate_not_interested" = "Not interested";
 "rate_title" = "We're happy you're happy";
