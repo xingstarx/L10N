@@ -493,7 +493,6 @@
     <string name="pref_title_category_live_broadcast">Canlı Yayın</string>
     <string name="pref_title_broadcast_moderators">Moderatörler</string>
     <string name="pref_title_broadcast_muted_users">Engellenen kullanıcılar</string>
-    <string name="pref_title_category_settings">Ayarlar</string>
     <string name="pref_title_settings_linked_account">Bağlantılı Hesaplar</string>
     <string name="pref_title_settings_push_notifications">Anlık bildirimler</string>
     <string name="pref_title_category_support">Destek</string>

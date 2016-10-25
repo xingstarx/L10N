@@ -486,7 +486,6 @@
     <string name="pref_title_category_live_broadcast">直播</string>
     <string name="pref_title_broadcast_moderators">管理员</string>
     <string name="pref_title_broadcast_muted_users">禁言列表</string>
-    <string name="pref_title_category_settings">设置</string>
     <string name="pref_title_settings_linked_account">Linked Accounts</string>
     <string name="pref_title_settings_push_notifications">推送通知</string>
     <string name="pref_title_category_support">支持</string>
