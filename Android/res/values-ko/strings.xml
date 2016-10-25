@@ -135,7 +135,6 @@
     <string name="toast_worker_error_server_die">서버 이상!</string>
     <string name="toast_worker_error_network_error">네트워크 에러 또는 저장공간 부족!</string>
     <string name="toast_screencast_saved">동영상 저장됨: %s</string>
-    <string name="toast_settings_reset">기본 설정으로 돌아갔습니다!</string>
     <string name="toast_settings_audio_source_internal_need_root">시스템 소리 녹음은 루팅이 필요합니다.</string>
     <string name="toast_settings_audio_source_internal_not_supported">장치가 이 기능을 지원하지 않습니다.</string>
     <string name="toast_audio_driver_warning">이미 녹음할 수 있다면 사용하지 마십시오.</string>

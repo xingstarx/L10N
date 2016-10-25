@@ -185,7 +185,6 @@
     <string name="toast_worker_error_server_die">Une erreur de serveur est survenue!</string>
     <string name="toast_worker_error_network_error">Une erreur de connexion ou stockage indisponible!</string>
     <string name="toast_screencast_saved">Vidéo sauvegardé: %s</string>
-    <string name="toast_settings_reset">Vous avez des paramètres par defaut!</string>
     <string name="toast_settings_audio_source_internal_need_root">Il faut obtenir la permission de root pour enregistrer l\'audio interne.</string>
     <string name="toast_settings_audio_source_internal_not_supported">Votre appareil NE SUPPORTE PAS cette founction.</string>
     <string name="toast_audio_driver_warning">Cette opération est dangereuse, vous avez PRIS UN RISQUE. Si votre appareil supporte à enregistrer l\'audio interne, vous n\'avez pas besoin de patcher ce driver.</string>

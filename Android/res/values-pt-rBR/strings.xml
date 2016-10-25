@@ -152,7 +152,6 @@
     <string name="toast_worker_error_network_error">Erro na conexão com a rede ou não há espaço disponível no dispositivo!</string>
     <string name="toast_screencast_saved">Screencast salva: %s</string>
     <!-- There is no translation possible of "Screencast" to portuguese as a single term. It can be translated as "registro (gravação) da saída do vídeo gerado por computador em atividade" but I think that mantaining the original english word is OK -->
-    <string name="toast_settings_reset">Agora você possui as configurações padrão!</string>
     <string name="toast_settings_audio_source_internal_need_root">Gravar áudio interno necessita de permissão Root.</string>
     <string name="toast_settings_audio_source_internal_not_supported">Seu dispositivo parece NÃO ter suporte para essas funções.</string>
     <string name="toast_audio_driver_warning">Essa operação é perigosa, USE POR SUA PRÓPRIA CONTA E RISCO! E não é necessário corrigir o driver se a gravação de audio interno já possuí suporte.</string>

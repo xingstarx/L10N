@@ -160,7 +160,6 @@
     <string name="toast_worker_error_server_die">Произошла ошибка на сервере</string>
     <string name="toast_worker_error_network_error">Ошибка подключения к сети, или на устройстве недостаточно свободной памяти</string>
     <string name="toast_screencast_saved">Трансляция сохранена: %s</string>
-    <string name="toast_settings_reset">Настройки по умолчанию восстановлены</string>
     <string name="toast_settings_audio_source_internal_need_root">Запись внутренних звуков требует права суперпользователя.</string>
     <string name="toast_settings_audio_source_internal_not_supported">Ваше устройство не поддерживает эту функцию.</string>
     <string name="toast_audio_driver_warning">Это действие может быть опасным, совершайте его только на свой страх и риск! Установка патча не требуется в том случае, если запись внутреннего звука уже доступна.</string>

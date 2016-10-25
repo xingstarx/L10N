@@ -187,7 +187,6 @@
     <string name="toast_worker_error_server_die">Sunucu hatası oluştu!</string>
     <string name="toast_worker_error_network_error">Ağ bağlantısı hatası ya da cihazda boş yer kalmamış!</string>
     <string name="toast_screencast_saved">Ekran kaydı kaydedildi: %s</string>
-    <string name="toast_settings_reset">Varsayılan ayarlara geri döndün!</string>
     <string name="toast_settings_audio_source_internal_need_root">Hoparlörden kayıt yapmak için root gereklidir.</string>
     <string name="toast_settings_audio_source_internal_not_supported">Cihazınız bu özelliği desteklemiyor gibi gözüküyor.</string>
     <string name="toast_audio_driver_warning">Bu işlem tehlikelidr, KENDİ RİSKİNİZ ALTINDA KULLANIN! Ve zaten hoparlörden ses kaydı oluyorsa yamalamaya gerek yoktur.</string>
