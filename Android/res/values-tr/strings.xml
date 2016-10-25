@@ -246,8 +246,6 @@
     <string name="pref_title_misc_server">Canlı yayın sunucusu</string>
     <string name="pref_summary_misc_server">Otomatik</string>
     <string name="pref_summary_quality">Orta</string>
-    <string name="pref_title_misc_reset">Sıfırla</string>
-    <string name="pref_summary_misc_reset">Varsayılan ayarlara dön</string>
     <string name="pref_title_misc_recording_dir">Kayıt klasörü</string>
     <string name="pref_title_misc_about">Hakkında</string>
     <string name="pref_summary_misc_about">Sürüm: %s</string>

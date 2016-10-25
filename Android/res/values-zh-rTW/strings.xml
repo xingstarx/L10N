@@ -235,8 +235,6 @@
     <string name="pref_title_misc_server">直播伺服器選擇</string>
     <string name="pref_summary_misc_server">自動</string>
     <string name="pref_summary_quality">中</string>
-    <string name="pref_title_misc_reset">重設</string>
-    <string name="pref_summary_misc_reset">把所有設定重設為預設值</string>
     <string name="pref_title_misc_recording_dir">錄影影片的資料夾</string>
     <string name="pref_title_misc_about">關於</string>
     <string name="pref_summary_misc_about">軟體版本: %s</string>

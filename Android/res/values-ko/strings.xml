@@ -188,8 +188,6 @@
     <string name="pref_summary_misc_bubble">방송이나 미러링 시 위쪽에 부동창을 표시합니다.</string>
     <string name="pref_title_misc_server">방송 서버</string>
     <string name="pref_summary_misc_server">자동</string>
-    <string name="pref_title_misc_reset">초기화</string>
-    <string name="pref_summary_misc_reset">기본 설정으로 초기화</string>
     <string name="pref_title_misc_recording_dir">녹화 파일 경로</string>
     <string name="pref_title_misc_about"> Shou.TV에 대해</string>
     <string name="pref_summary_misc_about">버전: %s</string>

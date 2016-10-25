@@ -217,8 +217,6 @@
     <string name="pref_title_misc_server">Сервер</string>
     <string name="pref_summary_misc_server">Ближайший сервер</string>
     <string name="pref_summary_quality">Среднее</string>
-    <string name="pref_title_misc_reset">Сброс</string>
-    <string name="pref_summary_misc_reset">Сброс настроек</string>
     <string name="pref_title_misc_recording_dir">Католог записей</string>
     <string name="pref_title_misc_about">О приложении</string>
     <string name="pref_summary_misc_about">Версия: %s</string>

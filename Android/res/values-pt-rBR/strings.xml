@@ -214,8 +214,6 @@
     <string name="pref_summary_misc_bubble">Exibir janela flutuante no topo da tela enquanto transmitindo ou refletindo</string>
     <string name="pref_title_misc_server">Servidor de Transmissão</string>
     <string name="pref_summary_misc_server">Automatico</string>
-    <string name="pref_title_misc_reset">Redefinir</string>
-    <string name="pref_summary_misc_reset">Redefinir configurações padrão</string>
     <string name="pref_title_misc_recording_dir">Diretório de gravação</string>
     <string name="pref_title_misc_about">Sobre</string>
     <string name="pref_summary_misc_about">Versão: %s</string>

@@ -243,8 +243,6 @@
     <string name="pref_title_misc_server">Serveurs</string>
     <string name="pref_summary_misc_server">Automatique</string>
     <string name="pref_summary_quality">Moyen</string>
-    <string name="pref_title_misc_reset">Réinitialiser</string>
-    <string name="pref_summary_misc_reset">Réinitialiser réglages par défaut</string>
     <string name="pref_title_misc_recording_dir">Catalogue du vidéo</string>
     <string name="pref_title_misc_about">À propos</string>
     <string name="pref_summary_misc_about">Version: %s</string>

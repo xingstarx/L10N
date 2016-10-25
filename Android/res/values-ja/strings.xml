@@ -192,8 +192,6 @@
     <string name="pref_summary_misc_bubble">フローティングウィンドウを、ブロードキャストもしくはミラーリング中に表示する</string>
     <string name="pref_title_misc_server">ブロードキャストに使用するサーバー</string>
     <string name="pref_summary_misc_server">自動的に選択</string>
-    <string name="pref_title_misc_reset">リセット</string>
-    <string name="pref_summary_misc_reset">標準設定にリセット</string>
     <string name="pref_title_misc_recording_dir">録画先</string>
     <string name="pref_title_misc_about">Shouのバージョン</string>
     <string name="pref_summary_misc_about">バージョン: %s</string>
