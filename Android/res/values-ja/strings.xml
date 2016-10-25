@@ -137,7 +137,6 @@
     <string name="toast_worker_error_server_die">サーバーエラーが発生しました!</string>
     <string name="toast_worker_error_network_error">ネットワークエラーが発生したか、端末に十分な空き容量がありません!</string>
     <string name="toast_screencast_saved">スクリーンキャストは、%sに保存されました!</string>
-    <string name="toast_settings_reset">最初の設定に復元します!</string>
     <string name="toast_settings_audio_source_internal_need_root">内部的な音声を取得するには、ROOT権限が必要がです。</string>
     <string name="toast_settings_audio_source_internal_not_supported">この端末はサポートしていない気がします。</string>
     <string name="toast_audio_driver_warning">これはとても危険です!全てあなたの責任で行ってください!!(もし、サポートしているなら、パッチを適用する必要はありません!)</string>
@@ -193,8 +192,6 @@
     <string name="pref_summary_misc_bubble">フローティングウィンドウを、ブロードキャストもしくはミラーリング中に表示する</string>
     <string name="pref_title_misc_server">ブロードキャストに使用するサーバー</string>
     <string name="pref_summary_misc_server">自動的に選択</string>
-    <string name="pref_title_misc_reset">リセット</string>
-    <string name="pref_summary_misc_reset">標準設定にリセット</string>
     <string name="pref_title_misc_recording_dir">録画先</string>
     <string name="pref_title_misc_about">Shouのバージョン</string>
     <string name="pref_summary_misc_about">バージョン: %s</string>

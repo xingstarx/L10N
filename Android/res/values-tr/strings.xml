@@ -187,7 +187,6 @@
     <string name="toast_worker_error_server_die">Sunucu hatası oluştu!</string>
     <string name="toast_worker_error_network_error">Ağ bağlantısı hatası ya da cihazda boş yer kalmamış!</string>
     <string name="toast_screencast_saved">Ekran kaydı kaydedildi: %s</string>
-    <string name="toast_settings_reset">Varsayılan ayarlara geri döndün!</string>
     <string name="toast_settings_audio_source_internal_need_root">Hoparlörden kayıt yapmak için root gereklidir.</string>
     <string name="toast_settings_audio_source_internal_not_supported">Cihazınız bu özelliği desteklemiyor gibi gözüküyor.</string>
     <string name="toast_audio_driver_warning">Bu işlem tehlikelidr, KENDİ RİSKİNİZ ALTINDA KULLANIN! Ve zaten hoparlörden ses kaydı oluyorsa yamalamaya gerek yoktur.</string>
@@ -247,8 +246,6 @@
     <string name="pref_title_misc_server">Canlı yayın sunucusu</string>
     <string name="pref_summary_misc_server">Otomatik</string>
     <string name="pref_summary_quality">Orta</string>
-    <string name="pref_title_misc_reset">Sıfırla</string>
-    <string name="pref_summary_misc_reset">Varsayılan ayarlara dön</string>
     <string name="pref_title_misc_recording_dir">Kayıt klasörü</string>
     <string name="pref_title_misc_about">Hakkında</string>
     <string name="pref_summary_misc_about">Sürüm: %s</string>
@@ -494,7 +491,6 @@
     <string name="pref_title_category_live_broadcast">Canlı Yayın</string>
     <string name="pref_title_broadcast_moderators">Moderatörler</string>
     <string name="pref_title_broadcast_muted_users">Engellenen kullanıcılar</string>
-    <string name="pref_title_category_settings">Ayarlar</string>
     <string name="pref_title_settings_linked_account">Bağlantılı Hesaplar</string>
     <string name="pref_title_settings_push_notifications">Anlık bildirimler</string>
     <string name="pref_title_category_support">Destek</string>

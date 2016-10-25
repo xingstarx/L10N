@@ -185,7 +185,6 @@
     <string name="toast_worker_error_server_die">服务器异常！</string>
     <string name="toast_worker_error_network_error">网络无法连接或内存空间不足！</string>
     <string name="toast_screencast_saved">录制的视频被保存在 %s</string>
-    <string name="toast_settings_reset">所有设置已经被重置为默认</string>
     <string name="toast_settings_audio_source_internal_need_root">你的设备没有 Root 权限，录制内部声音需要 Root 权限。</string>
     <string name="toast_settings_audio_source_internal_not_supported">你的设备似乎不支持这个特性。</string>
     <string name="toast_audio_driver_warning">如果你已经可以录制系统内部声音，请不要修正音频驱动。修正音频驱动有可能损坏你的设备，我们不提供任何担保。</string>
@@ -245,8 +244,6 @@
     <string name="pref_title_misc_server">直播服务器选择</string>
     <string name="pref_summary_misc_server">自动</string>
     <string name="pref_summary_quality">中</string>
-    <string name="pref_title_misc_reset">重置</string>
-    <string name="pref_summary_misc_reset">把所有设置重置为默认的</string>
     <string name="pref_title_misc_about">关于 Shou.TV</string>
     <string name="pref_summary_misc_about">软件版本： %s</string>
     <string name="pref_title_misc_twitter">Twitter</string>
@@ -487,9 +484,8 @@
     <string name="pref_title_category_live_broadcast">直播</string>
     <string name="pref_title_broadcast_moderators">管理员</string>
     <string name="pref_title_broadcast_muted_users">禁言列表</string>
-    <string name="pref_title_category_settings">设置</string>
     <string name="pref_title_settings_linked_account">Linked Accounts</string>
-    <string name="pref_title_settings_push_notifications">推送通知</string>
+    <string name="pref_title_settings_push_notifications">通知</string>
     <string name="pref_title_category_support">支持</string>
     <string name="pref_title_support_help_centre">帮助中心</string>
     <string name="pref_title_support_feedback">反馈问题</string>
