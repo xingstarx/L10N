@@ -186,7 +186,6 @@
     <string name="permission_accessibility_description">This service will protect you from leaking password or privacy information when recording or broadcasting from Shou.TV</string>
     <string name="pref_title_category_video">Видео</string>
     <string name="pref_summary_category_video">Источник видео, кодирование и другое</string>
-    <string name="pref_title_category_audio">Звук</string>
     <string name="pref_summary_category_audio">Источник звука, патч для драйвера и другое</string>
     <string name="pref_title_category_broadcast">Трансляция</string>
     <string name="pref_summary_category_broadcast">Прямая трансляция или видеоповтор</string>
@@ -205,11 +204,6 @@
     <string name="pref_summary_video_show_touches">Отображение визуального отклика на экране при касаниях</string>
     <string name="pref_title_video_swap_uv">Поменять UV</string>
     <string name="pref_summary_video_swap_uv">Исправить инвертированный цвет в кодировке HW</string>
-    <string name="pref_title_audio_source">Звук</string>
-    <string name="pref_title_audio_patch_driver">Установить патч для драйвера звука</string>
-    <string name="pref_summary_audio_patch_driver">ВНИМАНИЕ! Используйте установку патча только в том случае, если запись внутреннего звука не работает.</string>
-    <string name="pref_title_audio_restore_driver">Восстановить драйвер звука</string>
-    <string name="pref_summary_audio_restore_driver">Восстановление драйвера звука до исходного состояния.</string>
     <string name="pref_title_misc_auto_restart">Автоматический перезапуск</string>
     <string name="pref_summary_misc_auto_restart">Автоматически перезапускать трансляцию или видеоповтор после возникновение ошибки</string>
     <string name="pref_title_misc_bubble">Плавающее окно</string>

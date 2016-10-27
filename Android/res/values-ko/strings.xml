@@ -161,7 +161,6 @@
     <string name="permission_accessibility_description">녹화나 방송 시에 비밀번호나 개인정보가 유출되는 것을 방지합니다.</string>
     <string name="pref_title_category_video">동영상</string>
     <string name="pref_summary_category_video">동영상 해상도, 비트레이트 등</string>
-    <string name="pref_title_category_audio">소리</string>
     <string name="pref_summary_category_audio">음원, 드라이버 등</string>
     <string name="pref_title_category_broadcast">방송</string>
     <string name="pref_summary_category_broadcast">방송 혹은 미러링</string>
@@ -177,11 +176,6 @@
     <string name="pref_summary_video_show_touches">터치한 위치를 표시합니다</string>
     <string name="pref_title_video_swap_uv">색깔 반전 수정</string>
     <string name="pref_summary_video_swap_uv">특정한 장치에서 하드웨어 인코딩 에러 수정</string>
-    <string name="pref_title_audio_source">음원</string>
-    <string name="pref_title_audio_patch_driver">오디오 드라이버 패치</string>
-    <string name="pref_summary_audio_patch_driver">위험! 시스템 소리 녹음이 되지 않는 경우에만 사용하세요.</string>
-    <string name="pref_title_audio_restore_driver">드라이버 복원</string>
-    <string name="pref_summary_audio_restore_driver">기본 드라이버로 복원합니다.</string>
     <string name="pref_title_misc_auto_restart">자동으로 재시작</string>
     <string name="pref_summary_misc_auto_restart">방송이나 미러링 시 에러가 나면 자동으로 재시작합니다.</string>
     <string name="pref_title_misc_bubble">부동창</string>

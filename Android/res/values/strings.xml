@@ -213,7 +213,6 @@
     <string name="permission_accessibility_description">This service will protect you from leaking password or privacy information when recording or broadcasting from Shou.TV</string>
     <string name="pref_title_category_video">Video</string>
     <string name="pref_summary_category_video">Video source, encoding, etc.</string>
-    <string name="pref_title_category_audio">Audio</string>
     <string name="pref_summary_category_audio">Audio source, driver, etc.</string>
     <string name="pref_title_category_broadcast">Broadcast</string>
     <string name="pref_summary_category_broadcast">Live streaming or mirroring</string>
@@ -234,11 +233,6 @@
     <string name="pref_summary_video_fullscreen">Fullscreen video</string>
     <string name="pref_title_video_swap_uv">Swap UV</string>
     <string name="pref_summary_video_swap_uv">Fix HW encoding inverted color</string>
-    <string name="pref_title_audio_source">Audio source</string>
-    <string name="pref_title_audio_patch_driver">Patch audio driver</string>
-    <string name="pref_summary_audio_patch_driver">DANGER! Patch if internal audio recording not work.</string>
-    <string name="pref_title_audio_restore_driver">Restore audio driver</string>
-    <string name="pref_summary_audio_restore_driver">Restore the audio driver to stock.</string>
     <string name="pref_title_misc_auto_restart">Auto restart</string>
     <string name="pref_summary_misc_auto_restart">Whether to restart broadcast or mirroring automatically after error occurred</string>
     <string name="pref_title_misc_bubble">Floating window</string>

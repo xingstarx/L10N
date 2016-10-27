@@ -180,7 +180,6 @@
     <string name="permission_accessibility_description">Esse serviço irá lhe proteger de vazamentos de senha ou informações privadas quando gravar ou transmitir pelo Shou.TV</string>
     <string name="pref_title_category_video">Video</string>
     <string name="pref_summary_category_video">fonte de video, decodificação, etc.</string>
-    <string name="pref_title_category_audio">Áudio</string>
     <string name="pref_summary_category_audio">fonte de áudio, driver, etc.</string>
     <string name="pref_title_category_broadcast">Trasmissão</string>
     <string name="pref_summary_category_broadcast">Transmissão ou espelhamento ao vivo</string>
@@ -201,13 +200,6 @@
     <!-- Touches can mean many things, I translated here in the meaning of contact -->
     <string name="pref_title_video_swap_uv">Trocar UV</string>
     <string name="pref_summary_video_swap_uv">Concertar codificação HW de cor invertida</string>
-    <!-- I don't know what is HW :/ -->
-    <string name="pref_title_audio_source">Fonte de áudio</string>
-    <string name="pref_title_audio_patch_driver">Patch driver de áudio</string>
-    <string name="pref_summary_audio_patch_driver">PERIGO! Patch se o gravador de áudio interno não funcionar.</string>
-    <!-- In this case I prefer to keep the word Patch in the original english -->
-    <string name="pref_title_audio_restore_driver">Restaurar drive de áudio</string>
-    <string name="pref_summary_audio_restore_driver">Restaurar drive de áudio para versão anterior.</string>
     <string name="pref_title_misc_auto_restart">Auto reiniciar</string>
     <string name="pref_summary_misc_auto_restart">Quanto se reiniciar transmissão ou espelhamento automaticamente depois que um erro ocorrer</string>
     <string name="pref_title_misc_bubble">Janela flutuante</string>

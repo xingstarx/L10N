@@ -213,7 +213,6 @@
     <string name="permission_accessibility_description">Bu erişilebilirlik servisi, kayıt yaparken ya da Shou.TV\'ye canlı yayın yaparken parola ve gizlilik bilgilerinizi korur.</string>
     <string name="pref_title_category_video">Video</string>
     <string name="pref_summary_category_video">Video kaynağı, çözümleme, vb.</string>
-    <string name="pref_title_category_audio">Ses</string>
     <string name="pref_summary_category_audio">Ses kaynağı, sürücü, vb.</string>
     <string name="pref_title_category_broadcast">Canlı Yayın</string>
     <string name="pref_summary_category_broadcast">Canlı yayın ya da ekran paylaşımı</string>
@@ -234,11 +233,6 @@
     <string name="pref_summary_video_fullscreen">Videoyu tam ekran çek</string>
     <string name="pref_title_video_swap_uv">Renkleri tersine çevir</string>
     <string name="pref_summary_video_swap_uv">Donanım çözücüsündeki ters renkleri düzelt</string>
-    <string name="pref_title_audio_source">Ses kaynağı</string>
-    <string name="pref_title_audio_patch_driver">Ses sürücüsünü yamala</string>
-    <string name="pref_summary_audio_patch_driver">DİKKAT! Hoparlörden ses kaydı olmuyorsa yamalayın.</string>
-    <string name="pref_title_audio_restore_driver">Ses sürücüsünü geri yükle</string>
-    <string name="pref_summary_audio_restore_driver">Stok ses sürücüsünü geri yükleyin.</string>
     <string name="pref_title_misc_auto_restart">Otomatik yeniden başlatma</string>
     <string name="pref_summary_misc_auto_restart">Canlı yayında ya da ekran paylaşımında bir hata meydana geldiği zaman bu servisleri otomatik olarak yeniden başlatır</string>
     <string name="pref_title_misc_bubble">Kayan pencere</string>
