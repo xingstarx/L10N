@@ -185,13 +185,6 @@
     <string name="toast_worker_error_server_die">Une erreur de serveur est survenue!</string>
     <string name="toast_worker_error_network_error">Une erreur de connexion ou stockage indisponible!</string>
     <string name="toast_screencast_saved">Vidéo sauvegardé: %s</string>
-    <string name="toast_settings_audio_source_internal_need_root">Il faut obtenir la permission de root pour enregistrer l\'audio interne.</string>
-    <string name="toast_settings_audio_source_internal_not_supported">Votre appareil NE SUPPORTE PAS cette founction.</string>
-    <string name="toast_audio_driver_warning">Cette opération est dangereuse, vous avez PRIS UN RISQUE. Si votre appareil supporte à enregistrer l\'audio interne, vous n\'avez pas besoin de patcher ce driver.</string>
-    <string name="toast_audio_driver_patch_success">Patch a réussi! Il faut redémarrer votre appareil!</string>
-    <string name="toast_audio_driver_patch_fail">Echec lors du patch le driver d\'audio!</string>
-    <string name="toast_audio_driver_restore_success">La réinitialisation a réussi!</string>
-    <string name="toast_audio_driver_restore_fail">Echec lors du patch le driver d\'audio!</string>
     <string name="toast_network_only_wifi">Configurer vos périphériques Wi-Fi quand vous live.</string>
     <string name="ticker_recording_started">Demarrer enregistrement&#8230;</string>
     <string name="ticker_recording_stopped">Stop enregistrement&#8230;</string>
@@ -234,8 +227,6 @@
     <string name="pref_summary_misc_auto_restart">La connexion ou l\'écran miroir redémarrent automatiquement quand il y a une erreur.</string>
     <string name="pref_title_misc_bubble">Fenêtre flottante</string>
     <string name="pref_summary_misc_bubble">Afficher la fenêtre flottante sur écran pendant live et le miroir écran.</string>
-    <string name="pref_title_misc_server">Serveurs</string>
-    <string name="pref_summary_misc_server">Automatique</string>
     <string name="pref_summary_quality">Moyen</string>
     <string name="pref_title_misc_recording_dir">Catalogue du vidéo</string>
     <string name="pref_title_misc_about">À propos</string>

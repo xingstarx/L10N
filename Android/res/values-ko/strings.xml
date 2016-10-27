@@ -135,13 +135,6 @@
     <string name="toast_worker_error_server_die">서버 이상!</string>
     <string name="toast_worker_error_network_error">네트워크 에러 또는 저장공간 부족!</string>
     <string name="toast_screencast_saved">동영상 저장됨: %s</string>
-    <string name="toast_settings_audio_source_internal_need_root">시스템 소리 녹음은 루팅이 필요합니다.</string>
-    <string name="toast_settings_audio_source_internal_not_supported">장치가 이 기능을 지원하지 않습니다.</string>
-    <string name="toast_audio_driver_warning">이미 녹음할 수 있다면 사용하지 마십시오.</string>
-    <string name="toast_audio_driver_patch_success">패치 성공! 재부팅하세요.</string>
-    <string name="toast_audio_driver_patch_fail">패치 실패!</string>
-    <string name="toast_audio_driver_restore_success">복원 성공!</string>
-    <string name="toast_audio_driver_restore_fail">복원 실패!</string>
     <string name="toast_network_only_wifi">Wi-Fi에서만 방송이 가능하도록 설정했습니다.</string>
     <string name="ticker_recording_started">화면 녹화 시작&#8230;</string>
     <string name="ticker_recording_stopped">화면 녹화 정지&#8230;</string>
@@ -180,8 +173,6 @@
     <string name="pref_summary_misc_auto_restart">방송이나 미러링 시 에러가 나면 자동으로 재시작합니다.</string>
     <string name="pref_title_misc_bubble">부동창</string>
     <string name="pref_summary_misc_bubble">방송이나 미러링 시 위쪽에 부동창을 표시합니다.</string>
-    <string name="pref_title_misc_server">방송 서버</string>
-    <string name="pref_summary_misc_server">자동</string>
     <string name="pref_title_misc_recording_dir">녹화 파일 경로</string>
     <string name="pref_title_misc_about"> Shou.TV에 대해</string>
     <string name="pref_summary_misc_about">버전: %s</string>

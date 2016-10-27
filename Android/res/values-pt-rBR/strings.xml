@@ -151,15 +151,6 @@
     <string name="toast_worker_error_server_die">Ocorreu um erro no servidor!</string>
     <string name="toast_worker_error_network_error">Erro na conexão com a rede ou não há espaço disponível no dispositivo!</string>
     <string name="toast_screencast_saved">Screencast salva: %s</string>
-    <!-- There is no translation possible of "Screencast" to portuguese as a single term. It can be translated as "registro (gravação) da saída do vídeo gerado por computador em atividade" but I think that mantaining the original english word is OK -->
-    <string name="toast_settings_audio_source_internal_need_root">Gravar áudio interno necessita de permissão Root.</string>
-    <string name="toast_settings_audio_source_internal_not_supported">Seu dispositivo parece NÃO ter suporte para essas funções.</string>
-    <string name="toast_audio_driver_warning">Essa operação é perigosa, USE POR SUA PRÓPRIA CONTA E RISCO! E não é necessário corrigir o driver se a gravação de audio interno já possuí suporte.</string>
-    <string name="toast_audio_driver_patch_success">Sucesso ao corrigir! REBOOT do dispositivo necessário!</string>
-    <!-- There is no word in portuguese for REBOOT -->
-    <string name="toast_audio_driver_patch_fail">Houve uma falha ao concertar o drive de audio!</string>
-    <string name="toast_audio_driver_restore_success">restaurado com êxito!</string>
-    <string name="toast_audio_driver_restore_fail">Houve uma falha ao restaurar o drive de audio!</string>
     <string name="toast_network_only_wifi">Você configurou para transmitir apenas pelo Wi-Fi</string>
     <string name="ticker_recording_started">Gravação de tela iniciado&#8230;</string>
     <string name="ticker_recording_stopped">Gravação de tela finalizada&#8230;</string>
@@ -204,8 +195,6 @@
     <string name="pref_summary_misc_auto_restart">Quanto se reiniciar transmissão ou espelhamento automaticamente depois que um erro ocorrer</string>
     <string name="pref_title_misc_bubble">Janela flutuante</string>
     <string name="pref_summary_misc_bubble">Exibir janela flutuante no topo da tela enquanto transmitindo ou refletindo</string>
-    <string name="pref_title_misc_server">Servidor de Transmissão</string>
-    <string name="pref_summary_misc_server">Automatico</string>
     <string name="pref_title_misc_recording_dir">Diretório de gravação</string>
     <string name="pref_title_misc_about">Sobre</string>
     <string name="pref_summary_misc_about">Versão: %s</string>

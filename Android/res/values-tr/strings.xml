@@ -187,13 +187,6 @@
     <string name="toast_worker_error_server_die">Sunucu hatası oluştu!</string>
     <string name="toast_worker_error_network_error">Ağ bağlantısı hatası ya da cihazda boş yer kalmamış!</string>
     <string name="toast_screencast_saved">Ekran kaydı kaydedildi: %s</string>
-    <string name="toast_settings_audio_source_internal_need_root">Hoparlörden kayıt yapmak için root gereklidir.</string>
-    <string name="toast_settings_audio_source_internal_not_supported">Cihazınız bu özelliği desteklemiyor gibi gözüküyor.</string>
-    <string name="toast_audio_driver_warning">Bu işlem tehlikelidr, KENDİ RİSKİNİZ ALTINDA KULLANIN! Ve zaten hoparlörden ses kaydı oluyorsa yamalamaya gerek yoktur.</string>
-    <string name="toast_audio_driver_patch_success">Başarıyla yamalandı! Yeniden başlatma gerekli.</string>
-    <string name="toast_audio_driver_patch_fail">Ses sürücüsü yamalanamadı!</string>
-    <string name="toast_audio_driver_restore_success">Başarıyla geri yüklendi!</string>
-    <string name="toast_audio_driver_restore_fail">Ses sürücüsü geri yüklenemedi!</string>
     <string name="toast_network_only_wifi">Canlı yayını sadece kablosuz üzerinden yapmaya ayarladınız</string>
     <string name="ticker_recording_started">Ekran kaydı başladı&#8230;</string>
     <string name="ticker_recording_stopped">Ekran kaydı durduruldu&#8230;</string>
@@ -237,8 +230,6 @@
     <string name="pref_summary_misc_auto_restart">Canlı yayında ya da ekran paylaşımında bir hata meydana geldiği zaman bu servisleri otomatik olarak yeniden başlatır</string>
     <string name="pref_title_misc_bubble">Kayan pencere</string>
     <string name="pref_summary_misc_bubble">Canlı yayın ya da ekran paylaşımı yaparken kayan pencereyi ekranda göster</string>
-    <string name="pref_title_misc_server">Canlı yayın sunucusu</string>
-    <string name="pref_summary_misc_server">Otomatik</string>
     <string name="pref_summary_quality">Orta</string>
     <string name="pref_title_misc_recording_dir">Kayıt klasörü</string>
     <string name="pref_title_misc_about">Hakkında</string>

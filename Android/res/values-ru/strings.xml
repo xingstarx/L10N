@@ -160,13 +160,6 @@
     <string name="toast_worker_error_server_die">Произошла ошибка на сервере</string>
     <string name="toast_worker_error_network_error">Ошибка подключения к сети, или на устройстве недостаточно свободной памяти</string>
     <string name="toast_screencast_saved">Трансляция сохранена: %s</string>
-    <string name="toast_settings_audio_source_internal_need_root">Запись внутренних звуков требует права суперпользователя.</string>
-    <string name="toast_settings_audio_source_internal_not_supported">Ваше устройство не поддерживает эту функцию.</string>
-    <string name="toast_audio_driver_warning">Это действие может быть опасным, совершайте его только на свой страх и риск! Установка патча не требуется в том случае, если запись внутреннего звука уже доступна.</string>
-    <string name="toast_audio_driver_patch_success">Патч был успешно установлен! Требуется перезагрузка устройства.</string>
-    <string name="toast_audio_driver_patch_fail">Не удалось установить патч для драйвера звука!</string>
-    <string name="toast_audio_driver_restore_success">Востановление было успешно выполнено!</string>
-    <string name="toast_audio_driver_restore_fail">Не удалось восстановить драйвер звука!</string>
     <string name="toast_network_only_wifi">Трансляции доступны только по сети Wi-Fi</string>
     <string name="ticker_recording_started">Запись экрана начата&#8230;</string>
     <string name="ticker_recording_stopped">Запись экрана остановлена&#8230;</string>
@@ -208,8 +201,6 @@
     <string name="pref_summary_misc_auto_restart">Автоматически перезапускать трансляцию или видеоповтор после возникновение ошибки</string>
     <string name="pref_title_misc_bubble">Плавающее окно</string>
     <string name="pref_summary_misc_bubble">Отображение плавающего окна поверх экрана во время трансляций или видеоповтора</string>
-    <string name="pref_title_misc_server">Сервер</string>
-    <string name="pref_summary_misc_server">Ближайший сервер</string>
     <string name="pref_summary_quality">Среднее</string>
     <string name="pref_title_misc_recording_dir">Католог записей</string>
     <string name="pref_title_misc_about">О приложении</string>

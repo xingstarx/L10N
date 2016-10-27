@@ -178,13 +178,6 @@
     <string name="toast_worker_error_server_die">伺服器異常！</string>
     <string name="toast_worker_error_network_error">網路無法連線或記憶體空間不足！</string>
     <string name="toast_screencast_saved">錄製的影片儲存在 %s</string>
-    <string name="toast_settings_audio_source_internal_need_root">你的裝置無 Root 權限，錄製內部音效需要 Root 權限。</string>
-    <string name="toast_settings_audio_source_internal_not_supported">你的裝置似乎不支援這個特性。</string>
-    <string name="toast_audio_driver_warning">如果你已經可以錄製系統內部音效，請不要修正音效驅動。修正音效驅動有可能損壞你的裝置，我們不提供任何擔保。</string>
-    <string name="toast_audio_driver_patch_success">音效驅動成功修正，請重新啟動裝置。</string>
-    <string name="toast_audio_driver_patch_fail">無法修正音效驅動</string>
-    <string name="toast_audio_driver_restore_success">你的音效驅動已經被還原</string>
-    <string name="toast_audio_driver_restore_fail">無法還原音效驅動</string>
     <string name="toast_network_only_wifi">你已經設定了只在 Wi-Fi 下直播，請打開 Wi-Fi 或者修改設定</string>
     <string name="ticker_recording_started">螢幕錄影開始&#8230;</string>
     <string name="ticker_recording_stopped">螢幕錄影停止&#8230;</string>
@@ -226,8 +219,6 @@
     <string name="pref_summary_misc_auto_restart">在螢幕直播或螢幕投射失敗後自動重新連線</string>
     <string name="pref_title_misc_bubble">啟用多功能浮動視窗</string>
     <string name="pref_summary_misc_bubble">在直播或螢幕投射時顯示多功能浮動視窗</string>
-    <string name="pref_title_misc_server">直播伺服器選擇</string>
-    <string name="pref_summary_misc_server">自動</string>
     <string name="pref_summary_quality">中</string>
     <string name="pref_title_misc_recording_dir">錄影影片的資料夾</string>
     <string name="pref_title_misc_about">關於</string>

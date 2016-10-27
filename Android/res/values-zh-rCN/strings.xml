@@ -185,13 +185,6 @@
     <string name="toast_worker_error_server_die">服务器异常！</string>
     <string name="toast_worker_error_network_error">网络无法连接或内存空间不足！</string>
     <string name="toast_screencast_saved">录制的视频被保存在 %s</string>
-    <string name="toast_settings_audio_source_internal_need_root">你的设备没有 Root 权限，录制内部声音需要 Root 权限。</string>
-    <string name="toast_settings_audio_source_internal_not_supported">你的设备似乎不支持这个特性。</string>
-    <string name="toast_audio_driver_warning">如果你已经可以录制系统内部声音，请不要修正音频驱动。修正音频驱动有可能损坏你的设备，我们不提供任何担保。</string>
-    <string name="toast_audio_driver_patch_success">音频驱动成功修正，请重启设备。</string>
-    <string name="toast_audio_driver_patch_fail">无法修正音频驱动</string>
-    <string name="toast_audio_driver_restore_success">你的音频驱动已经被还原</string>
-    <string name="toast_audio_driver_restore_fail">无法还原音频驱动</string>
     <string name="toast_network_only_wifi">你已经设置了只在 Wi-Fi 下直播，请打开 Wi-Fi 或者修改设置</string>
     <string name="ticker_recording_started">屏幕录制开始&#8230;</string>
     <string name="ticker_recording_stopped">屏幕录制停止&#8230;</string>
@@ -235,8 +228,6 @@
     <string name="pref_summary_misc_auto_restart">在屏幕直播或镜像失败后自动重连</string>
     <string name="pref_title_misc_bubble">启用多功能浮动窗口</string>
     <string name="pref_summary_misc_bubble">在直播或镜像时显示多功能浮动窗口</string>
-    <string name="pref_title_misc_server">直播服务器选择</string>
-    <string name="pref_summary_misc_server">自动</string>
     <string name="pref_summary_quality">中</string>
     <string name="pref_title_misc_about">关于 Shou.TV</string>
     <string name="pref_summary_misc_about">软件版本： %s</string>
