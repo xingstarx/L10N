@@ -36,11 +36,6 @@
         <item>10 Mbps</item>
         <item>16 Mbps</item>
     </string-array>
-    <string-array name="pref_entries_audio_source">
-        <item>Sessiz</item>
-        <item>Mikrofon</item>
-        <item>Hoparlör</item>
-    </string-array>
     <string-array name="profile_tabs">
         <item>video</item>
         <item>takip edilen</item>

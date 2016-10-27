@@ -36,11 +36,6 @@
         <item>10 Mbps</item>
         <item>16 Mbps</item>
     </string-array>
-    <string-array name="pref_entries_audio_source">
-        <item>Mute</item>
-        <item>Mic</item>
-        <item>Internal</item>
-    </string-array>
     <string-array name="profile_tabs">
         <item>videos</item>
         <item>following</item>

@@ -51,11 +51,6 @@
         <item>10 Mbps</item>
         <item>16 Mbps</item>
     </string-array>
-    <string-array name="pref_entries_audio_source">
-        <item>靜音</item>
-        <item>麥克風</item>
-        <item>系統內聲音（錄製螢幕時無聲）</item>
-    </string-array>
     <string-array name="profile_tabs">
         <item>影片</item>
         <item>追蹤</item>
