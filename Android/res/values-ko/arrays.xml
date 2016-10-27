@@ -51,11 +51,6 @@
         <item>10 Mbps</item>
         <item>16 Mbps</item>
     </string-array>
-    <string-array name="pref_entries_audio_source">
-        <item>음소거</item>
-        <item>마이크</item>
-        <item>시스템 소리(마이크 소리 없음)</item>
-    </string-array>
     <string-array name="profile_tabs">
         <item>비디오</item>
         <item>팔로잉</item>

@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string-array name="pref_entries_audio_source">
-        <item>ミュート(無し)</item>
-        <item>マイク</item>
-        <item>内部音声(Root化必須)</item>
-    </string-array>
     <string-array name="profile_tabs">
         <item>動画</item>
         <item>フォロー中</item>

@@ -151,15 +151,6 @@
     <string name="toast_worker_error_server_die">Ocorreu um erro no servidor!</string>
     <string name="toast_worker_error_network_error">Erro na conexão com a rede ou não há espaço disponível no dispositivo!</string>
     <string name="toast_screencast_saved">Screencast salva: %s</string>
-    <!-- There is no translation possible of "Screencast" to portuguese as a single term. It can be translated as "registro (gravação) da saída do vídeo gerado por computador em atividade" but I think that mantaining the original english word is OK -->
-    <string name="toast_settings_audio_source_internal_need_root">Gravar áudio interno necessita de permissão Root.</string>
-    <string name="toast_settings_audio_source_internal_not_supported">Seu dispositivo parece NÃO ter suporte para essas funções.</string>
-    <string name="toast_audio_driver_warning">Essa operação é perigosa, USE POR SUA PRÓPRIA CONTA E RISCO! E não é necessário corrigir o driver se a gravação de audio interno já possuí suporte.</string>
-    <string name="toast_audio_driver_patch_success">Sucesso ao corrigir! REBOOT do dispositivo necessário!</string>
-    <!-- There is no word in portuguese for REBOOT -->
-    <string name="toast_audio_driver_patch_fail">Houve uma falha ao concertar o drive de audio!</string>
-    <string name="toast_audio_driver_restore_success">restaurado com êxito!</string>
-    <string name="toast_audio_driver_restore_fail">Houve uma falha ao restaurar o drive de audio!</string>
     <string name="toast_network_only_wifi">Você configurou para transmitir apenas pelo Wi-Fi</string>
     <string name="ticker_recording_started">Gravação de tela iniciado&#8230;</string>
     <string name="ticker_recording_stopped">Gravação de tela finalizada&#8230;</string>
@@ -180,7 +171,6 @@
     <string name="permission_accessibility_description">Esse serviço irá lhe proteger de vazamentos de senha ou informações privadas quando gravar ou transmitir pelo Shou.TV</string>
     <string name="pref_title_category_video">Video</string>
     <string name="pref_summary_category_video">fonte de video, decodificação, etc.</string>
-    <string name="pref_title_category_audio">Áudio</string>
     <string name="pref_summary_category_audio">fonte de áudio, driver, etc.</string>
     <string name="pref_title_category_broadcast">Trasmissão</string>
     <string name="pref_summary_category_broadcast">Transmissão ou espelhamento ao vivo</string>
@@ -201,19 +191,10 @@
     <!-- Touches can mean many things, I translated here in the meaning of contact -->
     <string name="pref_title_video_swap_uv">Trocar UV</string>
     <string name="pref_summary_video_swap_uv">Concertar codificação HW de cor invertida</string>
-    <!-- I don't know what is HW :/ -->
-    <string name="pref_title_audio_source">Fonte de áudio</string>
-    <string name="pref_title_audio_patch_driver">Patch driver de áudio</string>
-    <string name="pref_summary_audio_patch_driver">PERIGO! Patch se o gravador de áudio interno não funcionar.</string>
-    <!-- In this case I prefer to keep the word Patch in the original english -->
-    <string name="pref_title_audio_restore_driver">Restaurar drive de áudio</string>
-    <string name="pref_summary_audio_restore_driver">Restaurar drive de áudio para versão anterior.</string>
     <string name="pref_title_misc_auto_restart">Auto reiniciar</string>
     <string name="pref_summary_misc_auto_restart">Quanto se reiniciar transmissão ou espelhamento automaticamente depois que um erro ocorrer</string>
     <string name="pref_title_misc_bubble">Janela flutuante</string>
     <string name="pref_summary_misc_bubble">Exibir janela flutuante no topo da tela enquanto transmitindo ou refletindo</string>
-    <string name="pref_title_misc_server">Servidor de Transmissão</string>
-    <string name="pref_summary_misc_server">Automatico</string>
     <string name="pref_title_misc_recording_dir">Diretório de gravação</string>
     <string name="pref_title_misc_about">Sobre</string>
     <string name="pref_summary_misc_about">Versão: %s</string>

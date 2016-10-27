@@ -51,11 +51,6 @@
         <item>10 Мбит/с</item>
         <item>16 Мбит/с</item>
     </string-array>
-    <string-array name="pref_entries_audio_source">
-        <item>Без звука</item>
-        <item>Микрофон</item>
-        <item>Внутренний звук</item>
-    </string-array>
     <string-array name="profile_tabs">
         <item>видео</item>
         <item>подписки</item>
