@@ -458,7 +458,7 @@
     <string name="pay_support">发送礼物支持主播</string>
     <string name="pay_get">购买金币</string>
     <string name="activity_landing_more">更多</string>
-    <string name="donate_text">%s 送你一个 </string>
+    <string name="donate_text">%s 送给你 </string>
     <string name="profile_title_gems">宝石</string>
     <string name="activity_landing_phone">使用手机号登录</string>
     <string name="activity_account_toast_failed_to_sign_in_with_phone">使用手机号登录失败 :(</string>

@@ -465,7 +465,6 @@
     <string name="fragment_account_edit_private_information">özel bilgiler</string>
     <string name="pay_support">Yayıncıyı desteklemek için bağış yapın</string>
     <string name="pay_get">Coin Edinin</string>
-    <string name="donate_text">%s sana bağış yaptı </string>
     <string name="profile_title_gems">Mücevher</string>
     <string name="activity_landing_phone">Telefon numarası ile devam edin</string>
     <string name="activity_account_toast_failed_to_sign_in_with_phone">Telefon numarası ile giriş yapılamadı:(</string>

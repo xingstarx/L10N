@@ -467,7 +467,7 @@
     <string name="fragment_account_edit_private_information">private information</string>
     <string name="pay_support">Send gift to support the broadcaster</string>
     <string name="pay_get">Get Coins</string>
-    <string name="donate_text">%s send you a gift </string>
+    <string name="donate_text">%s send you </string>
     <string name="profile_title_gems">Gems</string>
     <string name="activity_landing_phone">Continue with Phone Number</string>
     <string name="activity_account_toast_failed_to_sign_in_with_phone">Failed to sign in with Phone Number:(</string>
