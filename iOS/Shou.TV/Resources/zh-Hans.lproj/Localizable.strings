@@ -20,6 +20,7 @@
 "dialog_button_share" = "分享";
 "dialog_button_close" = "关闭";
 "dialog_button_cancel" = "取消";
+"dialog_button_change" = "更换";
 "dialog_title_open_safari" = "用 Safari 打开链接?";
 
 "tab_home" = "首页";
@@ -166,6 +167,7 @@
 "account_email_sent" = "我们已向 %@ 发送了包含验证码的邮件";
 "account_email_sent_title" = "检查您的收件箱";
 "account_email_verified" = "您的电子邮箱地址已验证 👌";
+"account_phone_verified" = "您的手机号码已验证。您要更换手机号码吗？";
 "account_confirm_password" = "为了您的安全，请输入您当前账号的密码。";
 "account_code_resend" = "重新发送验证码";
 "account_private_infomation" = "隐私信息";

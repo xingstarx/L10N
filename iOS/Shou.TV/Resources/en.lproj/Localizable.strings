@@ -20,6 +20,7 @@
 "dialog_button_share" = "Share";
 "dialog_button_close" = "Close";
 "dialog_button_cancel" = "Cancel";
+"dialog_button_change" = "Change";
 "dialog_title_open_safari" = "Open in Safari?";
 
 "tab_home" = "Home";
@@ -168,6 +169,7 @@
 "account_email_sent" = "We have sent an email to %@ with the code";
 "account_email_sent_title" = "Check Your Inbox";
 "account_email_verified" = "Your email address is verified 👌";
+"account_phone_verified" = "Your phone number is already verified. Do you want to change the phone number?";
 "account_code_resend" = "Re-send Code";
 "account_confirm_password" = "For your security, please enter your password.";
 "account_private_infomation" = "PRIVATE INFOMATION";

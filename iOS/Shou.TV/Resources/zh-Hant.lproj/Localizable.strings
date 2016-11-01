@@ -20,6 +20,7 @@
 "dialog_button_share" = "分享";
 "dialog_button_close" = "關閉";
 "dialog_button_cancel" = "取消";
+"dialog_button_change" = "變更";
 "dialog_title_open_safari" = "用 Safari 開啟連結？";
 
 "tab_home" = "首頁";
@@ -166,6 +167,7 @@
 "account_email_sent" = "我們已向 %@ 傳送了包含驗證碼的電子郵件";
 "account_email_sent_title" = "檢查您的收件匣";
 "account_email_verified" = "您的電子郵箱地址已驗證 👌";
+"account_phone_verified" = "您的手機號碼已驗證。您要變更手機號碼嗎？";
 "account_confirm_password" = "為了您的安全，請輸入您目前帳號的密碼。";
 "account_code_resend" = "重新傳送校驗證碼";
 "account_private_infomation" = "隱私資訊";
