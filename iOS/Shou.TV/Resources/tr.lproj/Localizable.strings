@@ -20,6 +20,7 @@
 "dialog_button_share" = "Paylaş";
 "dialog_button_close" = "Kapat";
 "dialog_button_cancel" = "İptal";
+"dialog_button_change" = "Değiştir";
 "dialog_title_open_safari" = "Safari'de açılsın mı?";
 
 "tab_home" = "Ana Sayfa";
@@ -168,6 +169,7 @@
 "account_email_sent" = "%@ adresine kodla birlikte bir e-posta gönderdik";
 "account_email_sent_title" = "Gelen Kutunuzu Kontrol Edin";
 "account_email_verified" = "E-postanız doğrulandı 👌";
+"account_phone_verified" = "Telefon numaranız zaten doğrulanmış. Yine de telefon numaranızı değiştirmek istiyor musunuz?";
 "account_code_resend" = "Kodu Tekrar Gönder";
 "account_confirm_password" = "Güvenliğiniz için, lütfen parolanızı giriniz.";
 "account_private_infomation" = "ÖZEL BİLGİLER";
@@ -330,6 +332,10 @@
 "notification_push_like" = "❤️ %@ yayınını beğendi";
 "notification_push_message" = "💬 %@: %@";
 
+"notification_permission_tips" = "Favori yayıncın CANLI YAYINA başladığında haberin olması için bildirimleri etkinleştir";
+"notification_permission_cancel" = "Şimdi Değil";
+"notification_permission_enable" = "Bildirimleri Etkinleştir";
+ 
 "rate_not_interested" = "İlgilenmiyorum";
 "rate_title" = "Memnun olduğunuza sevindik";
 "rate_tip" = "Uygulamamızı nasıl buldunuz? Bir yıldıza basarak değerlendirin.";
