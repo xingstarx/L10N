@@ -330,6 +330,7 @@
 "notification_push_share" = "💬 %@ поделился с вами трансляцией «%@»";
 "notification_push_like" = "❤️ %@ понравилась ваша трансляция";
 "notification_push_message" = "💬 %@: %@";
+"notification_reply" = "Ответить";
 
 
 "rate_not_interested" = "Нет, спасибо";

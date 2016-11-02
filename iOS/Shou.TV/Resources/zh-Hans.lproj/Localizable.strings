@@ -331,6 +331,7 @@
 "notification_permission_tips" = "允许收到你喜欢的主播开始直播的通知";
 "notification_permission_cancel" = "暂不";
 "notification_permission_enable" = "允许通知";
+"notification_reply" = "回复";
 
 "rate_not_interested" = "残忍的拒绝";
 "rate_title" = "你开心我们快乐";
