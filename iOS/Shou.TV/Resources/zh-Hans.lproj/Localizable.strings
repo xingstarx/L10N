@@ -348,7 +348,8 @@
 
 "ad_fyber_rewarded_button" = "免费";
 "ad_fyber_rewarded_success" = "你获得了 %@ 个金币！";
-"ad_fyber_rewarded_faild" = "金币稍后打入您的账户";
+"ad_fyber_rewarded_success_late" = "金币稍后打入您的账户";
+"ad_fyber_rewarded_faild" = "播放广告失败";
 
 "broadcasts_time_remaining" = "剩余 %@ 小时";
 "broadcasts_tips" = "📢 视频将在 24 小时后被删除";

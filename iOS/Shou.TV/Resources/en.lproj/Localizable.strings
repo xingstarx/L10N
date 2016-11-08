@@ -350,7 +350,8 @@
 
 "ad_fyber_rewarded_button" = "Free";
 "ad_fyber_rewarded_success" = "You have earned %@ Coins!";
-"ad_fyber_rewarded_faild" = "The Coins will be credited to your account in a few minutes.";
+"ad_fyber_rewarded_success_late" = "The Coins will be credited to your account in a few minutes.";
+"ad_fyber_rewarded_faild" = "The ad failed to be shown.";
 
 "broadcasts_time_remaining" = "%@ hours remaining";
 "broadcasts_tips" = "📢 Broadcasts will be deleted after 24 hours";

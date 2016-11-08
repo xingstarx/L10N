@@ -347,7 +347,8 @@
 
 "ad_fyber_rewarded_button" = "免費";
 "ad_fyber_rewarded_success" = "您獲得了 %@ 個金幣！";
-"ad_fyber_rewarded_faild" = "金幣稍後將存入您的帳號中";
+"ad_fyber_rewarded_success_late" = "金幣稍後將存入您的帳號中";
+"ad_fyber_rewarded_faild" = "播送廣告失敗";
 
 "broadcasts_time_remaining" = "剩餘 %@ 小時";
 "broadcasts_tips" = "📢 影片將在 24 小時後被刪除";
