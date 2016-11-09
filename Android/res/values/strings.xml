@@ -223,8 +223,6 @@
     <string name="pref_title_video_quality">Quality</string>
     <string name="pref_title_video_show_touches">Show touches</string>
     <string name="pref_summary_video_show_touches">Show visual feedback for touches</string>
-    <string name="pref_title_video_fullscreen">Fullscreen</string>
-    <string name="pref_summary_video_fullscreen">Fullscreen video</string>
     <string name="pref_title_video_swap_uv">Swap UV</string>
     <string name="pref_summary_video_swap_uv">Fix HW encoding inverted color</string>
     <string name="pref_title_misc_auto_restart">Auto restart</string>

@@ -223,8 +223,6 @@
     <string name="pref_title_video_quality">Kalite</string>
     <string name="pref_title_video_show_touches">Dokunmaları göster</string>
     <string name="pref_summary_video_show_touches">Dokunmalar için görsel geri bildirim göster</string>
-    <string name="pref_title_video_fullscreen">Tam ekran</string>
-    <string name="pref_summary_video_fullscreen">Videoyu tam ekran çek</string>
     <string name="pref_title_video_swap_uv">Renkleri tersine çevir</string>
     <string name="pref_summary_video_swap_uv">Donanım çözücüsündeki ters renkleri düzelt</string>
     <string name="pref_title_misc_auto_restart">Otomatik yeniden başlatma</string>
