@@ -71,6 +71,7 @@
     <string name="activity_account_text_optional">isteğe bağlı</string>
     <string name="activity_account_choose_avatar">Resim seç</string>
     <string name="activity_account_choose_avatar_failed">Resim seçilemedi</string>
+    <string name="activity_account_choose_cover">Kapak resmi seç</string>
     <string name="activity_account_choose_cover_failed">Kapak resmi seçilemedi</string>
     <string name="activity_account_btn_signing_up">Üye Olunuyor</string>
     <string name="activity_account_btn_signed_up">Üye Olundu</string>
