@@ -57,7 +57,7 @@
 "profile_text_games" = "Games";
 "profile_text_logout" = "Log Out";
 "profile_text_options" = "Options";
-"profile_text_achievements" = "ACHIEVEMENTS";
+"profile_text_badges" = "BADGES";
 "profile_text_top_followers" = "TOP FOLLOWERS";
 
 "landing_slogan" = "Shou is the \nmobile game streaming community.";
@@ -355,3 +355,6 @@
 
 "broadcasts_time_remaining" = "%@ hours remaining";
 "broadcasts_tips" = "📢 Broadcasts will be deleted after 24 hours";
+
+"badge_claim_reward" = "Get %d free coins";
+"badge_claim_reward_success_message" = "You've got %d coins！";

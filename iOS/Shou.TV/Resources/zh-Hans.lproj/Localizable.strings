@@ -56,7 +56,7 @@
 "profile_text_games" = "游戏";
 "profile_text_logout" = "退出";
 "profile_text_options" = "账号设置";
-"profile_text_achievements" = "成就";
+"profile_text_badges" = "徽章";
 "profile_text_top_followers" = "粉丝榜";
 
 "landing_slogan" = "Shou 是一个手机游戏直播社区";
@@ -353,3 +353,6 @@
 
 "broadcasts_time_remaining" = "剩余 %@ 小时";
 "broadcasts_tips" = "📢 视频将在 24 小时后被删除";
+
+"badge_claim_reward" = "获得 %d 个免费的金币";
+"badge_claim_reward_success_message" = "你获得了 %d 个金币！";
