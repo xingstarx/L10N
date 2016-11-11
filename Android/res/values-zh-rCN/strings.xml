@@ -454,6 +454,7 @@
     <string name="activity_show_email_progress_text">发送验证码&#8230;</string>
     <string name="toast_fragment_bottom_not_found_user">找不到该用户</string>
     <string name="fragment_account_edit_private_information">私人信息</string>
+    <string name="fragment_account_edit_change_number">你已经认证手机，你想修改手机号码吗?</string>
     <string name="pay_support">发送礼物支持主播</string>
     <string name="pay_get">购买金币</string>
     <string name="activity_landing_more">更多</string>

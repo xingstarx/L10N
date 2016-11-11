@@ -464,6 +464,7 @@
     <string name="activity_show_email_progress_text">Send verification code&#8230;</string>
     <string name="toast_fragment_bottom_not_found_user">Not found the user</string>
     <string name="fragment_account_edit_private_information">private information</string>
+    <string name="fragment_account_edit_change_number">Your phone number is already verified. Do you want to change the phone number?</string>
     <string name="pay_support">Send gift to support the broadcaster</string>
     <string name="pay_get">Get Coins</string>
     <string name="donate_text">%s send you</string>
