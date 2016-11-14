@@ -463,7 +463,6 @@
     <string name="toast_fragment_bottom_not_found_user">Kullanıcı bulunamadı</string>
     <string name="fragment_account_edit_private_information">özel bilgiler</string>
     <string name="fragment_account_edit_change_number">Telefon numaranız doğrulandı.Yine de telefon numaranızı değiştirmek istiyor musunuz?</string>
-    <string name="pay_support">Yayıncıyı desteklemek için bağış yapın</string>
     <string name="pay_support">Yayıncıyı desteklemek için hediye gönder</string>
     <string name="pay_get">Coin Edinin</string>
     <string name="donate_text">%s sana gönderdi</string>
