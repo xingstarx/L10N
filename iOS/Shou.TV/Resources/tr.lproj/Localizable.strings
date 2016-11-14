@@ -335,6 +335,7 @@
 "notification_permission_tips" = "Favori yayıncın CANLI YAYINA başladığında haberin olması için bildirimleri etkinleştir";
 "notification_permission_cancel" = "Şimdi Değil";
 "notification_permission_enable" = "Bildirimleri Etkinleştir";
+"notification_reply" = "Cevapla";
  
 "rate_not_interested" = "İlgilenmiyorum";
 "rate_title" = "Memnun olduğunuza sevindik";
@@ -350,7 +351,8 @@
 
 "ad_fyber_rewarded_button" = "Ücretsiz";
 "ad_fyber_rewarded_success" = "%@ Coin kazandınız!";
-"ad_fyber_rewarded_faild" = "Coin'leriniz birkaç dakika içinde hesabınıza aktarılacaktır.";
+"ad_fyber_rewarded_success_late" = "Coin'leriniz birkaç dakika içinde hesabınıza aktarılacaktır.";
+"ad_fyber_rewarded_faild" = "Reklam gösterilemedi.";
 
 "broadcasts_time_remaining" = "%@ saat kaldı";
 "broadcasts_tips" = "📢 Yayınlar 24 saat sonra silinecektir";
