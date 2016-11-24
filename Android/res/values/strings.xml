@@ -454,6 +454,7 @@
     <string name="toast_fragment_verify_email_binding_email_loading">Binding Email &#8230;</string>
     <string name="msg_mute_description_manager">%s won\'t chat and message with broadcaster.</string>
     <string name="fragment_show_email_account_email_label_verified">Your email address is verified %s</string>
+    <string name="fragment_dialog_shoucash_generating">Generating Coins...</string>
     <string name="fragment_dialog_shoucash_what_shoucash">What is Coins?</string>
     <string name="toast_fragment_dialog_shoucash_account_kit_verify_error">AccountKit Verify error</string>
     <string name="toast_fragment_dialog_shoucash_account_kit_verify_unknown_error">AccountKit Verify Unknown error</string>

@@ -507,5 +507,6 @@
     <string name="fragment_badge_get_coins">获取%d个金币</string>
     <string name="fragment_badge_get_toast">你获得了%d个金币</string>
     <string name="text_free">免费</string>
+    <string name="fragment_dialog_shoucash_generating">金币生成中...</string>
 </resources>
 
