@@ -449,9 +449,9 @@
     <string name="activity_show_email_title">Email</string>
     <string name="activity_verify_email_title">Email</string>
     <string name="fragment_reset_password_label">For your security, please enter your password.</string>
-    <string name="fragment_vertify_dialog_title">Check Your Inbox</string>
-    <string name="fragment_vertify_dialog_message">We have sent an email to %s with the code</string>
-    <string name="toast_fragment_vertify_email_binding_email_loading">Binding Email &#8230;</string>
+    <string name="fragment_verify_dialog_title">Check Your Inbox</string>
+    <string name="fragment_verify_dialog_message">We have sent an email to %s with the code</string>
+    <string name="toast_fragment_verify_email_binding_email_loading">Binding Email &#8230;</string>
     <string name="msg_mute_description_manager">%s won\'t chat and message with broadcaster.</string>
     <string name="fragment_show_email_account_email_label_verified">Your email address is verified %s</string>
     <string name="fragment_dialog_shoucash_what_shoucash">What is Coins?</string>
@@ -459,7 +459,7 @@
     <string name="toast_fragment_dialog_shoucash_account_kit_verify_unknown_error">AccountKit Verify Unknown error</string>
     <string name="toast_fragment_dialog_shoucash_account_kit_verify_success">Verify phone number successfully!</string>
     <string name="activity_account_hint_phone">phone</string>
-    <string name="toast_account_kit_vertify_phone_binding_phone_loading">Binding Phone &#8230;</string>
+    <string name="toast_account_kit_verify_phone_binding_phone_loading">Binding Phone &#8230;</string>
     <string name="fragment_account_kit_title">Binding Phone</string>
     <string name="activity_show_email_progress_text">Send verification code&#8230;</string>
     <string name="toast_fragment_bottom_not_found_user">Not found the user</string>

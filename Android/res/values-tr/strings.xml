@@ -447,9 +447,9 @@
     <string name="activity_show_email_title">E-posta</string>
     <string name="activity_verify_email_title">E-posta</string>
     <string name="fragment_reset_password_label">Güvenliğiniz için, please lütfen parolanızı giriniz.</string>
-    <string name="fragment_vertify_dialog_title">Gelen Kutunuzu Kontrol Edin</string>
-    <string name="fragment_vertify_dialog_message">%s adresine kodla birlikte bir e-posta gönderdik</string>
-    <string name="toast_fragment_vertify_email_binding_email_loading">E-posta Hesaba Bağlanıyor &#8230;</string>
+    <string name="fragment_verify_dialog_title">Gelen Kutunuzu Kontrol Edin</string>
+    <string name="fragment_verify_dialog_message">%s adresine kodla birlikte bir e-posta gönderdik</string>
+    <string name="toast_fragment_verify_email_binding_email_loading">E-posta Hesaba Bağlanıyor &#8230;</string>
     <string name="msg_mute_description_manager">%s yayıncı ile konuşamayacak ve mesaj gönderemeyecek.</string>
     <string name="fragment_show_email_account_email_label_verified">E-postanız doğrulandı %s</string>
     <string name="fragment_dialog_shoucash_what_shoucash">Coin Nedir?</string>
@@ -457,7 +457,7 @@
     <string name="toast_fragment_dialog_shoucash_account_kit_verify_unknown_error">AccountKit Verify bilinmeyen hata</string>
     <string name="toast_fragment_dialog_shoucash_account_kit_verify_success">Telefon numarası hesaba bağlandı!</string>
     <string name="activity_account_hint_phone">telefon</string>
-    <string name="toast_account_kit_vertify_phone_binding_phone_loading">Telefon Hesaba Bağlanıyor &#8230;</string>
+    <string name="toast_account_kit_verify_phone_binding_phone_loading">Telefon Hesaba Bağlanıyor &#8230;</string>
     <string name="fragment_account_kit_title">Telefonu Hesaba Bağlama</string>
     <string name="activity_show_email_progress_text">Doğrulama kodu gönderiliyor&#8230;</string>
     <string name="toast_fragment_bottom_not_found_user">Kullanıcı bulunamadı</string>

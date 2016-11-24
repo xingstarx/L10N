@@ -433,8 +433,8 @@
     <string name="fragment_show_email_account_label_tip1">Après avoir vérifié votre nouvelle adresse email,  %s n\'est plus associée à ce compte .\n\n</string>
     <string name="fragment_show_email_account_label_tip2">S\'il vous plait de confirmer votre adresse email, car un compte existe déjà pour cette adresse email.</string>
     <string name="fragment_show_email_account_email_label_verified">Votre adresse émail a été vérifiée %s</string>
-    <string name="fragment_vertify_dialog_title">Vérifiez votre boîte de réception.</string>
-    <string name="fragment_vertify_dialog_message">Les codes a été envoyé à %s</string>
+    <string name="fragment_verify_dialog_title">Vérifiez votre boîte de réception.</string>
+    <string name="fragment_verify_dialog_message">Les codes a été envoyé à %s</string>
     <string name="fragment_verify_label">Entrez les codes envoyés par émail, pour verifier votre adresse émail.</string>
     <string name="fragment_verify_verify">Verify</string>
     <string name="fragment_verify_re_send_code">Réenvoyez les codes</string>
