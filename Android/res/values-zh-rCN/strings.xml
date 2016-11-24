@@ -506,5 +506,6 @@
     <string name="fragment_video_list_footer_view_text">视频将在 24 小时后被删除</string>
     <string name="fragment_badge_get_coins">获取%d个金币</string>
     <string name="fragment_badge_get_toast">你获得了%d个金币</string>
+    <string name="text_free">免费</string>
 </resources>
 

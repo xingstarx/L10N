@@ -518,4 +518,8 @@
     <string name="fragment_video_list_footer_view_text">Broadcasts will expire after 24 hours</string>
     <string name="fragment_badge_get_coins">Get %d free coins</string>
     <string name="fragment_badge_get_toast">You\'ve got %d free coins!</string>
+    <string name="text_free">Free</string>
+    <string name="toast_fyber_success">You have earned %d Coins!</string>
+    <string name="toast_fyber_timeout">The Coins will be credited to your account in a few minutes.</string>
+    <string name="toast_fyber_failure">The ad failed to be shown.</string>
 </resources>
