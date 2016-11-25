@@ -313,6 +313,7 @@
     <string name="notification_push_like_multi_title_me">%s oyuncusunun yayınını beğendin</string>
     <string name="notification_push_like_description_me">%s oyuncusunun yayınını beğendin</string>
     <string name="notification_push_cash_content_me">%s Coin bağış yaptın</string>
+    <string name="fragment_dialog_shoucash_generating">Coinler Oluşturuluyor...</string>
     <string name="send_cash_info">Coin Nedir?</string>
     <string name="msg_buy_shou_cash">Satın Al</string>
     <string name="toast_shou_cash_google_play_service_not_found">Google Play servis kaynakları bulunamadı</string>
@@ -516,4 +517,8 @@
     <string name="fragment_video_list_footer_view_text">Yayınlar 24 saat sonra silinecektir</string>
     <string name="fragment_badge_get_coins">Ücretsiz %d coin al</string>
     <string name="fragment_badge_get_toast">Ücretsiz %d coin\'in oldu!</string>
+    <string name="text_free">Ücretsiz</string>
+    <string name="toast_fyber_success">%d Coin kazandın!</string>
+    <string name="toast_fyber_timeout">Coinler birkaç dakika içerisinde hesabınıza yüklenecektir.</string>
+    <string name="toast_fyber_failure">Reklam gösterilemedi.</string>
 </resources>
